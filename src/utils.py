@@ -6,7 +6,7 @@ def create_retrieval_context_section(documents: list[str]) -> str:
     if not documents:
         return ''
     doc_tags = "\n\n".join(
-        f'<document">\n{doc.strip()}\n</document>'
+        f'\n{doc.strip()}\n'
         for i, doc in enumerate(documents)
     )
     return f"<context>\n{doc_tags}\n</context>"
