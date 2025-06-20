@@ -14,11 +14,11 @@ from src.chat_defaults import HISTORY
 MODEL = 'google/gemma-3-1b-it'
 TEST_TYPE = 'simple_q'
 
-with open(f"/home/lpozzi/Git/RAGghina/benchmark/data/{TEST_TYPE}.json", "r", encoding="utf-8") as f:
+with open(f"benchmark/data/{TEST_TYPE}.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Initialize vLLM
-llm = LLM(model=MODEL, dtype="auto")  # dtype="auto" will select best type (e.g., bfloat16/float16)
+llm = LLM(model=MODEL, dtype="auto", gpu_memory_utilization=0.6)
 
 # Set your generation parameters
 sampling_params = SamplingParams(
@@ -57,5 +57,5 @@ for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]),
 data["answer"] = generated_answers
 
 result_file = MODEL.split("/")[-1]
-with open(f"/home/lpozzi/Git/RAGghina/benchmark/results/{TEST_TYPE}_{result_file}.json", "w", encoding="utf-8") as f:
+with open(f"benchmark/results/{TEST_TYPE}_{result_file}.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
