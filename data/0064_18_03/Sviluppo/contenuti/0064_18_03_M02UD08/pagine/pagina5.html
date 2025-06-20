@@ -1,0 +1,55 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 251px; left: 0px;">
+			<img src="contenuti/img/sfondo2.png" style="width: 1000px; height: 344px;">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: -6px; left: 486px;">
+			<img src="contenuti/0064_18_03_M02UD08/img/p05_b.png">
+		</div>
+		<div id="img2" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img2')" style="position: absolute; top: 256px; left: 0px;">
+			<img src="contenuti/0064_18_03_M02UD08/img/p05_a.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="4" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute;top: 20px;left: 20px;width: 440px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;font-weight: bold;color: #006699 !important;">
+			<div id="cont2_txt1" animated="" datastart="4" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Gli hedge fund possono…</div>
+		</div>
+		<div style="position: absolute;top: 40px;left: 0px;font-size: 18px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="8" dataend="1000" ng-show="getIsVisible('cont2_pe1')" style="">Vendere e acquistare azioni sfruttando le occasioni del momento</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="11.5" dataend="1000" ng-show="getIsVisible('cont2_pe2')" style="">Scambiare azioni con elevate potenzialità di crescita</li>
+				<li class="slideLeft" id="cont2_pe3" animated="" datastart="16" dataend="1000" ng-show="getIsVisible('cont2_pe3')" style="">Investire sulle azioni dei mercati emergenti</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="19.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 330px;left: 510px;width: 300px;">
+		<div id="cont3_img1" class="bigEntrance" animated="" datastart="19.5" ng-show="getIsVisible('cont3_img1')" style="position: absolute;top: 0px;left: 365px;">
+			<img src="contenuti/0064_18_03_M02UD08/img/icone/coins.png" style="width: 80px;">
+		</div>
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 18px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont3_pe1" animated="" datastart="22.5" dataend="1000" ng-show="getIsVisible('cont3_pe1')" style="">Investire sulla base di una serie di analisi quantitative</li>
+				<li class="slideLeft" id="cont3_pe2" animated="" datastart="41.5" dataend="1000" ng-show="getIsVisible('cont3_pe2')" style="">Basarsi su ipotesi di crescita o di declino dei mercati</li>
+				<li class="slideLeft" id="cont3_pe3" animated="" datastart="47" dataend="1000" ng-show="getIsVisible('cont3_pe3')" style="">Fare previsioni sui grandi cambiamenti delle economie globali</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 840px;top: 420px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_03_m02ud08p05','Ulteriori strategie aggressive degli hedge fund',1,40)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:150px;"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 486px;width: 514px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_03_M02UD08/audio/0064_18_03_m02ud08p05" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_03_m02ud08p05">
+  <div style="color:#FFF;">
+    <p>Ecco di seguito ulteriori esempi delle strategie utilizzate da questi fondi:<ul><li>possedere obbligazioni convertibili di una società e vende azioni della stessa società;</li><li>acquistare titoli con un valore intrinseco superiore a quello di Borsa;</li><li>speculare su titoli di aziende in difficoltà;</li><li>investire in titoli obbligazionari e prodotti derivati con l’obiettivo di realizzare plusvalenze sui mutamenti attesi nei tassi di interesse.</li></ul></p>
+  </div>
+</script>

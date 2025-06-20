@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Si accentuerà, poiché gli investitori sceglieranno prodotti con basse commissioni e più esposizione al rendimento β.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Diminuirà, poiché gli investitori sceglieranno prodotti con basse commissioni ed esposizione al rendimento α.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Non varierà, poiché gli investitori sceglieranno i prodotti secondo preferenze già consolidate.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Si accentuerà, poiché gli investitori sceglieranno prodotti ad alto valore aggiunto e con alte commissioni e più esposizione al rendimento α.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Fino al 2020, la separazione dei rendimenti alpha e beta si accentuerà, mano a mano che gli investitori si sposteranno su prodotti con basse commissioni e maggior esposizione al rendimento beta.",
+    "feedbackNeg": "<b>Non è esatto!</b> Fino al 2020, la separazione dei rendimenti alpha e beta si accentuerà, mano a mano che gli investitori si sposteranno su prodotti con basse commissioni e maggior esposizione al rendimento beta."
+}

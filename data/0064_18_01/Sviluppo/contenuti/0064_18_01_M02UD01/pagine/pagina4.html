@@ -1,0 +1,60 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute;top: 0px;left: 0px;">
+			<img src="contenuti/img/sfondo1.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_01_M02UD01/img/p04.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="4" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 610px;">		
+		<div id="cont2_img1" class="bigEntrance" animated="" datastart="4" ng-show="getIsVisible('cont2_img1')" style="position: absolute; top: 0px; left: 560px; text-align: center;">	
+			<img src="contenuti/img/box.png" style="height: 150px;">
+			<div id="cont2_img1" animated="" datastart="4" ng-show="getIsVisible('cont2_img1')" class="slideRight" style="position: inherit;top: 15px;left: 85px;width: 90px;font-size: 16px;font-weight:bold;">Minacce interne</div>
+			<img src="contenuti/0064_18_01_M02UD01/img/png/003-manager.png" style="width: 60px;position: absolute;top: 70px;left: 100px;">
+		</div>
+		<div style="position: absolute;top: 0px;left: 0px;width: 500px;font-size: 20px;color: #006699;font-weight: bold;">
+			<div id="cont2_txt1" animated="" datastart="4" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Dipendenti o partner</div>
+		</div>
+		<div style="position: absolute;top: 40px;left: 0px;font-size: 16px;width: 500px;" class="">
+			<ul style="list-style-image: url(images/pelenco2.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="10" dataend="1000" ng-show="getIsVisible('cont2_pe1')" style="">Gestire male i dati riservati</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="12.5" dataend="1000" ng-show="getIsVisible('cont2_pe2')" style="">Minacciare l’attività dei server interni o dei dispositivi dell’infrastruttura di rete</li>
+				<li class="slideLeft" id="cont2_pe3" animated="" datastart="17" dataend="1000" ng-show="getIsVisible('cont2_pe3')" style="">Collegare supporti USB infetti al sistema</li>
+				<li class="slideLeft" id="cont2_pe4" animated="" datastart="23" dataend="1000" ng-show="getIsVisible('cont2_pe4')" style="">Inserire malware nella rete tramite e-mail o siti</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="28.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 270px;left: 20px;width: 610px;">		
+		<div id="cont3_img1" class="bigEntrance" animated="" datastart="28.5" ng-show="getIsVisible('cont3_img1')" style="position: absolute;top: 0px;left: 360px;text-align: center;">	
+			<img src="contenuti/img/box.png" style="height: 150px;">
+			<div id="cont3_img1" animated="" datastart="28.5" ng-show="getIsVisible('cont3_img1')" class="slideRight" style="position: inherit;top: 15px;left: 85px;width: 90px;font-size: 16px;font-weight:bold;">Minacce esterne</div>
+			<img src="contenuti/0064_18_01_M02UD01/img/png/hacker.png" style="width: 60px;position: absolute;top: 70px;left: 100px;">
+		</div>
+		<div style="position: absolute;top: 35px;left: 0px;font-size: 16px;width: 340px;" class="">
+			<ul style="list-style-image: url(images/pelenco2.png);">
+				<li class="slideLeft" id="cont3_pe1" animated="" datastart="31.5" dataend="1000" ng-show="getIsVisible('cont3_pe1')" style="">Hacker dilettanti</li>
+				<li class="slideLeft" id="cont3_pe2" animated="" datastart="33" dataend="1000" ng-show="getIsVisible('cont3_pe2')" style="">Hacker esperti</li>
+				<li class="slideLeft" id="cont3_pe3" animated="" datastart="38.5" dataend="1000" ng-show="getIsVisible('cont3_pe3')" style="">Tecniche di social engineering.</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 80px;top: 375px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_01_m02ud01p04','Minacce interne Vs minacce esterne',1,34.8)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width: 190px;"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 0px;width: 651px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_01_M02UD01/audio/0064_18_01_m02ud01p04" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_01_m02ud01p04">
+  <div style="color:#FFF;">
+    <p>Le minacce interne hanno il potenziale di causare maggiori danni rispetto alle minacce esterne, poiché gli utenti interni hanno accesso diretto agli edifici e ai relativi dispositivi delle infrastrutture. Inoltre i dipendenti conoscono la rete aziendale, le sue risorse e i dati riservati oltre ai vari livelli di utenti o privilegi amministrativi.</p>
+  </div>
+</script>

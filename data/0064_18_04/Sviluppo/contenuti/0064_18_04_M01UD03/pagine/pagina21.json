@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Nord Ovest e Centro.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutto il Nord Italia.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Centro e Sud.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Non ci sono particolari differenze fra le varie zone della Penisola.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Nel 2018, sono più attivi sul mercato azionario i risparmiatori del Nord Ovest e del Nord Est, con percentuali intorno al 9% mentre l’operatività è molto contenuta al Sud e nelle Isole, con il 2,9%.",
+    "feedbackNeg": "<b>Non è esatto!</b> Nel 2018, sono più attivi sul mercato azionario i risparmiatori del Nord Ovest e del Nord Est, con percentuali intorno al 9% mentre l’operatività è molto contenuta al Sud e nelle Isole, con il 2,9%."
+}

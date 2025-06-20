@@ -1,0 +1,516 @@
+{
+    "titolo": "Le conoscenze finanziarie",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Per poter fare scelte adeguate, un investitore deve poter contare su un buon livello di informazione. Le conoscenze delle famiglie italiane in materia finanziaria sono generalmente molto limitate. Concetti come relazione rischio-rendimento o interessi composti sono spesso un mistero. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG1",
+            "RAWDOMText": [
+                " Quanto sono diffuse le conoscenze finanziarie di livello medio-alto?",
+                " Qual è il grado di accuratezza dell’autovalutazione circa le proprie conoscenze in materia finanziaria?",
+                " Quali variabili correlano positivamente con la decisione di investire?",
+                " Quale tipologia di investitore è disposto a pagare una consulenza in materia di investimenti?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "La cultura finanziaria delle famiglie italiane",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l’ultimo Rapporto della Consob sulle scelte di investimento delle famiglie italiane, la cultura finanziaria delle medesime rimane contenuta: in media, un intervistato su due non è in grado di definire correttamente nozioni finanziarie di base come: relazione rischio-rendimento; interesse composto; inflazione; caratteristiche mutui; diversificazione. Il dato scende a meno di uno su cinque nel caso di concetti avanzati come: rischio azioni; relazione tra tasso-prezzo delle obbligazioni.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG2",
+            "RAWDOMText": [
+                " Quale livello di conoscenze finanziarie?",
+                " In media, le conoscenze diffuse sono limitate",
+                " Circa la metà è incerto sui concetti di base",
+                " Sui concetti avanzati (rischi delle azioni …) basse % di risposte corrette",
+                " Solo 9% risposte corrette sulla relazione tasso-prezzo delle obbligazioni",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane,Consob",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Risposte corrette tra il 9% e il 59% dei casi. Tra le nozioni di base la percentuale minore di risposte corrette viene registrata dalla diversificazione; tra le nozioni avanzate dalla relazione tasso-prezzo delle obbligazioni che segna, appunto, solo il 9% di risposte corrette.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p02.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Autovalutazione delle proprie conoscenze finanziarie",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ma se consideriamo invece l’autovalutazione delle proprie conoscenze finanziarie? È interessante notare che il 40% del campione dichiara di avere, nel complesso, un livello elevato di conoscenze in materia. Tuttavia, se si sottopongono singolarmente i concetti proposti nell’indagine citata, un numero generalmente inferiore dichiara di comprenderli.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG3",
+            "RAWDOMText": [
+                " Qual è il livello di conoscenze autovalutato?",
+                " Il 40% pensa di avere un livello di conoscenze finanziarie “alto”",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p03.png"
+                },
+                {
+                    "src": "contenuti/img/iconnorm.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "La risk literacy",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel quadro delle conoscenze finanziarie troviamo anche la cosiddetta risk literacy, definita come familiarità con specifici prodotti finanziari e capacità di valutarne la rischiosità. Tra gli strumenti più conosciuti si annoverano i titoli di Stato (indicati dal 54% degli intervistati), mentre solo il 10% del campione è in grado di ordinare correttamente alcune opzioni di investimento per livello di rischio. Tra chi dichiara di conoscere fondi, azioni e obbligazioni, quasi il 40% non è in grado di ordinarli correttamente per livello di rischio. Il dato sale al 64% tra chi dichiara di conoscere i derivati.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG4",
+            "RAWDOMText": [
+                " Qual è il livello di risk literacy?",
+                " Risk literacy: familiarità con specifici strumenti finanziari e capacità di valutarne la rischiosità.",
+                " Tra chi dichiara di conoscere fondi, azioni e obbligazioni, quasi il 40% non sa ordinarli per livello di rischio, e si arriva al 64% tra chi dichiara di conoscere i derivati.",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p04.png"
+                },
+                {
+                    "src": "contenuti/img/iconcontract.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Il tasso di partecipazione al mercato finanziario",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "A fine 2017, il tasso di partecipazione delle famiglie al mercato finanziario si attesta al 29%. Gli investimenti più diffusi sono i depositi bancari e i prodotti postali, seguiti da fondi comuni e titoli di Stato. Investono di più i residenti nel Nord d’Italia, coloro che hanno maggiori conoscenze finanziarie (effettive e percepite) e maggiori abilità di calcolo. Risultano associate positivamente alla propensione ad investire variabili quali fiducia, ottimismo, l’attitudine ad elaborare le informazioni numeriche e all’impegno cognitivo. Per contro, risultano negativamente correlate l’avversione al rischio, alle perdite, nonché la tendenza a provare disagio nella gestione delle finanze personali.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG5",
+            "RAWDOMText": [
+                " Quale tasso di partecipazione al mercato finanziario?",
+                "(2017)",
+                " 29%: tasso di partecipazione delle famiglie al mercato finanziario.",
+                " Investono di più",
+                " Residenti al Nord, con maggiori conoscenze e capacità di calcolo",
+                " Correlazione positiva",
+                " Fiducia, ottimismo, capacità di elaborare informazioni numeriche e ad impegnarsi cognitivamente",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p05.png"
+                },
+                {
+                    "src": "contenuti/img/iconperc.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Le fonti di informazione nelle scelte di investimento",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Vediamo ora quali sono le fonti di informazione alle quali ci si affida per scegliere come investire. Prevalentemente, ci si rivolge a persone che operano nel settore finanziario, per esempio, il funzionario di banca/il consulente con cui si è in contatto, conoscenti e amici affidabili. I documenti ufficiali come i prospetti finanziari vengono citati soltanto dal 25% degli intervistati. Tra gli elementi informativi più apprezzati ricorrono quelli relativi al rischio di perdite in conto capitale e ai costi dell’investimento.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG6",
+            "RAWDOMText": [
+                " Quali le fonti di informazione preferite? (2017)",
+                " Persone di fiducia, specialisti o amici, sono le “fonti” preferite",
+                " Info più apprezzate",
+                " Quali i rischi di perdite in conto capitale, quali i costi dell’investimento",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p06.png"
+                },
+                {
+                    "src": "contenuti/img/iconconv.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Lo stile decisionale dell’investitore",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il 75% del campione dichiara di seguire un solo stile decisionale. La  metà ricorre ai consigli di amici e parenti (cosiddetta consulenza informale), poco più del 20% si affida alla consulenza professionale o delega un esperto, il 28% sceglie in autonomia. Le caratteristiche ritenute più importanti in un consulente sono l’agire nel miglior interesse dell’investitore, la competenza, e la chiarezza del linguaggio. Più del 40% degli investitori indica come importante l’essere sollevato dall’ “ansia finanziaria”. La propensione a investire in autonomia è più frequente al crescere delle conoscenze finanziarie e delle competenze percepite, mentre è meno diffusa tra gli investitori inclini all’ansia finanziaria.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG7",
+            "RAWDOMText": [
+                " Il 75% segue un solo stile decisionale",
+                " 50% si affida al consiglio di amici e parenti - “consulenza informale”",
+                " 20% circa segue una consulenza professionale/delega un esperto",
+                " 28% sceglie in autonomia",
+                " Favorita da maggiori conoscenze, reali e percepite",
+                " Chi supporta la decisione finanziaria dovrebbe:",
+                " agire nel miglior interesse dell’investitore, avere competenza e linguaggio chiaro",
+                " saper sollevare dall’“ansia finanziaria”",
+                " Correla negativamente con autonomia decisionale",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p07_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Il monitoraggio dei propri investimenti",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il 60% del campione dichiara di monitorare i propri investimenti, indicando di farlo soprattutto con il confronto delle performance del portafoglio rispetto ai costi. L’attitudine al monitoraggio è più frequente tra gli intervistati assistiti da un consulente professionale, e tra quelli di età, livello di istruzione e competenze finanziarie più elevati. Viceversa, mostrano una correlazione negativa con il monitoraggio dei propri investimenti l’ansia finanziaria, l’avversione al rischio e alle perdite e la preferenza per la consulenza informale.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG8",
+            "RAWDOMText": [
+                " Circa il 60% monitora i propri investimenti",
+                " Importante il confronto tra performance del portafoglio rispetto ai costi",
+                " Chi si rivolge a un consulente",
+                " Chi ha età più elevata",
+                " Chi ha maggior livello di istruzione",
+                " Chi ha maggiori conoscenze finanziarie",
+                " Ansia finanziaria, avversione al rischio e alle perdite e preferenza per la consulenza informale",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/icone/lente.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/meno.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Le conoscenze sulla consulenza finanziaria 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il 60% del campione dichiara di monitorare i propri investimenti, indicando di farlo soprattutto con il confronto delle performance del portafoglio rispetto ai costi. L’attitudine al monitoraggio è più frequente tra gli intervistati assistiti da un consulente professionale, e tra quelli di età, livello di istruzione e competenze finanziarie più elevati. Viceversa, mostrano una correlazione negativa con il monitoraggio dei propri investimenti l’ansia finanziaria, l’avversione al rischio e alle perdite e la preferenza per la consulenza informale.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG9",
+            "RAWDOMText": [
+                " Quali conoscenze sui servizi di consulenza?",
+                " Più del 50% non sa definire il servizio di consulenza finanziaria",
+                " Orientano nella scelta: consigli della banca, fiducia, prodotti offerti, competenze",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p09.png"
+                },
+                {
+                    "src": "contenuti/img/iconcontract.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Le conoscenze sulla consulenza finanziaria 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’indagine Consob ha previsto anche dei quesiti circa la retribuzione dei consulenti finanziari. Nel 37% dei casi, gli investitori sono convinti che la consulenza sia gratuita, mentre il 45% dichiara di non sapere se il consulente viene retribuito. Nel complesso, il 50% circa non è disposto a pagare per il servizio. La disponibilità a pagare si associa positivamente a: cultura finanziaria, conoscenza delle caratteristiche del servizio, capacità emotiva di sostenere perdite nel breve periodo, e abitudine a monitorare gli investimenti.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG10",
+            "RAWDOMText": [
+                " Quali conoscenze sui servizi di consulenza?",
+                " Il 37% pensa che la consulenza sia gratuita",
+                " Il 50% circa non è disposto a pagare il servizio",
+                " Disposti a pagare la consulenza gli investitori più competenti",
+                " Fonte: Rapporto sulle scelte di investimento delle famiglie italiane, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p10.png"
+                },
+                {
+                    "src": "contenuti/img/iconcontract.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Il rapporto fra cliente e consulente",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per quanto attiene al rapporto fra cliente e consulente, gli investitori ritengono importante nella fase iniziale comunicare all’esperto anzitutto la capacità finanziaria di assumersi rischi e le aspettative sui rendimenti attesi. Dopo aver ricevuto la raccomandazione di investimento, più del 60% segue il consiglio, e soltanto il 10% si rivolge a una fonte diversa per una “second opinion”. Tra gli investitori che incontrano regolarmente il proprio consulente, gli argomenti principali di conversazione riguardano l’andamento dell’investimento e gli aggiustamenti di portafoglio richiesti dalla congiuntura di mercato. Il 30% circa dei risparmiatori dichiara comunque di non aver avuto alcun contatto con il proprio consulente nell’anno precedente. In caso di turbolenze finanziarie, infine, soltanto il 20% degli investitori si rivolge al consulente o viene da questi contattato.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG11",
+            "RAWDOMText": [
+                " Quali argomenti al primo incontro con il consulente?",
+                " Capacità di assumersi rischi",
+                " Aspettative sui rendimenti",
+                " Il 60% segue il consiglio ricevuto",
+                " Quali le comunicazioni successive?",
+                " Andamento dell’investimento e aggiustamenti richiesti dalla congiuntura",
+                " Il 30% non contatta il consulente nel corso di 1 anno",
+                " Il 20% ha contatti con il consulente in caso di turbolenze finanziarie",
+                " Fonte: Indagine sul Risparmio e sulle scelte finanziarie degli italiani, Centro Einaudi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p11_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/p11_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD02/img/icone/handshake.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quanto sono diffuse le conoscenze finanziarie di livello medio-alto?",
+                " Dai dati Consob rilevati a fine 2017, la diffusione di conoscenze finanziarie di livello medio-alto è molto limitata. Per esempio, solo il 9% del campione risponde correttamente al quesito sulla relazione tasso-prezzo delle obbligazioni.",
+                " Qual è il grado di accuratezza dell’autovalutazione circa le proprie conoscenze in materia finanziaria?",
+                " Gli interpellati nell’indagine citata tendono a sovrastimare le proprie conoscenze complessive in ambito finanziario. Infatti, quando si sottopone loro una domanda su singoli concetti, diminuisce il numero di loro che mostra di conoscerli.",
+                " Quali variabili correlano positivamente con la decisione di investire?",
+                " Investono di più i residenti nel Nord d’Italia, chi ha più conoscenze finanziarie e maggiori abilità di calcolo. Sono associate positivamente alla propensione ad investire variabili quali l’ottimismo, l’attitudine ad elaborare le informazioni numeriche e all’impegno cognitivo.",
+                " Quale tipologia di investitore è disposto a pagare una consulenza in materia di investimenti?",
+                " Nel complesso, il 50% (dati Consob) circa non è disposto a pagare per il servizio. La disponibilità a pagare si associa invece a una cultura finanziaria, la conoscenza del servizio, la capacità emotiva di sostenere perdite nel breve periodo, e l’abitudine a monitorare gli investimenti."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD1_LEZ8_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che cos’è la risk literacy?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD02/audio/0064_18_04_m02ud02p13"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD1_LEZ8"
+}

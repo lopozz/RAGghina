@@ -1,0 +1,580 @@
+{
+    "titolo": "Come proteggersi dai principali pericoli - Parte 2",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Con il diffondersi del fenomeno della mobility, sempre più persone diventano un inconsapevole bersaglio di una miriade di attività illecite. Essere consapevoli di queste vulnerabilità è diventato un aspetto fondamentale per il corretto uso dei nostri device. Infatti, il furto di dati sensibili o l’appropriazione di identità digitali, sono solo alcune delle attività che possono essere compiute da virus e malware. Conoscere tutte le potenzialità e i pericoli legati all’uso di questi dispositivi può risparmiarci molte brutte sorprese. Fai clic sulle foto per scoprire gli argomenti che andremo a trattare nelle prossime pagine!",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG1",
+            "RAWDOMText": [
+                " Quali sono le vulnerabilità derivanti da un uso improprio dei dispositivi mobili?",
+                " Come è possibile gestire al meglio i dispositivi wireless?",
+                " In che modo gli hacker infettano i mobile device?",
+                " Quanto è importante mantenere i sistemi dei nostri dispositivi sempre aggiornati?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "La gestione dei device mobili 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nell'epoca in cui viviamo, il telefono non è solamente un oggetto per effettuare chiamate, ma anzi, svolge funzioni al pari di un vero personal computer. Questo però, aumenta la nostra vulnerabilità alle potenziali minacce derivanti da un uso improprio di questi dispositivi. Ogni giorno ognuno di noi memorizza sui propri dispositivi mobili un'ampia varietà di dati sensibili. Ne deriva che la perdita dei dati memorizzati sul dispositivo è sostanzialmente più grave, da un punto di vista economico e reputazionale, della perdita del dispositivo stesso. Alla luce di questa potenziale vulnerabilità, tutti gli utenti di smartphone o tablet dovrebbero eseguire con regolarità alcune operazioni di base per proteggere sé stessi e i dati in essi contenuti.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG2",
+            "RAWDOMText": [
+                " La perdita dei dati sul dispositivo è più grave della perdita del dispositivo stesso.",
+                " Gli utenti dovrebbero proteggere i dati contenuti nei device."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p02.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/telcall.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/pc.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/warning.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/006-smartphone.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/005-image.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/004-id-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/002-copy-documents-option.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/001-arroba.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/003-padlock.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "La gestione dei device mobili 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Prima di tutto, l'operazione di sicurezza base di tutti i dispositivi mobili, è l'uso di una forma di protezione ogni volta che il telefono deve essere sbloccato. Tutti gli smartphone forniscono agli utenti sia opzioni di sicurezza semplici, con codici numerici a 4 cifre, dove è relativamente facile, per un malintenzionato, individuare la sequenza dei tasti numerici premuti osservando anche solo il movimento delle dita; sia opzioni più complesse, come password alfanumeriche di lunghezza variabile la cui identificazione è più problematica. Come per qualsiasi altra password, occorre anche in questo caso utilizzare il buon senso per la protezione del proprio dispositivo. Mai usare il proprio nome o la propria data di nascita, così come sconsigliato è l'utilizzo di altri dati personali o qualsiasi informazione pubblicamente disponibile online, che possa essere collegata direttamente a noi.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG3",
+            "RAWDOMText": [
+                " La sicurezza di base:",
+                " Codici numerici a 4 cifre",
+                " Password alfanumeriche",
+                " Usare il buon senso:",
+                " mai usare il proprio nome o la propria data di nascita;",
+                " non usare dati personali o informazioni pubblicamente disponibili online.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Sebbene sia quasi da non credere, uno studio di Consumer Reports del 2014 afferma come solo il 54% degli utenti americani utilizza un qualsiasi tipo di protezione sui propri dispositivi mobili. Risultati leggermente migliori vengono proposti in uno studio successivo del 2016, dal quale si evince che circa un americano su tre non utilizza nessuna forma di protezione di sblocco dei propri device.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/tellock.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/warning.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "La gestione dei device mobili 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Inoltre è buona regola non comunicare il proprio pin o la propria password a nessun soggetto, inclusi il partner ed i familiari. Anche se siamo legati alle nostre abitudini, cambiare il pin e la password con regolarità è certamente di aiuto, in quanto nel tempo le macchie sullo schermo potrebbero rivelare lo schema di sblocco del dispositivo. I dati memorizzati su telefoni sbloccati sono vulnerabili se il dispositivo viene rubato. Per disattivare questa vulnerabilità, gli utenti dovrebbero bloccare automaticamente il device dopo un periodo di inattività di massimo cinque minuti. A maggior tutela della propria privacy, inoltre, è possibile limitare le notifiche visualizzabili sulla schermata di blocco. Gli utenti possono anche scegliere una protezione maggiore, attivando un'opzione che cancelli i dati memorizzati sul proprio telefono dopo un determinato numero di tentativi di accesso errati. Infine, gli utenti possono abilitare un'impostazione, che consenta loro di geolocalizzare i device in caso di smarrimento o furto.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG4",
+            "RAWDOMText": [
+                " Le buone regole:",
+                " non comunicare il proprio pin o la propria password a nessuno;",
+                " cambiare pin e password con regolarità;",
+                " bloccare automaticamente il dispositivo dopo un periodo di inattività non superiore ai 5 minuti;",
+                " limitare il tipo di informazioni visualizzabili sulla schermata di blocco;",
+                " attivare la cancellazione automatica dei dati dopo un determinato numero di tentativi di password errati;",
+                " attivare i servizi di geolocalizzare in caso di smarrimento o furto.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Queste impostazioni consentono agli utenti non solo di geolocalizzare il proprio dispositivo su una mappa, ma anche di bloccarlo con un pin, farlo squillare, far suonare un allarme, visualizzare un messaggio e, da ultimo, cancellare da remoto i dati contenuti nel dispositivo. Queste funzioni sono attive solo se il dispositivo è acceso ed è connesso a una rete cellulare o wireless.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p04.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Le reti wi-fi",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sono noti i problemi legati all'utilizzo di reti wireless di origine dubbia; tali rischi sono ampliati dall'utilizzo di device portatili che per default si connettono a reti aperte senza il preventivo consenso dei proprietari. I pericoli associati a questa pratica di riconnessione automatica sono reali. Non esiste impedimento affinché un criminale decida di creare una rete wireless utilizzando un nome identico ad una rete aperta sicura. Questo escamotage può facilmente far cadere in trappola gli utenti disattenti; anche quando il telefono non viene utilizzato attivamente, infatti, le app sul telefono trasmettono e ricevono dati e credenziali. Alcune semplici regole possono aiutare l'utente a proteggersi dall'acquisizione passiva dei dati. Innanzitutto, è opportuno tenere sempre disattivato il wi-fi su tutti i dispositivi quando non lo stiamo effettivamente utilizzando. Inoltre è importante disattivare l'opzione di auto-connessione alle reti conosciute, eliminando dalla cronologia quelle reti pubbliche che prevediamo di non utilizzare in futuro.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG5",
+            "RAWDOMText": [
+                " Problemi legati all'utilizzo di reti wireless:",
+                " Molti device si connettono a reti aperte senza il consenso dei proprietari.",
+                " Un criminale può creare una rete wireless utilizzando un nome identico a una rete aperta.",
+                " Anche quando il telefono non viene utilizzato, le app trasmettono e ricevono dati e credenziali.",
+                " Proteggersi dall'acquisizione dei dati:",
+                " tenere disattivato il wi-fi, quando non lo utilizziamo;",
+                " disattivare l'auto-connessione alle reti conosciute;",
+                " eliminare dalla cronologia le reti pubbliche che non utilizziamo."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p05.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "La tecnologia Bluetooth",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un altro canale di accesso per i malintenzionati ai nostri dispositivi mobili è la tecnologia Bluetooth, ossia un protocollo wireless sviluppato per la comunicazione a corto raggio tra dispositivi dotati della stessa tecnologia. Lo utilizziamo regolarmente in numerose occasioni: per connettere i nostri device portatili con il vivavoce in auto, le cuffie o uno speaker, oppure per far parlare tastiere e mouse wireless con il nostro computer. È proprio questa capacità di trasferimento dati a corto raggio che può risultare pericolosa per gli utenti inesperti. Come nel caso del wi-fi, è importante disattivare il Bluetooth se non è necessario che rimanga acceso, o quantomeno è opportuno disabilitare l'opzione di rilevamento del dispositivo da parte di altri device. Ciò renderà il nostro telefono invisibile agli altri dispositivi. Nel caso in cui dovessimo ricevere dei messaggi sul display, non cliccare automaticamente su “OK” o “Accetta” per avviare un trasferimento di file, se non siamo stati noi a richiederlo.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG6",
+            "RAWDOMText": [
+                " Accesso ai dati tramite Bluetooth:",
+                " Precauzioni per il trasferimento dati a corto raggio:",
+                " disattivare il Bluetooth se non necessario;",
+                " disabilitare l'opzione di rilevamento da parte di altri device;",
+                " non avviare il trasferimento di file, se non richiesto."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/001-bluetooth.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/004-call.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/002-bluetooth-1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/005-speaker.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/003-mouse.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "I malware per dispositivi mobili",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Sebbene storicamente i malware abbiano infettato principalmente i computer, non sorprende che oggi questa minaccia tenda ad infettare anche smartphone e tablet. La diffusione di malware sui dispositivi mobili ha registrato recentemente tassi di crescita annuali a tre cifre! Sfruttando infatti la popolarità di alcune app, gli hacker cercano di emularle, includendo in esse varianti di codici maligno, per indurre gli utenti a scaricare i loro programmi. La piattaforma mobile più colpita sembra essere quella Android, in quanto maggiormente aperta nei confronti degli sviluppatori. La maggior parte di questo software corrotto proviene da app store di terze parti e non dai market place ufficiali dei produttori, che utilizzano invece regole e criteri di screening per rilevare l'eventuale presenza di codici infetti nelle app da loro proposte. Un modo efficace per evitare queste trappole è quindi quello di utilizzare sempre il canale ufficiale di download delle applicazioni, senza cercare scorciatoie per risparmiare magari sul costo del prodotto.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG7",
+            "RAWDOMText": [
+                " La diffusione di malware sui dispositivi mobili è in crescita costante.",
+                " Attenzione alle app più popolari:",
+                " gli hacker inseriscono codici maligni nelle app;",
+                " la piattaforma più colpita è Android;",
+                " il software corrotto proviene da app store di terze parti;",
+                " usare sempre i market place ufficiali.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;text-align:left;\"> <p>Per rafforzare il livello di sicurezza del proprio dispositivo contro i malware, sono oggi disponibili in commercio programmi antivirus e antimalware, molto simili a quelli specifici per i computer, come Avira Mobile Security (<a href=\"https://itunes.apple.com/it/app/avira-mobile-security/id692893556?mt=8\" target=\"_blank\" style=\"color: #fff !important;text-decoration: underline;\">https://itunes.apple.com/it/app/avira-mobile-security/id692893556?mt=8</a>) per dispositivi Apple o AVG (<a href=\"https://play.google.com/store/apps/details?id=com.antivirus\" target=\"_blank\" style=\"color: #fff !important;text-decoration: underline;\">https://play.google.com/store/apps/details?id=com.antivirus</a>) per dispositivi Android.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p07.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/pcvirus.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/phonevirus.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/ipadvirus.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Gli app store 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sempre più spesso anche gli utenti poco esperti, sono portati a rimuove le restrizioni software imposte dai produttori sui nuovi dispositivi, in modo da poter installare software di terze parti, non autorizzati dagli store ufficiali. Sebbene sia ancora dibattuto se tale pratica sia sotto alcuni punti di vista legale, l'utilizzo di dispositivi manomessi aumenta il rischio di incappare in problemi causati da malware e altri software dannosi. La miglior forma di protezione resta ancora il costante aggiornamento del sistema operativo e delle app installate nei vari dispostivi, a mano a mano che i produttori di hardware e software rilasciano nuove versioni.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG8",
+            "RAWDOMText": [
+                " Rimuovere le restrizioni software imposte dai produttori",
+                " È una pratica per poter installare software di terze parti.",
+                " L'utilizzo di dispositivi manomessi aumenta il rischio di un attacco malware.",
+                " La miglior forma di protezione",
+                " Aggiornamento costante del sistema operativo e delle app installate, con le nuove versioni rilasciate dai produttori ufficiali."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p08_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p08_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/cycle-loading.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Gli app store 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Un ulteriore fattore di complicazione riguarda le numerose versioni dei principali sistemi operativi presenti sul mercato. Talvolta le specifiche richieste dagli ultimi sistemi operativi per funzionare correttamente, impediscono ai possessori di device più datati, di procedere all'aggiornamento. Gli utenti si trovano quindi a dover effettuare una scelta: o sostituire il vecchio dispositivo con un nuovo device, dovendo settare tutte le impostazioni del telefono e delle varie app; oppure non fare nulla, continuando ad utilizzare i vecchi dispositivi, sempre funzionanti, ma non più aggiornabili ai nuovi standard di sicurezza.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG9",
+            "RAWDOMText": [
+                " Una complicazione...",
+                " Due possibili scelte:",
+                " sostituire il vecchio dispositivo con un nuovo device;",
+                " utilizzare i vecchi dispositivi senza gli aggiornamenti sulla sicurezza.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Per proteggersi in maniera efficace dalla continue minacce presenti in rete è fondamentale che gli utenti aggiornino non solo i sistemi operativi e le app sui propri smartphone, ma facciano lo stesso anche sui loro dispositivi fissi e sui laptop, in modo che questi possano continuare a funzionare in completa sicurezza. Anche i computer, infatti, invecchiano.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p09.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/011-settings.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/phoneupdate.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "L'importanza dell'aggiornamento 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Con la crescente sofisticazione dei criminali informatici, la vita e la sicurezza dei software e dei sistemi operativi, si è decisamente ridotta. Quando gli hacker sviluppano varianti di malware più sofisticate, gli sviluppatori di software creano infatti nuove difese; con il tempo gli aggressori trovano il modo di aggirare le nuove difese e la rincorsa fra guardie e ladri continua. Oggi, un sistema operativo che non riceve più patch di sicurezza fornite dal produttore, rappresenta un rischio per chiunque utilizzi quella macchina.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG10",
+            "RAWDOMText": [
+                " Criminali sempre più sofisticati",
+                " La vita e la sicurezza dei software e dei sistemi operativi si è ridotta.",
+                " hacker",
+                " malware",
+                " sviluppatore",
+                " difesa",
+                " Un sistema operativo che non riceve più patch di sicurezza, rappresenta un rischio per chiunque utilizzi quella macchina.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Ancora oggi esistono molti computer su cui sono installati sistemi operativi non più supportati dai produttori. L'esempio più noto è quello di Windows XP, il sistema operativo più venduto della storia. Nell'aprile 2014, Microsoft ha annunciato che non avrebbe più continuato a rilasciare aggiornamenti di sicurezza per Windows XP. La fine dell'era XP è stata piuttosto preoccupante dal punto di vista della sicurezza. Ad aprile 2014 infatti la quota di mercato detenuta da Windows XP era stimata in poco meno di un terzo di tutti i computer connessi a Internet. Sebbene gli sforzi fatti da Microsoft per comunicare agli utenti l'imminente vulnerabilità del sistema, invitandoli ad aggiornare o a sostituire del tutto i loro vecchi computer, non tutti, anzi pochi, decisero allora di aggiornare i loro dispositivi.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p10_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p10_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/cycle-loading.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/png/warning.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "L'importanza dell'aggiornamento 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per questi motivi legati alla sicurezza di tutti gli utenti, professionali e non, si dovrebbe immediatamente aggiornare qualsiasi macchina che utilizza ancora sistemi operativi non più supportati, ed evitare di utilizzare per qualsiasi scopo computer simili, che alle volte si trovano ancora in spazi pubblici o in casa. Oltre ai sistemi operativi, tutti gli altri programmi caricati sui device devono essere tenuti aggiornati per mantenere un elevato livello di sicurezza. Non solo i plug-in dei browser, ma anche i software possono essere usati come canali per condurre attacchi da parte degli hacker. Gli utenti, inoltre, possono usufruire dell'opzione di aggiornamento automatico in tutti i moderni sistemi operativi per scaricare automaticamente i nuovi aggiornamenti quando questi vengono resi disponibili. Se un dispositivo è abbastanza vecchio da non supportare più gli aggiornamenti software o non è compatibile con il nuovo sistema operativo, può essere utile prendere in considerazione l'alternativa di investire in un nuovo dispositivo.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG11",
+            "RAWDOMText": [
+                " Per la sicurezza di tutti gli utenti:",
+                " aggiornare qualsiasi macchina che utilizza sistemi operativi datati;",
+                " evitare di utilizzare computer con sistemi operativi non supportati;",
+                " tenere aggiornati, alla loro ultima versione, plug-in dei browser e software;",
+                " utilizzare l'opzione di aggiornamento automatico;",
+                " prendere in considerazione l'alternativa di investire in un nuovo dispositivo."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD02/img/p11.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che cosa sono i servizi di geolocalizzazione?",
+                " È un sistema che consente agli utenti di localizzare il proprio dispositivo su una mappa, in caso di smarrimento o furto.",
+                " Quali sono i pericoli legati alla riconnessione automatica alle reti Wi-Fi?",
+                " Il rischio è rappresentato dalla capacità dei nostri device di auto-connettersi alle reti memorizzate senza che noi ce ne accorgiamo, esponendoci a un potenziale furto di dati.",
+                " Perché è importante usare gli app store ufficiali?",
+                " Utilizzare software di terze parti rappresenta sempre un rischio, in quanto questi programmi non sempre garantiscono standard di sicurezza elevati. Usare software autorizzati dagli store ufficiali, invece, limita il rischio delle minacce in rete.",
+                " Perché è importante mantenere i software aggiornati?",
+                " Utilizzare software o sistemi operativi non aggiornati facilita le intrusioni degli hacker nei nostri device."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_01_MOD2_LEZ2_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che cos’è il Bluetooth?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p13"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD2_LEZ2"
+}

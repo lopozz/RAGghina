@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Nord Ovest e Centro.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutto il Nord Italia.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Centro e Sud.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Non ci sono particolari differenze fra le varie zone della Penisola.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Nell’<i>Indagine sul Risparmio e sulle scelte finanziari degli italiani del Centro Einaudi</i> si dimostra l’errata percezione del rischio sicurezza in casa, percepito in maniera maggiore al Centro e al Sud.",
+    "feedbackNeg": "<b>Non è esatto!</b> Nell’<i>Indagine sul Risparmio e sulle scelte finanziari degli italiani del Centro Einaudi</i> si dimostra l’errata percezione del rischio sicurezza in casa, percepito in maniera maggiore al Centro e al Sud."
+}

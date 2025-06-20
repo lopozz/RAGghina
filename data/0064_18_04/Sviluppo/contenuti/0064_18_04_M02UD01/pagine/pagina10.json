@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"È quello in fondi comuni indicizzati.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È quello più rischioso, perché permette comunque di aspirare a maggiori rendimenti.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È quello immobiliare.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Non esiste.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Infatti, oltre il 32% valuta come migliore di altri l’investimento immobiliare, anche se una percentuale comparabile, il 30%, è dell’opinione che “l’investimento ideale non esiste”.",
+    "feedbackNeg": "<b>Non è esatto!</b> Infatti, oltre il 32% valuta come migliore di altri l’investimento immobiliare, anche se una percentuale comparabile, il 30%, è dell’opinione che “l’investimento ideale non esiste”."
+}

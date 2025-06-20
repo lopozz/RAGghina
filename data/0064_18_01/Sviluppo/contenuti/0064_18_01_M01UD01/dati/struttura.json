@@ -1,0 +1,1166 @@
+{
+    "titolo": "Introduzione",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Copertina",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG1",
+            "RAWDOMText": [
+                " Cyber Security: un'analisi tecnica",
+                " Duccio Martelli",
+                "Docente di Economia degli Intermediari Finanziari presso il Dipartimento di Economia dell’Università degli Studi di Perugia",
+                " 6 ore"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdCopertina.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/icontitoli.png"
+                },
+                {
+                    "src": "contenuti/img/iconuser.png"
+                },
+                {
+                    "src": "contenuti/img/icontime.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/audio/copertina"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Non per allarmarvi, ma tutti noi siamo in pericolo. Numerosi studi affermano infatti che ognuno di noi subirà inevitabilmente prima o poi un attacco online. La maggior parte di questi tentativi di intrusione, purtroppo, avranno successo. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG2",
+            "RAWDOMText": [
+                " Perché è il buon senso la prima e più forte forma di protezione contro il crimine informatico?",
+                " Che cos’è l’Advanced Persistent Threat?",
+                " La storia del cybercrime è poi così recente?",
+                " Che cosa c’è nella «cassetta degli attrezzi» per difendersi dal cyber risk?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Crimine informatico e buon senso",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Privati cittadini, professionisti, imprese e persino governi: tutti sono vulnerabili agli attacchi informatici provenienti da ogni parte del mondo. I dati presenti sui nostri computer e le nostre identità sono costantemente minacciate. Ogni giorno infatti sentiamo e leggiamo storie sempre nuove riguardanti il cyber crimine, ossia l'utilizzo della tecnologia informatica (sia hardware che software) per lanciare attacchi online allo scopo di rubare numeri di carte di credito, diffondere immagini o informazioni private, fino ad arrivare all'intrusione nei servizi segreti stranieri e all’interno dei più alti livelli governativi di vari Paesi. Fortunatamente, anche per i non addetti ai lavori e i meno esperti, le società specializzate offrono ad oggi una serie di prodotti e servizi facilmente accessibili ed utilizzabili…. che in poco tempo però vanno a finire nuovamente nelle «grinfie» dei malintenzionati, che cercano continuamente nuovi modi per aggirare le protezioni tecnologiche più recenti. E allora come difendersi? È il buon senso la prima e più forte forma di protezione contro ogni crimine, specie se di tipo informatico!",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG3",
+            "RAWDOMText": [
+                " dati",
+                " identità",
+                " Siamo tutti vulnerabili agli attacchi cibernetici",
+                " CYBER CRIME",
+                " Rubare carte di credito",
+                " Diffondere immagini e informazioni private",
+                " Introdursi in servizi segreti o governativi",
+                " Prodotti e servizi contro il cyber crime",
+                " Il buon senso è la prima e più forte protezione!"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/002-old.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/001-manager.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/004-factory.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/003-government.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/005-hacker.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/005-hacker.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "La personalità tecnologica",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ogni giorno che passa, siamo più connessi con gli altri individui del pianeta: vita reale e vita virtuale tendono sempre più a sovrapporsi e a confondersi. Che il nostro mondo stia diventando sempre più piccolo lo percepiamo continuamente. Possiamo essere ovunque in poche ore prendendo un aereo, oppure parlare faccia a faccia con chiunque in pochi secondi usando servizi come Skype o Google Hangouts. Inoltre, abbiamo accesso illimitato e immediato a tutte le informazioni prodotte in giro per il mondo (libri, riviste, articoli di giornale, film, spettacoli, …). Le nostre vite sono, almeno sotto certi aspetti, decisamente migliori rispetto al passato: gli sviluppi della medicina, la possibilità di viaggiare e conoscere nuove culture, sono aumentati grazie al progresso tecnologico e all’uso dell’informatica. Una ricerca condotta nel 2012 da Broadcom Corporation su più di 2.500 adulti americani ha individuato sette distinti tipi di personalità tecnologica. Quasi la metà di coloro che hanno partecipato al sondaggio sono stati classificati come “Sempre connessi” o “Altamente connessi”, a dimostrazione dei livelli molto elevati di presenza su Internet per ricercare informazioni o restare in contatto con amici o familiari. Al contrario, solo il 2% degli intervistati ha dichiarato di non essere interessato ad internet e ai social media in generale. Vivere in un mondo così interconnesso comporta una serie di rischi sempre nuovi e in continuo mutamento. Sfortunatamente, infatti, dall'altra parte della rete che ci connette al mondo possono esserci criminali che cercando attivamente di rubare le nostre password, le nostre informazioni personali, le nostre identità e il nostro denaro.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG4",
+            "RAWDOMText": [
+                " Siamo sempre più connessi",
+                " Vita reale/virtuale",
+                " Spostamenti veloci",
+                " Comunicazione istantanea",
+                " Accesso illimitato a risorse e informazioni",
+                " Progressi in ogni campo",
+                " 2012 Broadcom Corp.",
+                " «Le 7 personalità tecnologiche»",
+                " Non connessi",
+                " Altamente/sempre connessi",
+                " 2%",
+                " 43%",
+                " Password",
+                " Info",
+                " Identità",
+                " Denaro"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/006-like.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/007-air-freight.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/008-skype.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/009-wordpress.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/010-microscope.png"
+                },
+                {
+                    "src": "contenuti/img/triangolo.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/005-hacker.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "La vulnerabilità del web",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Questa vulnerabilità della rete è in gran parte una diretta conseguenza dell'architettura che supporta Internet; la rete infatti non è stata progettata in origine per proteggere i dati degli utenti connessi, quanto piuttosto per facilitare gli scambi fra i vari individui, quindi aperta e adatta alla condivisione di dati. È solo in seguito a fatti illeciti compiuti che ci si è preoccupati di definire nuove modalità di protezione delle informazioni e degli utenti. Anche gli oggetti di valore non sono oggi più quelli di volta: se in passato la perdita del portafoglio era quella che generava maggiore preoccupazione nelle persone, oggi la preoccupazione principale è perdere il telefono o il computer, non tanto per il costo da pagare per l'acquisto di nuovi dispositivi, quanto per i dati che in essi sono contenuti. Recuperali infatti può richiedere decine di ore di lavoro e solitamente parte del contenuto è completamente irrecuperabile. È rilevante anche il danno reputazione che ne può derivare: il furto dei beni può mettere a rischio non solo i dati finanziari dei malcapitati, ma anche quelli dei soggetti con i quali questi hanno delle relazioni, come ad esempio i familiari o i clienti.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG5",
+            "RAWDOMText": [
+                " Da che cosa dipende la vulnerabilità del web?",
+                " IMPOSTAZIONE DI BASE",
+                " Internet è progettato per facilitare gli scambi fra i vari individui, non per proteggere i loro dati!",
+                " CARATTERISTICHE INIZIALI",
+                " Apertura",
+                " Condivisione dati e utenti",
+                " IN SEGUITO",
+                " Necessità di proteggere i dati",
+                " Ieri",
+                " Documenti",
+                " Carte",
+                " Oggi",
+                " Dati",
+                " Danno reputazione",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>I criminali sono in attesa che un utente, un’azienda o un governo commetta un errore, per avere quindi accesso alle informazioni che stanno cercando, di solito utilizzando software nascosti (malware) che si installano sui computer e sugli altri dispositivi degli utenti a loro completa insaputa. Costi significativi, legati alla perdita dei dati o alla reputazione danneggiata, vengono giornalmente pagati da migliaia di vittime, che vedono sottratti dati sensibili, quali numeri di conti correnti o di carte di credito, nonché nomi utente e password dei vari account e servizi online utilizzati. Non solo i criminali sono interessati a mettere le mani sui dati finanziari degli utenti; sempre più spesso, infatti, i malviventi sono alla ricerca delle identità dei malcapitati da riutilizzare in altre truffe.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/011-scheme.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/005-hacker.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/012-wallet.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/013-smartphone.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/014-tools-and-utensils.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "L'hackeraggio: una minaccia persistente avanzata",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Continuamente sentiamo parlare di hackeraggio, con riferimento ai vari tentativi di frode informatica; sarebbe più opportuno parlare di minaccia persistente avanzata (in inglese Advanced Persistent Threat, APT): l’hackeraggio fa di solito riferimento a una singola azione eseguita in un momento specifico; le APT, come lo stesso nome suggerisce, sono invece sempre là fuori in agguato. Questi gruppi criminali possono anche impiegare alcune settimane o mesi per ricercare punti deboli e per determinare il modo più efficace per attaccare prima di raggiungere l'obiettivo. Oggigiorno tutti gli utenti, specie i professionisti che utilizzano i dispositivi per proteggere non solo i propri dati personali, ma anche quelli di terzi soggetti, non possono semplicemente restare a guardare in maniera passiva, ma devono proteggere attivamente i propri dispositivi e restare sempre aggiornati sulle più recenti tecniche di intrusione usate dai malintenzionati.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG6",
+            "RAWDOMText": [
+                " Tentativi di hackeraggio",
+                " = frode informatica",
+                " Advanced Persistent Threat",
+                "APT",
+                " Sempre in agguato",
+                " Seguono l’obiettivo anche per mesi, prima di attaccare",
+                " Non è più possibile stare a guardare!"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/015-target.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/016-ddos.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Come proteggersi? 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Purtroppo molto spesso sottostimiamo i possibili rischi derivanti dall'uso di internet, in quanto la rete fa parte oramai della vita di ognuno di noi; nella realtà il web è invece un luogo molto pericoloso. I criminali sono interessati ai nostri dati, sebbene la maggior parte di noi ritenga di non essere particolarmente “interessante” da spiare. Il furto di identità, ad esempio, è tra i crimini in più rapida crescita in termini di danni provocati, circa $375 miliardi all'anno solo negli Stati Uniti e colpisce una persona su 25 ogni anno. Fortunatamente ci sono diversi modi per proteggersi contro tali rischi, anche se è impossibile annullare completamente le minacce virtuali. Allora che fare? Si possono ridurre i pericoli, cercando di minimizzarli, prendendo precauzioni sul fronte della sicurezza, scoraggiando in tal modo i malintenzionati!",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG7",
+            "RAWDOMText": [
+                " Internet è un «luogo» pericoloso",
+                " I criminali ci «spiano» per rubare i nostri dati",
+                " Furto d’identità negli Stati Uniti",
+                " Danni in un anno",
+                " $ 375 miliardi all'anno",
+                " Persone in un anno",
+                " 1 persona su 25",
+                " È possibile proteggersi?",
+                " Non al 100%",
+                " E allora che fare?",
+                " Minimizzare i pericoli prendendo precauzioni sul fronte della sicurezza",
+                " Scoraggiare i malintenzionati",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Nella maggior parte dei casi siamo proprio noi a lasciare campo libero ai malintenzionati, non mettendo in pratica nemmeno alcune precauzioni di base. Ecco un semplice esempio: essere diffidenti verso tutti i soggetti, anche le persone note, con cui entriamo in contatto o dalle quali riceviamo delle email, è la prima forma di protezione dei nostri dati; purtroppo la naturale inclinazione dell’essere umano verso il prossimo rende ciascuno di noi vulnerabile agli attacchi informatici. Gli hacker, infatti, consci dei nostri limiti, cercheranno di attaccarci proprio su tali fronti.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Come proteggersi? 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Questa corso è l’occasione per costruire una sorta di “cassetta degli attrezzi” all'interno della quale il consulente può trovare strumenti utili e facilmente applicabili nella quotidianità, per proteggere la propria privacy e i dati di terzi in suo possesso. Se eliminarlo completamente dalla quotidiana operatività è impossibile, si può infatti ridurre il rischio informatico aumentando la consapevolezza nei confronti dei pericoli a cui si è esposti, senza perdere le opportunità che Internet offre a livello personale e professionale. Anche le più sicure tecnologie sono vulnerabili, ne deriva quindi che prima o poi tutti noi saremo obiettivi di attacchi informatici; l'unico modo per uscirne indenni o quanto meno con pochi lividi è quello di essere pronti a tale eventualità ed iniziare fin da subito a predisporre precauzioni per mettere al sicuro in nostri dati. Aspettandoci tale attacco, è naturale che saremo costantemente attenti a monitorare i fattori di rischio a cui siamo esposti e ad adeguare le misure messe in atto per rispondere ai più alti standard di sicurezza presenti sul mercato.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG8",
+            "RAWDOMText": [
+                " La «cassetta degli attrezzi» per difendersi dal cyber risk",
+                " PRIVACY",
+                "DATI",
+                " RISCHI",
+                " CONSAPEVOLEZZA",
+                " OPPORTUNITÀ",
+                " Tutte le tecnologie sono vulnerabili",
+                " Urgono precauzioni per proteggere i nostri dati:",
+                " monitorare i rischi;",
+                " adeguare le misure di sicurezza."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/018-toolbox.png"
+                },
+                {
+                    "src": "contenuti/img/meno.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/017-skull.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/019-plaster.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Gli attacchi informatici nella storia 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Sebbene siamo portati a pensare che gli attacchi cyber siano nati negli ultimi vent’anni con la diffusione dei personal computer e di internet, l'utilizzo della tecnologia con finalità criminali ha inizi più lontani. La figura seguente mostra alcuni eventi che hanno caratterizzato la storia degli attacchi mediante l'uso della tecnologia. Fai clic sull’info point per conoscere gli eventi importati prima degli anni ‘80.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG9",
+            "RAWDOMText": [
+                " La storia degli attacchi mediante l'uso della tecnologia",
+                " 1903 - Il messaggio in codice Morse",
+                " 1939 - Alan Turing e la \"bomba\"",
+                " 1943 - Le schede elettorali francesi",
+                " 1957 - Il phreaking",
+                " 1980 – NCSS Inc.",
+                " 1981 - Il primo craking",
+                " 1983 - Norme sulla sicurezza informatica",
+                " 1987 - L'albero di Natale",
+                " 1988 - L'attacco ad ARPANET",
+                " 1999 - Il programma di protezione del governo statunitense",
+                " 2000 - ILOVEYOU",
+                " 2010 - YouTube",
+                " 2013 - Tumblr",
+                " 2015 - Furti di identità negli Stati Uniti",
+                " 2016 - WikiLeaks",
+                " 2017 – WannaCry e Equifax",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p><b><i>1903 - Il messaggio in codice Morse</i></b><br>Nel 1903 Nevil Maskelyne, detrattore pubblico di Guglielmo Marconi, nel corso di una dimostrazione pubblica sulla sicurezza del telegrafo, inviò da remoto alcuni messaggi in codice Morse contro tale tecnologia usando un proiettore.<br><b><i>1939 - Alan Turing e la «bomba»</i></b><br>La \"bomba\" (in inglese \"cryptological bombe\") fu una speciale macchina di calcolo, affinata da Turing su un'idea originaria di alcuni scienziati polacchi, utilizzata nel corso della Seconda Guerra Mondiale dal controspionaggio inglese per decifrare i messaggi segreti codificati con la macchina Enigma che i tedeschi si scambiavano.<br><b><i>1943 - Le schede elettorali francesi</i></b><br>René Carmille è stato il primo hacker definito etico. In gergo gli hacker etici vengono chiamati white-hat hacker, ossia hacker dal cappello bianco. I white-hat hacker sono gli hacker buoni, che cercano falle nella tecnologia con l'obiettivo di migliorarla, in opposizione agli hacker dal cappello nero, quelli malvagi, che cercano di trarre un vantaggio personale da tali falle. I due nomi prendono ispirazione dai film western, nei quali i cowboy buoni e quelli cattivi erano soliti indossare rispettivamente cappelli bianchi e cappelli neri. Si deve, infatti, a René Carmille la manomissione delle macchine abilitate a leggere le schede elettorali, riprogrammandole in modo che non avrebbero mai registrato le informazioni riportate sulla colonna che indicava la religione del soggetto votante. In questo modo egli riuscì a salvare numerosi ebrei francesi dai campi di concentramento nazisti.<br><b><i>1957 - Il phreaking</i></b><br>In gergo «phreaking» indica l'attività di chi sfrutta i sistemi telefonici alla ricerca di falle all'interno della tecnologia per utilizzi difformi da quelli previsti dal sistema. Il primo phreaker fu Josef Carl Engressia: bambino cieco fin dalla nascita, era dotato di orecchio assoluto ed era in grado di fischiare a una frequenza di 2600 hertz, la stessa frequenza utilizzata dai telefoni di allora. A cinque anni, Engressia scoprì di poter effettuare telefonate premendo ripetutamente il tasto di riaggancio e a 7 anni scoprì per caso che fischiando a determinate frequenze poteva attivare i commutatori delle compagnie telefoniche e telefonare gratuitamente.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/lineatemp.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Gli attacchi informatici nella storia 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Proseguendo la nostra ricostruzione storica, negli anni ‘80 si sono verificati: l’attacco di un hacker alla National Computer Software System Inc.; il primo craking; la prima legislazione sulla sicurezza informatica; il cosiddetto’”albero di Natale”, primo worm che ha compromesso porzioni rilevati delle reti informatiche di allora; e non meno importante, l’attacco ad Arpanet. Fai clic sull’info point per approfondire gli avvenimenti di questo periodo.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG10",
+            "RAWDOMText": [
+                " La storia degli attacchi mediante l'uso della tecnologia",
+                " 1903 - Il messaggio in codice Morse",
+                " 1939 - Alan Turing e la \"bomba\"",
+                " 1943 - Le schede elettorali francesi",
+                " 1957 - Il phreaking",
+                " 1980 – NCSS Inc.",
+                " 1981 - Il primo craking",
+                " 1983 - Norme sulla sicurezza informatica",
+                " 1987 - L'albero di Natale",
+                " 1988 - L'attacco ad ARPANET",
+                " 1999 - Il programma di protezione del governo statunitense",
+                " 2000 - ILOVEYOU",
+                " 2010 - YouTube",
+                " 2013 - Tumblr",
+                " 2015 - Furti di identità negli Stati Uniti",
+                " 2016 - WikiLeaks",
+                " 2017 – WannaCry e Equifax",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p><b><i>1980 – NCSS Inc.</i></b><br>La National Computer Software System Inc., pioniere nell'implementazione dei primi servizi di teleconferenza e condivisione di file a distanza tra macchine, fu oggetto di un attacco da parte di un hacker. L'hacker riuscì ad entrare in possesso della lista di tutte le password principali (c.d. master) della società. Fortunatamente per loro l'attacco fu portato avanti solo da un giovane tecnico annoiato, che voleva solo vedere quali cose interessanti potevano nascondersi dietro tutte quelle protezioni. Tale esperienza divenne una fonte di apprendimento non solo per loro, ma per tutti, FBI compresa, contribuendo a sensibilizzare il pubblico sui crescenti problemi legati alla sicurezza informatica.<br><b><i>1981 - Il primo craking</i></b><br>Ian Murphy, alias Captain Zap, fu il primo cracker (ossia hacker di password e software) ad essere processato e incriminato per tale reato. Murphy fece irruzione nei computer della AT&T, una compagnia telefonica statunitense e cambiò gli orologi interni della società che misuravano i costi da fatturare: in particolare, fece sì che i prezzi notturni fossero applicati alle telefonate diurne e viceversa. Chi aspettava la tariffa notturna per le chiamate a lunga distanza si trovo a pagare delle bollette più salate!<br><b><i>1983 - Norme sulla sicurezza informatica</i></b><br>I crescenti attacchi informatici degli ultimi mesi, compreso un attacco recente ad oltre 60 computer di scuole ed ospedali, portò il Congresso Americano ad emanare una legislazione ad hoc sulla sicurezza informatica.<br><b><i>1987 - L'“albero di Natale”</i></b><br>Il Christmas Tree EXEC (in italiano \"Albero di Natale EXEC\") è considerato il primo virus infomatico (c.d. worm) ad aver compromesso porzioni rilevati delle reti informatiche. Creato da uno studente tedesco, la sua propagazione avveniva sfruttando la posta elettronica con messaggi che si presentavano come auguri natalizi: esso infatti determinava la comparsa sullo schermo di un semplice albero di Natale stilizzato ed affiancato da una breve frase di augurio: «A very happy Christmas and my best wishes for the Next Year\". Contemporaneamente il worm eseguiva la lettura dei contatti di posta elettronica presenti sul computer, per poi inviare una copia di se stesso a ciascuno dei destinatari individuati. Questo meccanismo d'azione permise a Christmas Tree EXEC di raggiungere picchi di diffusione molto elevati per l'epoca e tali da causare pesanti disservizi sulle reti informatiche di allora. La modalità di diffusione impiegata da Christmas Tree EXEC è stata poi ripresa negli anni successivi da altri worm, sempre con un successo elevato.<br><b><i>1988 - L'attacco ad ARPANET</i></b><br>Il Morris worm, dal nome del suo creatore Robert T. Morris Jr., è stato uno dei primi worm distribuiti via ARPANET (il precursore dell'attuale rete internet) e il primo malware della storia a guadagnarsi l'attenzione dei media. Allora studente alla Cornell University, ma attraverso i sistemi del Massachusetts Institute of Technology di Boston, Morris non scrisse il worm con lo scopo di provocare danni, ma per valutare le dimensioni che internet aveva raggiunto; per far questo decise di sfruttare alcune vulnerabilità dei computer di allora. Quello che ha trasformato il worm da un innocuo esercizio intellettuale a virulento DoS (denial of service) era il meccanismo di diffusione: infatti il worm, prima di invadere un nuovo computer, controllava se vi fosse già una copia in esecuzione in quello attuale, ma anche se il sistema rispondeva \"sì\" in un caso su 7, il worm si reinstallava lo stesso, infettando i computer della rete più volte e più volte. Non fu possibile fare una quantificazione esatta né dei computer infettati, né dei danni economici: le stime indicano un numero di pc infettati tra le 6.000 e le 60.000 macchine colpite, per un danno economico tra i 100.000 ed i 10.000.000 di dollari. Per questo motivo Robert Morris fu condannato per la prima volta per pirateria informatica negli Stati Uniti.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/lineatemp.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Gli attacchi informatici nella storia 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Arriviamo ai tempi più recenti: nel 1999 l'allora presidente degli Stati Uniti Bill Clinton decide di stanziare 1.5 miliardi di dollari per dare avvio al programma governativo di sicurezza informatica; nel 2000 si diffonde «I love you» uno dei dieci virus più dannosi della storia; dal 2010 al 2015 sono alcuni social media, quali ad esempio YouTube e Tumblr i principali obiettivi sensibili degli hacker; nel 2015 furono “rubati” i dati sensibili di 21.5 milioni di cittadini americani; il 2016 è l’anno di WikiLeaks; e il 2017 dei virus WannaCry e Equifax. Fai clic sull’info point per approfondire gli eventi di questi anni.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG11",
+            "RAWDOMText": [
+                " La storia degli attacchi mediante l'uso della tecnologia",
+                " 1903 - Il messaggio in codice Morse",
+                " 1939 - Alan Turing e la \"bomba\"",
+                " 1943 - Le schede elettorali francesi",
+                " 1957 - Il phreaking",
+                " 1980 – NCSS Inc.",
+                " 1981 - Il primo craking",
+                " 1983 - Norme sulla sicurezza informatica",
+                " 1987 - L'albero di Natale",
+                " 1988 - L'attacco ad ARPANET",
+                " 1999 - Il programma di protezione del governo statunitense",
+                " 2000 - ILOVEYOU",
+                " 2010 - YouTube",
+                " 2013 - Tumblr",
+                " 2015 - Furti di identità negli Stati Uniti",
+                " 2016 - WikiLeaks",
+                " 2017 – WannaCry e Equifax",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p><b><i>1999 - Il programma di protezione del governo statunitense</i></b><br>Vista l'escalation di attacchi informatici di varia portata a reti di computer sia private che istituzionali, nonché l'avvento sul mercato dei primi antivirus, ossia di software di protezione nei confronti di tali attacchi rivolti al grande pubblico, l'allora presidente degli Stati Uniti Bill Clinton decise di stanziare 1.5 miliardi di dollari per dare avvio al programma governativo di sicurezza informatica.<br><b><i>2000 – ILOVEYOU</i></b><br>Ritenuto fra i 10 virus più dannosi della storia, ILOVEYOU era un worm per computer che ha attaccato con successo oltre dieci milioni di computer Windows nel 2000, quando veniva inviato come allegato su un messaggio email con testo \"ILOVEYOU\" nella riga dell'oggetto. Dato che il worm utilizzava le mailing list degli utenti infettati, come fonte per trovare nuovi destinatari, i messaggi spesso apparivano come provenienti da mittenti conosciuti e venivano pertanto considerati \"sicuri\", fornendo ulteriori incentivi ad aprire l'allegato. Il worn utilizzava la stessa tecnica già utilizzata da Christmas Tree EXEC nel 1987 per la propagazione, ma sfruttava ulteriori aspetti che lo hanno resi ancora più letale: i) si affidava all'ingegneria sociale per invogliare gli utenti ad aprire l'allegato ed assicurarsi la sua propagazione continua; ii) si basava su alcune falle del sistema Windows e iii) sfruttava le debolezze di progettazione del sistema di scambio di email, a causa delle quali un programma allegato poteva essere eseguito semplicemente aprendolo e fornire così completo accesso al file system e al registro. Il worm infettò oltre 50 milioni di computer Windows, sovrascrivendo i file presenti negli hard disk con una copia di se stesso, causando danni stimati in 5,5 miliardi di dollari (molti dei quali causati dalla fatica di liberarsi del worm). Alcune grandi società, così come il Pentagono, la CIA, e il Parlamento britannico dovettero spegnere i loro sistemi di posta per liberarsene. Vista la sua pericolosità, negli anni successivi sono stati creati e diffusi centinaia di varianti di questo worm, sempre aventi come bersaglio computer Windows.<br><b><i>2010 – YouTube; 2013 – Tumblr; 2015 – Ashely Madiso</i></b><br>Negli anni seguenti gli hacker hanno focalizzato i propri attacchi sui siti di alcuni social media, quali ad esempio YouTube (nel 2010) e Tumblr (nel 2013). Nel primo caso, è stata la volta del canale per bambini di Sesame Street, che ha trasmesso materiale per adulti per circa mezz'ora; nel secondo caso, invece, gli hacker sono riusciti ad impossessarsi di 65 milioni di indirizzi email e password degli utenti iscritti. Pochi anni dopo, nel 2015, è stata la volta del sito di incontri extraconiugali Ashley Madison, al quale gli hacker hanno sottratto oltre 60 gigabytes di dati, pubblicati successivamente sul c.d. dark web, ossia la parte meno accessibile di internet. L'intrusione è costata alla società diversi milioni di dollari in cause legali.<br><b><i>19872015 - Furti di identità negli Stati Uniti</i></b><br>Nel 2015 un articolo del Washington Post rivela come i dati sensibili di 21.5 milioni di cittadini americani (inclusi i codici fiscali e le impronte digitali) siano stati rubati dai database di uno degli uffici governativi. Indiscrezioni, davano il governo cinese come possibile mandante. Un attacco simile fu portato ai danni di Equifax nel 2017, quando la società dichiarò un possibile accesso non autorizzato ad oltre 145,5 milioni di dati personali dei propri clienti.<br><b><i>2016 – WikiLeaks</i></b><br>WikiLeaks è un'organizzazione internazionale senza scopo di lucro che pubblica informazioni segrete e fughe di notizie fornite da fonti anonime. Durante la campagna elettorale per l'elezione del presidente degli Stati Uniti del 2016, WikiLeaks è divenuta famosa per aver pubblicato e-mail e altri documenti dal Partito Democratico, causando danni d'immagine alla campagna di Hillary Clinton. Sempre WikiLeaks è stata al centro dello scandalo dei Panama Papers, oltre 11,5 milioni di documenti trapelati che dettagliano informazioni finanziarie e legali di più di 200 mila persona e società offshore.<br><b><i>2017 – WannaCry e Equifax</i></b><br>Nel 2017 si è assistito a due attacchi particolarmente importanti. Il primo è stato la creazione ed il rilascio del virus denominato WannaCry. Ancora una volta rivolto a computer operanti su sistemi Windows, il virus, utilizzando una falla del sistema, criptava tutti i dati contenuti nell'hard disk dei computer infettati e richiedeva agli utenti il pagamento di una somma in Bitcoin per avere la chiave di sblocco. Gli esperti sconsigliarono fin da subito agli utenti interessati di pagare il riscatto a causa della mancanza di segnalazioni di persone che ricevevano indietro i loro dati dopo il pagamento. L'attacco ha avuto vita breve, ma impatti significativi, in quanto Microsoft rilasciò un aggiornamento del sistema pochi giorni dopo la diffusione del virus, volto proprio a coprire la falla del sistema utilizzata dal virus per diffondersi.<br><br>Un elenco più dettagliato dei cyberattacchi nel corso dei decenni è disponibile al seguente sito: <a href=\"https://en.wikipedia.org/wiki/Timeline_of_computer_security_hacker_history\" target=\"_blank\" style=\"color:#fff !important;\">https://en.wikipedia.org/</a></p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/lineatemp.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Che cos'è la cyber security",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In tale contesto assume rilevanza mondiale la cyber security. Che cosa si intende con questa parola? La cybersecurity rappresenta l’impegno costante per proteggere i sistemi interconnessi e tutti i dati ad essi associati, da utilizzi non autorizzati e danni. A livello personale, è necessario salvaguardare identità, dati e dispositivi di elaborazione. La nostra identità online rappresenta chi siamo nel cyberspazio: è  bene che riveli una quantità limitata di dati per scoraggiare attenzioni indesiderate e crimini informatici. A livello aziendale, è responsabilità di tutti proteggere la reputazione, i dati e i clienti dell’azienda. A livello statale, sono in gioco la sicurezza nazionale, la protezione e il benessere dei cittadini.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG12",
+            "RAWDOMText": [
+                " CYBERSECURITY",
+                " Impegno costante per proteggere i sistemi interconnessi e tutti i dati ad essi associati da utilizzi non autorizzati e danni.",
+                " Personale",
+                " Salvaguardare identità, dati, dispositivi",
+                " Aziendale",
+                " Proteggere la reputazione, i dati e i clienti",
+                " Statale",
+                " Garantire la sicurezza nazionale, la protezione e il benessere dei cittadini"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p12.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/antivirus.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/020-id-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/004-factory.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/021-flag.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Le domande importanti",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per comprendere dunque appieno l'importanza di proteggere i dati in nostro possesso e mettere in atto le relative contromisure, occorre iniziare a porci alcune semplici domande: Perché è importante parlare di sicurezza informatica? Quali sono gli ambiti di competenza che la sicurezza informatica tocca? Come si mette in piedi un sistema di sicurezza informatica in ambito professionale? Chi sono i soggetti interessati a sviluppare (e gestire) sistemi di sicurezza informatica? Rispondere in maniera chiara a domande del genere è essenziale per capire come realizzare correttamente un efficace sistema di protezione dei dati in nostro possesso. Proseguiamo, allora, per conoscere nel dettaglio gli ambiti di competenza della sicurezza informatica!",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG13",
+            "RAWDOMText": [
+                " Le domande da porsi",
+                " Perché è importante parlare di sicurezza informatica?",
+                " Quali sono gli ambiti di competenza che la sicurezza informatica tocca?",
+                " Come si mette in piedi un sistema di sicurezza informatica in ambito professionale?",
+                " Chi sono i soggetti interessati a sviluppare (e gestire) sistemi di sicurezza informatica?",
+                " Risposte chiare conducono a un efficace sistema di protezione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p13.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Gli ambiti di competenza della sicurezza informatica",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un‘efficace protezione dei nostri dati permette non solo di essere in linea con i requisiti della normativa, ma anche di salvaguardare il nostro lavoro e la nostra reputazione, la nostra dotazione tecnologica e il relativo contenuto, nonché la nostra identità personale e quella dei nostri clienti. Ecco perché la sicurezza informatica può essere messa in atto e sviluppata secondo tre ambiti di competenza ben specifici: Giuridico; Organizzativo; Tecnologico. L'ambito giuridico riguarda l'insieme delle leggi e delle norme specifiche sul tema, emanate a livello domestico e internazionale. I principali interventi normativi sono: normativa di riferimento (ad esempio, Norme ISO sulla sicurezza informatica); direttive e regolamenti europei (ad esempio, il GDPR); principi di sicurezza informatica e privacy presenti nella legislazione nazionale (ad esempio, i Provvedimenti del Garante Privacy). L'ambito organizzativo definisce le linee guida che i singoli soggetti decidono di seguire per prevenire i rischi informatici. Tra queste è possibile individuare, ad esempio: i regolamenti interni alle varie aziende; le procedure e le istruzioni operative per il corretto uso dei sistemi informatici; i piani di sicurezza informatica; e i modelli organizzativi in materia di sicurezza informatica e protezione dei dati personali. L'ambito tecnologico è infine l'insieme degli strumenti hardware e software che gli interessati possono utilizzare per mitigare il rischio informatico: Computer e server; Firewall, antivirus, antispam; Tracciatura e memorizzazione degli accessi al sistema ed agli applicativi; Sistemi di protezioni degli hardware (come cavi antifurto con chiave di sicurezza o combinazione per portatili o desktop; servizi di ricerca dispositivi e cancellazione dati a distanza, eccetera.)",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG14",
+            "RAWDOMText": [
+                " Proteggere i dati equivale a salvaguardare:",
+                " lavoro e reputazione",
+                " dotazione tecnologica e contenuto",
+                " identità personale e dei clienti",
+                " Giuridico",
+                " Norme ISO",
+                " GDPR",
+                " Provvedimenti Garante",
+                " Organizzativo",
+                " Regolamenti aziendali",
+                " Procedure e istruzioni operative",
+                " Piani di sicurezza informatica",
+                " Modelli organizzativi in materia",
+                " Tecnologico",
+                " Computer e server",
+                " Firewall, antivirus, antispam, ecc.",
+                " Tracciatura e memorizzazione degli accessi al sistema e agli applicativi",
+                " Sistemi di protezioni degli hardware"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/022-scale.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/023-gears.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/024-tablet.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "I dati: un valore da proteggere 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Abbiamo più volte parlato di dato personale. Qualsiasi informazione che identifica una persona in modo univoco come individuo, può essere considerata dato personale. Facciamo qualche esempio. Il primo è la cartella medica: ogni volta che ci rechiamo in ambulatori medici vengono aggiunte informazioni sulla nostra cartella medica elettronica (EHR, electronic health records). Le prescrizioni del medico sono inserite in tale cartella, che include salute fisica, mentale e anche altri dati personali non prettamente medici. Ad esempio, se da bambino abbiamo ricevuto consulenze in occasione di grandi cambiamenti familiari, questo dato sarà inserito nella nostra cartella medica. Oltre alla cronologia medica e ai dati personali, la cartella può contenere anche informazioni sulla famiglia di appartenenza.  I dispositivi medici come le fitness band, che usano la piattaforma cloud per visualizzare o trasferire dati clinici quali la frequenza cardiaca, la pressione del sangue e la glicemia, generano enormi quantità di dati clinici che possono essere aggiunti alla cartella medica. Un secondo esempio è il curriculum scolastico. Le informazioni su risultati e voti, presenze, corsi frequentati, titoli e riconoscimenti ottenuti ed eventuali note disciplinari vengono registrati nel curriculum scolastico. Tale curriculum può contenere anche informazioni su contatti, stato di salute e vaccinazioni, programmi educativi personalizzati (IEP, individualized education programs) e simili. Un terzo esempio sono i dati lavorativi e finanziari, che possono contenere informazioni sulle entrate e le spese. I dati fiscali possono includere buste paga, estratti conto delle carte di credito, il rating del credito e altre informazioni bancarie. Le informazioni lavorative, infine, possono includere gli incarichi precedenti e le relative prestazioni.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG15",
+            "RAWDOMText": [
+                " Dato personale",
+                " Qualsiasi informazione su di una persona che la identifichi in modo univoco come individuo",
+                " CARTELLA MEDICA",
+                " Es. prescrizioni, salute fisica e mentale, consulenze, informazioni familiari. Dati da dispositivi fitness band.",
+                " CURRICULUM SCOLASTICO",
+                " Es. risultati e voti, presenze, corsi, titoli, note, contatti, salute e vaccinazioni, programmi educativi personalizzati.",
+                " DATI FINANZIARI",
+                " Es. entrate e spese, fisco, buste paga, estratti conto, rating credito, info bancarie.",
+                " DATI LAVORATIVI",
+                " Es. incarichi precedenti e prestazioni.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Quando siamo nell’ambulatorio del medico, la conversazione con il nostro medico viene registrata nella cartella medica. A fini di fatturazione, tali informazioni possono essere condivise con la compagnia di assicurazioni per garantire una corretta fatturazione e la qualità del lavoro. Nella cartella medica, insieme ai dati della visita è indicata anche la compagnia di assicurazioni.<BR>Le carte fedeltà dei negozi possono essere un modo conveniente per risparmiare denaro sugli acquisti. Tuttavia, il negozio compila un profilo degli acquisti e utilizza tali informazioni per scopi interni. Il profilo mostra che un acquirente compra regolarmente prodotti di una determinata marca e un certo gusto di dentifricio. Il negozio usa tali informazioni per inviare all’acquirente determinate offerte speciali dei partner commerciali. Utilizzando la carta fedeltà, il negozio e i partner commerciali hanno un profilo indicante il comportamento relativo agli acquisti di un cliente.<BR>Quando condividiamo le foto online con gli amici, copie delle foto sono sui nostri dispositivi. I nostri amici possono avere copie di tali foto scaricate nei loro dispositivi. Se le foto sono condivise pubblicamente, anche degli estranei possono averne copie. Possono scaricarle o acquisirne schermate. Poiché le foto erano pubblicate online, sono inoltre salvate su server ubicati in varie parti del mondo. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p15_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/001-stethoscope.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/002-family.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/003-fitness-tracker.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/004-graduated.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/005-id-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/006-syringe.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/008-checked.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/009-credit-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/007-bank.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/010-toolbox.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png_p15/011-worker.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "I dati: un valore da proteggere 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In tale scenario, per poter svolgere le proprie attività (sociali ed economiche), senza che qualcuno possa indebitamente interferire, gli intermediari e i consulenti devono proteggere: i dati e le informazioni da eventuali tentativi di manomissione; l’uso dei propri servizi (come home banking, connettività, ecc.); la propria privacy e quella dei propri clienti. Se infatti computer o altri asset fisici (come il telefono) sono investimenti necessari per migliorare l'utilizzo di dati e informazioni, le risorse veramente importanti sono proprio questi ultimi. Tra le informazioni in possesso del consulente, le più importanti sono certamente quelle riferite ai clienti, come ad esempio la rubrica telefonica e degli appuntamenti, le comunicazioni via mail, nonché ogni eventuale ulteriore documentazione specifica che il consulente rediga su iniziativa personale (si pensi alle schede clienti personalizzate). Non solo. Fra i dati in possesso del consulente vi sono anche alcuni file o codici che permettono di accedere a ulteriori dati sensibili dei clienti, salvati sui server dell'intermediario (come la dotazione patrimoniale).",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG16",
+            "RAWDOMText": [
+                " Che cosa devono proteggere intermediari e consulenti?",
+                " I dati e le informazioni da manomissione",
+                " L’uso dei propri servizi (come home banking, connettività, ecc.)",
+                " La propria privacy e quella dei propri clienti",
+                " Le informazioni importanti sui clienti",
+                " Rubrica telefonica e degli appuntamenti",
+                " E-mail",
+                " Schede clienti",
+                " Dotazione patrimoniale"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p16_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p16_b.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/030-agenda.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/029-mail.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/020-id-card.png"
+                },
+                {
+                    "src": "contenuti/img/box2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/031-investment.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Gli attacchi al sistema finanziario 1/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ma entriamo ora più nel dettaglio degli attacchi al sistema finanziario, che costituisce un obiettivo senz’altro preferenziale per gli attori della minaccia, che siano motivati dal profitto o interessati a impedire il funzionamento del sistema economico per motivi politici. Già nel 2014, come evidenziato nel documento «Sicurezza cibernetica: il contributo della Banca d’Italia e dell’Ivass», a cura del Gruppo di coordinamento sulla sicurezza cibernetica, un attacco coordinato contro numerose banche statunitensi condusse, tra l’altro, al furto dei dati personali di 80 milioni di clienti di JP Morgan Chase. Negli anni successivi si sono moltiplicati episodi simili; quasi nessuna delle grandi istituzioni finanziarie private è rimasta immune e sono state colpite anche alcune banche centrali. Gli attacchi al sistema finanziario sono talvolta condotti con metodi molto semplici, come il furto di credenziali di accesso ai conti mediante il phishing, o il denial of service, che, sovraccaricando i server con milioni di richieste simultanee di dati, rende inutilizzabili i servizi bancari erogati via rete. Altre volte le intrusioni sono condotte con metodi complessi e portano alla sottrazione di fondi o di dati su larga scala.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG17",
+            "RAWDOMText": [
+                " Gli attacchi al sistema finanziario",
+                " 2014",
+                "Attacco a gran parte delle banche USA, con furto dei dati personali di 80 milioni di clienti di JP Morgan Chase",
+                " Anni seguenti",
+                "Attacchi simili a istituzioni finanziarie e banche centrali",
+                " Come vengono condotti gli attacchi?",
+                " Metodi semplici",
+                " Phishing (furto di credenziali di accesso ai conti)",
+                " Denial of service (sovraccarico dei server)",
+                " Metodi complessi",
+                " Sottrazione di fondi o di dati su larga scala"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p17_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p17_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/032-newspaper.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Gli attacchi al sistema finanziario 2/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La difesa del sistema finanziario è assai complessa: il settore, altamente digitalizzato, è interconnesso a livello globale mediante un piccolo numero di infrastrutture che possono presentare vulnerabilità ed è attaccabile attraverso possibili comportamenti imprudenti dei centinaia di milioni di utenti di servizi finanziari online. Un attacco che va a buon fine può essere particolarmente dannoso anche se condotto su piccola scala: alcuni processi centrali del sistema finanziario, come quelli legati al regolamento dei pagamenti, dipendono fondamentalmente dalla tempestiva disponibilità dei dati; un ritardo anche modesto si traduce in costi elevati. Le autorità di settore sono state tra le prime, al di fuori dell’ambito della difesa e della sicurezza nazionale, a prestare attenzione al rischio cibernetico, intuendone il potenziale impatto negativo non solo sui singoli operatori colpiti, ma anche sulla fiducia del pubblico nei confronti del sistema finanziario.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG18",
+            "RAWDOMText": [
+                "<div",
+                " Il sistema finanziario è complesso, digitalizzato, interconnesso.",
+                " COME è ATTACCABILE?",
+                " Comportamenti imprudenti dei centinaia di utenti.",
+                " Se un attacco va a buon fine",
+                " I danni sono sempre consistenti",
+                " Le autorità di settore sono consapevoli che è a rischio la fiducia del pubblico nei confronti dell’intero sistema.",
+                " Fonte",
+                " Sicurezza cibernetica: il contributo della Banca d’Italia e dell’Ivass"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p18.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/005-hacker.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/033-money-bag.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "Gli attacchi al sistema finanziario 3/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina19.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Con lo sviluppo di malware in grado di diffondersi molto rapidamente, assume maggiore rilevanza anche il rischio sistemico derivante dall’alto livello di interconnessione dei processi e dei sistemi finanziari. Il rischio cibernetico riguarda anche il settore assicurativo, le cui aziende hanno ampia esposizione in ragione della catena del valore in cui sono inserite. Vi partecipano soggetti con dimensioni operative e presidi organizzativi molto eterogenei (agenzie, broker, singoli agenti) e connessi con le altre componenti del sistema finanziario (banche e conglomerati). I profili tipici di operatività nei rami vita, danni e salute, che comportano un’intensa interazione online con gli assicurati, espongono gli operatori ai rischi legali della sottrazione di informazioni riservate. D’altro canto, per il settore assicurativo il presidio del rischio cibernetico costituisce anche un’opportunità di mercato, quella dello sviluppo e dell’offerta, a imprese e a individui, di prodotti di copertura contro gli effetti avversi degli attacchi informatici. Le autorità di settore hanno un ruolo centrale nel garantire che le caratteristiche del rischio cibernetico non si trasformino in una minaccia per la solvibilità delle imprese assicurative.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG19",
+            "RAWDOMText": [
+                " Fonte: Sicurezza cibernetica: il contributo della Banca d’Italia e dell’Ivass",
+                " Malware",
+                " (rapidità di diffusione)",
+                " Rischio sistemico",
+                " (interconnessione processi e sistemi finanziari)",
+                " SETTORE ASSICURATIVO:",
+                " Obiettivo sensibile",
+                " soggetti con dimensioni operative e presidi organizzativi molto eterogenei ",
+                " connessione con le altre componenti del sistema finanziario ",
+                " Rischi legali per gli operatori",
+                " MA ANCHE",
+                " Opportunità di mercato: coperture contro il cyber crime",
+                " RUOLO CENTRALE DELLE AUTORITÀ DI SETTORE",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Questo mercato presenta ancora una certa immaturità a livello globale. Secondo stime dell’OCSE, negli Stati Uniti – dove è concentrato più dell’80% del mercato globale – la quota di imprese con copertura specifica sarebbe tra il 20% e il 35%. Ancora inferiori sono le percentuali nel Regno Unito, secondo mercato al mondo, e nell’Europa continentale (cfr. in proposito OCSE – 2017). Si sta però sviluppando molto rapidamente!</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p19_b.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "Gli attacchi al sistema finanziario 4/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina20.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nei primi mesi del 2017 un gruppo di hacker noto come Shadow Brokers ha diffuso in rete un codice malevolo che è stato utilizzato da gruppi criminali per realizzare strumenti di attacco particolarmente virulenti. Questo codice ha la caratteristica di replicarsi molto velocemente mediante artifici inediti e sofisticati, ideati proprio per facilitare il più possibile il contagio tra computer. Tale meccanismo è stato alla base di due tra i più importanti attacchi dei tempi recenti: WannaCry e NotPetya. Nel maggio 2017 centinaia di migliaia di utenti del sistema operativo Windows sono stati colpiti da WannaCry, un programma che blocca il funzionamento di un computer cifrando i dati e che chiede un “riscatto” (ransomware) in Bitcoin per decifrarli; in alcuni ospedali britannici è stato necessario rinviare visite e operazioni per indisponibilità dei sistemi informatici. Nel giugno 2017 è stato sferrato un altro attacco attraverso la diffusione di NotPetya, software ancora più pericoloso in quanto cifra i dati ma non dà la possibilità di decifrarli, di fatto distruggendo i contenuti dei dispositivi colpiti. La multinazionale danese Møller-Mærsk ha dichiarato danni per circa 300 milioni di dollari; anche altri gruppi industriali, pur non indicando un ammontare preciso, hanno rivelato di aver subito conseguenze significative. Secondo fonti giornalistiche l’impatto globale di NotPetya ha superato un miliardo di dollari. Le due campagne di attacco hanno sfruttato vulnerabilità già note, presenti nelle piattaforme più comuni. Il numero delle vittime, seppure elevato, è rimasto contenuto grazie al fatto che molte aziende avevano aggiornato per tempo i propri sistemi.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG20",
+            "RAWDOMText": [
+                " 2017",
+                " Il gruppo di hacker Shadow Brokers diffonde in rete un codice malevolo capace di replicarsi velocemente",
+                " WannaCry",
+                " Maggio 2017",
+                " Blocca i pc chiedendo un riscatto in bitcoin (ransomware)",
+                " In alcuni ospedali britannici è stato necessario rinviare visite e operazioni per indisponibilità dei sistemi informatici",
+                " NotPetya",
+                " Giugno 2017",
+                " Cifra i dati ma non dà la possibilità di decifrarli, distruggendo i contenuti dei dispositivi colpiti",
+                " $300 milioni di danni alla multinazionale danese Møller-Mærsk",
+                " Danni ad altri gruppi industriali",
+                " Danni totali $1 miliardo",
+                " Il numero delle vittime, seppure elevato, è rimasto contenuto grazie al fatto che molte aziende avevano aggiornato per tempo i propri sistemi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/p20.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD01/img/png/034-virus.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p20"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina21.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG21",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " La vulnerabilità della rete è in gran parte una diretta conseguenza della sua architettura. Perché?",
+                " Perché Internet non è stato progettato in origine per proteggere i dati degli utenti connessi, ma per agevolare gli scambi fra i vari individui, pertanto è aperto e adatto alla condivisione di dati.",
+                " Che cosa si intende per Advanced Persistent Threat?",
+                " Sono gruppi criminali che possono impiegare anche mesi per ricercare punti deboli e determinare il modo più efficace per attaccare, prima di raggiungere l'obiettivo. Più che di una singola azione di hackeraggio, si tratta di una minaccia persistente sempre in agguato.",
+                " Qual è tra i crimini informatici uno di quelli in più rapida crescita?",
+                " I criminali sono interessati ai nostri dati: il furto di identità è tra i crimini in più rapida crescita in termini di danni provocati (circa $ 375 miliardi all'anno solo negli Stati Uniti) e colpisce una persona su 25 ogni anno.",
+                " Tra le informazioni in possesso del consulente le più importanti sono quelle riferite ai clienti. Quali?",
+                " La rubrica telefonica e degli appuntamenti, le e-mail, la documentazione specifica redatta (es. schede clienti), file o codici che permettono di accedere ad ulteriori dati sensibili dei clienti (es.: la dotazione patrimoniale)."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p21"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 21,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina22.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_01_MOD1_LEZ1_PAG22",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quale dei seguenti è un ambito di competenza della cyber security?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD01/audio/0064_18_01_m01ud01p22"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD1_LEZ1"
+}

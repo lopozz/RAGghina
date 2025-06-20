@@ -1,0 +1,75 @@
+﻿<div style="width:100%; height: 100%;" class="ng-scope" ng-controller="PagineFotoPopupCtrl" ng-init="initSVG(4)">
+	<div id="imgContainer" style="position: absolute;margin-top: 1%;width: 100%;height: 80%;">
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute;top: 0px;left: 0px;" ng-click="handlePageBox(1, $event)" ng-style="{'cursor': mediaEnded?'pointer':'default'}">
+			<img src="contenuti/0064_18_04_M01UD02/img/1.jpg">
+		</div>
+		<div id="img2" class="pullDown" animated="" datastart="5" ng-show="getIsVisible('img2')" style="position: absolute;top: 0px;left: 253px;" ng-click="handlePageBox(2, $event)" ng-style="{'cursor': mediaEnded?'pointer':'default'}">
+			<img src="contenuti/0064_18_04_M01UD02/img/2.jpg">
+		</div>
+		<div id="img3" class="pullDown" animated="" datastart="11" ng-show="getIsVisible('img3')" style="position: absolute;top: 0px;left: 505px;" ng-click="handlePageBox(3, $event)" ng-style="{'cursor': mediaEnded?'pointer':'default'}">
+			<img src="contenuti/0064_18_04_M01UD02/img/3.jpg">
+		</div>
+		<div id="img4" class="pullDown" animated="" datastart="15" ng-show="getIsVisible('img4')" style="position: absolute;top: 0px;left: 758px;" ng-click="handlePageBox(4, $event)" ng-style="{'cursor': mediaEnded?'pointer':'default'}">
+			<img src="contenuti/0064_18_04_M01UD02/img/4.jpg">
+		</div>
+	</div>
+	<div id="boxContainer" style="position: absolute;width: 100%;height: 80%; pointer-events: none;">
+		<svg id="Popup" width="1000" height="440">
+		  <g id="box1" fill="#ffde39">
+			<path id="box1Aperta" d="M0 10l242 .02.437 163.52c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box1Apertura" d="M0 10l242 .02.437 41.518c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box1Chiusa" d="M0 10l242 .02"/>
+		  </g>
+		  <g id="box2" fill="#069" transform="translate(252.457)">
+			<path id="box2Aperta" d="M0 10l242 .02.437 163.52c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box2Apertura" d="M0 10l242 .02.437 41.518c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box2Chiusa" d="M0 10l242 .02"/>
+		  </g>
+		  <g id="box3" fill="#ffde39" transform="translate(504.914)">
+			<path id="box3Aperta" d="M0 10l242 .02.437 163.52c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box3Apertura" d="M0 10l242 .02.437 41.518c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box3Chiusa" d="M0 10l242 .02"/>
+		  </g>
+		  <g id="box4" fill="#069" transform="translate(758)">
+			<path id="box4Aperta" d="M0 10l242 .02.437 163.52c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box4Apertura" d="M0 10l242 .02.437 41.518c-38.989 12.423-84.315 7.944-131.32-1.01-71.47-12.15-81.845-2.737-111.137 0z"/>
+			<path id="box4Chiusa" d="M0 10l242 .02"/>
+		  </g>
+		</svg>
+	</div>
+	<div id="txtContainer" style="position: absolute;margin-top: 1%;width: 100%;height: 80%; pointer-events: none;">
+		<div id="txt1" ng-show="vociMenu[0]" class="testoTendina pullDown" animated="" datastart="0" ng-show="getIsVisible('txt1')" style="position: absolute;top: 10px;left: 5px;width: 232px;color:black !important;">
+			Quanti sono gli italiani che riescono ad accumulare risparmi?
+		</div>
+		<div id="txt2" ng-show="vociMenu[1]" class="testoTendina pullDown" animated="" datastart="0" ng-show="getIsVisible('txt2')" style="position: absolute;top: 10px;left: 257px;width: 232px;">
+			Quali sono le principali finalità del risparmio?
+		</div>
+		<div id="txt3" ng-show="vociMenu[2]" class="testoTendina pullDown" animated="" datastart="0" ng-show="getIsVisible('txt3')" style="position: absolute;top: 10px;left: 510px;width: 232px;color:black !important;">
+			Quali sono le soluzioni preferite di risparmio?
+		</div>
+		<div id="txt4" ng-show="vociMenu[3]" class="testoTendina pullDown" animated="" datastart="0" ng-show="getIsVisible('txt4')" style="position: absolute;top: 10px;left: 762px;width: 232px;">
+			Vi sono differenze fra le scelte relative al risparmio da parte delle famiglie italiane e quelle delle famiglie dell’Eurozona?
+		</div>
+	</div>
+
+	<div id="istruzione" class="istruzionePopup pullDown" animated="" ng-show="mediaEnded">
+		Fai clic sulle immagini per scoprire i testi
+	</div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_04_M01UD02/audio/0064_18_04_m01ud02p01" condiviso="true">
+    </audio>
+</aside>
+<style>
+	#box1, #box2, #box3, #box4 {
+		visibility: hidden;
+		opacity: 1;
+	}
+
+	.elementiSVG {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+	}
+</style>

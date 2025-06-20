@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Sì, solo e solo attraverso Bitcoin.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sì, con qualsiasi criptovaluta.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"No, il mondo delle exchange platforms è legale, e le transazioni si effettuano utilizzando denaro a corso legale.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"No, le transazioni si effettuano solo in dollari.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Le piattaforme di scambio su cui si commerciano valute digitali sono legali, ma non sono regolamentate, quindi non è prevista una tutela legale specifica in caso di problemi.",
+    "feedbackNeg": "<b>Non è esatto!</b> Le piattaforme di scambio su cui si commerciano valute digitali sono legali, ma non sono regolamentate, quindi non è prevista una tutela legale specifica in caso di problemi."
+}

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"È un software che rende inutilizzabili i dati finché non viene pagato un riscatto.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"È una tecnica che maschera l’origine di un SMS.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È l’insieme delle tecnologie per proteggere i sistemi connessi ad internet.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È un programma progettato per infettare software legittimi.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b><BR>Un ransomware è un malware che blocca l’accesso ai dati o al dispositivo che infetta richiedendo un riscatto economico per sbloccarlo.",
+    "feedbackNeg": "<b>Non è esatto!</b><BR>Un ransomware è un malware che blocca l’accesso ai dati o al dispositivo che infetta richiedendo un riscatto economico per sbloccarlo."
+}

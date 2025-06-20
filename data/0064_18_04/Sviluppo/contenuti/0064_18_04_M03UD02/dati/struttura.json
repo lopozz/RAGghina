@@ -1,0 +1,492 @@
+{
+    "titolo": "Robo Advisor",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "La consulenza finanziaria automatizza. Scopri i vantaggi e le caratteristiche dei servizi on line di una piattaforma finanziaria. I robo advisor, una tecnologia che completa non sostituisce l’esperienza dell’operatore finanziario. Alcune raccomandazione sugli sviluppi tecnologici nel settore della consulenza finanziaria. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG1",
+            "RAWDOMText": [
+                " Cos’è la consulenza finanziaria automatizzata?",
+                " Quali sono i vantaggi del digital wealth management?",
+                " I Robo advisor, sostituiranno la figura del consulente finanziario?",
+                " Dove trovare delle linee guida o delle raccomandazioni rispetto agli sviluppi tecnologici nel settore della consulenza finanziaria?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "La consulenza finanziaria automatizzata",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Banca d'Italia indentifica come macrocategoria la consulenza finanziaria automatizzata, intesa come forma di consulenza finanziaria diretta a fornire consigli o raccomandazioni ai clienti, senza utilizzo di persone fisiche basandosi invece su algoritmi informatici e/o alberi decisionali. Tale definizione include ogni forma di robo advisory, ovvero tutti quei servizi on-line di gestione automatizzata del portafoglio finanziario che integrano o sostituiscono l'operato di un consulente finanziario. La consulenza finanziaria on-line fornita dai robo advisor si espleta con servizi di digital wealth management. Per identificare i robo advisor parliamo di «consulente finanziario virtuale».",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG2",
+            "RAWDOMText": [
+                " La consulenza finanziaria automatizzata, forma di consulenza finanziaria basata non su persone fisiche, ma:",
+                " Algoritmi informatici",
+                " Alberi decisionali",
+                " Robo advisory",
+                " servizi on-line di gestione automatizzata del portafoglio finanziario che integrano o sostituiscono l'operato di un consulente finanziario."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p02.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Le fasi dei robo advisor",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I robo advisor: definiscono il profilo del cliente; rilevano gli obiettivi; creano piani di investimenti personalizzati; bilanciano i portafogli nel periodo successivo qualora necessario; guidano il risparmiatore nel tempo. I robo advisor mutano la figura dell'intermediario e della consulenza finanziaria, generando un modo nuovo di interagire con la clientela, attraverso soluzioni allineate a una pianificazione finanziaria più curata e completa.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG3",
+            "RAWDOMText": [
+                " Robo advisor",
+                " definiscono il profilo del cliente;",
+                " rilevano gli obiettivi;",
+                " creano piani di investimenti personalizzati;",
+                " bilanciano i portafogli nel periodo successivo;",
+                " guidano il risparmiatore nel tempo.",
+                " Nasce un modo nuovo di interagire con la clientela, attraverso soluzioni allineate a una pianificazione finanziaria più curata e completa."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p03_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "I vantaggi attesi 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I sostenitori dei robo advisor affermano che utilizzare piattaforme di servizi digitali mira a rendere il risparmiatore più consapevole nella pianificazione dei propri risparmi. Un vantaggio nel loro utilizzo sono le commissioni inferiori, permettendo a clienti con contenuta disponibilità di investimento l'accesso a servizi di elevata qualità.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG4",
+            "RAWDOMText": [
+                " Le piattaforme on-line rendono il cliente più consapevole della pianificazione dei propri risparmi.",
+                " Vantaggio Economico",
+                " Le commissioni sono più basse",
+                " permettono a clienti con contenuta disponibilità l'accesso a servizi di elevata qualità."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/analysis.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/bar-chart.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx_blu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "I vantaggi attesi 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un altro vantaggio nell'utilizzo dei robo advisor è la migliore capacità di ridurre errori comportamentali generati da bias (pregiudizi) cognitivi, ad esempio l'overconfidence, ovvero l'eccessiva sicurezza in se stessi. Tutto questo però non deve sostituire il lavoro di un consulente finanziario competente ed efficiente.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG5",
+            "RAWDOMText": [
+                " Migliore capacità di ridurre errori comportamentali generati da bias (pregiudizi) cognitivi, ad esempio l'overconfidence, ovvero l'eccessiva sicurezza in se stessi.",
+                " Tutto questo però non può e non deve sostituire il lavoro di un consulente finanziario competente ed efficiente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/home.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/handshake.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/employee.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "I vantaggi attesi 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Con i robo advisor siamo di fronte ad un cambiamento nel wealth management (gestione patrimoniale). In particolare ci si aspetta una attrazione tra questo nuovo approccio alla gestione partimoniale, combinato con la tecnologia, e la cosiddetta generazione Y o millennial Generation, ovvero i nati nel mondo occidentale tra i primi anni '80 e la metà degli anni '90, che si caratterizzano per il grande feeling con la tecnologia digitale.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG6",
+            "RAWDOMText": [
+                " La gestione patrimoniale con robo advisor",
+                " Robo advisor",
+                " WEALTH MANAGEMENT",
+                " Un nuovo approccio, fortemente tecnologico ed interattivo",
+                " i nati tra i primi anni '80 e la metà degli anni '90, che si caratterizzano per il grande feeling con la tecnologia digitale",
+                " millennial"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p06_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx_blu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/social-media.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/boy.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "I robo advisor come strumenti complementari 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nella pianificazione con orizzonti temporali di lungo periodo, e con scelte di investimento articolate,  rimane imprescindibile il ruolo del consulente finanziario. I robo advisor quindi non devono essere visti come dei sostituti del consulente finanziario, ma come strumenti complementari.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG7",
+            "RAWDOMText": [
+                " Nella pianificazione su lungo periodo, rimane imprescindibile il ruolo del consulente.",
+                " I robo advisor devono essere visti come strumenti complementari."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/home.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/employee.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "I robo advisor come strumenti complementari 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Infatti si pensa a soluzioni ibride che includano simultaneamente consulenti finanziari e robo advisor, già adesso sulle piattaforme sono coinvolti operatori con elevate competenze e capacità di gestire opportunamente gli investimenti. I robo advisor possono rappresentare la nuova frontiera per effettuare investimenti, accanto al “fai da te”, che presuppone competenze e tempo, ed ai consulenti finanziari.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG8",
+            "RAWDOMText": [
+                " Soluzioni ibride",
+                " Consulenti finanziari",
+                " Robo advisor",
+                " Operatori con elevate competenze e capacità di gestire opportunamente gli investimenti",
+                " Robo advice",
+                " Gestione Self made",
+                " Consulente finanziario"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p08.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/home.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/boy.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/icone/employee.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Le linee guida MiFID II 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L'ESMA il 28 maggio 2018 ha pubblicato Le linee guida finali sui requisiti di idoneità MiFID II. Si basano sul testo delle linee guida MiFID I dell'ESMA del 2012 , ampiamente confermate e ampliate al fine di: considerare gli sviluppi tecnologici nel settore della consulenza finanziaria, in particolare l'uso crescente di sistemi automatizzati o semi-automatizzati per la fornitura di consulenza in materia di investimenti o di gestione del portafoglio (robo-advice); basarsi sull'esperienza di vigilanza delle NCAs (National Competent Authorities – Autorità nazionali competenti) sull'applicazione dei requisiti di idoneità (compresi gli orientamenti del 2012); tenere conto dei risultati degli studi nel settore della finanza comportamentale; fornire ulteriori dettagli su alcuni aspetti che erano già coperti dagli orientamenti del 2012. È previsto un aumento delle quote di mercato per l’acquisizione di nuova clientela con maggiore propensione al digitale; sono inoltre segnalati tra i benefici attesi la semplificazione dell’accesso ai servizi bancari e il possibile miglioramento della reputazione rinveniente dai migliori servizi offerti alla clientela e dall’aumento del grado di educazione finanziaria.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG9",
+            "RAWDOMText": [
+                " ESMA",
+                " 28 maggio 2018",
+                " Le linee guida finali sui requisiti di idoneità MiFID II",
+                " Contemplano ed ampliano il testo del 2012",
+                " sviluppi tecnologici nel settore della consulenza finanziaria",
+                " vigilanza delle NCAs (National Competent Authorities - Autorita nazionali competenti) sull'applicazione dei requisiti di idoneità",
+                " tenere conto degli studi nel settore della finanza comportamentale",
+                " ulteriori dettagli in aggiunta agli orientamenti del 2012"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p09.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Le linee guida MiFID II 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In particolare viene definito che: al fine di colmare eventuali lacune nella comprensione da parte dei clienti dei servizi forniti attraverso il robo-advice, gli intermediari dovrebbero informare i clienti: del grado esatto e della portata del coinvolgimento umano e se e in che modo il cliente può chiedere l'interazione umana; se le risposte fornite dai clienti avranno un impatto diretto nel determinare l'idoneità delle decisioni di investimento raccomandate o intraprese per loro conto; quali fonti di informazione sono utilizzate per generare un consiglio di investimento o fornire il servizio di gestione del portafoglio (ad esempio, se viene utilizzato un questionario online, le imprese dovrebbero spiegare che le risposte al questionario possono costituire l'unica base per il consiglio del robo advisor o se l‘intermediario ha accesso ad altre informazioni o account del cliente); come e quando le informazioni del cliente saranno aggiornate in relazione alla sua situazione, a circostanze personali, etc.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG10",
+            "RAWDOMText": [
+                " Gli intermediari devono informare i clienti",
+                " della portata del coinvolgimento umano e se e in che modo il cliente può chiedere l'interazione umana",
+                " se le risposte fornite dai clienti avranno un impatto nel determinare l'idoneità delle decisioni di investimento",
+                " quali fonti di informazione sono utilizzate per generare un consiglio di investimento o fornire il servizio di gestione del portafoglio",
+                " come e quando le informazioni del cliente saranno aggiornate"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p10_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD02/img/p10_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG11",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Come funziona il digital wealth management?",
+                " Con digital wealth management si intende una piattaforma di servizi on-line, gestita con l’ausilio di robo advisor, che forniscono una consulenza finanziaria mediante algoritmi informatici e/o alberi decisionali.",
+                " Quali sono caratteristiche e vantaggi del ricorso a robo advisor?",
+                " Sicuramente la velocità e la completezza di risposta in base ai dati disponibili. Grosso vantaggio è l’economicità delle transazioni, ma è importante la caratteristica che limita errori comportamentali come, ad esempio, l'overconfidence.",
+                " I robo advisor sostituiranno i consulenti finanziari tradizionali?",
+                " I robo advisor si focalizzano essenzialmente sulla gestione del portafoglio e quindi sull'allocazione degli investimenti. Nella pianificazione finanziaria con orizzonti temporali di lungo periodo e scelte di investimento articolate il ruolo del consulente finanziario rimane comunque imprescindibile.",
+                " Esistono regolamenti speciali per la consulenza finanziaria virtuale?",
+                " Le regole sono quelle dei NCAs (National Competent Authorities – Autorità nazionali competenti) sull'applicazione dei requisiti, le linee guida sono descritte dall’ESMA nel documentoa «Le linee guida finali sui requisiti di idoneità MiFID II»."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD2_LEZ2_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Per quale generazione è maggiore l’attrazione all’interazione tecnologica?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD02/audio/0064_18_04_m03ud02p12"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD2_LEZ2"
+}

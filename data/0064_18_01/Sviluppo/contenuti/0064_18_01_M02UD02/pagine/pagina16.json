@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"È un attacco informatico che prova le password più comuni utilizzate dagli utenti.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È un antivirus estremamente aggressivo.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È una chiavetta USB che serve a evitare attacchi informatici.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"È un attacco informatico che individua le password, tentando combinazioni fra lettere, numeri e caratteri speciali.",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Il brute force attack impiega software specifici per applicare algoritmi di tipo matematico volti a individuare la password, tentando tutte le possibili combinazioni fra lettere, numeri e caratteri speciali.",
+    "feedbackNeg": "<b>Non è esatto!</b> Il brute force attack impiega software specifici per applicare algoritmi di tipo matematico volti a individuare la password, tentando tutte le possibili combinazioni fra lettere, numeri e caratteri speciali."
+}

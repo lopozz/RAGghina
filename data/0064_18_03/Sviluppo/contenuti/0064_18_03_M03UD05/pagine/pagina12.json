@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Molto rilevante perché assicurerà maggior visibilità ai marchi.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Molto rilevante per la capillarità con cui sarà possibile raggiungere clienti attuali e potenziali e sviluppare servizi  innovativi integrati.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Molto rilevante per la velocità con cui sarà possibile contattare i clienti.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Molto rilevante ma non cruciale, perché avrà grande peso soprattutto il rapporto diretto con l’intermediario.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Social media e tecnologie cellulari avranno un ruolo molto rilevante nel risparmio gestito del futuro, per la capillarità con cui sarà possibile raggiungere clienti attuali e potenziali e sviluppare servizi innovativi integrati.",
+    "feedbackNeg": "<b>Non è esatto!</b> Social media e tecnologie cellulari avranno un ruolo molto rilevante nel risparmio gestito del futuro, per la capillarità con cui sarà possibile raggiungere clienti attuali e potenziali e sviluppare servizi innovativi integrati."
+}

@@ -1,0 +1,1083 @@
+{
+    "titolo": "Vademecum per la sicurezza dei dati aziendali - Parte 1",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Il Gli imprenditori delle PMI hanno bisogno di concrete indicazioni sulle cose da fare (e non fare) per difendere il business da possibili “violazioni” della sicurezza delle informazioni aziendali. Le PMI di ogni settore, infatti, nella gestione quotidiana creano, consultano, gestiscono informazioni con strumenti informatici aziendali (propri, in Outsourcing o in Cloud). Fai clic sulle foto per scoprire di che cosa parleremo nelle prossime pagine.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG1",
+            "RAWDOMText": [
+                " A che cosa serve un vademecum per le PMI sulla sicurezza informatica?",
+                " Quali aree tecnologiche generano impatti benefici sui sistemi informativi?",
+                " Quali sono le aziende più a rischio?",
+                " Cloud computing, IoT, Big data, Social network: quali i pro e i contro per le PMI?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Perché un vademecum 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il Gruppo di lavoro Sicurezza Informatica di Assintel ha promosso la realizzazione e divulgazione di un “vademecum” per sensibilizzare e fornire un supporto pratico alle PMI nella valutazione delle misure sulla sicurezza delle informazioni, in termini economici, gestionali, tecnologici ed organizzativi. È uno strumento concreto utile agli imprenditori delle PMI per avere indicazioni sulle cose da fare (e non fare) per difendere il proprio business da “violazioni” della sicurezza delle informazioni aziendali. Ma in cosa consiste la sicurezza delle informazioni? Significa in pratica riservatezza, disponibilità e integrità delle informazioni. È evidente che ogni PMI presenta diversi livelli di rischio relativi alla sicurezza delle informazioni. È fondamentale quindi che ogni imprenditore conosca la propria esposizione al rischio e promuova le azioni più adeguate per fronteggiarlo.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG2",
+            "RAWDOMText": [
+                " Che cosa fare e non fare per difendere il proprio business da “violazioni” della sicurezza delle informazioni aziendali?",
+                " RISERVATEZZA",
+                " DISPONIBILITÀ",
+                " INTEGRITÀ",
+                " Quali sono le azioni più adeguate per proteggere le informazioni?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p02.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/logoAssintel.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/001-error.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Perché un vademecum 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo Assintel, sono maggiormente esposte ai rischi relativi alla sicurezza delle informazioni le aziende che: non hanno mai valutato la propria esposizione ai rischi trattano informazioni che possono condizionare la competitività sul mercato possono essere oggetto di frodi sono interconnesse in via telematica con clienti e fornitori trattano informazioni “critiche” in termini di conformità alle normative ricorrono alla terziarizzazione dei servizi senza adeguati controlli fanno un utilizzo significativo delle nuove tecnologie (web, social, dispositivi mobili), anche in area produttiva. Prosegui per scendere più nel dettaglio di quest’analisi!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG3",
+            "RAWDOMText": [
+                " Sono più a rischio le aziende che:",
+                " non hanno mai valutato la propria esposizione ai rischi",
+                " trattano informazioni che possono condizionare la competitività sul mercato",
+                " possono essere oggetto di frodi",
+                " sono interconnesse in via telematica con clienti e fornitori",
+                " trattano informazioni “critiche”",
+                " terziarizzano senza adeguati controlli",
+                " usano nuove tecnologie, anche in area produttiva"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/001-error.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/002-shopping-cart.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/003-credit-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/004-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/005-padlock.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/006-loupe.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/007-app.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Cosa s’intende per sistemi informativi",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ma facciamo un passo indietro: che cosa si intende per sistema informativo? Un sistema informativo può essere definito come un insieme di componenti interconnesse che raccoglie, elabora, memorizza e distribuisce le informazioni necessarie per supportare i processi produttivi, decisionali e di controllo di un’organizzazione. Comprende pertanto tutte le informazioni utilizzate dall’azienda, inclusi i supporti che le contengono, gli strumenti che permettono di crearle, modificarle, cancellarle o trasmetterle e le persone che si relazionano con essi, le quali sono sempre “fonti di informazioni”. Nello specifico, in un moderno sistema informativo aziendale chiaramente gran parte di esso è composto dal sistema informatico, ma rientrano nel sistema informativo anche tutte quelle informazioni che risiedono su altri supporti non informatici, come ad esempio gli archivi cartacei, le fotocopie, le stampe e qualsiasi altro supporto che non viene gestito attraverso sistemi computerizzati.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG4",
+            "RAWDOMText": [
+                " Sistema informativo",
+                " Insieme di componenti interconnesse che raccoglie, elabora, memorizza e distribuisce le informazioni necessarie per supportare i processi produttivi, decisionali e di controllo di un'organizzazione",
+                " INFORMAZIONI",
+                " SUPPORTI",
+                " STRUMENTI",
+                " PERSONE",
+                " SISTEMA INFORMATICO",
+                " SUPPORTI NON COMPUTERIZZATI"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/008-help.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/009-file.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/010-computer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/011-employee.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Il ruolo dei sistemi informativi 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il Sistema informativo gioca un grande ruolo nella competitività e nello sviluppo di un’azienda e le tecnologie costituiscono un elemento determinante nel raggiungimento degli obiettivi aziendali. La capacità di un’azienda di saper usare le tecnologie dell’informazione genera eccellenza operativa, facilita lo sviluppo di prodotti e servizi innovativi, incrementa la fidelizzazione dei propri clienti, migliora i processi decisionali e aumenta il vantaggio competitivo. Ma quali possono essere le aree tecnologiche che maggiormente potrebbero generare impatti benefici sui sistemi informativi? Ad oggi, sicuramente: l’utilizzo sempre più diffuso del “Cloud Computing”; la disponibilità di piattaforme basate su tecnologie mobile (Smartphone, Tablet, e più in generale sistemi touch); i Social Network; l’Internet of things; e infine ai fenomeni di “Big Data” e “Sentiment Analysis” (ovvero l’analisi delle emozioni espresse sui Social Media), grazie ai quali è possibile analizzare, interpretare ed estrarre nuove informazioni da una enorme quantità di dati ed elaborarli al fine di supportare i processi decisionali e le strategie di sviluppo aziendali.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG5",
+            "RAWDOMText": [
+                " Sistema informativo e tecnologico",
+                " Obiettivi aziendali",
+                " Eccellenza operativa",
+                " Innovazione",
+                " Fidelizzazione",
+                " Miglioramento processi",
+                " Competitività",
+                " Aree tecnologiche a maggiore impatto",
+                " Cloud Computing",
+                " Mobile",
+                " Social Network",
+                " IoT",
+                " Big Data e Sentiment Analysis"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/012-folder.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/018-finish-flag.png"
+                },
+                {
+                    "src": "contenuti/img/parGraffa1.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaDoppia.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/013-upload-to-cloud.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/014-smartphone.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/015-share.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/016-modem.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/017-conversation.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Il ruolo dei sistemi informativi 2/2",
+            "tipologia": "test",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "approfondimenti": 6,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ma quali sono le opportunità e i benefici per le aziende dovuti all’innovazione tecnologica del cloud computing, dei dispositivi mobile, del «social» business, dell’internet of things, dei Big data e della sentiment analysis. Fai clic sulle immagini e scoprilo!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG6",
+            "RAWDOMText": [
+                " Cloud computing",
+                " La componente tecnologica del sistema informativo può essere esternalizzata consentendo all’azienda di concentrarsi sul proprio business. Rispetto al tradizionale outsourcing consente di disporre di risorse praticamente illimitate, continuamente aggiornate senza l’onere delle gestione operativa. Sotto il profilo economico consente di ridurre i costi delle infrastrutture tecnologiche, evitando preventivi e massicci investimenti, legandoli direttamente ai volumi delle attività aziendali.",
+                " Mobile",
+                " I dispositivi mobili (mobile) quali Smartphone, Tablet e più in generale i dispositivi con schermo tattile (touch) hanno superato sia in quantità che come modalità d’uso i Notebook e i Laptop e sempre di più consentono di poter svolgere qualsiasi operazione (navigare, ricercare, acquistare, comunicare, collaborare, etc.). In questo contesto il sistema informativo deve essere in grado di fornire funzionalità agli utenti che intendono mettersi in contatto con l’azienda per qualsiasi tipo di operazione sia di tipo informativo, ma anche per acquistare, comunicare o colloquiare con l’azienda. In questo modo aumentando il livello di interazione tra l’azienda e i propri clienti possono crescere il livello di fidelizzazione e le opportunità commerciali.",
+                " Social business",
+                " I canali social (Facebook, Twitter, Instagram, etc.) possono consentire all’azienda di approfondire il livello di interazione con i propri clienti al fine di incrementare sia in termini quantitativi che di segmentazione del mercato le proprie proposte commerciali. Ovviamente lo stesso strumento consente all’azienda di fornire in modo tempestivo e in una modalità non formale qualsiasi risposta ad eventuali chiarimenti e/o reclami. Il tutto nell’ottica di intensificare il livello di fidelizzazione e aumentare il numero dei contatti.",
+                " Internet of things",
+                " I dati provenienti dai sensori dei diversi dispositivi possono essere la fonte di preziose informazioni che, opportunamente elaborate, possono consentire di rimodulare le strategie e gli orari di vendita, nonché la segmentazione della clientela per addivenire alla formulazione di strategie commerciali sempre più incisive e personalizzate.",
+                " Big data",
+                " Le nuove tecnologie consentono di intercettare gli alti volumi di dati connessi al traffico web, ai messaggi di posta elettronica, ai contenuti dei Social Network, ai dati dei sensori connessi a vari dispositivi (IoT - Internet of Things); questa grande quantità di dati opportunamente elaborata può essere fonte di preziosi informazioni per indirizzare opportunamente sia le strategie commerciali che per fidelizzare i propri clienti ed acquisirne di nuovi.",
+                " Sentiment Analysis",
+                " La sentiment analysis è l’ascolto di quello che gli utenti pensano e la rielaborazione di queste informazioni, vale a dire l’analisi delle opinioni senza sollecitarle. Il tutto si traduce in un metodo efficace che permette di avere campioni molto vasti (Big Data).",
+                " Fai clic sulle immagini per approfondire gli argomenti"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Il modello cloud 1/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Abbiamo parlato di “Cloud Computing”, di che cosa si tratta? Letteralmente “nuvola informatica”, termine con cui ci si riferisce alla tecnologia che permette di elaborare e archiviare dati in rete. In altre parole, consente l’accesso ad applicazioni e dati memorizzati su un hardware remoto, invece che sulla workstation locale,  quindi in qualsiasi momento (everytime) e da un qualsiasi dispositivo e luogo (everywhere). Per le aziende di grosse dimensioni implica dunque un ingente abbattimento dei costi; non sono più necessari hardware potenti (costosi e soggetti a frequenti manutenzioni), ma basta una macchina in grado di far funzionare l’applicativo d’accesso alla “nuvola”. Le principali caratteristiche che contraddistinguono il Cloud Computing sono: flessibilità, intesa come la capacità di adattarsi alle diverse tipologie di esigenze; elasticità, intesa come la capacità di far fronte a improvvise variazioni di volumi; e servizi su richiesta (On Demand), intesi come la capacità di rendere sempre disponibile in modo semplice i servizi richiesti.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG7",
+            "RAWDOMText": [
+                " Cloud computing",
+                " Nuvola informativa",
+                " Tecnologia che permette di elaborare e archiviare dati in rete",
+                " everytime",
+                " everywhere",
+                " Abbattimento dei costi",
+                " Flessibilità",
+                " Elasticità",
+                " On demand"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p07.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/013-upload-to-cloud.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/p07_b.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Il modello cloud 2/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ci sono diverse tipologie di risorse e di servizi che possono essere utilizzate in Cloud: nella seguente Tabella sono riepilogate le tre principali categorie.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG8",
+            "RAWDOMText": [
+                " TIPOLOGIE DI SERVIZI CLOUD",
+                " RISORSE INFRASTRUTTURALI",
+                " Server fisici, macchine virtuali, dischi per la memorizzazione dei dati (storage), reti e altri servizi (per esempio salvataggio degli archivi), messi a disposizione da un provider e sui quali l’utente manda in esecuzione le applicazioni del proprio sistema informatico.",
+                " PIATTAFORME SOFTWARE",
+                " L’insieme degli ambienti software e gli strumenti di programmazione necessari per sviluppare applicazioni. L’aggiornamento tecnologico e la manutenzione di tali ambienti e dei linguaggi è a carico del provider.",
+                " APPLICAZIONI SOFTWARE",
+                " La possibilità di utilizzare software applicativi messi a disposizione dal provider. Possono rientrare in questa categoria le applicazioni di carattere gestionale (gestione del personale, contabilità, magazzini, etc.), i sistemi di gestione documentale e del protocollo, i sistemi di posta elettronica, etc. A dette applicazioni si può accedere da qualsiasi dispositivo e in qualsiasi momento; l’elaborazione e gli archivi di tali applicazioni non sono collocati presso l’azienda ma nei siti del provider.",
+                " (Fonte: Assintel)"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p08"
+            ],
+            "tabelle": [
+                [
+                    " TIPOLOGIE DI SERVIZI CLOUD"
+                ],
+                [
+                    " RISORSE INFRASTRUTTURALI",
+                    " Server fisici, macchine virtuali, dischi per la memorizzazione dei dati (storage), reti e altri servizi (per esempio salvataggio degli archivi), messi a disposizione da un provider e sui quali l’utente manda in esecuzione le applicazioni del proprio sistema informatico.",
+                    " PIATTAFORME SOFTWARE",
+                    " L’insieme degli ambienti software e gli strumenti di programmazione necessari per sviluppare applicazioni. L’aggiornamento tecnologico e la manutenzione di tali ambienti e dei linguaggi è a carico del provider.",
+                    " APPLICAZIONI SOFTWARE",
+                    " La possibilità di utilizzare software applicativi messi a disposizione dal provider. Possono rientrare in questa categoria le applicazioni di carattere gestionale (gestione del personale, contabilità, magazzini, etc.), i sistemi di gestione documentale e del protocollo, i sistemi di posta elettronica, etc. A dette applicazioni si può accedere da qualsiasi dispositivo e in qualsiasi momento; l’elaborazione e gli archivi di tali applicazioni non sono collocati presso l’azienda ma nei siti del provider."
+                ]
+            ]
+        },
+        {
+            "ordine": 8,
+            "titolo": "Il modello cloud 3/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quali sono i vantaggi che una soluzione cloud presenta per le micro, piccole e medie imprese? Innanzitutto, consente una sensibile riduzione dei costi, permette infatti di disporre di risorse tecnologicamente avanzate, sempre aggiornate a costi contenuti. Contiene inoltre gli investimenti ICT e al contempo di riduce i costi di gestione. Migliora infine il time to market: la pronta disponibilità di risorse informatiche consente di ridurre il tempo di latenza per l’adeguamento dell’infrastruttura ICT alle strategie o alle evoluzioni commerciali dell’azienda. Elemento questo che diventa rilevante anche nella ipotesi di contrazione della domanda, le cui risorse possono mediatamente essere rilasciate senza continuare a sostenere inutili costi. Ma come per tutte le cose, è bene essere consapevoli anche dei lati negativi dell’uso dei servizi Cloud. Primo, i dati e le applicazioni conferite in Cloud sono in genere collocate presso i siti del provider, questo comporta che l’azienda non ha il pieno controllo delle risorse che sta utilizzando. Secondo, eventuali situazioni di blocco del sito del provider, come pure una non efficiente gestione delle risorse, potrebbe portare ad un decadimento dei livelli di prestazione del servizio a discapito dell’operatività dell’azienda, con effetti potenzialmente dannosi sul business.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG9",
+            "RAWDOMText": [
+                " Il Cloud per le PMI",
+                " VANTAGGI",
+                " Riduzione dei costi/Risorse tecnologiche avanzate",
+                " Contenimento investimenti ICT",
+                " Migliore time to market",
+                " SVANTAGGI",
+                " Dati presso provider: mancato controllo",
+                " Blocco sito provider: decadimento qualità servizio"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p09.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Il modello cloud 4/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Da quanto detto fin qui emerge chiaro che nell’affidarsi a soluzioni basate su Cloud Computing occorre porre attenzione ad alcuni aspetti importanti: la scelta del provider che deve essere un soggetto noto con requisiti di maturità e affidabilità; la verifica delle condizioni contrattuali: è bene esaminare sempre tutte le clausole per negoziarle se necessario; la verifica dei livelli di servizio: bisogna esaminare i livelli di servizio che garantiscono la qualità delle prestazioni focalizzando l’attenzione soprattutto su quelli che possono avere il maggiore impatto sui processi critici dell’azienda; e infine la gestione della fine contratto, per garantirsi un eventuale passaggio ad un altro provider senza interruzioni di servizio e senza perdita di dati.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG10",
+            "RAWDOMText": [
+                " Cloud Computing in azienda",
+                " Cloud Computing in azienda",
+                " Scelta del provider",
+                " soggetto noto con requisiti di maturità e affidabilità",
+                " Verifica condizioni contrattuali",
+                " conoscere le clausole per negoziarle",
+                " Verifica dei livelli di servizio",
+                " soprattutto quelli con maggiore impatto sui processi critici",
+                " Gestione fine contratto",
+                " per passare ad altro provider senza inconvenienti"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p10.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/020-id-card.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/021-diploma.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/022-rating.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/023-hiring.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Internet delle cose 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Abbiamo parlato anche di Internet of things, ovvero internet delle cose. Approfondiamo questo fenomeno. L’infrastruttura Internet è da sempre costituita di “cose” (things): server, router e PC usati e governati direttamente da uno o più persone; l’esempio tipico è chi è seduto davanti al proprio PC e legge le sue email, naviga nel Web o scrive un documento. Quando si parla specificamente di IoT (Internet of Things) ci si riferisce a “cose” che scambiano dati via internet in modi e per finalità previsti dai programmatori del dispositivo, ma non necessariamente del tutto noti e/o controllabili dalla persona user, laddove ci sia. Sono per esempio dispositivi di tipo “IoT”: pacemaker, navigatori satellitari, termostati, frigoriferi, televisori, sensori stradali, semafori, distributori di bevande o sigarette, sismografi, caselli autostradali automatizzati, video camere di sorveglianza, geolocalizzatori, allarmi di intrusione per fumo o fuoco o allagamento, eccetera.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG11",
+            "RAWDOMText": [
+                " Internet of things",
+                " Internet delle cose",
+                " “Cose” che scambiano dati via internet in modi e per finalità previsti dai programmatori del dispositivo",
+                " Pacemaker",
+                " Navigatori satellitari",
+                " Termostati",
+                " Frigoriferi",
+                " Televisori",
+                " Sensori stradali",
+                " Semafori",
+                " Distributori di bevande o sigarette",
+                " Sismografi",
+                " Caselli autostradali",
+                " Video camere di sorveglianza",
+                " GPS",
+                " Allarmi di intrusione per fumo o fuoco o allagamento",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>La IoT (Internet of things) solo recentemente ha guadagnato la visibilità del grande pubblico, ma in realtà è “vecchia”. Fu pensata e realizzata nel 1982 alla Carnegie Mellon University con un distributore di bibite modificato, che manteneva l’inventario locale e lo notificava al fornitore perché potesse programmare con buon anticipo i rifornimenti. Oggi siamo tutti già immersi nella IoT, nessuno escluso.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p11.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/025-director-desk.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/019-server.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/016-modem.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/024-computer-1.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Internet delle cose 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Assintel distingue tre livelli di oggetti IoT: Oggetti occasionalmente IoT. PC, smartphone, server, router e punti di accesso WiFi solo all’occasione si comportano come IoT. Senza il nostro intervento essi si collegano ai produttori per verificare la presenza di aggiornamenti di software e fornire altre informazioni, le cui finalità non sono spesso note e chiare. Oggetti IoT anche se non sembrano tali. Video camere di sorveglianza, Unità Disco di Rete (o NAS: Network Attacched Storage) e Stampanti di Rete solitamente non si limitano a connettersi al produttore per verificare la presenza di aggiornamenti di software. Occorre collegarsi ai siti dei produttori alle sezioni “Politiche sulle Privacy” (Privacy Policy) e/o “Termini del servizio” (Terms of Service) per avere una dichiarazione di quali dati il produttore raccoglie dal dispositivo e, soprattutto, per quali finalità. Oggetti strettamente IoT. Smart TV, sensori vari, geolocalizzatori, macchine di controllo industriali, pacemaker, tornelli d’ingresso e timbratrici. Il più delle volte si collegano col produttore e/o col fornitore di servizi per molto di più che la semplice verifica di aggiornamenti di software. Una Smart TV quasi certamente comunicherà le nostre abitudini e preferenze per poter indirizzare in modo mirato le inserzioni pubblicitarie. Un pacemaker per sua natura e per progetto comunica a un centro di controllo i dati cardiaci del suo portatore, e così via!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG12",
+            "RAWDOMText": [
+                " Tre «livelli» di oggetti IoT",
+                " Oggetti occasionalmente IoT",
+                " Solo occasionalmente",
+                " Si collegano automaticamente ai siti dei produttori a scopo di aggiornamento",
+                " Oggetti IoT anche se non sembrano tali",
+                " Occorre verificare nelle “Politiche sulle Privacy” per avere una dichiarazione di quali dati il produttore raccoglie dal dispositivo e, soprattutto, per quali finalità",
+                " Oggetti strettamente IoT",
+                " Si collegano col produttore e/o col fornitore di servizi per molto di più che la semplice verifica di aggiornamenti di software, comunicando nostre informazioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p12.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/010-computer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/026-printer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/027-location.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Internet delle cose 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ecco una sintesi degli ambiti su cui maggiori sono le implicazioni di sicurezza dell’internet of things. Si tratta di: responsabilità, connessa alla consapevolezza di quali dati la «cosa» scambia, con chi e per quale fine. affidabilità, ovvero cura nel progetto e nella gestione della rete aziendale e valutazione del rischio. Leggi la tabella per approfondire!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG13",
+            "RAWDOMText": [
+                " IMPLICAZIONI DI SICUREZZA DELLA IoT",
+                " Responsabilità",
+                " Coscienza di quali dati la “cosa” scambia, con chi e perché",
+                " L’azienda è il responsabile ultimo del trattamento dati",
+                " Bisogna leggere e capire i “Termini del Servizio” e la “Politica sulla Privacy del produttore prima di acquisire la “cosa” e chiedere tutte le spiegazioni necessarie",
+                " Non essere coscienti di quali dati le “cose” nella propria rete scambiano, con chi e per quali finalità, è un’aggravante.",
+                " Conviene disabilitare la funzionalità di scambio di informazioni fra “cosa” e produttore. ma farlo implica perdere delle funzionalità importanti (per esempio l’aggiornamento del software) conviene cambiare produttore!",
+                " Affidabilità",
+                " Cura nel progetto e nella gestione della rete aziendale",
+                " Molti dei dati che legittimamente le “cose” trasmettono hanno scopi importanti o addirittura vitali (es. sensori di fumo, gps, pacemaker)",
+                " Rete aziendale e sua interconnessione devono essere progettate e gestite con cura.",
+                " Da pochi dati a tanti dati (Big Data)",
+                " Valutazione del rischio",
+                " Le “cose” della IoT generano: singolarmente un flusso costante di pochi dati (small data), che alimentano I big data.",
+                " Bisogna valutare il beneficio di usare “la cosa” per trattare tali dati e accertarsi che le “cose” usate per lavorare tali dati non comunichino con l’esterno o comunichino solo con chi è autorizzato a trattare tali dati.",
+                " (Fonte: Assintel)"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p13"
+            ],
+            "tabelle": [
+                [
+                    " IMPLICAZIONI DI SICUREZZA DELLA IoT"
+                ],
+                [
+                    " Responsabilità",
+                    " Coscienza di quali dati la “cosa” scambia, con chi e perché",
+                    " L’azienda è il responsabile ultimo del trattamento dati",
+                    " Bisogna leggere e capire i “Termini del Servizio” e la “Politica sulla Privacy del produttore prima di acquisire la “cosa” e chiedere tutte le spiegazioni necessarie",
+                    " Non essere coscienti di quali dati le “cose” nella propria rete scambiano, con chi e per quali finalità, è un’aggravante.",
+                    " Conviene disabilitare la funzionalità di scambio di informazioni fra “cosa” e produttore. ma farlo implica perdere delle funzionalità importanti (per esempio l’aggiornamento del software) conviene cambiare produttore!",
+                    " Affidabilità",
+                    " Cura nel progetto e nella gestione della rete aziendale",
+                    " Molti dei dati che legittimamente le “cose” trasmettono hanno scopi importanti o addirittura vitali (es. sensori di fumo, gps, pacemaker)",
+                    " Rete aziendale e sua interconnessione devono essere progettate e gestite con cura.",
+                    " Da pochi dati a tanti dati (Big Data)",
+                    " Valutazione del rischio",
+                    " Le “cose” della IoT generano: singolarmente un flusso costante di pochi dati (small data), che alimentano I big data.",
+                    " Bisogna valutare il beneficio di usare “la cosa” per trattare tali dati e accertarsi che le “cose” usate per lavorare tali dati non comunichino con l’esterno o comunichino solo con chi è autorizzato a trattare tali dati."
+                ]
+            ]
+        },
+        {
+            "ordine": 13,
+            "titolo": "Big Data 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Da ogni relazione uomo/uomo, uomo/macchina, macchina/macchina nasce un flusso costante di dati di varia natura. Nelle realtà aziendali questi dati assumono dimensioni importanti: computer, cellulari, centraline elettriche o telefoniche, reti wifi, consulenti, dipendenti e ogni altro oggetto/soggetto producono dati. Per quanto ci si possa sentire “piccoli”, chiunque è uno dei rivoli che alimenta il “Rio delle Amazzoni” dei dati (Big Data). Questi dati, se ben classificati, raccolti, strutturati e analizzati, possono migliorare l’operatività e l’efficienza di un’azienda. Ma quali sono le fonti principali di big data? la Internet of Things; i Social Media, incluso quel che ognuno scrive della sua Azienda e/o di se stessi; le fonti pubblicamente consultabili su internet, incluso il sito web della propria azienda; altre aree “grigie”, quali: email, dischi virtuali e altri servizi (apparentemente) gratuiti o a basso prezzo.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG14",
+            "RAWDOMText": [
+                " Flusso costante di dati",
+                " BIG DATA",
+                " Se ben classificati, raccolti, strutturati e analizzati, possono migliorare l’operatività e l’efficienza di un’azienda.",
+                " FONTI",
+                " IoT",
+                " Social media",
+                " Web",
+                " GestioneAltro: email, dischi, servizi…"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p14.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/031-work-tools.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/028-wifi.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/029-twitter.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/004-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/030-mail.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Big Data 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "A quale scopo può essere usata questa grande mole di dati? Si può trattare di: finalità nobili, come prevenire infezioni nei reparti di neonatologia; finalità utili, come identificare la ragione della scarsa qualità di una linea di produzione; scopi leciti: come verificare la solidità finanziaria della propria o altrui azienda; ma anche scopi discutibili o addirittura illeciti, come sottrarre un brevetto o usare il profilo della propria azienda per sottrarle i clienti e/o screditarla. Non si può fermare il flusso di dati che esce dalla propria azienda e va ad alimentare i Big Data, tanto vale quindi utilizzarlo per scopi utili o leciti.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG15",
+            "RAWDOMText": [
+                " Scopi dell’uso dei Big data",
+                " Nobili",
+                " Utili",
+                " Leciti",
+                " Discutibili",
+                " Illeciti",
+                " Non si può fermare il flusso di dati che esce dalla propria azienda e va ad alimentare i Big Data…",
+                " …tanto vale quindi utilizzarlo per scopi uitili o leciti!"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p15_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p15_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Big Data 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quali sono le implicazioni di sicurezza dei big data? Eccoli sintetizzati in questa tabella tutta da leggere!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG16",
+            "RAWDOMText": [
+                " IMPLICAZIONI DI SICUREZZA DEI BIG DATA",
+                " Responsabilità",
+                " Coscienza dei canali attraverso i quali si alimentano i big data",
+                " L’azienda è il responsabile ultimo di un proprio trattamento dati davanti alla Legge. Se dati dell’azienda o di altri, pubblicati in rete sono usati da chiunque per scopi dal discutibile all’illecito, potrebbe essere danneggiata la reputazione dell’impresa, o l’impresa potrebbe essere coinvolta in un contenzioso civile, o in una causa penale.",
+                " Bisogna dotarsi di una politica aziendale, che, per quanto semplice, stabilisca:",
+                "chi è autorizzato a pubblicare in nome dell’azienda",
+                "le linee editoriali",
+                "i tipi di informazione “pubblicabili”",
+                "i tipi di informazione che richiedono l’approvazione per essere pubblicate",
+                "i tipi di informazione esclusi da qualunque pubblicazione.",
+                " Non consapevolezza",
+                " Consapevolezza del valore dei dati sparsi per la rete",
+                " Molti servizi “gratuiti” ed anche alcuni non gratuiti vanno ad alimentare i Big Data: email, archiviazione (drive, storage), social, web. Non esiste un “pasto gratuito”; il fornitore non è un ente di beneficenza. Nei “Termini del Servizio” c’è l’autorizzazione per il fornitore del servizio ad usare i dati per altri scopi e in alcuni casi anche la cessione dei “Diritti Intellettuali”.",
+                " Bisogna leggere e capire i “Termini del Servizio” per i servizi usati. L’approccio deve essere minimalista per far “uscire” dalla propria rete aziendale:",
+                "solo ciò che è dovuto;",
+                "solo ciò che è necessario;",
+                "solo ciò che è utile a se stessi, inutile ai concorrenti, lecito.",
+                " Ineluttabilità",
+                " Difendibilità",
+                " Pur con tutte le precauzioni di cui sopra, comunque si alimenteranno, poco o tanto, i Big Data, in modi utili a se stessi, utili ai propri concorrenti, utili a scopi discutibili o illeciti, attraverso canali nuovi, imprevedibili e fuori dalla propria oggettiva possibilità di controllo.",
+                " Le politiche aziendali di cui sopra sono utili a dimostrare che:",
+                "si è agito al meglio consentito",
+                "per quanto possibile l’azienda ha beneficiato dei Big Data invece di esserne vittima",
+                "quel che è “sfuggito”, non era oggettivamente controllabile.",
+                " (Fonte: Assintel)"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p16"
+            ],
+            "tabelle": [
+                [
+                    " IMPLICAZIONI DI SICUREZZA DEI BIG DATA"
+                ],
+                [
+                    " Responsabilità",
+                    " Coscienza dei canali attraverso i quali si alimentano i big data",
+                    " L’azienda è il responsabile ultimo di un proprio trattamento dati davanti alla Legge. Se dati dell’azienda o di altri, pubblicati in rete sono usati da chiunque per scopi dal discutibile all’illecito, potrebbe essere danneggiata la reputazione dell’impresa, o l’impresa potrebbe essere coinvolta in un contenzioso civile, o in una causa penale.",
+                    " Bisogna dotarsi di una politica aziendale, che, per quanto semplice, stabilisca:",
+                    "chi è autorizzato a pubblicare in nome dell’azienda",
+                    "le linee editoriali",
+                    "i tipi di informazione “pubblicabili”",
+                    "i tipi di informazione che richiedono l’approvazione per essere pubblicate",
+                    "i tipi di informazione esclusi da qualunque pubblicazione.",
+                    " Non consapevolezza",
+                    " Consapevolezza del valore dei dati sparsi per la rete",
+                    " Molti servizi “gratuiti” ed anche alcuni non gratuiti vanno ad alimentare i Big Data: email, archiviazione (drive, storage), social, web. Non esiste un “pasto gratuito”; il fornitore non è un ente di beneficenza. Nei “Termini del Servizio” c’è l’autorizzazione per il fornitore del servizio ad usare i dati per altri scopi e in alcuni casi anche la cessione dei “Diritti Intellettuali”.",
+                    " Bisogna leggere e capire i “Termini del Servizio” per i servizi usati. L’approccio deve essere minimalista per far “uscire” dalla propria rete aziendale:",
+                    "solo ciò che è dovuto;",
+                    "solo ciò che è necessario;",
+                    "solo ciò che è utile a se stessi, inutile ai concorrenti, lecito.",
+                    " Ineluttabilità",
+                    " Difendibilità",
+                    " Pur con tutte le precauzioni di cui sopra, comunque si alimenteranno, poco o tanto, i Big Data, in modi utili a se stessi, utili ai propri concorrenti, utili a scopi discutibili o illeciti, attraverso canali nuovi, imprevedibili e fuori dalla propria oggettiva possibilità di controllo.",
+                    " Le politiche aziendali di cui sopra sono utili a dimostrare che:",
+                    "si è agito al meglio consentito",
+                    "per quanto possibile l’azienda ha beneficiato dei Big Data invece di esserne vittima",
+                    "quel che è “sfuggito”, non era oggettivamente controllabile."
+                ]
+            ]
+        },
+        {
+            "ordine": 16,
+            "titolo": "Business continuity 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La condizione basilare perché un’azienda possa raggiungere i propri obiettivi è avere continuità nelle sue attività operative. Ma in realtà quotidianamente le aziende devono fare i conti con eventi che potrebbero interrompere o condizionare pesantemente il loro normale funzionamento: diventa un problema di continuità operativa quando l’interruzione va oltre i tempi accettabili e rischia di creare problemi al normale funzionamento  dell’organizzazione. In questi casi bisogna trovare una soluzione di continuità operativa. Per continuità operativa o Business continuity, quindi, si può intendere l’insieme delle azioni messe in atto da una organizzazione per assicurare un determinato livello di operatività o la capacità di ripristinare l’operatività in un ragionevole lasso di tempo qualora dovessero verificarsi eventi dannosi. Quando si parla di Business continuity si fa riferimento ad alcuni elementi fondamentali: resilienza, intesa come la capacità dei processi critici e/o delle relative infrastrutture, tra cui quelle IT, di far fronte a incidenti o eventi dannosi; recupero/ripristino, intesa come la capacità di un’organizzazione di recuperare o ripristinare l’operatività com’era prima del danno; riserva, intesa come la possibilità di un’azienda di far fronte a incidenti o eventi disastrosi previsti o meno facendo ricorso a risorse di riserva; in genere si attiva la riserva quando sia la capacità di resilienza che quella di recupero/ripristino non sono state in grado di fronteggiare l’evento dannoso; dinamicità: visto che gli eventi dannosi non sono statici, ma cambiano dinamicamente nel tempo sia in termini di probabilità del loro verificarsi sia di impatto (anche considerando lo stato di salute dell’organizzazione), la continuità operativa non può essere un processo statico, ma deve essere considerato un processo continuo.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG17",
+            "RAWDOMText": [
+                " La continuità nelle attività operative consente a un’azienda il raggiungimento degli obiettivi di busieness.",
+                " Business continuity",
+                " Resilienza",
+                " Capacità dei processi critici e/o delle relative infrastrutture, di far fronte a incidenti o eventi dannosi",
+                " Recupero/Ripristino",
+                " Capacità di un’organizzazione di recuperare o ripristinare l’operatività com’era prima del danno",
+                " Riserva",
+                " Possibilità di fare ricorso a risorse di riserva",
+                " Dinamicità",
+                " Processo in continua evoluzione perché i rischi cambiano nel tempo"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p17_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/032-target.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/034-flash.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/033-stopwatch.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Business continuity 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Qual è lo strumento più efficace per analizzare e gestire gli eventi dannosi? La gestione del rischio, in genere articolata in: Analisi dei rischi; Valutazione della probabilità che si possano verificare e dell’impatto; Individuazione delle contromisure da adottare in funzione dell’importanza del rischio; Infine, sorveglianza e monitoraggio costante dei rischi: il portafoglio dei rischi va aggiornato con continuità perché nel tempo i rischi possono mutare sia nella probabilità (che può aumentare o diminuire - si pensi ad esempio al rischio neve che in inverno ha un’alta probabilità mentre diminuisce sino ad azzerarsi nell’estate) che nell’intensità del danno che possono causare; nel tempo inoltre alcuni rischi perdono di validità ed altri se ne possono presentare.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG18",
+            "RAWDOMText": [
+                " Lo strumento più efficace per analizzare e gestire gli eventi dannosi",
+                " La gestione del rischio",
+                " Analisi dei rischi",
+                " Valutazione della probabilità che si possano verificare e dell’impatto",
+                " Individuazione delle contromisure da adottare in funzione dell’importanza del rischio",
+                " Sorveglianza e monitoraggio costante dei rischi",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Per rischi di elevata importanza si devono prevedere:<ul><li>misure preventive da attivare prima che l’evento dannoso si manifesti e che possono ridurre la probabilità di accadimento dell’evento (se possibile) o l’impatto, adottando strategie che tendono a ridurre il danno (per esempio duplicando i server di una piattaforma di e-Commerce, se vitale per l’azienda);</li><li>misure correttive, da attivare quando si manifesta l’evento dannoso; solitamente piani di emergenza (per esempio il disaster recovery).</li></ul>Qualora, anche prevedendo un certo insieme di contromisure, il rischio residuo fosse ritenuto elevato, allora si possono attivare delle misure di trasferimento del rischio (ad esempio con il ricorso a polizze assicurative).</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p18.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "e-Commerce e Social Business 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina19.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Tra le aree tecnologiche che maggiormente potrebbero generare impatti benefici sui sistemi informativi, abbiamo incluso all’inizio di questa lezione anche l’ecommerce. In un mondo globalizzato diventa una necessità vitale per le aziende aprirsi ad un mercato molto più ampio e pensare a prodotti e servizi sempre più in linea con le aspettative dei consumatori. Lo strumento principale a tal fine è costituito dall’e-Commerce, cioè dalla possibilità di effettuare attività commerciale attraverso una piattaforma web, in modo da poter raggiungere direttamente il cliente finale in tutte le parti del mondo. Ma il vademecum di Assintel è chiaro, fare e-Commerce non è semplice, né si improvvisa; non basta realizzare un sito o una piattaforma web; occorre definire una strategia di vendita individuando il segmento di mercato target e definendo le migliori modalità di commercializzazione dei prodotti. Anche di più che nel commercio tradizionale, l’e-Commerce richiede offerte personalizzate che tengano conto dei profili e delle caratteristiche di gruppi di clienti. E come costruire offerte personalizzate? È opportune strutturare processi aziendali adeguati a trattare con soluzioni di e-commerce dove la rapidità, la trasparenza, la qualità sono elementi fondamentali e tracciare, rilevare, analizzare e comprendere le esigenze e i gusti del mercato in modo da anticipare le esigenze del mercato confezionando offerte di prodotti e servizi sempre più rispondenti alle esigenze e ai gusti dei clienti.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG19",
+            "RAWDOMText": [
+                " E-commerce",
+                " Aprirsi a un mercato più ampio",
+                " Pensare prodotti e servizi sempre più in linea con le aspettative dei consumatori",
+                " Occorre una strategia di vendita!",
+                " L’e-Commerce richiede offerte personalizzate che tengano conto dei profili e delle caratteristiche di gruppi di clienti.",
+                " Come costruire offerte personalizzate?",
+                " strutturare processi aziendali adeguati basati su rapidità, trasparenza, qualità",
+                " tracciare, rilevare, analizzare e comprendere le esigenze e i gusti del mercato"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p19_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p19_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/035-online-shop.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "e-Commerce e Social Business 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina20.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Sono i social network i principali strumenti di contatto con la clientela oggi. La parola chiave per eccellenza è “conversazione”; chi usa i Social Network si sente libero di esprimere idee, sensazioni, opinioni, su qualsiasi argomento. La naturalezza delle conversazioni è una fonte informativa preziosissima per le aziende in grado di intercettarla e analizzarne i contenuti. Post, foto, video dicono tanto su cosa pensa il cliente in merito ad un prodotto o servizio, cosa gli piacerebbe acquistare o cosa non acquisterebbe; dove andrebbe in vacanza, con chi e quando. L’azienda stessa a sua volta può usare il canale Social per sondare la reazione su nuovi prodotti o strategie aziendali oppure promuovere il lancio di una nuova iniziativa, e così via. Con davvero pochi click si possono raggiungere migliaia se non milioni di utenti in tutto il mondo!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG20",
+            "RAWDOMText": [
+                " CONVERSAZIONE",
+                " Idee, opinioni, sensazioni",
+                " fonte informativa preziosissima",
+                " Che cosa osa pensa il cliente su un prodotto o servizio, che cosa gli piacerebbe acquistare o cosa non acquisterebbe; dove andrebbe in vacanza, con chi e quando?",
+                " Sondare la reazione su nuovi prodotti o strategie aziendali",
+                " Promuovere il lancio di una nuova iniziativa",
+                " Fonte: Assintel",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Non serve aprire un canale <i>Social</i> se non si ha una chiara strategia di marketing e se non si è disposti a investire su tale canale mantenendo attivi i contatti con i <i>followers</i>. Disporre di canale <i>Social</i>, ma aggiornarlo raramente è più dannoso che non averlo.<br>Pertanto <i>e-Commerce</i> e <i>Social</i> sono una potente risorsa a disposizione delle piccole e medie imprese, semplice da usare e molto economica, ma che richiede inventiva e impegno per gestirla in modo ragionato e strategico.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/p20.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/037-brand.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/038-speech-bubble.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/039-photo-camera.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/040-video-player.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD04/img/png/041-like.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p20"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina21.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG21",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che cosa si intende per Cloud computing?",
+                " Letteralmente “nuvola informatica”, termine con cui ci si riferisce alla tecnologia che permette di elaborare e archiviare dati in rete, consentendo l’accesso ad applicazioni e dati memorizzati su un hardware remoto, invece che sulla workstation locale, quindi everytime ed everywhere.",
+                " Quali sono esempi dispositivi di tipo “IoT”?",
+                " Pacemaker, navigatori satellitari, termostati, frigoriferi, televisori, sensori stradali, semafori, distributori di bevande o sigarette, sismografi, caselli autostradali automatizzati, video camere di sorveglianza, geolocalizzatori, allarmi di intrusione per fumo o fuoco o allagamento, eccetera.",
+                " L’azienda è il responsabile ultimo di un proprio trattamento dati davanti alla Legge. Che cosa significa?",
+                " Significa che se dati dell’azienda o di altri, pubblicati in rete, sono usati da chiunque per scopi dal discutibile all’illecito, potrebbe essere danneggiata la reputazione dell’impresa stessa o l’impresa potrebbe essere coinvolta in un contenzioso civile, o anche in una causa penale.",
+                " Che cos’è la business continuity?",
+                " Per continuità operativa o Business continuity, si intende l’insieme delle azioni messe in atto da una organizzazione per assicurare un determinato livello di operatività o la capacità di ripristinare l’operatività in un ragionevole lasso di tempo, qualora dovessero verificarsi eventi dannosi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p21"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 21,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina22.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_01_MOD2_LEZ4_PAG22",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Nell’affidarsi a soluzioni basate su Cloud Computing, occorre porre attenzione ad alcuni aspetti importanti. Quali?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD04/audio/0064_18_01_m03ud04p22"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD2_LEZ4"
+}

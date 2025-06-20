@@ -1,0 +1,55 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 0px;">
+			<img src="contenuti/img/sfondo1.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_01_M02UD01/img/p13.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 610px;">		
+		<div id="cont2_img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('cont2_img1')" style="position: absolute; top: 10px; left: 610px;">
+			<img src="contenuti/0064_18_01_M02UD01/img/png/014-fish.png">
+		</div>
+		<div style="position: absolute;top: 0px;left: 0px;width: 500px;font-size: 20px;color: #006699;font-weight: bold;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Tecniche di Phishing</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 18px;width: 500px;" class="">
+			<ul style="list-style-image: url(images/pelenco2.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="3" ng-show="getIsVisible('cont2_pe1')" style="">Telefono: far apparire la richiesta di informazioni come una situazione critica.</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="15" ng-show="getIsVisible('cont2_pe2')" style="margin-top: 10px;">Invio di email contenenti malware o link che rimandano a pagine web clone dove vengono richieste le credenziali di accesso.</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="29.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 310px;left: 20px;width: 610px;">		
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color: #006699;font-weight: bold;">
+			<div id="cont3_txt1" animated="" datastart="29.5" ng-show="getIsVisible('cont3_txt1')" class="slideRight" style="">Prevenire gli attacchi:</div>
+		</div>
+		<div style="position: absolute;top: 40px;left: 0px;font-size: 18px;" class="">
+			<ul style="list-style-image: url(images/pelenco2.png);">
+				<li class="slideLeft" id="cont3_pe1" animated="" datastart="35" ng-show="getIsVisible('cont3_pe1')" style="">essere consapevoli di poter essere oggetto di phishing;</li>
+				<li class="slideLeft" id="cont3_pe2" animated="" datastart="43.5" ng-show="getIsVisible('cont3_pe2')" style="">controllare l'indirizzo internet della pagina web a cui il link rimanda;</li>
+				<li class="slideLeft" id="cont3_pe3" animated="" datastart="56" ng-show="getIsVisible('cont3_pe3')" style="">prestare attenzione all’apertura degli allegati;</li>
+				<li class="slideLeft" id="cont3_pe4" animated="" datastart="68" ng-show="getIsVisible('cont3_pe4')" style="">fornire informazioni mediante canali alternativi.</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 460px;top: 175px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_01_m02ud01p14','Fornire informazioni in modo alternativo',1,25.2)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:170px;"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 0px;width: 651px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_01_M02UD01/audio/0064_18_01_m02ud01p14" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_01_m02ud01p14">
+  <div style="color:#FFF;">
+    <p>Per fornire informazioni mediante un canale alternativo al link proposto nella mail, si può ricercare, ad esempio, il numero di telefono da contattare su Internet, oppure digitare manualmente l’indirizzo web del sito della società nel nostro browser.</p>
+  </div>
+</script>

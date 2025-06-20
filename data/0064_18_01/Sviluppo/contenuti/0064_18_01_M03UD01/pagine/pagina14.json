@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Un browser.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un browser proxy.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un antivirus.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un hard disk esterno.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Tra i metodi per proteggere la privacy durante la navigazione privata, il più sicuro è l'uso di un browser proxy, che maschera l'identità e la posizione geografica dell'utente.",
+    "feedbackNeg": "<b>Non è esatto!</b> Tra i metodi per proteggere la privacy durante la navigazione privata, il più sicuro è l'uso di un browser proxy, che maschera l'identità e la posizione geografica dell'utente."
+}

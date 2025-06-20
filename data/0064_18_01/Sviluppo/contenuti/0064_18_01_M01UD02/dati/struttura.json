@@ -1,0 +1,559 @@
+{
+    "titolo": "Politica digitale e sicurezza informatica in Italia",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "In Italia, a differenza di molti altri paesi si registra un forte ritardo in materia di politica digitale, crescita e sicurezza, ma recentemente sono stati compiuti importanti passi avanti per implementare una strategia nazionale su questi temi.<BR>Promuovere, inizialmente a livello terminologico, la comprensione e la gestione delle tematiche di sicurezza informatica, è un primo passo, che va fatto, in primis, all’interno delle nostre abitazioni.<BR>Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG1",
+            "RAWDOMText": [
+                " Quali sono le principali debolezze italiane in tema di politica digitale e sicurezza informatica?",
+                " Quali sono le strategie che il nostro paese sta attuando a livello nazionale in tema di cyber security?",
+                " Qual è la terminologia di base per comprendere le tematiche di sicurezza informatica?",
+                " Quali sono le regole per proteggere la propria famiglia e i propri dispositivi dalle minacce online?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Le principali debolezze italiane 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In Italia, nel mondo imprenditoriale e in quello della politica, la presa di coscienza dell’importanza della cyber security è quasi completamente inesistente. Politica digitale, crescita e sicurezza sono facce della stessa medaglia, in quanto una strategia digitale competitiva deve comprendere una security caratterizzata dai più elevati standard.<BR>Ulteriore elemento di debolezza italiano, è rappresentato dal processo di digitalizzazione della Pubblica Amministrazione che in teoria potrebbe rappresentare uno straordinario volano di crescita per il Paese.<BR>Nonostante alcuni progressi, le stesse forniture pubbliche di servizi digitali non hanno a monte un piano di riorganizzazione della Pubblica Amministrazione capace di sfruttare in modo efficiente la gamma di soluzioni offerte dalla rivoluzione digitale.<BR>L’ambiguità normativa e gestionale che ha contraddistinto il ruolo e le attività dell’Agenzia per l’Italia Digitale è un esempio delle difficoltà esistenti.<BR>Eppure, non sarebbe difﬁcile delineare una politica governativa, investimenti pubblici e una legislazione all’altezza delle nuove sﬁde. La rivoluzione prodotta dallo spazio digitale pone obiettivi su cui in Italia si registra un grave ritardo culturale e politico. Scarsa appare anche la partecipazione delle università e delle imprese nazionali ai grandi appuntamenti internazionali sulla governance e sul futuro di Internet e del cyberspace.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG2",
+            "RAWDOMText": [
+                " Politica digitale e sicurezza informatica: una sfida per l’Italia",
+                " Politica digitale",
+                " Crescita",
+                " Sicurezza",
+                " Strategia digitale competitiva",
+                " Limiti nel processo di digitalizzazione della P. A.",
+                " Mancanza di un piano di riorganizzazione capace di sfruttare la rivoluzione digitale.",
+                " Ambiguità normativa e gestionale AgID.",
+                " Delineare:",
+                " una politica governativa",
+                " investimenti pubblici",
+                " una legislazione all’altezza",
+                " Sfide poste dalla rivoluzione digitale",
+                " Grave ritardo culturale e politico in Italia.",
+                " Scarsa partecipazione di università e imprese agli appuntamenti sulla governance e sul futuro di Internet."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/img/lstop_boxattiva.png"
+                },
+                {
+                    "src": "contenuti/img/lstop_boxattiva.png"
+                },
+                {
+                    "src": "contenuti/img/lstop_boxattiva.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/02_lock.png"
+                },
+                {
+                    "src": "contenuti/img/triangolo_dx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/02_run.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "La nuova rivoluzione «industriale»",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In Italia, la molteplicità delle autorità politiche è in palese contrasto con la natura stessa della rivoluzione digitale. Questa, infatti, per essere efﬁcace, richiede di rompere i compartimenti stagni del potere e impone una visione che consenta di agire con velocità, con una catena di comando chiara e secondo una logica modulare coerente con una visione a lungo termine dell’intero sistema Paese.<BR>Oggi siamo di fronte a una nuova e gigantesca “rivoluzione industriale” che ha riﬂessi dirompenti sulla vita di tutte le imprese, delle pubbliche amministrazioni e di ogni singolo cittadino.<BR>L’attuale crisi economica, oltre ad essere un effetto della crisi ﬁnanziaria, è dovuta a un cambiamento sistemico dove i modelli organizzativi aziendali, i prodotti, le metodologie di produzione stanno cambiando rapidamente, spazzando via alcune categorie di lavori e creandone di nuovi.<BR>Di conseguenza, sul piano economico vinceranno i paesi più avanzati sul piano digitale e più aperti all’innovazione.<BR>Per queste ragioni è necessario dotare l’Italia di una strategia digitale ben deﬁnita, di una struttura di governance e di una capacità organizzativa all’altezza delle sﬁde della rivoluzione digitale.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG3",
+            "RAWDOMText": [
+                " Italia, autorità politiche e rivoluzione digitale:",
+                " rompere i compartimenti stagni del potere;",
+                " adottare una visione che consenta di agire con velocità;",
+                " adottare una catena di comando chiara e coerente.",
+                " Effetti della nuova rivoluzione industriale:",
+                " crisi dovuta al cambiamento sistemico dei modelli organizzativi e delle metodologie di produzione;",
+                " crescita economica dei paesi più digitalizzati e aperti all’innovazione."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/03_italy.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/03_target.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Road map per l’implementazione di una strategia nazionale 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il tema della cyber security e della sua governance è dibattuto nel nostro paese sin dai primi anni 2000, ma solo di recente sono stati registrati importanti passi in avanti nell’individuazione di una road map per l’implementazione di una strategia nazionale. Tra il 2012 e il 2013, infatti, venne completato il quadro degli interventi di natura strategica nazionale a tutela delle Infrastrutture Critiche, con riguardo alla protezione cibernetica e alla sicurezza informatica nazionale. Dopo la Legge n. 133 del 7 agosto 2012, che attribuisce al comparto intelligence nuove e speciﬁche competenze in materia di protezione cibernetica e sicurezza informatica, e dopo il decreto Legge del 18 ottobre 2012, n.179 Ulteriori misure urgenti per la crescita del Paese, provvedimento Crescita 2.0, che nasce con l’obiettivo di dare attuazione all’implementazione della Agenda Digitale, venne emanato il decreto del presidente del Consiglio dei ministri del 24 gennaio 2013 che getta le basi per la deﬁnizione della strategia nazionale. Tale decreto indica tre diversi livelli di intervento: indirizzo politico e coordinamento strategico, supporto e raccordo tra gli enti competenti, gestione della crisi.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG4",
+            "RAWDOMText": [
+                " Implementazione di una strategia nazionale",
+                " Quadro degli interventi a tutela delle infrastrutture critiche",
+                " L. n. 133 del 7 agosto 2012",
+                " D. L. del 18 ottobre 2012, n.179",
+                " Competenze in materia di protezione cibernetica e sicurezza informatica.",
+                " Ulteriori misure urgenti per la crescita del Paese.",
+                " DPCM del 24 gennaio 2013",
+                " Indirizzo politico e coordinamento strategico.",
+                " Supporto e raccordo tra gli enti competenti.",
+                " Gestione della crisi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p04.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/img/button.png"
+                },
+                {
+                    "src": "contenuti/img/button.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Road map per l’implementazione di una strategia nazionale 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il decreto del presidente del Consiglio dei ministri del 24 gennaio 2013 in particolare prevede che:<BR>A. Il Presidente del Consiglio dei Ministri: adotti il Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico; adotti il Piano nazionale per la protezione cibernetica e la sicurezza informatica nazionale;emani le direttive e ogni atto d’indirizzo necessari per l’attuazione del Piano; impartisce (sentito il Comitato interministeriale per la sicurezza della Repubblica) le direttive al Dipartimento delle informazioni per la sicurezza e alle Agenzie.<BR>B. Si assegnino al Comitato Interministeriale per la Sicurezza della Repubblica le seguenti attività: esercizio dell’alta sorveglianza sull’attuazione del Piano nazionale per la sicurezza dello spazio cibernetico; approvazione delle linee di indirizzo per favorire l’efﬁcace collaborazione tra i soggetti istituzionali e gli operatori privati interessati alla sicurezza cibernetica, per la condivisione delle informazioni e per l’adozione di best pratices e di misure rivolte all’obiettivo della sicurezza cibernetica; elaborazione degli indirizzi generali e gli obiettivi fondamentali in materia di protezione cibernetica e di sicurezza informatica nazionali da perseguire nel quadro della politica dell’informazione per la sicurezza da parte degli organismi di informazione per la sicurezza, ciascuno per i proﬁli di rispettiva competenza; promozione dell’adozione delle iniziative necessarie per assicurare, in forma coordinata, la piena partecipazione dell’Italia ai diversi consessi di cooperazione internazionale, al ﬁne della deﬁnizione e adozione di politiche e strategie comuni di prevenzione e risposta; formulazione delle proposte di intervento normativo e organizzativo ritenute necessarie al ﬁne del potenziamento delle misure di prevenzione e di risposta alla minaccia cibernetica e quelle per la gestione delle crisi; partecipazione, con funzioni di consulenza e di proposta, alle determinazioni del Presidente, in caso di crisi.<BR>C. Si rinforzi il ruolo del Dipartimento delle informazioni per la sicurezza, che coordina le agenzie di intelligence per incrementare il livello di cyber security.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG5",
+            "RAWDOMText": [
+                " DPCM del 24 gennaio 2013",
+                " A. Il Presidente del Consiglio dei Ministri:",
+                " B. Si assegnino al CISR le seguenti attività:",
+                " C. Si rinforzi il ruolo del DIS, che coordina le agenzie di intelligence per incrementare il livello di cyber security.",
+                " adotti il Quadro Strategico Nazionale per la Sicurezza dello Spazio Cibernetico;",
+                " adotti il Piano nazionale per la protezione cibernetica e la sicurezza informatica nazionale;",
+                " emani le direttive e ogni atto d’indirizzo necessari per l’attuazione del Piano.",
+                " alta sorveglianza sull’attuazione del Piano nazionale per la sicurezza cibernetica;",
+                " favorire la collaborazione tra i soggetti istituzionali e gli operatori privati interessati alla sicurezza cibernetica;",
+                " elaborazione degli indirizzi e degli obiettivi in materia di protezione e sicurezza informatica da perseguire nel quadro della politica dell’informazione per la sicurezza;",
+                " promozione delle iniziative per assicurare la partecipazione dell’Italia ai consessi di cooperazione internazionale;",
+                " proposte di intervento al ﬁne del potenziamento delle misure di prevenzione e risposta alla minaccia cibernetica;",
+                " partecipazione, con funzioni di consulenza e proposta, alle determinazioni del Presidente, in caso di crisi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/05_icon.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Road map per l’implementazione di una strategia nazionale 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Osserviamo ora la seguente figura, che riporta tutte le interazioni fra i vari attori riassumendo il panorama italiano. Per coordinare le attività implicite nelle funzioni del CISR, l’art. 4 del decreto instaura l’Organismo collegiale di coordinamento, guidato dal Direttore Generale del DIS. Tale Organismo, chiamato anche CISR tecnico, ha, tra gli altri, anche il compito di identiﬁcare minacce e vulnerabilità potenziali dei sistemi nazionali e di deﬁnire le best practice con l’aiuto di un comitato scientiﬁco. Formazione e cultura della sicurezza rientrano anche tra compiti dell’Osservatorio Permanente per la Sicurezza e Tutela delle Reti, in forza presso il MISE. Il decreto, inoltre, istituisce presso l’Ufﬁcio del Consigliere militare, il Nucleo per la sicurezza cibernetica (NSC), avente funzioni di coordinamento delle varie componenti e di supporto per le attività del Presidente del Consiglio, per quanto riguarda la preparazione e la prevenzione delle crisi. L’NSC, in caso di crisi, attiva il Nucleo Interministeriale Situazione e Pianiﬁcazione (NISP) che avvalendosi del supporto del CERT Nazionale, assicura le attività di stabilizzazione e reazione. Il CERT nazionale, avvalendosi delle unità locali di sicurezza e cooperando con CERT-PA, presso AgID e CERT-difesa presso il Ministero della Difesa, incrementa la capacità del Paese di rispondere alle crisi cyber.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG6",
+            "RAWDOMText": [
+                " Interazioni tra i vari attori nell'intero panorama italiano"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p06.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Glossario di Sicurezza Informatica per principianti 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Proponiamo ora un glossario per approfondire la comprensione e quindi la gestione delle tematiche di sicurezza informatica.<BR>Il Cyber attacco: è il tentativo intenzionale, con mezzi informatici, di ottenere l’accesso non autorizzato a reti o dispositivi informatici con l’intento di causare un danno. Il Cyber incidente: riguarda la violazione di un sistema o di un servizio informatico,  con un uso non autorizzato dei dati in essi memorizzati. La Cyber Resilienza: è la capacità dei sistemi informatici di resistere e rispondere agli attacchi informatici. La Cyber sicurezza: è l’insieme di tecnologie, programmi, processi e tecniche messi in atto per proteggere i sistemi connessi ad internet da accessi non autorizzati, danni od usi impropri. La Valutazione del rischio informatico: permette di mappare criticità e vulnerabilità specifiche di un sistema informatico. La Cyber minaccia: riguarda le azioni malevole, compiute con sistemi informatici, in grado di minacciare la sicurezza di sistemi informativi, infrastrutture, reti di calcolatori o dispositivi personali connessi a internet.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG7",
+            "RAWDOMText": [
+                " Comprensione delle tematiche di sicurezza informatica",
+                " Cyber attacco",
+                " Tentativo intenzionale di ottenere l’accesso non autorizzato a reti o dispositivi informatici.",
+                " Cyber incidente",
+                " Violazione di un sistema informatico con uso non autorizzato dei dati in essi memorizzati.",
+                " Cyber resilienza",
+                " Capacità dei sistemi informatici di resistere e rispondere agli attacchi.",
+                " Cyber sicurezza",
+                " Insieme di tecnologie, programmi e processi per proteggere i sistemi connessi ad internet.",
+                " Valutazione del rischio informatico",
+                " Mappatura delle criticità e vulnerabilità di un sistema informatico.",
+                " Cyber minaccia",
+                " Atti malevoli in grado di minacciare la sicurezza di sistemi informativi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p07.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Glossario di Sicurezza Informatica per principianti 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il Commodity malware: è un software dannoso reperibile su internet, utilizzato per scopi malevoli. La Violazione di sicurezza: avviene quando dati sensibili o riservati vengono consultati, copiati o rubati da un soggetto non autorizzato. Il DDoS: sono degli attacchi finalizzati a rendere inaccessibili alcuni servizi di rete. Il Doxing: è la pratica di ricerca, condivisione e pubblicizzazione delle informazioni personali degli utenti sul web. Il Malware: è un software dannoso che include Virus, Worm, Trojan e Spyware. I Virus: sono programmi dannosi per computer progettati per infettare software legittimi. Il Worm: è un programma malevolo capace di autoreplicarsi e di diffondersi autonomamente ad altri computer. A differenza di un virus informatico, per attivarsi non ha bisogno di interagire con un programma già esistente. Il Trojan :è un programma malevolo mascherato da software legittimo, utilizzato per poter infettare il computer della vittima senza che questa se ne accorga. Lo Spyware: è un malware in grado di raccogliere informazioni private della vittima e trasmetterle al criminale informatico.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG8",
+            "RAWDOMText": [
+                " Comprensione delle tematiche di sicurezza informatica",
+                " Commodity malware",
+                " Software dannoso, utilizzato per scopi malevoli.",
+                " Violazione di sicurezza",
+                " Violazione di dati sensibili da parte di un soggetto non autorizzato.",
+                " DDoS",
+                " Attacchi finalizzati a rendere inaccessibili alcuni servizi di rete.",
+                " Doxing",
+                " Ricerca e pubblicizzazione delle informazioni personali degli utenti sul web.",
+                " Malware",
+                " Software dannoso che include Virus, Worm, Trojan e Spyware.",
+                " Virus",
+                " Programmi progettati per infettare software legittimi.",
+                " Worm",
+                " Programma capace di autoreplicarsi e di diffondersi.",
+                " Trojan",
+                " Programma malevolo, mascherato da software legittimo.",
+                " Spyware",
+                " Programma in grado di raccogliere informazioni private della vittima."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p07.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Glossario di Sicurezza Informatica per principianti 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Phishing: è una tipologia di truffa in cui, attraverso l’invio di massa di e-mail, vengono richieste informazioni sensibili. Ransomware: è un Software dannoso che rende inutilizzabili dati o sistemi finché non viene pagato un riscatto in denaro. SMS spoofing: è Una tecnica che maschera l’origine di un messaggio SMS, sostituendo il numero di cellulare originario con testo alfanumerico. Social engineering: si riferisce alla manipolazione psicologica utilizzata per ingannare le vittime in modo tale che queste divulghino informazioni personali. Vulnerabilità: sono gli errori presenti in programmi software che possono essere sfruttati dagli hacker per effettuare azioni malevole. Test di vulnerabilità: sono le attività attraverso la quale si identificano e quantificano, le vulnerabilità in un sistema.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG9",
+            "RAWDOMText": [
+                " Comprensione delle tematiche di sicurezza informatica",
+                " Phishing",
+                " Truffa in cui, attraverso l’invio di massa di e-mail, vengono richieste informazioni sensibili.",
+                " Ransomware",
+                " Software che rende inutilizzabili i dati o i sistemi finché non viene pagato un riscatto.",
+                " SMS spoofing",
+                " Tecnica che maschera l’origine di un SMS, nascondendo il numero di cellulare originario.",
+                " Social engineering",
+                " Manipolazione utilizzata per ingannare le vittime in modo da ottenere le loro informazioni personali.",
+                " Vulnerabilità",
+                " Errori presenti nei software che possono essere sfruttati per effettuare azioni malevole.",
+                " Test di vulnerabilità",
+                " Attività attraverso la quale si identificano e quantificano, le vulnerabilità in un sistema."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p07.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Il decalogo della protezione in Internet per la famiglia",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Proponiamo ora delle regole per la sicurezza internet per la famiglia, infatti sensibilizzare i propri familiari a quelli che possono essere i pericoli online ci permette di limitare l’esposizione dei nostri device alle più comuni minacce in rete.<BR>La posizione del computer: una scelta strategica. Se si hanno dei figli, è consigliabile installare il PC in una zona della casa che permetta di controllare continuamente che attività vi si svolgono.<BR>Fondamentale è installare un software di protezione progettato per tutelare i bambini online.  Porre dei limiti. Fissare dei limiti insieme ai propri figli riguardo le tipologie di siti web, forum e chat che si possono visitare. Stabilire in modo condiviso le regole d‘uso del PC, tra cui: non usare nomi utente che rivelano la vera identità personale; non rivelare le proprie password; non divulgare informazioni sulla propria identità personale; non pubblicare fotografie sconvenienti o che rivelino l’identità personale; non condividere informazioni con estranei conosciuti online e non incontrarli mai di persona; non aprire allegati o cliccare su link provenienti da sconosciuti. Specificare un codice di condotta: stabilire con tutta la famiglia cosa si intende per un comportamento corretto online. Utilizzare un software di protezione: proteggere il PC con un software capace di bloccare virus, hacker e spyware e di filtrare i contenuti offensivi. Utilizzare le funzioni di parental control: conoscere il funzionamento del parental control aiuta a difendere i minori da contenuti impropri. Insegnare ai familiari che dietro un amico online potrebbe celarsi un estraneo: fingere  di essere qualcun altro è molto facile online. È importante, in oltre, verificare che sul profilo social dei propri figli vi siano pubblicati contenuti appropriati. Creare password complesse: usare password da almeno otto caratteri che comprendano combinazioni di lettere, numeri e simboli e cambiarle regolarmente. Veriﬁcare il software di protezione installato: verificare che il computer sia protetto grazie da almeno tre protezioni fondamentali: software antivirus, antispyware e un firewall devono sempre essere attivi sul nostro PC, meglio se potenziate da funzioni antiphishing e da un software di parental control. Essere sempre aggiornati: conoscere l’evoluzione delle minacce online, consente una protezione più efficace.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG10",
+            "RAWDOMText": [
+                " Sensibilizzare i propri familiari sui pericoli online",
+                " La posizione del computer: una scelta strategica",
+                " Posizionare il PC in modo da poterlo controllare.",
+                " Installare un software per tutelare i bambini online.",
+                " Porre dei limiti",
+                " Fissare dei limiti riguardo che si può visitare.",
+                " Stabilire in modo condiviso le regole d‘uso del PC",
+                " Non usare nomi utente che rivelano l’identità personale;",
+                " Non rivelare le password;",
+                " Non divulgare informazioni sulla propria identità personale;",
+                " Non pubblicare fotografie sensibili;",
+                " Non condividere informazioni con estranei online;",
+                " Non aprire allegati o link provenienti da sconosciuti.",
+                " Specificare un codice di condotta",
+                " Stabilire un comportamento corretto online.",
+                " Utilizzare un software di protezione",
+                " Utilizzare software capaci di bloccare le minacce online.",
+                " Utilizzare le funzioni di parental control",
+                " Il parental control aiuta a difendere i minori dai contenuti impropri.",
+                " Insegnare ai familiari che dietro un amico online potrebbe celarsi un estraneo",
+                " Fingersi qualcun altro è molto facile online.",
+                " Controllare i contenuti sul profilo social dei propri figli.",
+                " Creare password complesse",
+                " Usare password di otto caratteri combinando lettere, numeri e simboli.",
+                " Veriﬁcare il software di protezione installato",
+                " Antivirus, antispyware e firewall devono sempre essere attivi sul PC.",
+                " Essere sempre aggiornati",
+                " Conoscere l’evoluzione delle minacce online, consente una protezione più efficace."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/p10.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M01UD02/img/png/refresh-arrow.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG11",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quanta consapevolezza c’è oggi in Italia sull’importanza della cyber sicurezza?",
+                " Questa consapevolezza è quasi inesistente, persino a livello dei manager aziendali. Infatti in Italia si registra un grande gap culturale e politico su questo tema.",
+                " Cosa sta facendo l’Italia in tema di cyber security?",
+                " L’Italia, solo recentemente, ha attuato degli interventi normativi di natura strategica a tutela delle infrastrutture critiche, con riguardo alla protezione cibernetica e alla sicurezza informatica nazionale.",
+                " Cosa si intende per cyber attacco?",
+                " Un cyber attacco si può definire come un’attività malevole nei confronti di un sistema, di uno strumento o di un’applicazione che abbia una componente informatica.",
+                " Perché è importante stabilire in modo condiviso le regole d‘uso del PC in famiglia?",
+                " È importante perché permette una protezione più efficace in casa contro le minacce online e salvaguarda i minori dai contenuti inappropriati."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_01_MOD1_LEZ2_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Cos'è un Ransomware?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M01UD02/audio/0064_18_01_m01ud02p12"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD1_LEZ2"
+}

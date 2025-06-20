@@ -1,0 +1,918 @@
+{
+    "titolo": "Rischi al tempo della MiFID",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Il 3 gennaio 2018 è stata una data epocale per le imprese di servizi finanziari in Europa: è entrata in vigore la Direttiva nota come MiFID II, elaborata in risposta alla crisi finanziaria globale del 2008.<BR>Questa, insieme alla MiFID I, conferisce centralità dell’investitore, in quanto potenzialmente esposto a errori nelle scelte finanziarie, e quindi soggetto da tutelare e guidare.<BR>La consulenza finanziaria diventa quindi essenziale per ridurre l’asimmetria informativa tra cliente e consulente, e per cercare di ridurre l’inevitabile incertezza delle scelte di investimento.<BR>Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG1",
+            "RAWDOMText": [
+                " Quali tutele per l’investitore sono previste dalla MiFID II?",
+                " Come si configura il nuovo ruolo del consulente del risparmio gestito e delle assicurazioni?",
+                " Come varia la valutazione del rischio se effettuata da esperti o da persone comuni?",
+                " Quali significati ha il concetto di rischio nell’ambito finanziario/assicurativo?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "MiFID: più tutela dell’investitore",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Con la MiFID II, il consulente assume un ruolo più complesso che in passato, soprattutto perché è prevista maggior tutela dei risparmiatori.<BR>Il professionista deve, per prima cosa, rendere noti al cliente il proprio grado di autonomia e indipendenza circa i consigli offerti. Gli intermediari scelgono se lavorare in un regime di dipendenza o di indipendenza, e debbono dichiararlo al cliente.<BR>Inoltre, vanno distinti con trasparenza i costi della consulenza e quelli delle commissioni sui prodotti.<BR>I risparmiatori saranno quindi “accompagnati” nelle scelte d’investimento: per ovviare così a possibili asimmetrie informative,e per gestire fattori quali una inadeguata cultura finanziaria, o le caratteristiche soggettive che possono influire sulla percezione del prodotto.<BR>Si richiede dunque la partecipazione attiva e informata del cliente alla relazione e al processo consulenziale.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG2",
+            "RAWDOMText": [
+                " Ruolo più complesso per il consulente",
+                " Va esplicitato il livello di autonomia",
+                " Più trasparenza sui costi",
+                " “Accompagnare” i risparmiatori nelle scelte e gestire:",
+                " Asimmetrie informative",
+                " Lacune di cultura finanziaria/ fattori soggettivi",
+                " Importante la partecipazione attiva e informata del cliente alla relazione consulenziale.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Secondo quanto previsto dalla direttiva MiFID II, da gennaio 2018 i servizi offerti dagli intermediari devono puntare su una maggiore personalizzazione, offrendo più informazioni sui costi e sulla costruzione dei prodotti, soprattutto se sono complicati, anche grazie a nuovi prospetti informativi.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p02.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Valutazione del rischio: “esperti” e non 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un elemento essenziale di asimmetria fra esperti, cioè consulenti, e non esperti, quindi i clienti, è la diversa percezione del rischio.<BR>Ciò riguarda le varie componenti del rischio, come descritto in questa tabella, e nelle pagine seguenti.<BR>Occorre però notare che l’approccio qui riportato considera la valutazione dei rischi come solo individuale, e trascura il ruolo del contesto sociale in cui esso si sviluppa.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG3",
+            "RAWDOMText": [
+                " Componente del rischio",
+                " Esperti",
+                " Persone \"naïf\"",
+                " Emozioni",
+                " Poco rilevanti. Gli esperti valutano i rischi in base a dati e calcoli scientifici.",
+                " Sia quelle positive sia quelle negative hanno un grande peso nel determinare la valutazione finale.",
+                " Benefici",
+                " I benefici e i rischi sono considerati tra loro indipendenti.",
+                " Vi è correlazione negativa: se i rischi sono giudicati alti, i benefici saranno considerati molto bassi e viceversa.",
+                " Incontrollabilità",
+                " Il rischio di un comportamento non dipende dalla persona che lo mette in atto.",
+                " Viene stabilita una forte correlazione fra chi mette in atto un comportamento e il comportamento stesso.",
+                " Ma... la valutazione dei rischi non è solo individuale!"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p03"
+            ],
+            "tabelle": [
+                [
+                    " Componente del rischio",
+                    " Esperti",
+                    " Persone \"naïf\"",
+                    " Emozioni",
+                    " Poco rilevanti. Gli esperti valutano i rischi in base a dati e calcoli scientifici.",
+                    " Sia quelle positive sia quelle negative hanno un grande peso nel determinare la valutazione finale.",
+                    " Benefici",
+                    " I benefici e i rischi sono considerati tra loro indipendenti.",
+                    " Vi è correlazione negativa: se i rischi sono giudicati alti, i benefici saranno considerati molto bassi e viceversa.",
+                    " Incontrollabilità",
+                    " Il rischio di un comportamento non dipende dalla persona che lo mette in atto.",
+                    " Viene stabilita una forte correlazione fra chi mette in atto un comportamento e il comportamento stesso."
+                ]
+            ]
+        },
+        {
+            "ordine": 3,
+            "titolo": "Valutazione del rischio: “esperti” e non 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Qui mettiamo a confronto un ulteriore set di componenti del rischio percepito, sempre evidenziando le differenze esistenti fra esperti e naif. Le persone comuni tenderebbero a sopravvalutare o a sottovalutare determinate categorie di rischi: per esempio, considerano più probabili eventi remoti ma di portata eccezionale, e sottovalutano rischi familiari e affrontati volontariamente dal soggetto.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG4",
+            "RAWDOMText": [
+                " Componente del rischio",
+                " Esperti",
+                " Persone \"naïf\"",
+                " Catastroficità",
+                " Un evento catastrofico che fa migliaia di vittime nello stesso istante, ed eventi che provocano poche vittime ma accadono un po’ alla volta(es incidenti sul lavoro) sono considerati ugualmente pericolosi e gravi.",
+                " Le persone in generale ritengono più pericoloso e grave l’evento catastrofico.",
+                " Volontarietà dell’esposizione",
+                " Non è considerata rilevante.",
+                " Se un rischio è imposto dall’esterno, come l’inquinamento, è percepito come più intollerabile e grave rispetto a uno a cui ci si espone volontariamente (per es. fumare)."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p04"
+            ],
+            "tabelle": [
+                [
+                    " Componente del rischio",
+                    " Esperti",
+                    " Persone \"naïf\"",
+                    " Catastroficità",
+                    " Un evento catastrofico che fa migliaia di vittime nello stesso istante, ed eventi che provocano poche vittime ma accadono un po’ alla volta(es incidenti sul lavoro) sono considerati ugualmente pericolosi e gravi.",
+                    " Le persone in generale ritengono più pericoloso e grave l’evento catastrofico.",
+                    " Volontarietà dell’esposizione",
+                    " Non è considerata rilevante.",
+                    " Se un rischio è imposto dall’esterno, come l’inquinamento, è percepito come più intollerabile e grave rispetto a uno a cui ci si espone volontariamente (per es. fumare)."
+                ]
+            ]
+        },
+        {
+            "ordine": 4,
+            "titolo": "Valutazione del rischio: “esperti” e non 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ecco infine le ultime due componenti del rischio percepito, che differenziano nettamente esperti e naif.<BR>Tra i fattori individuali, rivestono un ruolo fondamentale anche l’illusione di controllo, che influenza la percezione del rischio in sé e per sé, con tendenza a sovrastimare la nostra influenza sugli eventi esterni (per esempio nel guidare) e l’eccessiva fiducia nelle nostre valutazioni, dovuta alla convinzione di avere informazioni più accurate e complete di quanto non siano realmente.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG5",
+            "RAWDOMText": [
+                " Componente del rischio",
+                " Esperti",
+                " Persone \"naïf\"",
+                " Conoscenza del rischio",
+                " La relazione tra conoscenza del rischio e percezione del pericolo è sempre negativa.",
+                " La relazione tra conoscenza e percezione del rischio non è univoca, a volte è positiva (più lo conosco più lo giudico rischioso) altre volte è negativa (meno lo conosco più lo giudico rischioso). ",
+                " Cecità psicologica (psicological numbing)",
+                " Ogni vita umana ha lo stesso valore.",
+                " Se la vittima può essere identificabile con il nome o con una foto, ha un impatto psicologico maggiore rispetto a quando è anonima (probabile effetto dell’empatia).",
+                " Illusione del controllo",
+                " Fiducia eccessiva nelle proprie valutazioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p05"
+            ],
+            "tabelle": [
+                [
+                    " Componente del rischio",
+                    " Esperti",
+                    " Persone \"naïf\""
+                ],
+                [
+                    " Conoscenza del rischio",
+                    " La relazione tra conoscenza del rischio e percezione del pericolo è sempre negativa.",
+                    " La relazione tra conoscenza e percezione del rischio non è univoca, a volte è positiva (più lo conosco più lo giudico rischioso) altre volte è negativa (meno lo conosco più lo giudico rischioso)."
+                ],
+                [
+                    " Cecità psicologica (psicological numbing)",
+                    " Ogni vita umana ha lo stesso valore.",
+                    " Se la vittima può essere identificabile con il nome o con una foto, ha un impatto psicologico maggiore rispetto a quando è anonima (probabile effetto dell’empatia)."
+                ]
+            ]
+        },
+        {
+            "ordine": 5,
+            "titolo": "La tolleranza del rischio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Una volta esaminato l'argomento della percezione del rischio, introduciamo adesso quello della tolleranza del rischio stesso.<BR>La rilevazione di questa caratteristica dell'investitore è evidentemente importante sia per il regolatore, sia per chi vende servizi finanziari. Nella  MiFID II, infatti, gli intermediari devono conoscere le preferenze verso il rischio e il profilo di rischio del cliente, per poter offrire consulenza adeguata sugli investimenti o la gestione di portafoglio.<BR>Secondo la normativa, le imprese debbono assumere piena responsabilità nel processo di valutazione del Rischio applicando il principio di Adeguatezza, e spiegare chiaramente al cliente che ciò è fatto nel suo interesse.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG6",
+            "RAWDOMText": [
+                " La tolleranza del rischio da parte del cliente",
+                " Elemento importante",
+                " per il regolatore",
+                " per il consulente",
+                " Le imprese devono assumere piena responsabilità nel processo di valutazione del Rischio applicando il principio di Adeguatezza, e spiegare chiaramente al cliente che ciò è fatto nel suo interesse"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p06_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Tolleranza del rischio e capacità di sostenere perdite",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’impresa mantiene quindi la responsabilità di assegnare profili di rischio e valutare l’adeguatezza degli investimenti proposti. Quanto ai criteri per svolgere  questa valutazione, la nuova Direttiva conferma l’impostazione della MiFID I, tuttavia dà una particolare enfasi alla valutazione della capacità di sostenere perdite e alla tolleranza del rischio.<BR>Queste misure sono tanto diverse che non devono essere confuse, e costituiscono requisiti distinti da soddisfare congiuntamente nelle raccomandazioni d’investimento.<BR>Si possono spesso osservare  situazioni in cui un cliente è nelle condizioni oggettive di sostenere una perdita nel suo portafoglio, ma, soggettivamente, non è in grado di tollerare il rischio dei suoi investimenti.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG7",
+            "RAWDOMText": [
+                " Assegnare profili di rischio e valutare adeguatezza investimenti",
+                " Quali criteri?",
+                "Confermata l’impostazione MiFID I",
+                " Enfasi su:",
+                " capacità di sostenere perdite (risk capacity)",
+                " tolleranza del rischio",
+                " Due misure diverse da non confondere",
+                " Capacità di sostenere perdite e tolleranza del rischio sono requisiti distinti",
+                " Vanno soddisfatti insieme nelle raccomandazioni d’investimento",
+                " Spesso clienti che possono sostenere una perdita, non tollerano tale rischio"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p07_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Un nuovo ruolo per il Consulente",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come è facile intuire, persone diverse  avranno modi diversi di gestire un determinato rischio.<BR>Senza il consiglio di un Consulente o Specialista, la scelta sarebbe molto probabilmente condizionata, come abbiamo visto, sia dalle caratteristiche personali, in particolare di propensione o avversione al rischio, sia dalla percezione del rischio specifico.<BR>Il Consulente avrà quindi l'importante compito di: individuare e determinare il livello di rischio massimo accettabile per la persona e il suo nucleo familiare; oppure, trasformare il rischio iniziale in uno in linea con gli obiettivi e le capacità finanziarie del cliente in questione; scegliere la strategia migliore per gestire il rischio, ridurne la probabilità di accadimento e/o l'impatto; monitorare e/o mantenere i rischi entro il livello individuato o ridurne degli effetti dannosi sulle risorse dell'investitore.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG8",
+            "RAWDOMText": [
+                " Affrontare il rischio: controllare i fattori soggettivi",
+                " Azioni del Consulente",
+                " Individuare la “risk tolerance” del cliente",
+                " Trasformare il rischio iniziale in uno accettabile",
+                " Scegliere la migliore strategia di gestione del rischio e dei suoi effetti",
+                " Controllare che il rischio non oltre passi la “soglia” individuata"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p08_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p08_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p08_c.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Educare l'investitore",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Inoltre, è molto importante che il consulente svolga un intervento di “educazione” del cliente, che si concretizzerà in vari modi: addestrarlo all’uso di strumenti di supporto ai processi decisionali; fornire ulteriori informazioni e mettere a disposizione le proprie competenze di analisi specialistica; diagnosticare problemi familiari o aziendali complessi; sostenere e consigliare nei momenti difficili o rispetto a decisioni particolarmente impegnative; aiutare ad assumere la responsabilità delle decisioni, gestendo l’ansia dovuta all’incertezza.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG9",
+            "RAWDOMText": [
+                " Il consulente deve saper “educare il cliente”",
+                " Addestrare all’uso di strumenti per la presa di decisione",
+                " Fornire informazioni e analizzarle con tecniche specialistiche",
+                " Diagnosticare problemi complessi",
+                " Sostenere e consigliare nei momenti difficili",
+                " Sostenere e consigliare rispetto a decisioni impegnative",
+                " Aiutare ad assumersi la responsabilità della decisione e gestire l’ansia"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p09_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p09_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Aumento della rischiosità nel ciclo di vita delle persone",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Soffermiamoci ora sui nuovi profili di rischio, che ormai accompagnano le persone lungo il corso della vita, fin dalla giovinezza.<BR>Ci riferiamo ai periodi di inattività, nella transizione dalla scuola al lavoro, ma anche e sempre più spesso all’instabilità e intermittenza delle carriere e alla rapida obsolescenza delle skills lavorative.<BR>Spostandoci su aspetti più personali, esistono poi significative difficoltà di conciliazione tra vita lavorativa e carichi familiari, la maggiore incidenza di malattie croniche e la ridotta disponibilità di risorse del welfare pubblico.<BR>Tutto ciò impatta su tutto il patrimonio della persona: dal risparmio ai flussi che lo alimentano, alle scelte quali acquistare o affittare un immobile, o sottoscrivere un’assicurazione sanitaria, programmare il passaggio di ricchezza a favore dei familiari per proteggere il patrimonio da eventuali aggressioni.<BR>Personalizzare il servizio di consulenza significa perciò conoscere non solo i vincoli economico-finanziari del cliente, ma soprattutto quelli relazionali, famigliari, emotivi che solitamente accompagnano il processo d’investimento e di gestione del patrimonio.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG10",
+            "RAWDOMText": [
+                " Nuovi profili di rischio",
+                " Più periodi di inattività",
+                "(transizione scuola lavoro/instabilità della carriera/obsolescenza skills)",
+                " Conciliazione vita/lavoro",
+                " Più malattie croniche, meno welfare pubblico",
+                " Impatti sul patrimonio della persona",
+                " Risparmio/flussi",
+                " Scelte su acquisti/affitto immobile, sottoscrizione assicurazioni sanitarie",
+                " Passaggio di ricchezza ai familiari per proteggere il patrimonio",
+                " Personalizzare la consulenza in base ai vincoli emotivi e relazionali del cliente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p10_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Consulenza, protezione, sicurezza",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La nuova rischiosità dei cicli di vita delle persone, brevemente delineata, richiede al consulente/intermediario di rinnovare il proprio ruolo: dalla gestione del rischio tout court alla protezione della persona e del patrimonio, per favorire e talvolta garantire adeguati livelli di protezione, sicurezza e benessere.<BR>Il Consulente Finanziario di oggi deve saper diventare un partner che aiuta ad affrontare i rischi della vita quotidiana,  offrendo una gamma di servizi e soluzioni di coperture integrate.<BR>Si supera la prestazione meramente monetaria, il consulente non è più solo un esperto del mondo della finanza.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG11",
+            "RAWDOMText": [
+                " Aumento rischiosità",
+                " → domanda di un nuovo tipo di consulenza",
+                " Dalla sola gestione del rischio alla protezione della persona e del patrimonio",
+                " Favorire adeguati livelli di protezione, sicurezza, benessere",
+                " Il Consulente Finanziario oggi",
+                " Un partner che aiuta ad affrontare i rischi del quotidiano",
+                " Offerta di servizi e coperture integrate",
+                " Oltre la consulenza meramente monetaria/finanziaria"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p11_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p11_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Il rischio in ambito assicurativo introduzione",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Affrontiamo ora più da vicino la tematica dal punto di vista assicurativo.<BR>Protezione e tutela dai rischi sono dunque esigenze sempre più stringenti per le persone, che ritengono di non avere nessun controllo a riguardo.<BR>Ciascun soggetto, in funzione del proprio grado di avversione al rischio e della valutazione specifica, può pertanto adottare diverse tecniche di gestione e controllo del rischio stesso.<BR>Può decidere di optare per l’assunzione in proprio o ritenzione del rischio, senza ricorso ad alcuna tutela, se ritiene che la probabilità di accadimento sia molto bassa. Oppure, può basarsi sulle tecniche di controllo del rischio, illustrate nella pagina successiva.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG12",
+            "RAWDOMText": [
+                " Crescenti esigenze di protezione e tutela...",
+                " Tecniche diverse di gestione e controllo del rischio",
+                " Assunzione in proprio o ritenzione del rischio",
+                " Bassa probabilità di accadimento stimata",
+                " Adozione di tecniche di gestione e controllo del rischio"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_d.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p12_e.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Strategie assicurative contro il rischio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quali sono dunque le possibili strategie che si possono adottare in ambito assicurativo?<BR>Si agisce in ottica di Prevenzione quando si interviene prima che si verifichi il danno: l’obiettivo è quello di eliminare o rimuovere (in anticipo) parzialmente le cause che possono provocarlo, cercando di ridurre la frequenza e/o l’intensità dell’evento dannoso.<BR>Nonostante gli sforzi volti a prevenire il rischio, è però possibile che esso si manifesti comunque. In tal caso si fa riferimento alla Protezione dal rischio, all’insieme di interventi volti a contenere le possibili perdite patrimoniali.<BR>In questo caso, il soggetto, pur assumendo in proprio il rischio, cerca di incidere sulla probabilità dell’evento, eliminando il rischio o comunque limitandone la possibilità di accadimento, o il suo impatto negativo.<BR>Infine, il soggetto può optare per il Trasferimento del rischio cioè può traslare a un altro soggetto le conseguenze economiche derivanti dal verificarsi di un evento negativo.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG13",
+            "RAWDOMText": [
+                " Come affrontare il rischio?",
+                " PREVENZIONE del rischio",
+                " Si eliminano in anticipo (anche parzialmente) le cause del danno, cercando anche di ridurre frequenza e intensità di questo.",
+                " PROTEZIONE dal rischio (una volta manifestatosi)",
+                " Il soggetto assume in proprio il rischio, cerca di incidere sulla sua probabilità di accadimento, le cause, l’impatto sul patrimonio.",
+                " TRASFERIMENTO del rischio",
+                " Consiste nel traslare ad altro soggetto le conseguenze economiche dell’evento negativo."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p13_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Il concetto di rischio nel Codice Civile",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Occorre qui soffermarsi attentamente sulla nozione di rischio nell'assicurazione, essendo questo l’elemento cardine, intorno al quale ruotano tutti gli altri.<BR>Già nella definizione di contratto di assicurazione nel Codice Civile, notiamo una duplice funzione del contratto aleatorio per eccellenza: da un lato, l’assicurazione contro i danni, a carattere essenzialmente indennitario, dall'altro, quella sulla vita, a carattere prettamente previdenziale.<BR>In  entrambi i casi, il rischio è trasferito dall’assicurato all’assicuratore.<BR>Nel primo caso il rischio si traduce concretamente nella garanzia, che l’assicuratore dà all’assicurato, di coprire le conseguenze di un evento dannoso; nel secondo, l'assicuratore coprirà un’alea legata alla morte o alla sopravvivenza di un individuo, capitalizzando i premi che questo versa e che gli saranno poi corrisposti dopo il verificarsi dell’evento.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG14",
+            "RAWDOMText": [
+                " C.C. art 1882: due funzioni del contratto",
+                " Assicurazione contro i danni - carattere indennitario",
+                " Rischio trasferito dall’assicurato all’assicuratore",
+                " Garanzia di copertura delle conseguenze di un evento dannoso",
+                " Assicurazione sulla vita - carattere previdenziale",
+                " Rischio trasferito dall’assicurato all’assicuratore",
+                " Si copre l’alea morte/sopravvivenza capitalizzando i premi, che verranno poi corrisposti"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p14_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Quali rischi possono essere assicurati?",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Individuare quali rischi possono essere oggetto di assicurazione non è immediato.<BR>Infatti, non vi è una perfetta coincidenza tra il rischio in senso economico (possibilità di verificarsi di un evento futuro e incerto) e il rischio in senso tecnico-assicurativo (possibilità di assicurare un evento che si è già verificato, il cosiddetto rischio putativo).<BR>Inoltre, non tutti i rischi in senso economico sono tecnicamente assicurabili e non tutti i rischi tecnicamente assicurabili possono essere coperti da una polizza assicurativa.<BR>Secondo la norma, possono essere assicurati i rischi puri, cioè che possono tradursi in un sinistro,in un evento potenzialmente dannoso per l’assicurato.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG15",
+            "RAWDOMText": [
+                " Rischio in senso economico (evento futuro incerto)",
+                " VS rischio in senso tecnico assicurativo (già verificatosi: “putativo”)",
+                " Non tutti i rischi in senso economico sono tecnicamente assicurabili",
+                " Non tutti i rischi tecnicamente assicurabili si possono coprire con polizza",
+                " Art 1882 C.C.",
+                " Possono essere assicurati i rischi “puri”",
+                " Rischi puri",
+                " Quelli che possono trasformarsi in un sinistro",
+                " (evento potenzialmente dannoso per l’assicurato)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p15_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Categorie di rischi puri",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Analizziamo ora il concetto di rischi puri, che vengono distinti in 3 categorie. Per prima, quella dei rischi sulla persona, che colpiscono direttamente l’individuo, e comportano la possibilità di perdita o riduzione del reddito o delle attività finanziarie per sopravvenuta incapacità di produrre reddito.<BR>In particolare, è il caso di: morte prematura, vecchiaia, malattia o disabilità e disoccupazione. I rischi sulla proprietà riguardano invece la possibilità di subire perdite o danneggiamenti, diretti o indiretti,  alle cose possedute.<BR>Infine, la responsabilità civile, rappresenta il rischio di arrecare involontariamente un danno a un'altra persona o a un bene altrui, per negligenza o disattenzione.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG16",
+            "RAWDOMText": [
+                " I rischi puri",
+                " Rischi sulla persona:",
+                " Perdita o riduzione di reddito/attività finanziarie",
+                " → Morte prematura, vecchiaia, malattia/disabilità, disoccupazione",
+                " Rischi sulla proprietà:",
+                " Possibilità di subire perdite/danneggiamenti alle cose possedute",
+                " Responsabilità civile:",
+                " Possibilità di arrecare danno ad altri o a un bene altrui, per negligenza o disattenzione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p16.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Legge dei grandi numeri e principio mutualistico",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Premesso che il rischio deve essere concreto perché possa essere assicurato, sono anche altri i requisiti per l’assicurabilità.<BR>Fondamentale è che esso sia riferibile a un elevato numero di unità omogenee, cosa che consente all’impresa assicuratrice di applicare il principio mutualistico: il danno potenzialmente causato dall’evento può essere ripartito fra tutti coloro che sono soggetti al medesimo rischio, poiché solamente alcuni verranno realmente colpiti dal sinistro.<BR>Evidentemente, il principio è tanto più efficace quanto più elevato è il numero degli assicurati.<BR>L'assicurato, d’altra parte, stipulando una polizza, viene incluso in una collettività di soggetti esposti allo stesso rischio, nella quale ciascuno versa il proprio contributo in modo da accumulare i capitali da corrispondere ai componenti per i quali si verificherà effettivamente l’evento.<BR>Pertanto si ha un trasferimento del rischio, poiché l’importo che ciascuno versa è commisurato alla probabilità di accadimento dell’evento, stimata statisticamente sulla base della frequenza empirica.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG17",
+            "RAWDOMText": [
+                " Ulteriori requisiti per l’assicurabilità",
+                " Il rischio è riferibile a un gran numero di unità omogenee?",
+                " Principio mutualistico",
+                " Il danno ripartisce tra tutti coloro che sono soggetti a quel rischio",
+                " Più efficace se max numero assicurati",
+                " Per l'assicurato",
+                " Stipula polizza = inclusione in una comunità di soggetti esposti al medesimo rischio.",
+                " → Ciascuno versa il proprio contributo per fronteggiare il rischio.",
+                " Trasferimento del rischio",
+                " L’importo versato è commisurato alla probabilità dell’evento dannoso (stima empirica)",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Secondo la legge dei grandi numeri, date la probabilità di un evento e la frequenza con cui questo si verifica su un numero determinato di prove, all’aumentare del numero di prove la frequenza con cui l’evento si verifica tenderà a coincidere con la sua probabilità. Perciò al crescere della numerosità dei rischi omogenei e indipendenti assunti dall’impresa di assicurazione, l’errore commesso nella previsione dell’evento aleatorio si riduce.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p17.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Condizioni di funzionamento del meccanismo assicurativo",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "In base a quanto ricordato, appare evidente che, per far funzionare il meccanismo assicurativo, è necessario: che la massa dei rischi assunti e gestiti dall’impresa di assicurazioni sia composta da rischi omogenei, sufficientemente numerosi e valutabili, in termini di probabilità e quantificazione del danno atteso, e che i rischi siano tra loro indipendenti.<BR>Questo è essenziale per prevenire il cumulo dei rischi e garantire il meccanismo di compensazione delle perdite tra i diversi soggetti assicurati.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG18",
+            "RAWDOMText": [
+                " Per il funzionamento del meccanismo assicurativo devono sussistere alcune condizioni",
+                " La massa dei rischi gestiti deve essere omogenea",
+                " I rischi devono essere sufficientemente numerosi e valutabili (probabilità/quantificazione del danno)",
+                " I rischi devono essere tra loro indipendenti (compensazione delle perdite)",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Uno dei principi base della gestione dei rischi è infatti la diversificazione. Questo spiega perché in caso di rischio parzialmente diversificabile (calamità naturali, catastrofi man-made…) in molti casi le polizze assicurative prevedono l’esclusione o comunque la limitazione della copertura per tali rischi.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p18_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p10_a.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "Asimmetria informativa",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina19.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Nella gestione del rischio esistono però delle asimmetrie informative.<BR>In primo luogo, quella tipica dal lato della domanda: il cliente non conosce la qualità del bene o del servizio offerto, che invece è nota al venditore.<BR>L’asimmetria esiste, però,  anche dal lato dell’offerta, poiché l’assicuratore non conosce la rischiosità del soggetto che contrae la polizza.<BR>Questo comporta per l’assicuratore l’incertezza sul prezzo a cui prestare il proprio servizio. Infatti, il prezzo della copertura assicurativa deve essere determinato ex ante, ma solo l’assicurato conosce informazioni o porrà in essere azioni che influenzeranno il reale rischio.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG19",
+            "RAWDOMText": [
+                " Asimmetrie nella gestione del rischio",
+                " “Lato” domanda",
+                " Il cliente non conosce la qualità del bene/servizio offerto, nota invece al venditore",
+                " “Lato” offerta",
+                " L’assicuratore ignora la vera rischiosità del cliente",
+                " → Incertezza sul prezzo della copertura assicurativa!",
+                " Il prezzo della polizza va determinato ex ante",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Generalmente si distinguono due forme di asimmetria informativa. La “selezione avversa” riguarda informazioni nascoste alla controparte ed è di natura pre-contrattuale; si manifesta, quindi, prima della conclusione della transazione o del perfezionamento della polizza. Il “moral hazard”, o azzardo morale, si riferisce ad azioni nascoste alla controparte e ha natura post-contrattuale, si verifica, cioè, durante la copertura assicurativa. Per cercare di ovviare alle inefficienze dovute alle asimmetrie informative in campo assicurativo sono stati introdotti vari incentivi per la gestione del rischio, fra cui: clausole contrattuali (franchigia, scoperto), riduzioni tariffarie in presenza di determinate cautele, introduzione dei meccanismi bonus/malus che lega la tariffa alla classe di merito del cliente.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p19_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p19_a.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "Ulteriori prodotti assicurativi per il risparmio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina20.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Finora abbiamo considerato il ruolo degli intermediari assicurativi dal punto di vista della protezione (rischi patrimoniali) e della prevenzione (rischi reddituali).<BR>Ma le Compagnie, sia come gestori di rischi sia come investitori istituzionali, possono oggi offrire soluzioni competitive per il risparmio dell’individuo e della sua famiglia, anche perché la riduzione dei rischi patrimoniali e reddituali dovute alle attività di Protezione/Prevenzione libera ulteriori flussi finanziari.<BR>Si può configurare un risparmio indennitario, ricercato a titolo precauzionale per fronteggiare riduzioni del reddito, come nel caso delle pensioni integrative.<BR>Ma esiste anche il risparmio speculativo, sia imprenditoriale che personale, volto all'incremento del capitale.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG20",
+            "RAWDOMText": [
+                " Intermediari assicurativi: non solo Protezione e Prevenzione",
+                " Le Compagnie possono offrire varie soluzioni per il risparmio",
+                " La riduzione dei rischi patrimoniali libera risorse da investire",
+                " Risparmio indennitario",
+                " Volto a fronteggiare riduzioni del reddito",
+                " Risparmio speculativo",
+                " Volto all'incremento del capitale"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/p20.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD01/img/icone/p20_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p20"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina21.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG21",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quali tutele per l’investitore sono previste dalla MiFID?",
+                " Con la Direttiva Europea entrata in vigore il 3 gennaio 2018 l’investitore è tutelato tramite maggiori livelli di informazione e trasparenza, una consulenza a 360° e la richiesta di partecipare attivamente ai processi decisionali relativi ai suoi investimenti/risparmi.",
+                " Quale ruolo viene ora assegnato al consulente del risparmio/investimento?",
+                " Il consulente finanziario, nel nuovo quadro normativo ma anche in considerazione dei nuovi livelli di rischiosità che oggi le persone devono fronteggiare, ha il compito di affiancare i clienti in scelte complesse, supportandoli e orientandoli, a partire da un’accurata analisi del profilo di rischio del cliente stesso.",
+                " Perché la valutazione del rischio dell’esperto e quella della persona “naif” sono così diverse?",
+                " Nel valutare i rischi, l’esperto adotta un approccio statistico e dispone di strumenti di analisi e di decisione basati sui dati, mentre la persona comune ragiona sulla base di assunzioni implicite guidate dall’emotività e non vincolate a dati fattuali.",
+                " Quali significati ha il concetto di rischio in ambito di risparmio gestito, investimenti e assicurazioni?",
+                " Il rischio è una “caratteristica” del cliente, ma riguarda anche la sua propensione e capacità di rischiare nell’investire, nonché una caratteristica dei prodotti proposti. Tutte devono essere ben analizzate dal consulente. Il rischio è anche quello gestito dai meccanismi assicurativi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p21"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 21,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina22.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD1_LEZ7_PAG22",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Un evento catastrofico “puntuale” (es. terremoto) e un evento che provoca molte vittime ma in maniera diluita nel tempo (es. incidenti sul lavoro):"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p22"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD1_LEZ7"
+}

@@ -1,0 +1,57 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+    <div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 654px;">
+			<img src="contenuti/img/sfondo3.png">
+		</div>
+        <div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+            <img src="contenuti/0064_18_03_M02UD05/img/p06.png">
+        </div>
+    </div>
+
+    <div id="contenitore2" class="pullDown" animated="" datastart="1" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 750px;">
+        <div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color: #006699;font-weight: bold;">
+            <div id="cont2_tit" animated="" datastart="1" ng-show="getIsVisible('cont2_tit')" class="slideRight" style="">Importante conoscere:</div>
+        </div>
+        <div style="position: absolute;top: 40px;left: 20px;font-size: 18px;">
+            <ul style="list-style-image: url(images/pelenco.png);font-size: 16px;">
+                <li class="slideLeft" id="cont2_spe1" animated="" datastart="1" dataend="1000" ng-show="getIsVisible('cont2_spe1')" style="">le esigenze del Cliente</li>
+                <li class="slideLeft" id="cont2_spe2" animated="" datastart="2" dataend="1000" ng-show="getIsVisible('cont2_spe2')" style="">la sua tolleranza del rischio</li>
+            </ul>
+        </div>
+        <div id="cont2_img2" class="bigEntrance" animated="" datastart="5" ng-show="getIsVisible('cont2_img2')" style="position: absolute;top: 120px;left: 0px;">
+            <img src="contenuti/0064_18_03_M02UD05/img/icone/m3u3p2_B.png" style="width: 100px;">
+        </div>
+        <div id="cont2_ico1" class="bigEntrance" animated="" datastart="7" ng-show="getIsVisible('cont2_ico1')" style="position: absolute;top: 240px;left: 0px;">
+            <img src="contenuti/0064_18_03_M02UD05/img/icone/notebook.png" style="width: 100px;">
+        </div>
+        <div style="position: absolute;top: 220px;left: 140px;font-size: 18px;">
+            <div id="cont2_txt1" animated="" datastart="9" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Il questionario è uno strumento chiave</div>
+        </div>
+    </div>
+
+    <div id="contenitore3" class="pullDown" animated="" datastart="14" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 410px;left: 20px;width: 600px;">
+        <div style="position: absolute;top: 35px;left: 0px;font-size: 20px;color: #006699;font-weight: bold;">
+            <div id="cont3_tit" animated="" datastart="14" ng-show="getIsVisible('cont3_tit')" class="slideRight">Profilo di rischio</div>
+        </div>
+        <div id="cont3_ico1" class="bigEntrance" animated="" datastart="15" ng-show="getIsVisible('cont3_ico1')" style="position: absolute;top: 0px;left: 190px;">
+            <img src="contenuti//img/frecciadx.png" style="width: 120px;">
+        </div>
+        <div style="position: absolute;top: 5px;left: 330px;font-size: 20px;color: #006699;font-weight: bold;width: 290px;">
+            <div id="cont3_tit22" animated="" datastart="19" ng-show="getIsVisible('cont3_tit22')" class="slideRight">Gestione della relazione e del portafoglio</div>
+        </div>
+    </div>
+    
+    <div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 630px;top: 20px;">
+        <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_03_m02ud05p06','Il questionario di profilatura',1,43)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:170px;"></a>
+    </div>
+    <div class="istruzionePopup" style="position: absolute;left: 0px;width: 655px;">
+        <div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>    
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_03_M02UD05/audio/0064_18_03_m02ud05p06" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_03_m02ud05p06">
+    <div style="color:#FFF;"><p>Per arrivare a un’identificazione della tolleranza o della propensione ad assumersi rischi, si indagano l’esperienza maturata in tema di investimenti, il reddito, la ricchezza, le più significative voci di spesa del nostro nucleo familiare (legate ad esempio all'affitto, al mutuo e al numero di figli), nonché dei fattori che possono incidere sulla regolarità e sull'utilizzo delle entrate (l'età di pensionamento programmata, le aspettative di variazioni del reddito, etc.).</p></div> 
+</script>

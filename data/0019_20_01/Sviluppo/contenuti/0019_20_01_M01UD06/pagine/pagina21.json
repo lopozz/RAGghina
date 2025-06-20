@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"devono informare il cliente quando il valore delle singole partecipazioni subisce un deprezzamento del 10%.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"devono informare il cliente quando il valore complessivo del portafoglio subisce un deprezzamento di multipli del 15%.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"devono informare il cliente quando il valore complessivo del portafoglio subisce un deprezzamento del 10% e successivamente di multipli del 10%.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"devono informare il cliente quando il valore del portafoglio subisce un deprezzamento del 15%.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "Esatto! Gli intermediari che prestano il servizio di gestione del portafoglio devono informare il cliente quando il valore complessivo del portafoglio, valutato all'inizio di qualsiasi periodo oggetto della comunicazione, subisce un deprezzamento del 10% e successivamente di multipli del 10% non più tardi della fine del giorno nel quale la soglia è superata.",
+    "feedbackNeg": "Non è esatto! Gli intermediari che prestano il servizio di gestione del portafoglio devono informare il cliente quando il valore complessivo del portafoglio, valutato all'inizio di qualsiasi periodo oggetto della comunicazione, subisce un deprezzamento del 10% e successivamente di multipli del 10% non più tardi della fine del giorno nel quale la soglia è superata."
+}

@@ -1,0 +1,74 @@
+﻿<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 251px; left: 0px;">
+			<img src="contenuti/img/sfondo2.png" style="width: 1000px; height: 344px;">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 486px;">
+			<img src="contenuti/0064_18_04_M03UD05/img/p03_b.png">
+		</div>
+		<!--div id="img2" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img2')" style="position: absolute; top: 256px; left: 0px;">
+			<img src="contenuti/0064_18_04_M03UD05/img/p03_a.png">
+		</div-->
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="2" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 445px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color: #006699 !important;font-weight: bold;">
+			<div id="cont2_txt1" animated="" datastart="2" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Mirror Trading</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="4" dataend="1000" ng-show="getIsVisible('cont2_pe1')" style="">dalla piattaforma di <i>Mirror Trading</i> si <b>accede</b> alle varie strategie;</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="11" dataend="1000" ng-show="getIsVisible('cont2_pe2')" style="">l’utente può <b>scegliere le strategie e replicarle</b> sul proprio conto di trading in automatico;</li>
+				<li class="slideLeft" id="cont2_pe3" animated="" datastart="22" dataend="1000" ng-show="getIsVisible('cont2_pe3')" style=""><b>il segnale inviato dalla strategia viene replicato</b> sul conto trading dell’utente.</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="36.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 320px;left: 20px;width: 445px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color: #006699 !important;font-weight: bold;">
+			<div id="cont3_txt1" animated="" datastart="36.5" ng-show="getIsVisible('cont3_txt1')" class="slideRight" style="">Copy Trading</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 18px;">
+			<div id="cont3_txt2" animated="" datastart="43" ng-show="getIsVisible('cont3_txt2')" class="slideRight" style="">Il <b>trader</b>, che ha deciso di condividere i suoi segnali, non deve sottoporre un programma automatico alla società di Copy Trading, ma deve collegare il proprio conto personale.</div>
+		</div>
+	</div>
+	
+	<div id="contenitore4" class="pullDown" animated="" datastart="65.5" dataend="1000" ng-show="getIsVisible('contenitore4')" style="position: absolute; top: 320px; left: 510px; width: 470px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color: #006699 !important;font-weight: bold;">
+			<div id="cont4_txt1" animated="" datastart="65.5" ng-show="getIsVisible('cont4_txt1')" class="slideRight" style="">Social Trading</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont4_pe1" animated="" datastart="76.5" dataend="1000" ng-show="getIsVisible('cont4_pe1')" style="">interazione</li>
+				<li class="slideLeft" id="cont4_pe2" animated="" datastart="83" dataend="1000" ng-show="getIsVisible('cont4_pe2')" style="">ricevere consigli</li>
+				<li class="slideLeft" id="cont4_pe3" animated="" datastart="85" dataend="1000" ng-show="getIsVisible('cont4_pe3')" style="">votare/commentare l’operato</li>
+				<li class="slideLeft" id="cont4_pe4" animated="" datastart="87.5" dataend="1000" ng-show="getIsVisible('cont4_pe4')" style="">vedere i giudizi</li>
+			</ul>
+		</div>
+		<div style="position: absolute;top: 170px;left: 0px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont4_pe5" animated="" datastart="100" dataend="1000" ng-show="getIsVisible('cont4_pe5')" style="">scambio di opinioni</li>
+				<li class="slideLeft" id="cont4_pe6" animated="" datastart="105.5" dataend="1000" ng-show="getIsVisible('cont4_pe6')" style="">condivisione idee operative</li>
+			</ul>
+		</div>
+		<div id="cont4_ico1" class="bigEntrance" animated="" datastart="90.5" ng-show="getIsVisible('cont4_ico1')" style="position: absolute;top: 50px;left: 350px;">
+			<img src="contenuti/0064_18_04_M03UD05/img/icone/001-conversation.png" style="width: 100px;">
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 820px;top: 420px;">
+		<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_04_m03ud05p03','Social Trading: riassumendo',1,29.4)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:180px;"></a>
+	</div>
+	<div class="istruzionePopup" style="">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_04_M03UD05/audio/0064_18_04_m03ud05p03" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_04_m03ud05p03">
+  <div style="color:#FFF;">
+    <p>Gli utenti creano un loro profilo, e possono condividere le operazioni che intendono fare o che hanno fatto, commentare quelle di altri, proporre la loro interpretazione di avvenimenti economici e dei relativi risvolti, spiegare gli stessi in termini semplici e, in generale, generare discussioni a cui tutti possono partecipare.</p>
+  </div>
+</script>

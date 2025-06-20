@@ -1,0 +1,846 @@
+{
+    "titolo": "Blockchain e valute virtuali",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "La tecnologia blockchain è la novità emergente del mondo finanziario, si occupa di gestire movimenti di valute virtale, ma anche smart contracts. La poca trasparenza e la non regolamentazione ne fanno un mondo pieno di rischi ma l’importanza di un mercato in grandissima espansione fa sì che gli organismi di regolamentazione internazionali si stiano prendendo l’impegno di regolarlo. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG1",
+            "RAWDOMText": [
+                " Come la tecnologia Blockchain sta cambiando il mondo delle transazioni finanziarie?",
+                " Le uniche transazioni possibili sono realizzate tramite valuta virtuale?",
+                " Quali sono i rischi nell’utilizzo di criptovalute?",
+                " Chi si occupa di regolamentare il mondo della tecnologia blockchain?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Blockchain",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Banca d’Italia tramite iniziative Fintech ci informa sulla diffusione della tecnologia Blockchain e sulle valute virtuali. La Blockchain è una tecnologia innovativa di grande interesse per il mercato finanziario e assicurativo. Si tratta dello strato tecnologico alla base delle monete virtuali ma che può essere utilizzato per molti altri fini, come la definizione di contratti elettronici, la trasmissione di informazioni, beni, documenti, titoli di possesso, contratti e capitali in modo sicuro e interoperabile nonché l’archiviazione di dati provenienti dai device connessi nella Internet of Things. Le sue applicazioni in ambito assicurativo, ad esempio, possono riguardare la gestione dei processi tra imprese (es. flussi legati alla coassicurazione e alla riassicurazione o ad attività anti-frode), imprese e intermediari (ad es. la gestione del sistema delle rimesse), imprese e consumatori (con prodotti innovativi quali la peer to peer insurance).",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG2",
+            "RAWDOMText": [
+                " Banca d’Italia tramite Fintech",
+                " «diffusione della tecnologia Blockchain e sulle valute virtuali»",
+                " BLOCKCHAIN E VALUTE VIRTUALI",
+                " Blockchain è lo strato tecnologico alla base delle monete virtuali ma che può essere utilizzato per molti altri fini, come la definizione di contratti elettronici, la trasmissione di informazioni, beni, documenti, titoli di possesso, contratti e capitali in modo sicuro e interoperabile.",
+                " Le sue applicazioni in ambito assicurativo",
+                " la gestione dei processi tra imprese;",
+                " imprese e intermediari;",
+                " imprese e consumatori."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p02.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Gli smart contracts",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Di particolare interesse gli smart contracts, che presentano potenzialità rilevanti per il settore assicurativo. Sono  contratti  digitali, validi dal punto di vista legale a determinate condizioni (ad es. se firmati con digital signature legalmente riconosciuta) e che vengono eseguiti automaticamente al verificarsi di un evento. Ad esempio, polizze a copertura del ritardo di un volo, automaticamente pagate appena il sistema riceve la notifica dell’avvenuto ritardo. La sperimentazione dell’utilizzo di Blockchain, come di altre tecnologie, può avvenire nell’ambito di una sandbox ovvero un ambiente sicuro e monitorato dove le aziende possono testare prodotti, servizi e modelli di business innovativi.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG3",
+            "RAWDOMText": [
+                " Gli smart contracts, del settore assicurativo",
+                " contratti digitali, validi legalmente a determinate condizioni",
+                " eseguiti automaticamente al verificarsi di un evento",
+                " La sperimentazione dell’utilizzo di Blockchain, può avvenire nell’ambito di un ambiente sicuro e monitorato dove le aziende possono testare prodotti, servizi e modelli di business innovativi.",
+                " Fonte: Relazione annuale IVASS, giugno 2018"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/023-contract.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/024-debt.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Le sfide della blockchain",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nell’utilizzo della Blockchain ci sono forti ostacoli e dubbi, come l'applicazione delle disposizioni normative in assenza di intermediari, o  come indentificare la responsabilità legale in caso di illeciti causati da sistemi basati su Blockchain. Blockchain abilita le transazioni senza alcun operatore consueto. Bitcoin, ad esempio, è una valuta virtuale basata su Blockchain  che opera indipendentemente da qualsiasi Banca centrale o altra istituzione finanziaria.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG4",
+            "RAWDOMText": [
+                " Dubbi e blockchain",
+                " Applicazione delle disposizioni normative in assenza di intermediari",
+                " Identificazione della responsabilità legale in caso di illeciti",
+                " Blockchain abilita le transazioni",
+                " senza alcun operatore consueto",
+                " Bitcoin è una valuta virtuale basata su Blockchain che opera indipendentemente da qualsiasi Banca centrale o altra istituzione finanziaria."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/014-team.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/auction.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/bitcoin.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/bank.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Valute virtuali e criptovalute 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La Consob, nel documento “Rischi per i consumatori: valute virtuali e criptovalute”, evidenzia come le nuove tecnologie, favorite dai progressi della crittografia e dalle evoluzioni della rete internet, stanno determinando un cambiamento radicale nell’economia globale, con particolare riferimento al settore finanziario. Tra le più significative applicazioni della tecnologia digitale al settore finanziario spicca la nascita e la diffusione delle “criptovalute” (o “valute virtuali”), la più nota delle quali è proprio Bitcoin.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG5",
+            "RAWDOMText": [
+                " CONSOB",
+                " Le nuove tecnologie stanno determinando un cambiamento nell’economia globale.",
+                " Tra le applicazioni della tecnologia digitale al settore finanziario spicca la nascita e la diffusione delle «criptovalute».",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/cryptography.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/computer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/exchange.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Valute virtuali e criptovalute 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Gli elementi costitutivi delle valute virtualiI sono: un insieme di regole (detto “protocollo”), cioè un codice informatico che guida le transazioni; una sorta di “libro mastro” (distributed ledger) che conserva immodificabilmente la storia della transazioni; una rete  di partecipanti che aggiornano, conservano e consultano la distributed ledger delle transazioni.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG6",
+            "RAWDOMText": [
+                " Caratteristiche delle valute virtuali",
+                " un insieme di regole (detto “protocollo”), cioè un codice informatico che guida le transazioni",
+                " una sorta di “libro mastro” (distributed ledger) che conserva immodificabilmente la storia della transazioni",
+                " una rete di partecipanti che aggiornano, conservano e consultano la distributed ledger delle transazioni",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/file1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/book.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/networking.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Valute virtuali e criptovalute 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Chiunque può creare una valuta digitale, nello stesso momento possono esistere innumerevoli criptovalute. Le valute virtuali possono essere acquistate o vendute su una piattaforma di scambio (c.d. exchange platform) utilizzando denaro a corso legale. Le piattaforme di scambio su cui si acquistano e vendono valute digitali non sono regolamentate, quindi non è prevista una tutela legale specifica in caso di contenzioso o fallimento. Le criptovalute non hanno corso legale e non sono garantite da alcun governo o da alcuna Banca centrale. Il loro valore si basa sulla “popolarità” in un dato momento, ed è influenzato dalla domanda, dalla facilità con cui possono essere scambiate, dall’aspettativa sul futuro del loro valore e dalla fiducia nella sottostante tecnologia Blockchain.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG7",
+            "RAWDOMText": [
+                " Chiunque può creare una valuta digitale",
+                " Le valute virtuali possono essere acquistate o vendute su una piattaforma di scambio utilizzando denaro a corso legale",
+                " Nessuna tutela legale",
+                " Le piattaforme di scambio su cui si acquistano e vendono valute digitali non sono regolamentate",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob",
+                " Le criptovalute non hanno corso legale e non sono garantite da alcun governo o da alcuna Banca centrale. Il loro valore è influenzato dalla domanda, dalla facilità con cui possono essere scambiate, dall’aspettativa sul futuro del loro valore, e dalla fiducia nella sottostante tecnologia Blockchain."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/transfer.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "I benefici dal punto di vista dei promotori delle criptovalute",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Dal punto di vista dei Promotori delle criptovalute queste presentano dei benefici: si sottraggono all’azione degli incentivi, potenzialmente controproducenti, tradizionalmente legati alle banche e ai governi sovrani; offrono molti  vantaggi, tra cui una maggiore velocità ed efficienza nei pagamenti e nelle rimesse estere, promuovendo altresì l’inclusione finanziaria.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG8",
+            "RAWDOMText": [
+                " I benefici delle criptovalute:",
+                " si sottraggono all’azione degli incentivi, tradizionalmente legati alle banche e ai governi",
+                " offrono una maggiore velocità ed efficienza nei pagamenti e nelle rimesse estere",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "I rischi secondo le autorità europee di vigilanza",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Mentre le AUTORITÀ EUROPEE DI VIGILANZA identificano alcuni rischi, la natura  anonima delle valute digitali le ha rese attraenti per i criminali, che potrebbero utilizzarle per riciclaggio di denaro sporco e altre attività illegali. Secondo le ricostruzioni delle autorità di settore, le criptovalute possono comportare rischi notevoli anche riguardo alle truffe. I rischi per la gestione della politica monetaria sembrano, invece, del tutto trascurabile, considerata la loro esigua diffusione. Riguardo ai rischi per la stabilità finanziaria, solo una ben più ampia utilizzazione delle criptovalute potrebbe determinare l’insorgenza con un avviso del  12 febbraio 2018, le tre autorità europee di supervisione sui mercati finanziari, ESMA, EBA ed EIOPA - ESAs   hanno informato  sui rischi connessi all'acquisto di valute virtuali; non solo Bitcoin, ma anche altre virtual currencies che utilizzano la tecnologia distribuita Blockchain. Il documento rileva che molti risparmiatori si trovano ad acquistare valute virtuali in mancanza di una preventiva valutazione di rischi quali volatilità dei prezzi, eventuali bolle speculative o la possibilità di perdere il capitale investito.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG9",
+            "RAWDOMText": [
+                " Rischi:",
+                " la natura anonima delle valute digitali le ha rese attraenti per i criminali, che potrebbero utilizzarle per attività illegali.",
+                " Secondo le autorità di settore, le criptovalute possono comportare rischi notevoli di truffe.",
+                " I rischi per la gestione della politica monetaria e la stabilità finanziaria, sono, del tutto trascurabili, considerata la loro esigua diffusione.",
+                " 12 febbraio 2018",
+                " ESMA, EBA ed EIOPA – ESAs",
+                " Avviso sui rischi connessi all'acquisto di valute virtuali",
+                " Il documento rileva i rischi di:",
+                " volatilità dei prezzi;",
+                " bolle speculative;",
+                " possibilità di perdere il capitale investito."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p09_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p09_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "I rischi legali per il consumatore 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ulteriori rischi, nello scambio di criptovalute, non regolamentato da regolamentazione UE, sono dati dalla mancanza di tutela in caso di cyber-attacchi, che possono portare alla sparizione dell'investimento. Vanno poi esaminati anche i rischi legali per il consumatore. L’assenza di un quadro giuridico preciso determina l’impossibilità di attuare un’efficace tutela legale e/o contrattuale degli interessi degli utenti, che possono, pertanto, trovarsi esposti a dover subire ingenti perdite economiche, ad esempio in caso di condotte fraudolente, fallimento o cessazione di attività delle piattaforme on-line di scambio presso cui vengono custoditi i portafogli digitali personali (i cosiddetti e-wallets).",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG10",
+            "RAWDOMText": [
+                " mancanza di tutela in caso di cyber-attacchi",
+                " RISCHI LEGALI PER IL CONSUMATORE",
+                " Assenza di un quadro giuridico",
+                " condotte fraudolente, fallimento o cessazione di attività delle piattaforme on-line",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p10_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p10_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/003-hacker.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "I rischi legali per il consumatore 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In assenza di obblighi informativi e di regole di trasparenza, le piattaforme di scambio sono esposte a elevati rischi operativi e di sicurezza: esse,  a differenza degli intermediari autorizzati, non sono tenute ad alcuna garanzia del servizio, non devono rispettare requisiti patrimoniali o procedure di controllo interno e gestione dei rischi, con conseguente elevata probabilità di frodi ed esposizione al cybercrime. Sussistono, inoltre, rischi di controparte, di mercato, di liquidità e di esecuzione. Non ci sono d’altronde garanzie sulla futura possibilità di  conversione dei bitcoin e delle altre criptovalute in moneta ufficiale a prezzi di mercato.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG11",
+            "RAWDOMText": [
+                " Assenza di obblighi informativi e di regole di trasparenza",
+                " Nessuna garanzia del servizio",
+                " Nessun requisito patrimoniale o procedura di controllo interno e gestione dei rischi",
+                " Rischi di controparte, di mercato, di liquidità e di esecuzione",
+                " Nessuna garanzia sulla conversione bicoin o altra criptovaluta in moneta ufficiale",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p11.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "I dubbi e possibili soluzioni in materia di criptovalute 1/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Non è un caso, che la finanza e il settore bancario guardino con diffidenza alle criptovalute, temendo che, con la possibilità di trasmettere valore senza l’intervento degli intermediari, possano finire per spiazzare il business normalmente svolto dall’industria. Tuttavia, esaminando come fase primordiale di un più ampio processo di sperimentazione tecnologica e finanziaria, vediamo come  le criptovalute e, più in generale, la distributed ledger technology potrebbero gettare le basi per  soluzioni capaci di rendere più efficiente o, secondo i più ottimisti, di trasformare radicalmente l’attuale sistema economico.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG12",
+            "RAWDOMText": [
+                " La finanza e il settore bancario guardano con diffidenza alle criptovalute",
+                " trasmettere valore senza l’intervento degli intermediari",
+                " spiazzare il business",
+                " la distributed ledger technology potrebbe rendere più efficiente o, addirittura, trasformare radicalmente l’attuale sistema economico.",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p12.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "I dubbi e possibili soluzioni in materia di criptovalute 2/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Lo sviluppo di risposte regolatorie efficaci in merito alle criptovalute è ancora in una fase iniziale. Si tratta di un ambito difficile da disciplinare, rientrando nella competenza di differenti soggetti pubblici a livello nazionale e operando, al contempo, su scala globale. Molti sistemi di scambio sono del tutto opachi e operano al di fuori del sistema finanziario convenzionale, ciò rende difficile monitorarne l’operatività. I regolatori hanno iniziato ad affrontare tali sfide e le risposte fornite al fenomeno sono state molteplici, con una varietà di approcci tra i differenti Paesi.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG13",
+            "RAWDOMText": [
+                " Lo studio di regole è in fase iniziale",
+                " Competenza di differenti soggetti pubblici a livello nazionale operando, però su scala globale",
+                " I sistemi non sono trasparenti e sono fuori dal sistema finanziario tradizionale",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob",
+                " Differenti paesi stanno rispondendo con vari approcci"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p13_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p13_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/004-team.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/computer.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "I dubbi e possibili soluzioni in materia di criptovalute 3/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Molti hanno valutato la possibilità di includere le valute virtuali nel novero di fattispecie già appropriatamente regolate, altri hanno diramato apposite avvertenze ai consumatori o hanno assoggettato a un regime autorizzatorio lo svolgimento di alcune delle attività proprie del sistema, altri ancora hanno proibito alle istituzioni finanziarie di negoziare valute virtuali o ne hanno addirittura vietato l’uso, perseguendo penalmente i trasgressori.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG14",
+            "RAWDOMText": [
+                " Possibilità di includere le valute virtuali nel novero di fattispecie già appropriatamente regolate",
+                " Autorizzazione solo per alcune delle attività del sistema",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob",
+                " proibito alle istituzioni finanziarie di negoziare valute virtuali o ne hanno addirittura vietato l’uso"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p14_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "I dubbi e possibili soluzioni in materia di criptovalute 4/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Finora si tratta di risposte di policy ancora embrionali rispetto alle sfide poste dalle valute virtuali ed è altamente probabile che, nel prossimo futuro, interverranno ulteriori sviluppi. Sembra auspicabile che le autorità calibrino i contenuti delle future regolazioni in modo da affrontare adeguatamente i rischi, senza, tuttavia, soffocare l’innovazione. Gli organismi internazionali giocano un ruolo importante nell’identificazione e nella valutazione dei rischi posti dalle valute virtuali e potranno senz’altro contribuire a facilitare il processo di sviluppo e di affinamento delle politiche regolatorie a livello nazionale.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG15",
+            "RAWDOMText": [
+                " Policy ancora embrionali rispetto alle sfide poste dalle valute virtuali",
+                " Affrontare i rischi senza soffocare l’innovazione",
+                " Organismi internazionali",
+                " Possono facilitare il processo di sviluppo e di affinamento delle politiche regolatorie a livello nazionale",
+                " Fonte: Rischi per i consumatori: valute virtuali e criptovalute, Consob"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p15.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Perplessità in ambito assicurativo",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le crescenti preoccupazioni sull’utilizzo di valute virtuali nel settore finanziario e sul possibile sviluppo di una bolla speculativa hanno condotto a un approfondimento sull’utilizzo delle criptovalute anche in ambito assicurativo. Secondo le rilevazioni IVASS, al momento non sono commercializzate né si intende offrire soluzioni assicurative a copertura di rischi connessi con le cyber currencies. Fa eccezione un gruppo primario che, limitatamente a una quota ristretta del segmento corporate & commercial, ha dichiarato di non aver previsto una esplicita esclusione riguardante le criptovalute e di essere in procinto di lanciare un prodotto che tra le garanzie prestate prevede la “sottrazione di valuta elettronica”.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG16",
+            "RAWDOMText": [
+                " approfondimento sull’utilizzo delle criptovalute in ambito assicurativo.",
+                " IVASS",
+                " non sono commercializzate soluzioni assicurative a copertura di rischi connessi con le cyber currencies",
+                " Fonte: Relazione annuale IVASS, giugno 2018",
+                " Eccezione",
+                " del segmento corporate & commercial, in procinto di lanciare un prodotto che tra le garanzie prestate prevede la «sottrazione di valuta elettronica»"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p16_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p16_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/transfer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/moneylock.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "La crescita degli investimenti nel panorama europeo 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il 2018 è stato l’anno della blockchain: investimenti in crescita. L'anno scorso, le aziende hanno emesso $ 3,5 trilioni di obbligazioni. È un mondo controllato dai gatekeeper ed è largamente vietato ai singoli investitori. Le obbligazioni vengono acquistate, emesse, vendute e negoziate da banche di investimento e gestori patrimoniali. Il legame costruito sulla blockchain eliminerà quei gatekeeper e permetterà agli investitori di investire direttamente. Potrebbe anche ridurre in maniera massiccia le inefficienze. Gli investimenti in blockchain sono triplicati, in Europa, nel 2018 rispetto all’anno precedente. Nel 2021 si arriverà a 1,8 miliardi di dollari, il settore che spende di più è quello finanziario. Se il bitcoin, la criptovaluta più famosa e utilizzata, assomiglia sempre più negli ultimi mesi a una bolla che scoppia, la blockchain è sempre più in salute e il futuro sembra appartenergli.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG17",
+            "RAWDOMText": [
+                " 2018",
+                " le aziende hanno emesso $ 3,5 trilioni di obbligazioni",
+                " Le obbligazioni vengono acquistate, emesse, vendute e negoziate da banche di investimento e gestori patrimoniali.",
+                " la blockchain eliminerà quei gatekeeper e permetterà agli investitori di investire direttamente",
+                " Nel 2021 si arriverà a 1,8 miliardi di dollari. Il settore che spende di più è quello finanziario",
+                " Se il bitcoin è una bolla",
+                " La blockchain è il futuro",
+                " Fonte: www.wallstreetitalia.com"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p17_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/transfer.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/computer.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "La crescita degli investimenti nel panorama europeo 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La maggior parte delle centinaia di criptovalute quotate oggi sono la parte “visibile” di un sistema blockchain sottostante. Un sistema che permette la validazione di transazioni in un registro pubblico. Chi partecipa alla rete riceve, in cambio, delle criptovalute. La blockchain è un sistema destinato a rimanere e a evolversi, al di là degli alti e bassi da vertigini delle criptovalute. Le cifre contenute nel Worldwide semiannual blockchain spending guide elaborato da International data corporation (Idc) lo testimoniano. L’Europa non vuole rimanere spettatore passivo della rivoluzione blockchain. Della sua importanza si è accorta anche Bruxelles. La Commissione europea ha avviato un Osservatorio e un forum sulla tecnologia. Verranno inoltre incrementati i fondi destinati allo sviluppo della blockchain, portandoli nel 2020 a 340 milioni di euro.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG18",
+            "RAWDOMText": [
+                " Le criptovalute sono la parte “visibile” di un sistema blockchain",
+                " Worldwide semiannual blockchain spending guide elaborato da International data corporation",
+                " La Commissione europea ha avviato un Osservatorio e un forum sulla tecnologia",
+                " Fondi destinati allo sviluppo della blockchain",
+                " 2020",
+                " 340 milioni di euro",
+                " Fonte: www.wallstreetitalia.com"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p18_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p18_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/icone/005-bitcoin.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "La crescita degli investimenti nel panorama europeo 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina19.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Blockchain, nel 2018 gli investimenti crescono del 40%. Nei primi due mesi sono stati investiti dai fondi di venture capital circa 400milioni di dollari in società che sviluppano business legati alla tecnologia della “blockchain”. La blockchain piace agli investitori. E i fondi di venture capital ci stanno scommettendo con convinzione. Tanto che i capitali confluiti in società che sviluppano business legati alla catena di blocchi, nei primi due mesi del 2018 sono il 40% in più rispetto a quelli investiti nello stesso periodo nell'anno precedente.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG19",
+            "RAWDOMText": [
+                " BLOCKCHAIN",
+                " investiti dai fondi di venture capital circa 400milioni di dollari in società che sviluppano business legati alla tecnologia della “blockchain”",
+                " Gli investitori scelgono blockchain",
+                " Fonte: www.economyup.it",
+                " i capitali confluiti in società che sviluppano business blockchain",
+                " + 40%",
+                " rispetto a quelli investiti nello stesso periodo lo scorso anno"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p19_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M03UD03/img/p19_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina20.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG20",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Cosa emerge dalla iniziative Fintech rilevate da Banca d’Italia riguardo la diffusione di blockchain e delle valute virtuali?",
+                " La Blockchain è una tecnologia di grande interesse per il mercato finanziario e assicurativo. Su di essa si basano le monete virtuali ma si usa anche per la definizione di contratti elettronici, la trasmissione di documenti, beni, titoli di possesso, e capitali in modo sicuro e interoperabile, nonché l’archiviazione di dati provenienti dai device connessi nella Internet of Things.",
+                " Quali sono i rischi e i vantaggi delle operazioni effettuate tramite blockchain?",
+                " RISCHI LEGALI PER IL CONSUMATORE",
+                "L’assenza di un quadro giuridico preciso determina l’impossibilità di attuare un’efficace tutela legale e/o contrattuale.",
+                "RISCHI SECONDO LE AUTORITÀ EUROPEE DI VIGILANZA",
+                "La natura anonima delle valute digitali le rende molto attraenti per i criminali, che potrebbero utilizzarli per riciclaggio di denaro e altre attività illegali.",
+                " Quali sono le caratteristiche costitutive delle criptovalute?",
+                " 1. un insieme di regole (“protocollo”), cioè un codice informatico che specifica come si possono effettuare le transazioni;",
+                "2. un “libro mastro” (distributed ledger) che conserva immutabile la storia della transazioni;",
+                "3. una rete di partecipanti che aggiornano, conservano e consultano la distributed ledger delle transazioni, secondo le regole del protocollo.",
+                " Gli sviluppi del mercato interessato dalla tecnologia blockchain sono impossibili da regolare in Europa?",
+                " L’Europa non vuole rimanere spettatore passivo della rivoluzione blockchain. Della sua importanza si è accorta anche Bruxelles. La Commissione europea ha avviato un Osservatorio e un forum sulla tecnologia. Verranno inoltre incrementati i fondi destinati allo sviluppo della blockchain, portandoli nel 2020 a 340 milioni di euro."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p20"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina21.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD2_LEZ3_PAG21",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Le valute virtuali possono essere vendute o acquistate solo su siti illegali?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M03UD03/audio/0064_18_04_m03ud03p21"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD2_LEZ3"
+}

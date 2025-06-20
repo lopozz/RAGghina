@@ -1,0 +1,610 @@
+{
+    "titolo": "Diversificare il rischio di portafoglio - Parte 1",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "La diversificazione del portafoglio è determinante per ridurre la volatilità del rendimento. Ma affinché ne possa derivare un beneficio, è molto importante pesare e valutare la scelta e le caratteristiche dei diversi titoli che vanno a comporre il portafoglio. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG1",
+            "RAWDOMText": [
+                " Come si definisce la diversificazione di un portafoglio?",
+                " Che correlazione c’è tra l’andamento dei titoli di un portafoglio, il rischio e il beneficio?",
+                " Quanto e come cambia il livello di rischio all’aumentare dei titoli del portafoglio?",
+                " In che modo si può diversificare un portafoglio?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "La diversificazione del rischio di portafoglio 1/5",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La diversificazione di un portafoglio è la modalità con cui si può ridurre la volatilità del rendimento medio del portafoglio. L'attenzione si concentra sulla logica con cui si calcola il beneficio di diversificazione; in particolare sui concetti di correlazione dei titoli e sul rapporto tra correlazione e rischio. Inoltre, vanno valutate le diverse modalità della diversificazione, che può essere: geografica, per settori e  per capitalizzazione. Un portafoglio di investimento è solitamente composto da molte asset class e pertanto il suo rischio complessivo dipende dai rischi di ognuna di esse e dalla correlazione tra di esse.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG2",
+            "RAWDOMText": [
+                " Ridurre la volatilità del rendimento medio del portafoglio",
+                " Calcolo del beneficio di diversificazione",
+                " Correlazione dei titoli",
+                " Rapporto tra correlazione e rischio",
+                " Modalità di diversificazione",
+                " Geografica",
+                " Per settori",
+                " Per capitalizzazione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/002-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/001-pie-chart.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/003-bills.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p02"
+            ],
+            "tabelle": [
+                [
+                    " Calcolo del beneficio di diversificazione"
+                ],
+                [
+                    " Correlazione dei titoli",
+                    " Rapporto tra correlazione e rischio"
+                ]
+            ]
+        },
+        {
+            "ordine": 2,
+            "titolo": "La diversificazione del rischio di portafoglio 2/5",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La necessità di un’ottima diversificazione, oggi più che mai, è necessaria per garantire che i portafogli siano sempre meno esposti a settori, aree geografiche e modelli di business non performanti. La crescita economica mondiale è sempre più globalizzata nei suoi processi di produzione e beni di consumo; sempre più polarizzata nella distribuzione dei profitti. L’interconessione delle economie, e il commercio internazionale, non riducono il gap di conoscenza e produttività di alcuni paesi sviluppati, o in via di sviluppo, rispetto alla periferia del mondo economico.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG3",
+            "RAWDOMText": [
+                ""
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p03.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "La diversificazione del rischio di portafoglio 3/5",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I rendimenti dei portafogli devono essere confrontati con i rischi delle asset class, che rappresentano economie e modelli di business in continuo cambiamento. Come possiamo osservare nel grafico, la relazione tra rendimento atteso di un investimento non è sempre lineare.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG4",
+            "RAWDOMText": [
+                " Al 30 giugno 2018. FONTE PIMCO"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p04_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p04_d.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "La diversificazione del rischio di portafoglio 4/5",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’ampiezza delle rette nei due grafici rappresenta la volatilità dei rendimenti che le singole asset class hanno registrato nel 2017 e al 30 giugno del 2018. Sebbene il mercato abbia registrato una generale contrazione della volatilità, ciò non significa che tale situazione rimarrà invariata anche nel prossimo futuro. Occorre soprattutto capire come reagiranno i mercati a fronte di una riduzione della quantità di denaro in circolazione che le varie Banche Centrali dovranno prima o poi cominciare a ritirare.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG5",
+            "RAWDOMText": [
+                " IL MERCATO REGISTRA UNA GENERALE CONTRAZIONE DELLA VOLATILITÀ.",
+                " Cosa accadrà nel futuro?",
+                " Dipende dalla reazione dei mercati alla riduzione del denaro in circolazione."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/004-question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "La diversificazione del rischio di portafoglio 5/5",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Può essere utile osservare la fotografia della relazione rischio-rendimento delle attività finanziarie nell’aprile 2018 proposta da Pictet. Diversificare un portafoglio significa prendere in considerazione le diverse opportunità che il mercato offre, in modo da controbilanciare i rischi delle singole attività finanziarie che compongono il portafoglio. Per ottenere una buona diversificazione occorre ripartire il proprio investimento non solo tra asset diverse (ad esempio obbligazioni e azioni) ma, nell’ambito di una stessa classe, è opportuno scegliere i titoli che hanno tra loro andamenti non correlati. Per correlazione tra due titoli si intende il modo in cui un titolo si muove in funzione dell'altro.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG6",
+            "RAWDOMText": [
+                " Azione G",
+                " Obbligazione A",
+                " Azione P",
+                " Obbligazione B",
+                " Azione K",
+                " Nella stessa classe i titoli non dovrebbero avere andamenti correlati.",
+                " Per correlazione tra due titoli si intende il modo in cui un titolo si muove in funzione dell'altro."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p06_b.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "La correlazione",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il grado di correlazione fra due variabili è espresso dal coefficiente di correlazione rho, che varia da +1 a -1. La correlazione lineare misurata dall'indice può essere diretta o positiva quando le due variabili si muovono nello stesso senso; si dice indiretta o negativa quando si muovono invece in senso inverso. Può inoltre essere nulla se le due variabili si muovono in maniera indipendente l’una dall’altra. Il beneficio della diversificazione aumenta passando da rho uguale a +1 verso rho pari a -1. Quando la correlazione è pari a +1, infatti, non vi è beneficio derivante dalla diversificazione; se l'indice rho fosse invece pari a -1 tale beneficio sarebbe massimo e sarebbe inoltre possibile costruire in maniera sintetica un titolo privo di rischio.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG7",
+            "RAWDOMText": [
+                " Grado di correlazione",
+                " → Coefficiente di correlazione lineare (r)",
+                " ρ = +1",
+                " Correlazione perfettamente positiva.",
+                " 0< ρ <+1",
+                " Correlazione positiva, ma non perfetta.",
+                " ρ = 0",
+                " Correlazione nulla.",
+                " -1< ρ <0",
+                " Correlazione negativa, ma non perfetta.",
+                " ρ = -1",
+                " Correlazione perfettamente negativa.",
+                " NESSUN BENEFICIO",
+                " BENEFICIO MASSIMO"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p07.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaLunga_giu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Indici di correlazione e rischio di portafoglio 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "IlConsideriamo un portafoglio di 100.000 euro così composto: il 30% nel titolo A, che ha un rischio medio atteso del 5%, ed il 70% nel titolo B con un rischio del 4%. Supponiamo che i due titoli presentino una correlazione positiva pari a 1. Il rischio di un portafoglio così composto è uguale al 4,3%. Come possiamo notare nella tabella, al diminuire del valore di correlazione diminuisce il rischio di portafoglio; per contro al crescere del valore dell’indice di correlazione, diminuisce la diversificazione e di conseguenza aumenta il rischio complessivo del portafoglio. L'esempio evidenzia inoltre che il rendimento medio del portafoglio non è affatto influenzato dal valore del rho; esso risulta essere sempre pari alla media ponderata dei rendimenti dei titoli presenti in portafoglio. In questo caso, con rho uguale a -1 il portafoglio ha sempre un rischio positivo, e non nullo, poiché sono i pesi ad essere errati. Non è infatti detto che saremo in grado di costruire un titolo risk free equiponderando i vari asset nel portafoglio.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG8",
+            "RAWDOMText": [
+                " σp = (30% * 5% + 70% * 4%)",
+                " = 4,3%",
+                " PORTAFOGLIO",
+                " ρ",
+                " σρ",
+                " 1,0",
+                " 4,3%",
+                " 0,5",
+                " 3,8%",
+                " 0",
+                " 3,2%",
+                " -0,5",
+                " 2,4%",
+                " -1,0",
+                " 1,3%"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p08"
+            ],
+            "tabelle": [
+                [
+                    " ρ",
+                    " σρ",
+                    " 1,0",
+                    " 4,3%",
+                    " 0,5",
+                    " 3,8%",
+                    " 0",
+                    " 3,2%",
+                    " -0,5",
+                    " 2,4%",
+                    " -1,0",
+                    " 1,3%"
+                ]
+            ]
+        },
+        {
+            "ordine": 8,
+            "titolo": "Indici di correlazione e rischio di portafoglio 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nell’esempio precedente abbiamo presentato la relazione tra indice di correlazione e rischio del portafoglio tenendo fermi i pesi dei due titoli. Se cambio il peso relativo dei titoli con cui il portafoglio è composto varia non solo il rischio del portafoglio ma anche il rendimento, essendo quest’ultimo una media dei rendimenti dei due titoli ponderata per il rispettivo peso. Quindi, sapendo che il rendimento medio atteso del titolo A è pari al 10%, ed il rendimento medio atteso del titolo B è pari al 6%, il rendimento del portafoglio sarà diverso a seconda dei pesi.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG9",
+            "RAWDOMText": [
+                " RENDIMENTO MEDIO ATTESO",
+                "A = 10%",
+                "B = 6%"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p09_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p09_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p09_c.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Numero di titoli e rischio di portafoglio 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Anche se aumentiamo il numero di titoli del nostro portafoglio non si riuscirà ad abbattere completamente il rischio perché all’aumentare del numero di titoli si ridurrà il rischio specifico di ciascun titolo ma rimarrà sempre il rischio di sistema. Notiamo infatti che all’aumentare del numero dei titoli in portafoglio il rischio totale diminuisce: per un portafoglio ben diversificato, composto nel nostro esempio da 30 titoli, il rischio totale è pressoché uguale al rischio di sistema, mentre sui portafogli concentrati su uno o pichi titoli, il rischio specifico ha un peso più rilevante.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG10",
+            "RAWDOMText": [
+                " All’aumentare dei titoli si riduce il rischio specifico ma resta il rischio di sistema."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p10.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Numero di titoli e rischio di portafoglio 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Mentre il rischio specifico può essere ridotto aumentando il numero dei titoli in portafoglio, il rischio sistematico, misurato attraverso la correlazione tra i titoli o covarianza, non è riducibile (infatti è una retta parallela all’asse delle ascisse), perché le variabili che lo influenzano non sono controllabili, e soprattutto non sono modificabili, né dall’investitore né dall’ente emittente.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG11",
+            "RAWDOMText": [
+                " Rischio specifico",
+                " Rischio sistematico",
+                " VARIABILI RISCHIO SPECIFICO",
+                " Qualità del management",
+                " Efficienza dell’organizzazione produttiva",
+                " Gamma dei prodotti",
+                " Efficienza della rete commerciale",
+                " VARIABILI RISCHIO SISTEMATICO",
+                " Fase del ciclo economico",
+                " Tasso di inflazione",
+                " Tassi di interesse e di cambio",
+                " Altre variabili macroeconomiche"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p11.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/005-bars.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/005-bars.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Non solo classi di investimento",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il mondo sta cambiato molto rapidamente; forse dovrebbero cambiare anche i portafogli degli investitori. Oltre ad investire su classi di investimento diverse, solitamente poco correlate tra di loro, occorre diversificare il portafoglio: per aree geografiche, per settori, per valute e per capitalizzazione, puntando sia sulle grandi aziende - dette large cap. - ma anche su quelle di dimensioni più ridotte, chiamate mid e small cap.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG12",
+            "RAWDOMText": [
+                " I portafogli degli investitori dovrebbero cambiare",
+                " Come diversificare il portafoglio?",
+                " Diversificazione geografica",
+                " Diversificazione settoriale e disruptive",
+                " Diversificazione valutaria",
+                " Diversificazione per capitalizzazione",
+                " Mid e small cap. oltre a large cap."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p12.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/002-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/001-pie-chart.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/003-bills.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/007-world.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/png/006-enterprise.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Diversificazione geografica",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La logica di fondo della diversificazione geografica risiede nel fatto che la crescita dei mercati azionari internazionali riflette la diversa dinamica ciclica delle singole economie nazionali. Nel grafico possiamo osservare la differenza di crescita del PIL tra paesi emergenti e sviluppati dal 2000 al 2016, e le previsioni del Fondo Monetario Internazionale fino al 2022.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG13",
+            "RAWDOMText": [
+                " La crescita dei mercati azionari internazionali riflette la diversa dinamica ciclica delle singole economie nazionali.",
+                " Fonte: FMI, Thomson Reuters (Giugno 2017)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD01/img/p13.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Perché è importante diversificare il portafoglio?",
+                " La diversificazione è la strada per ridurre il rischio. Investendo in titoli che non sono correlati tra loro, se uno non dovesse essere in grado di fruttare secondo le attese, è possibile che gli altri seguano un diverso andamento, fornendo prestazioni di ottimo livello e quindi compensando le perdite dei primi.",
+                " In che modo deve essere interpretato il grado di correlazione tra due titoli?",
+                " Il coefficiente di correlazione è un numero compreso tra 1 e -1 che indica quanto è forte la tendenza di due titoli a muoversi assieme. Un coefficiente uguale a +1 indica una correlazione positiva per cui non vi è beneficio derivante dalla diversificazione;",
+                "un coefficiente uguale a -1 indica due titoli con movimenti opposti, che amplificano al massimo i benefici della diversificazione e abbassano il rischio dell’investimento.",
+                " Che differenza c’è tra rischio specifico e rischio sistematico?",
+                " Il rischio specifico dipende dalle caratteristiche dell'emittente e può essere diminuito attraverso la suddivisione dell’investimento tra titoli emessi da emittenti diversi, mentre il rischio sistematico rappresenta quella parte di variabilità del prezzo di ciascun titolo che dipende dalle fluttuazioni del mercato e non può essere eliminato per il tramite della diversificazione.",
+                " Oltre che in titoli diversi, in che modo si può diversificare il portafoglio?",
+                " Per settore, per valuta o per capitalizzazione, ma la diversificazione geografica è molto importante per aumentare sicurezza e rendimento, in virtù del fatto che i diversi mercati non sono correlati tra loro perché si muovono in modo indipendente l’uno dall’altro."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD2_LEZ6_PAG15",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Non è una variabile del rischio sistematico:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD01/audio/0064_18_03_m03ud01p15"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ6"
+}

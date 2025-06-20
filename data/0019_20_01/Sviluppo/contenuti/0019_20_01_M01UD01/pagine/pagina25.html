@@ -1,0 +1,58 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 40px; left: 0px;">
+			<img src="contenuti/img/gialloverticale.png" style="">
+		</div>
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 20px; left: 0px;">
+			<img src="contenuti/img/bluverticale.png" style="">
+		</div>
+		<div id="img3" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img3')" style="position: absolute; top: 25px; left: 0px;">
+			<img src="contenuti/0019_20_01_M01UD01/img/puzzle1.png">
+		</div>
+		<div id="img2" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img2')" style="position: absolute;top: 360px;left: -30px;">
+			<img src="contenuti/img/boxTitolo.png" style="width: 390px;height: 70px;">
+			<div style="position: absolute;top: 15px;left: 40px;font-size: 20px;width: 340px;text-align: center;">
+				<div id="blocco5" animated="" datastart="0" ng-show="getIsVisible('blocco5')" class="slideRight" style=""><b>Altre indicazioni</b></div>
+			</div>
+		</div>
+	</div>
+	
+	<!--div id="contenitore2" class="pullDown" animated="" datastart="1" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 10px; left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="1" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 50px;left: 40px;font-size: 16px;width:600px;">
+			<div id="blocco3" animated="" datastart="1" ng-show="getIsVisible('blocco3')" class="slideRight" style="">In aggiunta a quanto stabilito dall’art. 37, <b>l'art. 38 del RI</b> prevede che il contratto con i clienti al dettaglio relativo alla gestione di portafogli:</div>
+		</div>
+	</div-->
+
+	<div id="contenitore4" class="pullDown" animated="" datastart="1" dataend="1000" ng-show="getIsVisible('contenitore4')" style="position: absolute;top: 50px;left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="1" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 60px;left: 30px;font-size: 15px;width:600px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="pe1" animated="" datastart="2" dataend="1000" ng-show="getIsVisible('pe1')" style="">fornisca la descrizione del <b>parametro di riferimento</b> (c.d. benchmark), ove significativo, al quale verrà raffrontato il rendimento del portafoglio del cliente;</li>
+				<li class="slideLeft" id="pe2" animated="" datastart="11" dataend="1000" ng-show="getIsVisible('pe2')" style="">indichi se l’intermediario <b>delega</b> a terzi l’esecuzione dell’incarico ricevuto, specificando i dettagli della delega;</li>
+				<li class="slideLeft" id="pe3" animated="" datastart="20" dataend="1000" ng-show="getIsVisible('pe3')" style="">indichi <b>il metodo e la frequenza di valutazione degli strumenti finanziari</b> contenuti nel portafoglio del cliente.</li>
+			</ul>
+		</div>
+		<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute; font-size: 40px; left: 280px;top:230px;">
+			<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0019_20_01_M01UD01P25','Il benchmark',1,15)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/occhiali_visitato.png':'contenuti/img/occhiali.png'}}" style="width:90px;"></a>
+		</div>
+	</div>
+	
+	<div class="istruzionePopup" style="left: 300px; width: 70%;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown">Fai clic sugli occhiali e leggi l’approfondimento</div>
+    </div>
+</div>
+<aside>
+     <audio audiosource="contenuti/0019_20_01_M01UD01/audio/m01ud01p25" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0019_20_01_M01UD01P25">
+  <div style="color:#FFF;">
+    <p>Consob definisce il benchmark “un parametro oggettivo di riferimento (benchmark), costruito facendo riferimento ad indicatori finanziari elaborati da soggetti terzi e di comune utilizzo, coerente con i rischi connessi alla gestione […], al quale confrontare il rendimento […]”<br><br>”Attraverso l'utilizzo della leva finanziaria (o "leverage") un soggetto ha la possibilità di acquistare o vendere attività finanziarie per un ammontare superiore al capitale posseduto e, conseguentemente, di beneficiare di un rendimento potenziale maggiore rispetto a quello derivante da un investimento diretto nel sottostante e, di converso, di esporsi al rischio di perdite molto significative”. 
+(www.consob.it/web/investor-education). </p>
+  </div>
+</script>

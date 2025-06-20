@@ -1,0 +1,58 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 40px; left: 0px;">
+			<img src="contenuti/img/gialloverticale.png" style="">
+		</div>
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 20px; left: 0px;">
+			<img src="contenuti/img/bluverticale.png" style="">
+		</div>
+		<div id="img3" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img3')" style="position: absolute; top: 25px; left: 0px;">
+			<img src="contenuti/0019_20_01_M01UD01/img/puzzle1.png">
+		</div>
+		<div id="img2" class="pullDown" animated="" datastart="1" ng-show="getIsVisible('img2')" style="position: absolute;top: 370px;left: -30px;">
+			<img src="contenuti/img/boxTitolo.png" style="width: 380px;height: 90px;">
+			<div style="position: absolute;top: 15px;left: 40px;font-size: 16px;width: 330px;">
+				<div id="blocco5" animated="" datastart="1" ng-show="getIsVisible('blocco5')" class="slideRight" style=""><b>Il contratto con i clienti al dettaglio deve, tra l’altro:</b></div>
+			</div>
+		</div>
+	</div>
+	
+	<!--div id="contenitore2" class="pullDown" animated="" datastart="1" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 10px; left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="1" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 50px;left: 40px;font-size: 16px;width:600px;">
+			<div id="blocco3" animated="" datastart="1" ng-show="getIsVisible('blocco3')" class="slideRight" style="">Sono <b>ammissibili</b> esclusivamente i seguenti <b>benefici non monetari di minore entità</b>:</div>
+		</div>
+	</div-->
+
+	<div id="contenitore4" class="pullDown" animated="" datastart="2" dataend="1000" ng-show="getIsVisible('contenitore4')" style="position: absolute;top: 10px;left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="2" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 60px;left: 30px;font-size: 15px;width:600px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="pe1" animated="" datastart="2" dataend="1000" ng-show="getIsVisible('pe1')" style="">indicare le <b>remunerazioni spettanti all’intermediario</b> o i criteri oggettivi per la loro determinazione, specificando le relative modalità di percezione e, ove non diversamente comunicati, gli incentivi ricevuti in conformità dell’articolo 52 al Titolo V dello stesso regolamento intermediari;</li>
+				<li class="slideLeft" id="pe2" animated="" datastart="24" dataend="1000" ng-show="getIsVisible('pe2')" style="">indicare se e con quali modalità e contenuti in connessione con il servizio di investimento può essere prestata la <b>consulenza in materia di investimenti</b>;</li>
+				<li class="slideLeft" id="pe3" animated="" datastart="35" dataend="1000" ng-show="getIsVisible('pe3')" style="">indicare le <b>altre condizioni contrattuali</b> convenute con l'investitore per la prestazione del servizio;</li>
+				<li class="slideLeft" id="pe4" animated="" datastart="43" dataend="1000" ng-show="getIsVisible('pe4')" style="">indicare le eventuali <b>procedure di conciliazione e arbitrato</b> per la risoluzione stragiudiziale di controversie, definite ai sensi dell’articolo 32-ter del Tuf.</li>
+			</ul>
+		</div>
+	</div>
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;font-size: 40px;left: 620px;top: 360px;">
+		<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0019_20_01_M01UD01P23','Chiarimento della CONSOB',1,17)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/occhiali_visitato.png':'contenuti/img/occhiali.png'}}" style="width:90px;"></a>
+	</div>
+
+	<div class="istruzionePopup" style="left: 300px;width: 70%;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown">Fai clic sugli occhiali e leggi l’approfondimento</div>
+	</div>
+</div>
+<aside>
+     <audio audiosource="contenuti/0019_20_01_M01UD01/audio/m01ud01p23" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0019_20_01_M01UD01P23">
+	<div style="color:#FFF;">
+	  <p>Come chiarito dalla stessa Consob, l’intervento regolamentare si inserisce nel processo di coordinamento della disciplina nazionale con la nuova normativa europea sugli abusi di mercato adottata con il MAR e i relativi regolamenti attuativi.</p>
+	</div>
+  </script>

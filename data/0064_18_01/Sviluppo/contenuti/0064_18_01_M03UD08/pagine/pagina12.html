@@ -1,0 +1,56 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 654px;">
+			<img src="contenuti/img/sfondo3.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_01_M03UD08/img/p11_12.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 610px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;font-weight: bold;color: #006699 !important;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Quali fattori-chiave?</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 16px;">
+			<div id="cont2_txt2" animated="" datastart="7.5" ng-show="getIsVisible('cont2_txt2')" class="slideRight" style="font-size: 18px; font-weight: bold; color: rgb(255, 153, 0) !important;">Responsabilità</div>
+			<div id="cont2_txt2a" animated="" datastart="12" ng-show="getIsVisible('cont2_txt2a')" class="slideRight" style="">Non saper gestire/prevenire incidenti può solo aumentarla</div>
+		</div>
+		<div style="position: absolute;top: 130px;left: 0px;font-size: 18px;font-weight: bold;font-style:italic;">
+			<div id="cont2_txt3" animated="" datastart="21" ng-show="getIsVisible('cont2_txt3')" class="slideRight" style="">Previsioni del GDPR</div>
+		</div>
+		<div style="position: absolute;top: 190px;left: 0px;font-size: 16px;">
+			<div id="cont2_txt4" animated="" datastart="32" ng-show="getIsVisible('cont2_txt4')" class="slideRight" style="font-size: 18px;font-weight: bold;color: rgb(255, 153, 0) !important;">Saper documentare tutto</div>
+			<div id="cont2_txt4a" animated="" datastart="35.5" ng-show="getIsVisible('cont2_txt4a')" class="slideRight" style="">Onere della prova</div>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="41.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 300px;left: 20px;width: 610px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 16px;">
+			<div id="cont3_txt1" animated="" datastart="41.5" ng-show="getIsVisible('cont3_txt1')" class="slideRight" style="font-size: 18px;font-weight: bold;color: rgb(255, 153, 0) !important;">Monitoraggio</div>
+			<div id="cont3_txt1a" animated="" datastart="42.5" ng-show="getIsVisible('cont3_txt1a')" class="slideRight" style="">Rete sotto controllo</div>
+			<div id="cont3_txt1b" animated="" datastart="49" ng-show="getIsVisible('cont3_txt1b')" class="slideRight" style="">Da svolgere eventualmente anche in outsourcing</div>
+		</div>
+		<div style="position: absolute;top: 110px;left: 0px;font-size: 16px;">
+			<div id="cont3_txt2" animated="" datastart="56" ng-show="getIsVisible('cont3_txt2')" class="slideRight" style="font-size: 18px; font-weight: bold; color: rgb(255, 153, 0) !important;">Ripristino allo stato pre-incidente</div>
+			<div id="cont3_txt2a" animated="" datastart="59" ng-show="getIsVisible('cont3_txt2a')" class="slideRight" style="">Procedure di backup e ripristino efficaci</div>
+			<div id="cont3_txt2b" animated="" datastart="62.5" ng-show="getIsVisible('cont3_txt2b')" class="slideRight" style="">Adeguata comunicazione esterna (autorità, interlocutori …)</div>
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 620px;top: 10px;">
+		<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_01_m03ud08p12','Cosa non deve mancare nelle procedure di backup e ripristino?',1,65)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width: 170px;"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 0px;width: 655px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l'argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p12" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_01_m03ud08p12">
+  <div style="color:#FFF;">
+    <p>Tali procedure devono comprendere/assicurare:<ul><li>La configurazione dei sistemi;</li><li>L’effettiva efficacia (verifiche preliminari, anche della qualità dei dati salvati);</li><li>L’automatizzazione;</li><li>Uno storico di almeno tre/sei mesi;</li><li>Un punto di ripristino prossimo rispetto al momento dell’incidente.</li></ul><br>Inoltre, si tenga presente che le attuali soluzioni di backup sono "in casa" o in cloud. La soluzione in "casa“ è più veloce, anche per il nel ripristino dei sistemi. Le copie in cloud, danno maggiori garanzia dal punto di vista di mantenimento del dato, in quanto ci si appoggia a Web Farm specialistiche, con particolari misure di protezione. Ovviamente bisogna disporre ,per poter beneficiare di questa soluzione, di un ottimo collegamento internet.</p>
+  </div>
+</script>

@@ -1,0 +1,42 @@
+{
+  "question": [
+    "Qual è la principale finalità degli hedge fund nel portafoglio di un investitore?",
+    "Quali sono tre principali asset class di commodities menzionate nel testo?",
+    "Come diversificare gli investimenti?",
+    "Che cosa rende oggi la perdita di un telefono o di un computer potenzialmente più dannosa della perdita di un portafoglio?",
+    "Che cosa si intende per dati personali?"
+  ],
+  "context": [
+    [
+      "Come appena ricordato, gli hedge fund puntano a rendimenti stabili nel tempo, indipendenti dalle performance del mercato. Adottano quindi strategie e tecniche tese ad ottenere rendimenti positivi che sono slegati dall’andamento dei mercati di riferimento. Ovviamente, come avviene in tutte le speculazioni sui margini, quando si perde, si può perdere anche in maniera significativa. Negli hedge fund viene svolto un monitoraggio costante della volatilità, proprio per controllare i rischi elevati. Il risk manager ha dunque un ruolo importante nel gestire questi patrimoni! Infine, questi fondi implementano strategie spesso aggressive, ma poco correlate con le classi di investimento tradizionali, per esempio, la vendita allo scoperto di titoli che si ritengono sopravvalutati, oppure, investono metà del patrimonio in titoli e l’altra metà allo scoperto.",
+      "Hedge fund  1. Obiettivo rendimenti stabili  Si slegano i rendimenti dall’andamento dei mercati (absolute return)  Speculazione sui margini = rischio di perdite elevate!  2. Esigenza di monitoraggio costante  Ruolo essenziale del risk manager nella gestione dei rischi ai quali è esposto il patrimonio  3. Ricorso a strategie aggressive  Vendita allo scoperto di titoli sopravvalutati  Metà patrimonio investito in titoli, metà investito allo scoperto"
+    ],
+    [
+      "Vediamo ora le commodities, un'asset class che si riferisce a investimenti in materie prime, come petrolio, gas naturale, metalli e beni di consumo quali mais, grano, soia cacao ... Il loro valore dipende, oltre che dalla domanda e dall’offerta del mercato, anche dalle riserve disponibili di tali beni. Poiché queste asset class hanno un’elevata standardizzazione, è possibile negoziarle sui mercati internazionali.",
+      "Investimenti in materie prime e beni di consumo  Petrolio, gas, oro, alluminio, rame, grano, mais, cacao…  Valore legato a:  Domanda/offerta  Riserve disponibili  L’elevata standardizzazione delle commodities consente la negoziazione sui mercati internazionali."
+    ],
+    [
+      "Classi di investimento…ma non solo!  Diversificazione geografica   Diversificazione settoriale e disruptive   Diversificazione valutaria   Diversificazione per capitalizzazione  Il mondo sta cambiato molto rapidamente; forse dovrebbero cambiare anche i portafogli degli investitori.  Oltre ad investire su classi di investimento diverse, solitamente poco correlate tra di loro, occorre diversificare il portafoglio: per aree geografiche, per settori, per valute e per capitalizzazione, puntando sia sulle grandi aziende (dette large cap), - ma anche su quelle di dimensioni più ridotte (chiamate mid e small cap)."
+    ],
+    [
+      "Introduzione 6/11  Non solo i criminali sono interessati a mettere le mani sui dati finanziari degli utenti; sempre più spesso, infatti, i malviventi sono alla ricerca delle identità dei malcapitati da riutilizzare in altre truffe.  Oggi gli oggetti di valore non sono più quelli di volta: in passato la perdita del portafoglio era quella che generava maggiore preoccupazione nelle persone, per il tempo da perdere per rifare tutti i documenti, per bloccare le carte, ecc.; oggi la preoccupazione principale è perdere il telefono o il computer, non tanto per il costo da pagare per l'acquisto di nuovi dispositivi, quanto per i dati che in essi sono contenuti. Recuperare infatti tutti i dati contenuti in quegli apparecchi andati perduti può richiedere decine di ore di lavoro e solitamente parte del contenuto è di solito completamente irrecuperabile.  Il furto dei beni potrebbe addirittura mettere a rischio non solo i dati finanziari dei malcapitati, ma anche dei soggetti con i quali questi hanno delle relazioni, come ad esempio i familiari o i clienti. Il danno reputazione che ne potrebbe derivare è talvolta molto più rilevante dei prelievi non autorizzati dai conti bancari che i malintenzionati potrebbero effettuare (soprattutto considerando il fatto che solitamente tali furti vengono rimborsati dall’intermediario o dal gestore del circuito)."
+    ],
+    [
+      "Introduzione alla Privacy e dati personali  Oggi quando si parla di privacy spesso ci si riferisce alla privacy dei dati personali, ma in realtà questa è solo una delle definizioni di privacy. La privacy è un concetto molto più ampio e riguarda il diritto alla riservatezza delle informazioni personali e della propria vita privata. In inglese sarebbe \"the right to be let alone\", ossia “il diritto di essere lasciati in pace”.  Si definiscono dati personali le informazioni che identificano o rendono identificabile, direttamente o indirettamente, una persona fisica e che possono fornire informazioni sulle sue caratteristiche, le sue abitudini, il suo stile di vita, le sue relazioni personali, il suo stato di salute, la sua situazione economica, …  Esistono una pluralità di tipologie di dati, come quelli che permettono l'identificazione diretta (i dati anagrafici), quelli che forniscono specifiche e particolari informazioni (c.d. dati sensibili), oppure quelli relativi a condanne penali e reati (i dati giudiziari)."
+    ]
+  ],
+  "groudtruth": [
+    "La principale finalità degli hedge fund è ottenere rendimenti stabili nel tempo, indipendenti dalle performance del mercato di riferimento.",
+    "Tre principali asset class di commodities menzionate nel testo sono: petrolio, gas naturale e metalli (come oro, alluminio, rame).",
+    "La diversificazione degli investimenti si realizza tramite: diversificazione geografica, settoriale (inclusi settori disruptive), valutaria e per capitalizzazione (large, mid e small cap).",
+    "La perdita di un telefono o di un computer è oggi più dannosa della perdita di un portafoglio perché contiene dati personali e sensibili difficili da recuperare, il cui furto può causare danni reputazionali e rischi per l’identità e i contatti dell’utente, spesso più gravi delle perdite economiche dirette.",
+    "I dati personali sono informazioni che identificano o rendono identificabile, direttamente o indirettamente, una persona fisica, fornendo dettagli su caratteristiche, abitudini, relazioni, stato di salute o situazione economica."
+  ],
+  "answer": [
+    "Secondo i documenti forniti, la principale finalità degli hedge fund nel portafoglio di un investitore è quella di ottenere rendimenti stabili nel tempo, indipendenti dalle performance del mercato.",
+    "Secondo i documenti forniti, tre principali asset class di commodities sono: petrolio, gas e oro.",
+    "Si può diversificare gli investimenti in diversi modi:\n\n*   Diversificazione geografica\n*   Diversificazione settoriale e disruptive\n*   Diversificazione valutaria\n*   Diversificazione per capitalizzazione (large cap, mid cap e small cap)",
+    "Secondo il documento fornito, la perdita di un telefono o di un computer è potenzialmente più dannosa della perdita di un portafoglio perché non è tanto il costo dei nuovi dispositivi a preoccupare, quanto i dati contenuti in essi. Recuperare questi dati può richiedere decine di ore di lavoro e parte del contenuto potrebbe essere irrecuperabile. Inoltre, il furto dei beni potrebbe mettere a rischio non solo i dati finanziari, ma anche quelli di soggetti con cui il malcapitato ha delle relazioni, come familiari o clienti, causando un danno reputazionale rilevante.",
+    "Si definiscono dati personali le informazioni che identificano o rendono identificabile, direttamente o indirettamente, una persona fisica. Queste informazioni possono fornire dettagli sulle caratteristiche, le abitudini, lo stile di vita, le relazioni personali, lo stato di salute, la situazione economica e altro ancora."
+  ]
+}

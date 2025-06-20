@@ -1,0 +1,975 @@
+{
+    "titolo": "Test Il FinTech: opportunità e rischi per il sistema finanziario",
+    "contenutiIntroduzioneFormativo": [
+        {
+            "ordine": 0,
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG1"
+        }
+    ],
+    "contenutiFinaliFormativo": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG2"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG3"
+        }
+    ],
+    "contenutiIntroduzioneFinale": [
+        {
+            "ordine": 0,
+            "id": "introTest",
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG4"
+        }
+    ],
+    "contenutiFinaliFinale": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG5"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG6"
+        }
+    ],
+    "contenuti": [
+        {
+            "ordine": "1",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Introduzione",
+            "impostaVista": "fine",
+            "testo": "Quale della seguenti affermazioni riguardo ai furti di identità è errata?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Gli hacker sono interessati a rubare le identità degli utenti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "I governi non hanno mai subito furti di dati sensibili nei propri database.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Alcune volte le identità rubate da un gruppo di hacker vengono rivendute ad altri malintenzionati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Il furto di identità può causare serie conseguenze negative per l'utente colpito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG7"
+        },
+        {
+            "ordine": "2",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Introduzione",
+            "impostaVista": "fine",
+            "testo": "Quando è stato lanciato il primo attacco informatico nella storia?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Agli inizi del Novecento.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Agli inizi degli anni Sessanta.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Agli inizi degli anni Ottanta.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nel 1993.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG8"
+        },
+        {
+            "ordine": "3",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Introduzione",
+            "impostaVista": "fine",
+            "testo": "Cos'è \"ARPANET\"?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Il nome in codice di un hacker.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Una tipologia di malware.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Una tipologia di virus informatico.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Il precursore dell'attuale rete Internet.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.2",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG9"
+        },
+        {
+            "ordine": "4",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Introduzione",
+            "impostaVista": "fine",
+            "testo": "La sicurezza informatica può essere messa in atto e sviluppata secondo tre ambiti di competenza ben specifici. Quale delle seguenti alternative non è uno di questi ambiti?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sociale.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Giuridico.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Organizzativo.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Tecnologico.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.3.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG10"
+        },
+        {
+            "ordine": "5",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "La normativa sulla privacy",
+            "impostaVista": "fine",
+            "testo": "Quando è entrato in vigore il nuovo Regolamento europeo in materia di protezione dei dati personali (chiamato in breve GDPR, General Data Protection Regulation)?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Nel maggio 2016.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nel maggio 2018.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nel maggio 2007.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nel maggio 2014.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG11"
+        },
+        {
+            "ordine": "6",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "La normativa sulla privacy",
+            "impostaVista": "fine",
+            "testo": "Secondo il nuovo Regolamento europeo in materia di protezione dei dati personali, che ruolo ricopre il responsabile del trattamento dati?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "È il soggetto che riceve comunicazione dei dati personali da parte del titolare.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È la persona fisica autorizzata al trattamento dei dati personali, previo incarico diretto assegnato da parte del titolare o dell'incaricato.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È il soggetto che viene incaricato dal titolare al trattamento dei dati.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È il soggetto che decide in completa autonomia in merito alla modalità di trattamento dei propri dati personali.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.1.2",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG12"
+        },
+        {
+            "ordine": "7",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Le frodi informatiche",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti alternative non è una caratteristica del phishing?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Si realizza di solito mediante l'uso di un sito clone dell'originale.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È un attacco personalizzato su uno specifico utente.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Ha lo scopo di sottrarre informazioni sensibili da parte del malcapitato.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È una frode difficile da individuare.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "3.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG13"
+        },
+        {
+            "ordine": "8",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Le frodi informatiche",
+            "impostaVista": "fine",
+            "testo": "Su quale tecnica si basa lo spear phishing?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sull'utilizzo di dati personali del malcapitato.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sull'invio di email standardizzate a una moltitudini di utenti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sull'uso di chiavette usb corrotte.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sull'utilizzo di dispositivi di clonazione delle carte di credito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "3.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG14"
+        },
+        {
+            "ordine": "9",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Questione di password",
+            "impostaVista": "fine",
+            "testo": "Che cosa si intende quando parliamo di attacchi \"a dizionario\"?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "È una tipologia di attacco informatico, che viene lanciata dai computer degli utenti, nel caso vengano effettuati dei tentativi di intrusione non autorizzati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È una tipologia di attacco informatico che utilizza algoritmi di tipo matematico per individuare la password dell'utente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È una tipologia di attacco informatico che testa le password più comuni utilizzate dagli utenti.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "È l'insieme delle password sicure che gli utenti dovrebbero utilizzare per i loro account.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG15"
+        },
+        {
+            "ordine": "10",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Questione di password",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti alternative è errata con riferimento all'uso di sistemi di protezione biometrici?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sono dei sistemi di sicurezza totale.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Possono leggere le impronte digitali dell'utente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Alcuni lettori della retina possono essere sbloccati utilizzando anche una fotografia del proprietario e poco più.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Apple è stata la prima a inserire tali dispositivi nei propri device.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG16"
+        },
+        {
+            "ordine": "11",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Questione di password",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti alternative è errata con riferimento ai sistemi di autenticazione a due fattori?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "All'inizio questa forma di protezione può essere considerata macchinosa da parte degli utenti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "I sistemi di autenticazione possono usare anche app sullo smartphone o dispositivi fisici come secondo fattore di autenticazione.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Gli utenti devono disporre sia della password principale, che di un codice temporaneo per l'accesso ai vari servizi.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Tali sistemi sono disponibili solo per grandi aziende e governi.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.3.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG17"
+        },
+        {
+            "ordine": "12",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "I pericoli del cloud e delle connessioni a Internet",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti alternative non è una caratteristica dei servizi di cloud computing?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sono servizi che si basano su un'infrastruttura virtuale.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "I servizi di cloud computing hanno di solito livelli di protezione più avanzati rispetto a quelli dell'utente medio.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "I servizi di cloud computing permettono agli utenti di utilizzare anche software non installati direttamente sui loro computer.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "I servizi di cloud computing possono comportare dei disservizi, nel caso in cui la connessione di rete sia assente o poco stabile.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "5.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG18"
+        },
+        {
+            "ordine": "13",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "I pericoli del cloud e delle connessioni a Internet",
+            "impostaVista": "fine",
+            "testo": "Quale standard dovrebbe essere adottato da una rete internet domestica e in ufficio?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "WPA2",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "WEP",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "WEP2",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "WPA",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "5.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG19"
+        },
+        {
+            "ordine": "14",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "I pericoli del cloud e delle connessioni a Internet",
+            "impostaVista": "fine",
+            "testo": "Tutte le seguenti alternative, tranne una, sono delle caratteristiche delle reti VPN. Quale non è una caratteristica di tale tecnologia?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Possono essere utilizzate anche in ambienti pubblici.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Necessitano di una connessione di rete protetta per poter funzionare correttamente.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Permettono di proteggere le informazioni del mittente fino al ricevente del messaggio.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Possono facilmente essere acquistati sul mercato servizi VPN da fornitori specializzati.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "5.3.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG20"
+        },
+        {
+            "ordine": "15",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Come proteggersi dai principali pericoli - Parte 1",
+            "impostaVista": "fine",
+            "testo": "Nel campo della sicurezza informatica, cosa si intende con il termine di \"ingegneria sociale\"?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "L'insieme delle tecniche sociali utilizzate dai criminali per studiare il comportamento di una persona, al fine di indurla a rivelare inconsapevolmente alcuni dati riservati.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'insieme delle tecniche sociali utilizzate dagli hacker buoni a difesa della sicurezza degli utenti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'insieme delle tecniche sociali utilizzate dalle società informatiche a difesa della sicurezza dei propri clienti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'insieme delle tecniche sociali utilizzate dai criminali per prelevare fondi dai conti dei malcapitati.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "6.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG21"
+        },
+        {
+            "ordine": "16",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Come proteggersi dai principali pericoli - Parte 1",
+            "impostaVista": "fine",
+            "testo": "Che cosa sono i malware?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sono software a protezione del computer dell'utente contro eventuali attacchi informatici.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sono particolari programmi che registrano tutti i tasti che vengono premuti sulla tastiera del computer dall'utente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sono tecniche di connessione che permettono a due utenti di scambiarsi direttamente dei dati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sono programmi nascosti che si installano all'insaputa dell'utente per rubare dati e informazioni personali.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "6.1.2",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG22"
+        },
+        {
+            "ordine": "17",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Come proteggersi dai principali pericoli - Parte 1",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti alternative non è un sistema a protezione della nostra privacy e dei nostri dati personali:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "La modalità di navigazione privata attivabile nei browser.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La crittografia dell'intero disco e dei dispositivi esterni di archiviazione.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La riconnessione automatica alla reti conosciute.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La disattivazione dell'opzione di rilevamento dei dispositivi Bluetooth.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "6.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG23"
+        },
+        {
+            "ordine": "18",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Come proteggersi dai principali pericoli - Parte 2",
+            "impostaVista": "fine",
+            "testo": "In merito alla protezione dei propri dispositivi mobili, quale iniziativa aumenta il nostro livello di protezione?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Abilitare la funzione di geolocalizzazione, in modo da essere sempre rintracciabili.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Lasciare wi-fi e bluetooth sempre attivi, in modo da scaricare gli aggiornamenti non appena ci connettiamo a una rete Internet.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Impostare un codice di sblocco a quattro cifre, in modo da accedere al telefono in tempi stretti nelle situazioni di emergenza.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Non installare programmi antivirus e antimalware, visto che tali programmi maligni non sono creati per attaccare i dispositivi mobili, ma il loro utilizzo potrebbe creare falle di sicurezza nei sistemi operativi dei device.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "7.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG24"
+        },
+        {
+            "ordine": "19",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Dispositivi sicuri",
+            "impostaVista": "fine",
+            "testo": "Riguardo la protezione della nostra privacy e dei nostri dati, quale delle seguenti iniziative non è una buona prassi da seguire?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Aggiornare il sistema operativo e i programmi quando ci troviamo il luoghi pubblici (es. in hotel).",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Utilizzare computer che sono sempre funzionali, anche se non più aggiornabili.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Acquistare servizi di geolocalizzazione per i nostri device da fornitori terzi.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Evitare di crittare i nostri dispositivi per non correre il rischio di perdere la chiave e rendere quindi i dati per sempre inaccessibili.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "8.1.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG25"
+        },
+        {
+            "ordine": "20",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Dispositivi sicuri",
+            "impostaVista": "fine",
+            "testo": "In quale ambiente dovremmo proteggere, anche fisicamente, i nostri dispositivi?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Nei luoghi pubblici.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sul posto di lavoro.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "In casa.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Ovunque.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "8.1.2",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG26"
+        },
+        {
+            "ordine": "21",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "30",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Dispositivi sicuri",
+            "impostaVista": "fine",
+            "testo": "Quale delle seguenti iniziative non è una buona prassi di protezione se ci troviamo in luoghi pubblici?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Utilizzare i computer degli hotel e delle sale congressi.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Utilizzare cavi di sicurezza.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Utilizzare connessioni VPN su reti aperte.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Non lasciare il computer incustodito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "8.2.1",
+            "idkey": "0064_18_01_MOD2_LEZ13_PAG27"
+        }
+    ],
+    "idkey": "0064_18_01_MOD2_LEZ13"
+}

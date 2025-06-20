@@ -1,0 +1,745 @@
+{
+    "titolo": "Riepilogando 3",
+    "contenuti": [
+        {
+            "ordine": 1,
+            "titolo": "",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG1",
+            "RAWDOMText": [
+                " Il concetto di rischio",
+                " Possiamo definire il rischio come un evento futuro al quale è possibile associare una certa probabilità di accadimento. Ad esempio, un giocatore che scommette sull'uscita del numero 1 prima del lancio di un dado opera in un mondo rischioso: in questo caso infatti, se il dado non è truccato, conosce la probabilità di accadimento dell'evento (1 su 6).",
+                " Viceversa, egli non può stimare con precisione la probabilità del numero di giri che il dado farà sul tavolo dopo il lancio. In quest'ultimo caso il giocatore non ha sufficienti informazioni ed opera quindi in condizioni di incertezza. Quando ci troviamo in una situazione in cui la probabilità degli stati del mondo non è stimabile a priori siamo quindi in una situazione di incertezza. ",
+                " L’investimento in obbligazioni non è – come spesso l'investitore ritiene – esente da rischi: è sufficiente infatti che abbassi la guardia sul monitoraggio delle evoluzioni finanziarie di certi emittenti o che i tassi d’interesse salgano quando meno se lo aspetta che un investimento che credeva \"sicuro\", non risulti più tale.",
+                " In questo blocco verranno illustrate le principali tecniche che gli analisti utilizzano per valutare e quantificare concretamente il rischio emittente e il rischio tasso d’interesse: il rating e la duration."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG2",
+            "RAWDOMText": [
+                " La “mappa” dei rischi dell’investimento obbligazionario",
+                " Concedendo un credito ad un emittente di obbligazioni si può incorrere nei seguenti rischi:"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag2.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "",
+            "percorso": "pagine/pagina3.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG3",
+            "RAWDOMText": [
+                " La “mappa” dei rischi dell’investimento obbligazionario",
+                " perdita del valore reale dell’investimento",
+                " rimborso del capitale in moneta straniera",
+                " recupero del capitale investito senza subire penalizzazioni",
+                " variazione di prezzo dell’obbligazione",
+                " capacità di far fronte agli impegni di pagamento assunti"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag3.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "",
+            "percorso": "pagine/pagina4.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG4",
+            "RAWDOMText": [
+                " La “mappa” dei rischi dell’investimento obbligazionario: soluzione",
+                " Non tutti i rischi hanno la stessa rilevanza: quelli che incidono maggiormente sulle obbligazioni sono di solito il rischio emittente e il rischio tasso d’interesse:"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag4.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "",
+            "percorso": "pagine/pagina5.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG5",
+            "RAWDOMText": [
+                " Rischio emittente e rischio tasso d’interesse"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag5.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "",
+            "percorso": "pagine/pagina6.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG6",
+            "RAWDOMText": [
+                " La pianificazione finanziaria & il profilo di rischio del cliente"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag6.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "",
+            "percorso": "pagine/pagina7.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG7",
+            "RAWDOMText": [
+                " La misura del rischio emittente: il rating",
+                " La valutazione delle reali capacità degli enti emittenti di restituire il capitale e di pagare gli interessi promessi viene attuata attraverso l’analisi dei bilanci e della solidità patrimoniale dei medesimi. In questo modo si definiscono i risultati economici e le reali potenzialità di crescita, al fine di attribuire un grado di rischiosità e solvibilità."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag7.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "",
+            "percorso": "pagine/pagina8.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG8",
+            "RAWDOMText": [
+                " La misura del rischio emittente: il rating",
+                " I titoli obbligazionari sono classificati in base alla loro rischiosità da agenzie internazionali specializzate.",
+                " Le più autorevoli a livello internazionale sono Moody’s e Standard & Poor’s."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag8.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "",
+            "percorso": "pagine/pagina9.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG9",
+            "RAWDOMText": [
+                " Approfondimento: Scala di rating di Moody’s"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag10.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "",
+            "percorso": "pagine/pagina10.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG10",
+            "RAWDOMText": [
+                " Approfondimento: Scala di rating di Standard & Poor’s"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag11.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "",
+            "percorso": "pagine/pagina11.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG11",
+            "RAWDOMText": [
+                " Quale tipo di capitalizzazione? ",
+                " Le scale di merito utilizzate dalle prime due principali agenzie sono organizzate entrambe in due aree:",
+                " l’area investment grade per gli emittenti (e le emissioni) con sufficiente o buon livello di affidabilità;",
+                " l’area speculative grade per gli emittenti (e le emissioni) considerati meno affidabili quindi a maggiore rischio di insolvenza.",
+                " Investment Grade: obbligazioni con alto rating",
+                " Speculative Grade: obbligazioni con basso rating",
+                " High Yield/Junk Bonds: obbligazioni ad alto rendimento/“obbligazioni spazzatura”"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag9a.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "",
+            "percorso": "pagine/pagina12.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG12",
+            "RAWDOMText": [
+                " La misura del rischio emittente: il rating",
+                " Rischio di default: Rappresenta il rischio che l’emittente dell’obbligazione fallisca prima della scadenza del titolo. Per quantificare l’entità di questo rischio è indispensabile (almeno) la stima della probabilità che si verifichi l’evento fallimento.",
+                " Rischio di migrazione: Rappresenta il rischio che l’emittente subisca un declassamento (downgrading) indipendentemente dal fallimento. Attraverso una matrice detta \"di transizione\" (pubblicata dalle agenzie di rating) è possibile stimare la probabilità che si verifichi una variazione del merito creditizio dell'emittente.",
+                " Rischio spread: Lo spread consiste nella differenza tra il prezzo della migliore proposta d’acquisto e il prezzo della miglior proposta di vendita in un dato momento sul mercato. Tale differenza tende generalmente ad ampliarsi in presenza di tensioni sui mercati ed è tipicamente il risultato di una riduzione della propensione al rischio degli investitori o di un peggioramento del merito creditizio dell'emittente."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag12.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "",
+            "percorso": "pagine/pagina13.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG13",
+            "RAWDOMText": [
+                " La misura del rischio emittente: il rating",
+                " Fonte: Indice JPM EMBI Global Diversified Blended Spread, indice JPM CEMBI Diversified Broad Composite Blended Spread (Maggio 2018)"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag13.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "",
+            "percorso": "pagine/pagina14.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG14",
+            "RAWDOMText": [
+                " Relazione tra rating, durata e rendimenti: soluzione",
+                " investimenti di breve durata in obbligazioni di emittenti con rating alti sono caratterizzati da un rischio quasi nullo, e pertanto il rendimento sarà basso;",
+                " mentre investimenti di lunga durata in obbligazioni di ",
+                " emittenti con rating alti sono caratterizzati da rischio ",
+                " medio, e pertanto il rendimento sarà medio.",
+                " il caso invece di investimenti di breve durata in ",
+                " obbligazioni di emittenti con rating bassi è tipico ",
+                " degli investimenti ad alto rischio, e pertanto il ",
+                " rendimento sarà alto;",
+                " ed infine a rating bassi e durata lunga corrispondono investimenti estremamente a rischio e pertanto il rendimento di tali investimenti sarà molto alto."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag14.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "",
+            "percorso": "pagine/pagina15.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG15",
+            "RAWDOMText": [
+                " Rischio tasso d’interesse",
+                " Il secondo rischio dell’investimento obbligazionario su cui occorre vigilare è il rischio tasso d’interesse."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag15.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "",
+            "percorso": "pagine/pagina16.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG16",
+            "RAWDOMText": [
+                " Rischio tasso d’interesse per i titoli a tasso fisso",
+                " Per i titoli a tasso fisso, il prezzo di un",
+                " titolo obbligazionario è legato all'andamento",
+                " dei tassi d'interesse del mercato.",
+                " Consideriamo un’obbligazione A",
+                " a tasso fisso, acquistata nel",
+                " 2017, con scadenza nel 2021 e",
+                " con un valore di rimborso di",
+                " 100 €.",
+                " Tale obbligazione garantisce",
+                " un pagamento annuo di 3 €, per",
+                " i quattro anni successivi,",
+                " cioè fino al 2021."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag16.png"
+                },
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag16a.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "",
+            "percorso": "pagine/pagina17.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG17",
+            "RAWDOMText": [
+                " La duration",
+                " Al momento dell’acquisto di una obbligazione, che cosa occorre valutare per non perdere parte del capitale qualora si dovesse vendere l’obbligazione prima della scadenza? Per fare questo tipo di valutazione, è necessario disporre di una misura, la duration: la duration, infatti, rappresenta il tempo di rientro del capitale investito, ossia il lasso di tempo che deve trascorrere per avere la certezza di vendere l’obbligazione, anche prima della scadenza, senza perdere quanto speso inizialmente. Nel grafico possiamo visualizzare il flusso in uscita, cioè l’esborso iniziale corrispondente al prezzo pagato per acquistare l’obbligazione a tasso fisso e i flussi in entrata, cioè le cedole e il rimborso del capitale in scadenza, come una serie di pesi appoggiati su un’ asta: l’asse del tempo. Il perno che mantiene in equilibrio i pesi sull’asta, “baricentro” dei flussi dei titoli, è la duration. Il perno indica per quanto tempo occorre tenere ferma l’obbligazione per non perdere il capitale."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag17.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "",
+            "percorso": "pagine/pagina18.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG18",
+            "RAWDOMText": [
+                " La relazione fra tassi di interesse e duration",
+                " Se calano i tassi di interessi → Titoli con duration elevata",
+                " Se si ipotizza un rialzo dei tassi → Titoli a breve scadenza/Titoli a tasso variabile",
+                " Maggiore è la durata dell’obbligazione, maggiore è la duration. Questo perché è più lungo il periodo di impegno ad accettare un tasso d’interesse.",
+                " Maggiore è il capitale investito, maggiore è la duration. Questo perché maggiore è il capitale sul quale ci si impegna ad accettare un tasso d’interesse. Se aumentano i flussi di cassa, la duration tenderà a ridursi, in quanto l'investitore rientrerà prima in possesso del capitale investito"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag18.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "",
+            "percorso": "pagine/pagina19.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG19",
+            "RAWDOMText": [
+                " Da che cosa è influenzata la duration?"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag19.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "",
+            "percorso": "pagine/pagina20.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG20",
+            "RAWDOMText": [
+                " Gli investimenti azionari",
+                " Questo tipo di investimento, rispetto all’investimento in obbligazioni, si caratterizza per una componente di rischio più elevata, in quanto a differenza dell’investitore in obbligazioni non è possibile conoscere fin dall’inizio il rendimento del titolo acquistato.",
+                " Dividendo → remunerazione riconosciuta ai soci",
+                " Guadagno / Perdita in conto capitale (capital gain/loss)",
+                " Variazioni del prezzo delle azioni",
+                " andamento economico dell’azienda",
+                " giudizi degli analisti finanziari ",
+                " investimenti istituzionali e privati"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 21,
+            "titolo": "",
+            "percorso": "pagine/pagina21.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG21",
+            "RAWDOMText": [
+                " Rendimenti a confronto",
+                " Potenzialità di crescita",
+                " Il valore del titolo Fiat, sfruttando principalmente le potenzialità di crescita legate ad una determinata gestione aziendale, dal 2018 al 2021 è passato da 4 a 20 Euro realizzando un rendimento del 400%.",
+                " Settore non favorevole/ impresa non scalabile",
+                " Telecom, invece, appartenendo ad un settore non favorevole, quello della telefonia, ha registrato una perdita da 3 a 2 perdendo il 30%. L’azienda, inoltre, risulta non scalabile."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag21.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 22,
+            "titolo": "",
+            "percorso": "pagine/pagina22.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG22",
+            "RAWDOMText": [
+                " I principali metodi per valutare il prezzo di un’azione ",
+                " I due metodi più comuni per valutazione il prezzo di un’azione sono: ",
+                " la valutazione dei flussi di cassa attualizzati, che collega il valore di una attività al valore attuale dei flussi di cassa attesi dalla stessa. ",
+                " Il metodo dei multipli, che stima il valore di una attività sulla base del prezzo delle attività comparabili relativamente ad una variabile comune.",
+                " I multipli più utilizzati nella pratica sono i seguenti: Price/Earning, Price/Book Value, Enterprise Value/EBIT.",
+                " Price/Earning: mette in relazione il prezzo di un titolo con l’utile di bilancio diviso per il numero delle azioni esistenti. Sulla base del P/E si possono distinguere titoli cosiddetti growth e titoli value. I primi hanno P/E elevati perché di tratta di titoli di società ad alto potenziale e con utili attesi in forte ascesa (l’investitore punta ai guadagni in conto capitale). ",
+                " Price/Book Value: è dato dal rapporto tra prezzo di mercato e valore contabile (Book Value) del titolo. Tale titolo rappresenta la differenza tra i valori contabili di attività e passività rapportato al numero delle azioni in circolazione. Il P/BV è molto utilizzato perché il valore contabile fornisce una misura stabile e intuitiva del valore dell’azienda e inoltre non è soggetto alle problematiche connesse all’assenza degli utili di esercizio.",
+                " c) EV/EBIT: è rappresentato dal rapporto tra l’Enterprise value e l’Earning before interest and taxes (EBIT). L’EV è il valore del capitale operativo dell’impresa frutto della somma tra il valore di mercato del patrimonio netto e il valore di mercato dei debiti. L’ EBIT è il risultato operativo, ovvero l’utile al lordo degli interessi e delle imposte."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 23,
+            "titolo": "",
+            "percorso": "pagine/pagina23.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG23",
+            "RAWDOMText": [
+                " La mappa dei rischi azionari",
+                " Anche per l’investimento in azioni, come per quello in obbligazioni, è utile disporre di una mappa dei rischi, al fine di valutare tutti i fattori economici che possono influenzare positivamente o negativamente l’andamento del valore del titolo."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag23.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 24,
+            "titolo": "",
+            "percorso": "pagine/pagina24.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG24",
+            "RAWDOMText": [
+                " La mappa dei rischi azionari"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag24.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 25,
+            "titolo": "",
+            "percorso": "pagine/pagina25.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG25",
+            "RAWDOMText": [
+                " Rischi specifici e rischi di sistema",
+                " Si parla di rischio specifico dei titoli azionari in riferimento alle caratteristiche specifiche della società emittente, ad esempio la gestione aziendale, la sua posizione competitiva, il settore di appartenenza; mentre si parla di rischio di sistema in riferimento alle variazioni del mercato in generale e ai suoi cicli economici.",
+                " Questa distinzione è utile per comprendere meglio il significato della principale misura del rischio di sistema, il Beta."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag25.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 26,
+            "titolo": "",
+            "percorso": "pagine/pagina26.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG26",
+            "RAWDOMText": [
+                " La misura del rischio di sistema: il Beta",
+                " Per misurare il rischio di sistema gli analisti finanziari utilizzano l’indice Beta, che misura il la sensibilità di un titolo alle variazioni di mercato"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag26.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 27,
+            "titolo": "",
+            "percorso": "pagine/pagina27.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 500,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ4_PAG27",
+            "RAWDOMText": [
+                " La misura del rischio di sistema: il Beta",
+                " Il mercato ha un beta pari a 1. Se correttamente prezzati i titoli con beta superiore a 1 dovrebbero quindi registrare rendimenti attesi superiori al mercato, in quanto la loro volatilità è più alta di quella del mercato. L'opposto vale anche per titoli con beta positivi, ma inferiori a 1. Quando il beta di un titolo è zero, il suo rendimento è pari a quello di un titolo risk free, in quanto la sensibilità rispetto al mercato è nulla. ",
+                " Titoli con beta negativi sono solo teorici e il loro rendimento è inferiore al titolo risk free, in quanto si muovono in direzione opposta al mercato e da un punto di vista economico si comportano come delle assicurazioni: offrono un rendimento positivo quando il mercato scende ed un rendimento negativo quando tutto il mercato sale."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD12/img/pag27.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ4"
+}

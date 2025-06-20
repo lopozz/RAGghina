@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Un sistema di geolocalizzazione.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un sistema che permette la comunicazione a corto raggio tra i dispositivi.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un sistema di aggiornamento dei software.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Uno smartphone.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Il Bluetooth è un protocollo wireless sviluppato per la comunicazione a corto raggio tra dispositivi dotati della stessa tecnologia.",
+    "feedbackNeg": "<b>Non è esatto!</b> Il Bluetooth è un protocollo wireless sviluppato per la comunicazione a corto raggio tra dispositivi dotati della stessa tecnologia."
+}

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Della digitalizzazione",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Della sharing economy",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Di una coscienza ambientale",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Della riduzione dei servizi a favore dei prodotti fisici",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La digitalizzazione porta alla de-materializzazione di prodotti fisici e servizi.",
+    "feedbackNeg": "<b>Non è esatto!</b> La digitalizzazione porta alla de-materializzazione di prodotti fisici e servizi."
+}

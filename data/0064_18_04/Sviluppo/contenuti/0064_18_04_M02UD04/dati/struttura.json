@@ -1,0 +1,405 @@
+{
+    "titolo": "Long Term Care (LTC)",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Il quadro sociodemografico è cambiato negli ultimi anni, di conseguenza, sia il mercato privato che l’offerta pubblica sanitaria hanno subìto un’evoluzione rispetto al passato. In particolare, vedremo che ci sono molteplici offerte riguardo la tutela degli anziani, compresa la polizza Long Term Care. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG1",
+            "RAWDOMText": [
+                " Qual è il quadro generale in materia di conoscenza assicurativa?",
+                " Quali sono le classi settoriali che fanno più utilizzo della Long Term Care?",
+                " Quali sono le categorie professionali che fanno più utilizzo della Long-Term Care?",
+                " Quali sono le future proiezioni nel campo delle polizze LTC in Italia?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "La scarsa educazione assicurativa",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Come tutte le polizze che affrontano il tema della vita (quelle per le pensioni, per esempio), esse devono essere ben conosciute per essere apprezzate. Purtroppo, sotto questo profilo, l’educazione assicurativa è insufficiente. In primo luogo, c’è il fatto che quello di invalidità (e di Alzheimer) è, come emerge dall’Indagine, uno dei rischi che gli intervistati sottovalutano rispetto alla frequenza statistica dei casi reali. In secondo luogo, le coperture di questo tipo, possono essere sottoscritte solo con una formula ad accumulo pluriennale dei premi. D’altra parte, i redditi che assorbono più facilmente questa spesa sono, in Italia, particolarmente correlati all’età, quindi anche se i ventenni avessero, come appare, una migliore percezione di questo rischio, hanno redditi medi insufficienti a far scattare la domanda. Per questo motivo, in Germania, la LTC è un’assicurazione sociale obbligatoria sotto i 3.500 euro di reddito lordo mensile, con un prelievo del 2 % del reddito, metà a carico del lavoratore e metà del datore di lavoro.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG2",
+            "RAWDOMText": [
+                " Long Term Care (LTC)",
+                " Educazione assicurativa insufficiente",
+                " Invalidità (e Alzheimer) → fattore sottovalutato",
+                " Coperture solo con formula ad accumulo pluriennale dei premi",
+                " Redditi medi insufficienti per far scattare la domanda",
+                " LTC obbligatoria < 3500€ reddito lordo mensile con prelievo del 2% del reddito",
+                " Fonte: Centro Einaudi",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Lo schema pubblico di assicurazione Long Term Care (LTC) è stato introdotto in Germania nel 1994 ed è entrato in vigore l’anno successivo. Esso prevede la copertura obbligatoria per tutti i lavoratori dipendenti con un reddito al di sotto di una soglia costantemente aggiornata nel tempo. La contribuzione, calcolata sul reddito lordo del lavoratore, è ripartita in parti uguali fra questi ed il datore di lavoro. Circa il 90% della popolazione tedesca gode della copertura LTC pubblica, mentre il 9% ha sottoscritto coperture LTC private. Il sistema funziona in base a meccanismi già ampiamente applicati in molti paesi per varie tipologie di assicurazioni sociali e prevede un sistema a ripartizione per cui le contribuzioni correnti finanziano le prestazioni correnti. Nei primi anni di vita il sistema ha dato dimostrazione di solidità, con contribuzioni raccolte nettamente superiori alle prestazioni erogate. Ma questo stato di cose è mutato già dal 1999, anno in cui si è aperta una vera e propria crisi a tutt’oggi non risolta. Il crescente sbilancio fra prestazioni erogate e contribuzioni raccolte ha aperto un dibattito molto vivace sul futuro del sistema, tenuto conto delle nuove sfide demografiche. La Germania, infatti, presenta un basso tasso di natalità; il che, associato all’incremento della speranza di vita e alla riduzione dell’immigrazione straniera (la sola che permette tassi di natalità più elevati), determinerà un sensibile invecchiamento della popolazione. Basti considerare che la quota di ottuagenari dovrebbe raggiungere il 12% entro il 2050. Questa evoluzione determinerà una nuova e più massiccia domanda di servizi di assistenza di lunga durata per gli anziani, con conseguenti maggiori oneri non sostenibili dall’attuale sistema LTC pubblico.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p02.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/italy.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/man.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/germany.png"
+                },
+                {
+                    "src": "contenuti/img/frecciasx.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Le principali cause di non sottoscrizione 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Chi non ha sottoscritto una polizza e non ha una di queste coperture (si tratta di nove intervistati su dieci) espone ragioni molto diverse, secondo il reddito, per non avere investito nell’assicurare il rischio di inabilità nell’età anziana. Chi guadagna meno di 1.600 euro, nel 68% dei casi semplicemente non ha disponibilità di denaro per la sottoscrizione di queste polizze, un dato che si riduce al 39% sopra i 2.500 euro di reddito netto mensile. La seconda ragione vale dal 22 al 37% delle cause di non sottoscrizione e riguarda la non conoscenza della polizza e della formula, che potrebbe essere recuperata con iniziative di educazione finanziaria. Al terzo posto (con una quota dal 9 al 21%) c’è la presunzione di godere di una salute sufficientemente buona, il che ovviamente può condizionare la salute nella terza età, ma certamente non la determina. Inoltre, proprio chi è in migliori condizioni generali è esposto a una vecchiaia più lunga e, quasi inevitabilmente, bisognosa di assistenza. Infine, piccole percentuali delle risposte sono addensate sulla disponibilità di risparmi da usare nella vecchiaia già sufficienti o sull’idea di far conto sui familiari in caso di necessità.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG3",
+            "RAWDOMText": [
+                " Ragioni per non aver sottoscritto un'assicurazione LTC, per classe di reddito mensile netto",
+                " (percentuale delle ragioni multiple espresse dagli intervistati non assicurati; ciascuno ha espresso, in media, 1,2 ragioni)",
+                " Fonte: Indagine sui bilanci delle famiglie italiane, Banca d'Italia 2018, \"Statistiche\""
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p03.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Le principali cause di non sottoscrizione 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le principali differenze di diffusione delle polizze LTC si rivelano a livello di genere (13% gli uomini e 7% le donne assicurate), a livello geografico (nel Mezzogiorno e nel Centro Italia sono dal 30 al 40% meno diffuse che nel Nord Italia) e, inoltre, secondo il reddito (le coperture sono ovviamente crescenti) e secondo il grado di istruzione. Per categorie, sono quelle meglio retribuite ad aver coperto il rischio di inabilità nella vita anziana (dal 27% degli imprenditori e 34 % dei dirigenti si scende subito allʼ8% degli impiegati, per finire al 3% dei lavoratori manuali).",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG4",
+            "RAWDOMText": [
+                " Diffusione delle polizze Long Term Care (LTC)",
+                " Differenze per:",
+                " Genere",
+                " 13% uomini assicurati",
+                " 7% donne assicurate",
+                " Geografia",
+                " Mezzogiorno e Centro Italia 30/40% in meno rispetto al Nord Italia",
+                " Reddito",
+                " Grado di istruzione",
+                " Sono le categorie meglio retribuite ad aver coperto il rischio di inabilità nella vita anziana.",
+                " Fonte: Centro Einaudi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p04.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/debt.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "I fattori che incidono sulla domanda",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come canale distributivo principale utilizzato, nel 23-25% dei casi di chi possiede una polizza LTC, si avvale soprattutto di un agente o un broker il 7% invece impiega come canale di accesso abituale assicurazioni o la banca. Infine, lʼ8% dei casi si assicura abitualmente alla Posta. L’indagine del Centro Einaudi evidenzia che di tutti i fattori che potrebbero abilitare la domanda futura di copertura, due soli hanno dimensioni importanti: l’educazione finanziaria e la conseguente consapevolezza dei rischi.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG5",
+            "RAWDOMText": [
+                " Canale distributivo",
+                " Agenti o Broker",
+                "nel 23-25% dei casi ha già una polizza LTC",
+                " 7% Assicurazioni e/o Banche",
+                " 8% Posta",
+                " Domanda futura di copertura",
+                " Educazione finanziaria",
+                " Fattori principali",
+                " Consapevolezza dei rischi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/climb.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Le proiezioni dell'attuale situazione in Italia 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo le proiezioni ISTAT per Italia Longeva (Rete nazionale di ricerca sull'invecchiamento e la longevità attiva). Nel 2030 ammonteranno a 5 milioni gli anziani disabili da assistere. Nel 2050 invece, ci saranno 63 anziani da sostenere ogni 100 lavoratori (attualmente sono trentacinque). In un contesto in cui la popolazione generale diminuirà di 2,5 milioni, a fronte di un exploit degli “over 65”, che raggiungeranno i 20 milioni, di cui 4 milioni saranno ultra 85enni. Le generazioni più a rischio di non autosufficienza passeranno da un quinto a un terzo della popolazione.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG6",
+            "RAWDOMText": [
+                " 2030",
+                " 5 milioni di anziani da assistere",
+                " 2050",
+                " 63 anziani da sostenere ogni 100 lavoratori",
+                " Popolazione generale",
+                " 2,5 milioni di persone",
+                " over 65",
+                " → 20 milioni",
+                " → 4 milioni",
+                " → over 85",
+                " Generazioni non autosufficienti",
+                " 1/5",
+                " → 1/3",
+                " Fonte: Italia Longeva"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p02.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/oldman.png"
+                },
+                {
+                    "src": "contenuti/img/meno.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Le proiezioni dell'attuale situazione in Italia 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "I dati contenuti nell'indagine sull'ADI (Assistenza domiciliare in Italia) mostrano ulteriori elementi informativi. Il trend dell’offerta di cure domiciliari agli anziani si conferma in crescita (+0,2% rispetto al 2016), ma resta ancora un privilegio per pochi; Infatti, a goderne è solo il 3,2% degli over65 residenti in Italia. Mediamente, le Asl coinvolte nell’indagine garantiscono ai loro anziani l’87% delle 31 prestazioni a più alta valenza clinico-assistenziale previste nei Lea (Livelli essenziali di assistenza), arrivando, in alcuni casi, ad offrire fino al 100% dei servizi, come avviene a Catania, Chieti e Salerno.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG7",
+            "RAWDOMText": [
+                " Indagine sull’ADI",
+                " Long Term Care in Europa",
+                " Fonte: Italia Longeva",
+                " Cure domiciliari agli anziani",
+                " +0,2% rispetto al 2016",
+                " 3,2% degli over 65 ne gode",
+                " ASL coinvolte",
+                " 87% delle 31 prestazioni alta valenza clinico-assistenziale",
+                " 100%",
+                " Catania",
+                "Chieti",
+                "Salerno",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Un’evidente disomogeneità riguarda invece il numero di accessi in un anno – si va da un minimo di 8 ad un massimo di 77 della ASP di Potenza – e le ore di assistenza dedicate al singolo anziano, che oscillano da un minimo di 9 ad un massimo di 75 nella Asl Roma 4. In tutti i casi, si tratta di interventi principalmente a carattere infermieristico e, a seguire, fisioterapico e medico. All’ampia variabilità in termini di assistiti ed attività erogate, corrispondono anche costi differenti per la singola presa in carico che variano dai 543 euro della Ats Montagna agli oltre 1000 euro della ASP Potenza, e non sempre ad un maggior carico assistenziale corrisponde una spesa più elevata.<br><br><i>Fonte: ilsole24ore.com</i></p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/stats.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M02UD04/img/icone/nurse.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG8",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Cosa prevede la Long Term Care?",
+                " Long Term Care (LTC) è entrato in vigore nel 1995. Esso prevede la copertura obbligatoria per tutti i lavoratori dipendenti con un reddito al di sotto di una soglia costantemente aggiornata nel tempo. La contribuzione, calcolata sul reddito lordo del lavoratore, è ripartita in parti uguali fra questi ed il datore di lavoro.",
+                " Quali sono le categorie che utilizzano maggiormente la Long Term Care?",
+                " Per categorie, sono quelle meglio retribuite ad aver coperto il rischio di inabilità nella vita anziana (dal 27% degli imprenditori e 34 % dei dirigenti si scende subito allʼ8% degli impiegati, per finire al 3% dei lavoratori manuali).",
+                " Quali sono le previsioni degli esperti del settore?",
+                " Secondo Roberto Bernabei, presidente di Italia Longeva: «Dobbiamo evitare che il Paese diventi un enorme ma disorganizzato ospizio per far fronte alla perdita di autonomia. Bisogna investire in reti assistenziali, competenze e tecnologie. La tecnoassistenza che propugniamo da anni».",
+                " Quali sono i rischi del settore?",
+                " Roberto Bernabei, presidente di Italia Longeva: «[…]mentre la cronicità e la disabilità saranno la vera emergenza del futuro, l’Adi continuerà ad avere un ruolo marginale e ad essere fortemente sottodimensionata rispetto ai bisogni dei cittadini. Con il risultato che gli anziani continuano ad affollare i Pronto soccorsi, mentre i familiari sono alla disperata ricerca di badanti cui affidare i propri cari dimessi dall’ospedale, sempre che possano permettersele»."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD1_LEZ10_PAG9",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quali sono le categorie che, in maggioranza, si servono della Long Term Care?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M02UD04/audio/0064_18_04_m02ud04p09"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD1_LEZ10"
+}

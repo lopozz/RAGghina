@@ -1,0 +1,460 @@
+{
+    "titolo": "Asset Management 2020 - Parte 2",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Quali novità riserva il futuro del risparmio gestito, a livello globale? Il 2020 vedrà emergere una tipologia radicalmente nuova di gestori globali, che utilizzeranno potenti piattaforme tecnologiche, soluzioni ritagliate sui bisogni dei propri clienti e marchi di comprovata affidabilità. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG1",
+            "RAWDOMText": [
+                " Quali fattori di cambiamento nel prossimo futuro del risparmio gestito?",
+                " Come dovranno prepararsi i gestori che mirano a un successo globale?",
+                " Quali interazioni si prospettano con il mondo dei social media e della tecnologia cellulare?",
+                " Come rapportarsi con i mercati emergenti?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Nuove regioni globali ed economie di scala",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Diamo allora uno sguardo d’insieme ai grandi cambiamenti del prossimo futuro.  Vi sono alcuni fattori fondamentali da considerare. In primo luogo, la nascita di nuove aree regionali e le nuove “piattaforme di fondi” per servirle. Questo renderà sempre più importanti il controllo dei costi, le economie di scala e l’efficienza. La capacità di semplificare e integrare i processi sorreggerà dunque il successo dei gestori a livello globale. Alcuni di loro potranno ampliare il proprio raggio d’azione e essere presenti su ogni canale di distribuzione. Vi sarà anche la progressiva scomposizione delle commissioni, che comporterà in molte regioni un declino degli intermediari. Pertanto gli  asset manager dovranno puntare anche a stringere nuove alleanze, per avvicinarsi al cliente finale.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG2",
+            "RAWDOMText": [
+                " Nuovi gestori globali",
+                " Grazie a nuovi blocchi regionali e nuove piattaforme di fondi",
+                " Enfasi su costi - economie di scala - efficienza",
+                " Integrare i processi!",
+                " Massima diffusione globale e presenza sui canali di distribuzione",
+                " Scomposizione commissioni",
+                " meno intermediari",
+                " Importante la capacita distributiva “captive”, per avvicinarsi al cliente finale"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Il ruolo del marchio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il marchio giocherà un ruolo di primo piano nel consentire maggiori economie di scala, In particolare nella raccolta di capitali e di masse. I grandi protagonisti del mercato del risparmio gestito dovranno poter contare su marchi riconoscibili per accedere efficacemente sia ai mercati dei capitali, sia a quelli di distribuzione o per stringere alleanze strategiche. Inoltre, essi faranno tutti leva su alcuni fattori di successo, descritti nelle prossime pagine.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG3",
+            "RAWDOMText": [
+                " Il marchio faciliterà le economie di scala",
+                " RACCOLTA DI CAPITALI E DI MASSE",
+                " I protagonisti del risparmio gestito avranno bisogno del marchio",
+                " ACCESSO AI MERCATI DEI CAPITALI ",
+                " (ESPANSIONE)",
+                " ACCESSO AI CANALI DELLA DISTRIBUZIONE",
+                " ALLEANZE STRATEGICHE"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p03_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Politiche del personale",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Strategicamente, i nuovi gestori globali si impegneranno ad assumere i migliori “talenti” nei nuovi mercati. Quelli più lungimiranti, inizieranno a farlo molto presto, per integrarli nell'organizzazione e poi ricollocarli al lavoro nei territori d’origine. Inoltre, le politiche di remunerazione seguiranno molto le esigenze degli investitori piuttosto che quelle della società: diventeranno fattori chiave per definirle la soddisfazione dei clienti, la qualità del servizio e la capacità di innovare.La trasparenza nei compensi dei manager sarà anche fondamentale nel rapporto con gli investitori. ",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG4",
+            "RAWDOMText": [
+                " Assunzione dei migliori talenti",
+                " Assunzione e formazione di nuovi team nei mercati emergenti",
+                " Opereranno nei Paesi d’origine",
+                " Remunerazioni tarate su esigenze investitori",
+                " Definite in base a:",
+                " Soddisfazione dei clienti",
+                " Qualità del servizio",
+                " Capacità di innovare",
+                " Trasparenza dei compensi dei manager",
+                " Fondamentale nel rapporto con investitori"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p04.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Parole chiave: tecnologia, fiducia",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’asset management è un settore d’affari virtuale, ma opera ancora oggi con un’infrastruttura tecnologica relativamente modesta, mentre entro pochissimi anni la tecnologia diventerà assolutamente critica per tutte le aree del business: per acquisire clienti, raccogliere dati rilevanti sui clienti esistenti e potenziali, per aumentare l’efficienza e predisporre la reportistica regolamentare e fiscale. Contemporaneamente, il rischio cibernetico diventerà uno dei rischi principali, come quello operativo, di mercato e di performance. Dunque, saranno necessarie soluzioni IT adeguate e potenti. Inoltre, da ultimo ma non ultimo,  sarà importante per i gestori riconquistare la fiducia del pubblico, in particolare attraverso il messaggio dell’impatto sociale del valore generato per gli investitori..",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG5",
+            "RAWDOMText": [
+                " Asset management",
+                " Business virtuale, ma infrastruttura tecnologica ancora modesta",
+                " !",
+                " Entro pochi anni la tecnologia diverrà critica ",
+                " 1. Acquisizione di clienti e di dati su clienti anche potenziali, CRM.",
+                " 2. Incremento efficienza e predisposizione reportistica complessa.",
+                " 3. Impennata del rischio cibernetico.",
+                " 4. Nuova centralità della tecnologia IT.",
+                " 5. Riconquistare la fiducia del pubblico."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p05_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Social media e marketing dell’asset management globale",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "È importante ricordare che un ruolo essenziale sarà giocato dai social media. Tramite cellulari, i-phone e altri strumenti, si potranno ottenere tutte le informazioni utili per proporre poi i prodotti giusti ai clienti giusti. Ciò avverrà, grazie a tecniche sempre più sofisticate, identificando i bisogni emergenti del consumatore, anche attraverso l'interazione con gli stessi social media. Da notare invece che moltissime società di gestione oggi non sono attive  sui social! Inoltre, Big Data, cioè la possibilità sempre più diffusa immagazzinare, gestire e analizzare grandi quantità di dati, giocherà un ruolo sempre più importante nella comprensione dei clienti. Non solo, consentirà anche di sistematizzare efficacemente i più diversi tipi di informazione a vantaggio del top management e delle funzioni commerciali.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG6",
+            "RAWDOMText": [
+                " Social media e cellulari per raccogliere dati essenziali sui clienti",
+                " TECNICHE SEMPRE PIU’ SOFISTICATE",
+                " IDENTIFICAZIONE BISOGNI EMERGENTI",
+                " Oggi moltissimi gestori non sono attivi sui social!",
+                " Ruolo crescente di “Big Data”",
+                " COMPRENSIONE CLIENTI",
+                " ALLINEAMENTO DEI DIVERSI TIPI DI INFORMAZIONI AZIENDALI"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p06.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Nuovi modelli organizzativi e nuovi prodotti",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un altro elemento importante da considerare è l'assottigliarsi dei margini delle commissioni. Avere ottime infrastrutture di front e back office diventerà quindi cruciale, e probabilmente ciò comporterà una sempre maggiore integrazione con le reti di vendita, nonché fusioni e joint-venture tra gestori e distributori. Vi saranno cambiamenti anche nelle richieste dei clienti. I prodotti per la gestione del rischio, in particolare quelli che mirano a evitare il rischio reputazionale, assumeranno peso maggiore per gli investitori istituzionali. Poiché inoltre crescerà presso i clienti la consapevolezza della scarsità delle risorse naturali, tenderanno a cambiare le loro strategie di investimento, orientandosi anche verso questo tipo di rischio.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG7",
+            "RAWDOMText": [
+                " Si assottigliano i margini delle commissioni",
+                " Necessarie ottime infrastrutture di front office e back office",
+                " Maggior integrazione con le reti di vendita; fusioni fra gestori e distributori",
+                " Cambiamenti nelle richieste dei clienti",
+                " Più richiesta di prodotti di gestione del rischio",
+                " Rischio reputazionale ",
+                " Rischio scarsità risorse naturali"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD05/img/icone/handshake.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Avvento di nuovi player",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Infine, la necessità di realizzare economie di scala attrarrà grandi società che oggi operano in altri settori. In Cina, questa evoluzione è già evidente. Pochi anni fa una piattaforma di pagamenti online, ha lanciato un fondo monetario, che ha avuto un enorme successo, legato soprattutto alla fiducia del pubblico verso l’azienda e la sua proposta. È importante che i gestori non sottovalutino la tecnologia cellulare per la distribuzione e la comunicazione dei loro prodotti e servizi: questo potrebbe infatti spianare la strada a nuovi concorrenti. Primi fra tutti, ovviamente, le società tecnologiche o i social media, che potrebbero combinare la loro enorme diffusione e influenza con alleanze strategiche per lanciare nuovi servizi integrati.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG8",
+            "RAWDOMText": [
+                " Opportunità di economie scala",
+                " Attrae nuovi player nel settore",
+                " In Cina, una piattaforma di pagamenti on line lancia un fondo monetario di enorme successo",
+                " → fiducia dei clienti verso l’azienda e la sua proposta.",
+                " Tecnologie cellulari strategiche",
+                " Importante non sottovalutarle!",
+                " Rischio di facilitare nuovi concorrenti",
+                " Società tecnologiche e social media"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p08_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p08_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Nuovi mercati e nuove responsabilità",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel prossimo futuro, il settore del risparmio gestito si amplierà enormemente, soprattutto grazie ai nuovi mercati, come la Cina. Qui, per esempio, milioni di persone avranno bisogno di chiedere un finanziamento per realizzare i propri progetti... Questo conferisce alle società di gestione una grande responsabilità! I gestori devono saper illustrare in modo chiaro le proprie proposte ai clienti, con piena trasparenza su costi e commissioni. Educare questi nuovi clienti inesperti sulle varie proposte e su come combinarle diverrà un aspetto essenziale, così come costruire soluzioni che indirizzino i loro bisogni, anche per conservare la loro fiducia.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG9",
+            "RAWDOMText": [
+                " Crescita imponente delle attività",
+                " Mercati emergenti: Cina",
+                " Milioni di nuovi clienti del risparmio gestito",
+                " Importanti responsabilità per i gestori!",
+                " Fondamentale:",
+                " Illustrare chiaramente le proposte",
+                " Piena trasparenza su costi e commissioni",
+                " Rapportarsi con clienti inesperti",
+                " Far comprendere le proposte",
+                " e costruire soluzioni ad hoc → fiducia"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p09.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Le sfide del futuro",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In breve, i gestori devono impegnarsi per generare un impatto sociale positivo, soddisfacendo le aspettative di investitori e decisori pubblici. Egualmente, ogni gestore deve riconoscere i cambiamenti di scenario in atto,  e saperli accogliere per realizzare una strategia di successo.  Chi saprà sviluppare strategie coerenti e opererà con integrità verso i clienti avrà più chance di costruire marchi di qualità che godranno della fiducia degli investitori.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG10",
+            "RAWDOMText": [
+                " I gestori devono saper generare un impatto sociale positivo",
+                " Soddisfare gli investitori",
+                " Soddisfare i decisori pubblici",
+                " Riconoscere i cambiamenti in atto ",
+                "→ attuare strategie di successo ",
+                " Strategie coerenti",
+                " Integrità verso i clienti",
+                " Creazione di marchi di qualità, credibili per gli investitori"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD05/img/p10.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG11",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che ruolo avrà il marchio per i gestori a livello globale?",
+                " Il marchio sarà importantissimo per assicurarsi visibilità e credibilità, ai fini della raccolta di capitali e anche per poter stringere alleanze strategiche.",
+                " Come muteranno le politiche del personale?",
+                " Sarà necessario assumere “talenti” da inserire nei mercati locali. Le remunerazioni, in particolare dei manager non terranno solo conto della performance finanziaria, ma anche della qualità erogata e percepita, e dovranno essere improntate a trasparenza.",
+                " Quale impatto avrà la tecnologia per i gestori del futuro?",
+                " L’asset management dovrà passare da un impiego relativamente modesto della tecnologia a uno sempre più massiccio, basato su soluzioni di rete e cloud computing, che consentiranno livelli elevati di efficienza organizzativa e un CRM sofisticato.",
+                " Quali sfide pone il rapporto con la clientela dei mercati emergenti?",
+                " Affacciarsi sui nuovi mercati e rapportarsi efficacemente con una clientela ancora inesperta richiede un plus di responsabilità , trasparenza e lungimiranza nell’indirizzare i bisogni che questa clientela via via potrà esprimere."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD2_LEZ10_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Qual è il ruolo dei social media e delle tecnologie cellulari nel futuro del risparmio gestito?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD05/audio/0064_18_03_m03ud05p12"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ10"
+}

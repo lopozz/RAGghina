@@ -1,0 +1,875 @@
+{
+    "titolo": "Introduzione",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Copertina",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG1",
+            "RAWDOMText": [
+                " L'importanza della diversificazione di portafoglio nell'ottica della protezione del cliente",
+                " Prof. Duccio Martelli",
+                " 6 ore"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdCopertina.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/icontitoli.png"
+                },
+                {
+                    "src": "contenuti/img/iconuser.png"
+                },
+                {
+                    "src": "contenuti/img/icontime.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/audio/copertina"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Le profonde crisi economiche e il processo di globalizzazione hanno modificato il mercato finanziario determinando un cambiamento di prospettiva sia nel consumatore che nelle istituzioni preposte alla cura del patrimonio familiare. Anche la normativa europea si è adeguata ai nuovi trend. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG2",
+            "RAWDOMText": [
+                " Quali sono le conseguenze dell’incertezza che è derivata dalla profonda crisi economica?",
+                " In che modo le famiglie reagiscono alla percezione del rischio e al bisogno di protezione?",
+                " Quali sono i fattori che hanno influenzato il nuovo mercato finanziario?",
+                " Come si è adeguata la normativa europea ai nuovi cambiamenti?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Il quadro generale 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Stiamo assistendo in questo primo scorcio del XXI secolo alla fine delle certezze. È iniziata l’era della complessità, del relativismo e del dubbio sistematico. La società moderna, complice il processo di globalizzazione e interconnessione risulta sempre più cangiante, indefinita e imprevedibile. L’era della produzione che aveva caratterizzato buona parte del XX secolo ed innescato il fenomeno del consumismo, lascia sempre di più spazio ad un consumo responsabile, selettivo, dedicato e relazionale. Il mondo delle imprese prende finalmente coscienza di operare all’interno della società: i consumatori sono attori sociali con cui dialogare, non macchine per l’acquisto, e perciò nasce una nuova Era commerciale basata sull’ascolto, sulla relazione, sull’attenzione e sull’educazione del Cliente/Consumatore.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG3",
+            "RAWDOMText": [
+                " Ieri",
+                " Oggi",
+                " La società moderna si trasforma…",
+                " Cangiante",
+                " Indefinita",
+                " Imprevedibile",
+                " XX SECOLO",
+                " Era della produzione e del consumismo",
+                " XXI SECOLO",
+                " Consumo responsabile, selettivo, dedicato, relazionale",
+                " Il mondo delle imprese prende coscienza di operare all’interno della società",
+                " Consumatori:",
+                " attori sociali con cui dialogare",
+                " Nuova Era commerciale",
+                " Ascolto",
+                " Relazione",
+                " Attenzione",
+                " Educazione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciacurva_SU.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p03_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciacurva_GIU.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p03_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p03_d.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p03_e.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Il quadro generale 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ma a questa evoluzione industriale e commerciale risponde come contraltare la Crisi Economica dell’ultimo decennio che incide sugli assetti sociali della popolazione e sul welfare pubblico. Il ceto medio risulta sempre più fragile, la disoccupazione giovanile ha assunto proporzioni insostenibili e le fasce più anziane della popolazione, vuoi per il prolungarsi della vita media, vuoi per la carenza di strutture di supporto e per l’impossibilità di molte famiglie di farsene carico, necessitano di assistenza e protezione. Naturalmente il fatto di attraversare una crisi lunga e profonda come quella che abbiamo conosciuto sollecita anche la nascita di nuovi timori e la percezione di rischi che vanno al di là di quelli tradizionalmente coperti dal mondo assicurativo, stimolando in parallelo l’assunzione di responsabilità più dirette da parte degli individui con il conseguente bisogno di «Proteggere» il proprio Patrimonio familiare.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG4",
+            "RAWDOMText": [
+                " La Crisi Economica incide sugli assetti sociali e sul welfare pubblico",
+                " Il ceto medio è fragile",
+                " La disoccupazione giovanile aumenta",
+                " Le fasce anziane necessitano di assistenza e protezione",
+                " Conseguenze di una lunga crisi",
+                " Nuovi timori",
+                " Percezione dei rischi",
+                " Resposabilità più dirette",
+                " Protezione del patrimonio familiare"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p04_B.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p04_A.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p04_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p04_d.png"
+                },
+                {
+                    "src": "contenuti/img/parGraffa.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Il quadro economico 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il quadro economico degli ultimi anni ha inciso fortemente sugli individui aumentando sia incertezze e paure che la fragilità economica e finanziaria delle famiglie ed incrementando la quota di liquidità del portafoglio finanziario. L’invecchiamento della generazione post bellica, che detiene la ricchezza finanziaria e patrimoniale, sta favorendo il processo graduale di passaggio generazionale della ricchezza. La crisi immobiliare legata alla stretta creditizia che le Banche hanno adottato e l’innalzamento della pressione fiscale hanno gradualmente disincentivato l’attenzione delle famiglie per l’investimento in immobili. I sistemi di Welfare tradizionali sembrano poco attrezzati, nella configurazione attuale, ad offrire un’adeguata protezione verso nuovi rischi e nuove paure come ad esempio la precarizzazione del lavoro, l’instabilità reddituale, la fragilizzazione e l’inerzia delle istituzioni preposte alla protezione sociale.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG5",
+            "RAWDOMText": [
+                " Aumento di incertezze e paure",
+                " Maggiore fragilità economica e finanziaria",
+                " Incremento della quota di liquidità del portafoglio",
+                " TREND",
+                " L’invecchiamento della popolazione post bellica favorisce il passaggio generazionale della ricchezza.",
+                " Crisi immobiliare",
+                " Pressione fiscale",
+                " Riduzione degli investimenti immobiliari",
+                " I sistemi di Welfare tradizionali non offrono adeguata protezione",
+                " Lavoro precario",
+                " Reddito instabile",
+                " Inerzia delle istituzioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/uguale.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p05.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Il quadro economico 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Questi i motivi della crescente preoccupazione per il futuro delle nuove generazioni che sta ridisegnando le motivazioni e le declinazioni del risparmio, e che se da una parte favorisce teoricamente la pianificazione di azioni volte quanto più possibile alla protezione del Patrimonio dall’altra, in antitesi, restringe gli orizzonti temporali con il conseguente tramonto del Life Cycle di lungo periodo a vantaggio di micro Life Cycle consecutivi, per permettere la coesistenza di rendimenti interessanti e disponibilità di capitale. Del resto il tema dell’incertezza si riferisce al cliente che ha vissuto negli ultimi dieci anni, all’interno della crisi economica, una crisi fiduciaria nei confronti di quelle stesse istituzioni finanziarie che avrebbero dovuto assicurargli stabilità e trasparenza. Il tema della fiducia violata è un tema che accentua il senso di inadeguatezza che può e dovrebbe essere ricostruito attraverso un apparato normativo più severo, un sistema di controllo istituzionale più accurato, l’innalzamento del livello culturale della clientela e l’assistenza di un professionista della finanza in grado di affiancare il cliente e di curarne gli interessi.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG6",
+            "RAWDOMText": [
+                " Nuove motivazioni e declinazioni del risparmio",
+                " Pianificazione della protezione del Patrimonio",
+                " Tramonto del Life Cycle di lungo periodo",
+                " Preferenza per micro Life Cycle consecutivi",
+                " Più rendimenti e maggiore disponibilità di capitale",
+                " L’incertezza deriva dalla crisi fiduciaria verso le istituzioni finanziarie",
+                " SOLUZIONI",
+                " Apparato normativo più severo",
+                " Sistema di controllo istituzionale più accurato",
+                " Innalzamento del livello culturale della clientela",
+                " Assistenza di professionisti che affiancano il cliente"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p06.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Il quadro finanziario 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il mercato finanziario è sempre stato un ambiente caratterizzato da una particolare complessità e velocità. Negli ultimi dieci anni questa complessità si è accentuata in virtù di un insieme di fattori: La Globalizzazione dei Mercati e la crescita delle Economie Emergenti; L’Incertezza Macroeconomica determinata dalla Grande Crisi Finanziaria; L’Alta mutabilità dei contesti geopolitici; La Politica monetaria espansiva da parte delle Banche Centrali; La Digitalizzazione della finanza; La De-cartolarizzazione della ricchezza finanziaria; Lo Sviluppo e la sofisticazione dell’ingegneria finanziaria; E l’Avvento di nuovi modelli industriali generati dallo sviluppo della tecnologia e della telematica.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG7",
+            "RAWDOMText": [
+                " Fattori che hanno accentuato la complessità del mercato finanziario",
+                " Globalizzazione e crescita delle Economie emergenti",
+                " Incertezza",
+                "Macroeconomica",
+                " Alta mutabilità dei contesti geopolitici",
+                " Politica monetaria espansiva delle Banche Centrali",
+                " Digitalizzazione della finanza",
+                " De-cartolarizzazione della ricchezza finanziaria",
+                " Sviluppo e sofisticazione dell’ingegneria finanziaria",
+                " Nuovi modelli",
+                "industriali"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p07.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p07.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Il quadro finanziario 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I servizi finanziari costituiscono un elemento essenziale nel quadro degli sforzi dell’Unione Europea volti a completare il mercato interno, nell'ambito della libera circolazione di servizi e capitali. Il recesso del Regno Unito dall’Unione Europea comporta una nuova serie di sfide con possibili implicazioni per il settore dei servizi finanziari all'interno dell'UE e al di fuori di essa. La definizione di norme e standard in materia di architettura normativa dei servizi finanziari dopo la crisi, è dovuta alla globalizzazione e all'interdipendenza dei mercati finanziari che si sono concretizzate nei decenni precedenti alla crisi e che hanno provocato un effetto di «contagio» globale a seguito della prima «bolla» scoppiata negli Stati Uniti.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG8",
+            "RAWDOMText": [
+                " L’Unione Europea punta sui servizi finanziari per completare il mercato interno",
+                " Libera circolazione di servizi e capitali",
+                " Recesso del Regno Unito dall’UE",
+                " Nuove sfide",
+                " Implicazioni per il settore dei servizi finanziari",
+                " Norme e Standard",
+                "SERVIZI FINANZIARI",
+                " Globalizzazione e interdipendenza",
+                "MERCATI FINANZIARI",
+                " CONTAGIO GLOBALE"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p08_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p08_b.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Il quadro sociale 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La Famiglia rappresenta il perno dell’evoluzione e del cambiamento sociale in atto ed è frutto di modifiche che si sono via via propagate tra le generazioni. Rispetto alla composizione dei nuclei familiari, le coppie legali, se si escludono le regioni più tradizionaliste, sono destinate a continuare la loro attuale flessione; una crisi, quella del matrimonio, dovuta in particolare al mutato quadro valoriale, spostatosi dalla tradizionale etica del sacrificio alla ricerca della felicità individuale. La famiglia tradizionale sta scomparendo per vari motivi: nuovi valori sociali, la ridefinizione dei ruoli maschili e femminili, il progressivo aumento della scolarizzazione e lo spostamento in avanti della conclusione degli studi comportano un ritardato ingresso nel mondo del lavoro.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG9",
+            "RAWDOMText": [
+                " FAMIGLIA",
+                " Perno dell’evoluzione e del cambiamento sociale in atto",
+                " Frutto di modifiche che si sono via via propagate tra le generazioni",
+                " Flessione delle coppie legali",
+                " Crisi del matrimonio",
+                " Mutato quadro valoriale",
+                " Etica del sacrificio",
+                " Ricerca della felicità individuale",
+                " Nuovi valori sociali",
+                " Ridefinizione dei ruoli (gender)",
+                " Aumento della scolarizzazione",
+                " Ritardo nella fine degli studi",
+                " Ritardato ingresso nel mondo del lavoro"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p09_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu_blu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx_blu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p09.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Il quadro sociale 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il processo di formazione della famiglia risente del rinvio delle tappe, quali l’uscita dalla famiglia di origine, la formazione dell’unione, e l’arrivo del primo figlio, e dell’emergere di nuove forme di vita familiare: aumentano, infatti, quelle caratterizzate da unioni libere o da periodi di vita autonoma e, conseguentemente, i percorsi di formazione della famiglia risultano più diversificati di un tempo. Inoltre le esperienze nei percorsi di transizione allo stato adulto variano secondo il genere, l’estrazione sociale e il territorio di residenza. Le dinamiche non sono omogenee e rivelano un ruolo fondamentale fornito dall’estrazione sociale e dal livello di scolarizzazione nella definizione delle differenti tappe.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG10",
+            "RAWDOMText": [
+                " Influenze sul processo di formazione della famiglia",
+                " Rinvio delle tappe",
+                " Uscita dalla famiglia di origine",
+                " Formazione dell’unione",
+                " Arrivo del primo figlio",
+                " Nuove forme di vita familiare",
+                " Unioni libere",
+                " Vita autonoma",
+                " Percorsi di formazione della famiglia diversificati",
+                " Genere",
+                " Estrazione sociale",
+                " Territorio di residenza",
+                " Ruolo fondamentale rivestono l’estrazione sociale e il livello di scolarizzazione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p10_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p10_a.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p10_c.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaLunga.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p10_d.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Il quadro sociale 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La frattura della famiglia tradizionale ha inevitabilmente aumentato il livello di vulnerabilità dell’Istituto al punto che gli individui hanno via via adottato misure per riposizionare il proprio stile di vita all’interno di un quadro economico che si è, nell’ultima decade, profondamente modificato; facendo ricorso a strategie finalizzate a ridurre l’impatto sul bilancio familiare di eventi negativi inattesi. In una prospettiva di gestione del rischio le famiglie hanno cominciato a dotarsi di  strategie per fare fronte a spese impreviste o inattese riduzioni di reddito: ad esempio dotarsi di strumenti finanziari per loro natura preposti alla gestione del rischio il cui effetto è quello di proteggere un buffer di capitale, o proteggersi con polizze assicurative sulle aree ritenute più importanti utilizzando strumenti complementari o supplementari a quelli offerti dal welfare pubblico.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG11",
+            "RAWDOMText": [
+                " La frattura della famiglia tradizionale ha aumentato il livello di vulnerabilità dell’Istituto",
+                " Misure per riposizionare il proprio stile di vita",
+                " Strategie per ridurre l’impatto sul bilancio familiare di eventi negativi inattesi",
+                " Prospettiva di gestione del rischio",
+                " Spese impreviste",
+                " Riduzioni di reddito inattese",
+                " Strategie di protezione…",
+                " Strumenti finanziari preposti alla gestione del rischio",
+                " Polizze assicurative alternative agli strumenti del welfare pubblico"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p11.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_b.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_d.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Il quadro demografico 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le dinamiche demografiche stanno cambiando inesorabilmente, influenzando così molteplici aspetti della vita moderna. Due i fenomeni più evidenti: Molti Paesi sviluppati sono stati caratterizzati da un forte invecchiamento della popolazione, causato da una parte da una persistente bassa fecondità, e dall’altra da un aumento della longevità. Solo agli inizi del secolo scorso nessuno avrebbe mai pensato di raggiungere e superare i cento anni di vita. Le condizioni di vita favorevoli, la fine dei grandi conflitti mondiali, l’attenuarsi delle malattie virali, gli sviluppi in campo medico e uno stile di vita sempre più agiato hanno consentito all’uomo di incrementare la speranza di vita media, permettendo il raggiungimento in salute di età molto avanzate.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG12",
+            "RAWDOMText": [
+                " Le dinamiche demografiche…",
+                " …stanno cambiando inesorabilmente e influenzano molteplici aspetti della vita moderna.",
+                " Fattori di invecchiamento della popolazione",
+                " Persistente bassa fecondità",
+                " Aumento della longevità",
+                " + 100!",
+                " Condizioni di vita favorevoli",
+                " Fine dei conflitti mondiali",
+                " Attenuazione delle malattie virali",
+                " Sviluppi in campo medico",
+                " Stile di vita agiato"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p12.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p12_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p12_b.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p12_c.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Il quadro demografico 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Si fa avanti invece la Generazione dei Millenials, ovvero… coloro che sono nati tra gli anni ‘80 e il 2001, che hanno visto cambiare il mondo con l’avvento di Internet e sono cresciuti nell’era della globalizzazione e delle crisi economiche. In particolare, gli under 35, oggi rappresentano il 40% della popolazione mondiale, il 25% di quella Europea. I Millennials sono gli investitori di domani. Secondo un recente studio prodotto da Deloitte, “Millennials and Wealth Management”, si stima che entro il 2020 la ricchezza netta degli under 35 di tutto il mondo sarà il doppio rispetto al 2015, oscillando tra i 19 ed i 24 trilioni di dollari. I Millennials hanno la forza demografica per cambiare il mondo, sono un megatrend.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG13",
+            "RAWDOMText": [
+                " Generazione dei Millennials",
+                " Nati tra gli anni ‘80 e il 2001",
+                " Hanno visto cambiare il mondo con l’avvento di Internet",
+                " Sono cresciuti nell’era della globalizzazione e delle crisi economiche",
+                " 40%",
+                " Popolazione mondiale",
+                " 25%",
+                " Popolazione europea",
+                " I Millennials sono gli investitori di domani",
+                " Deloitte, “Millennials and Wealth Management”",
+                " Entro il 2020",
+                " 2015",
+                " 19 > 24",
+                "trilioni di dollari",
+                " I Millennials hanno la forza demografica per cambiare il mondo… sono un megatrend."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p13_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p13_a.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu_blu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Il quadro normativo 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La crisi finanziaria internazionale ha fatto emergere la necessità di regolare e monitorare i rischi finanziari a livello macro. Da ciò deriva l’adozione, dopo la crisi, di un nuovo approccio normativo che assume come obiettivo chiave della regolamentazione e della supervisione delle istituzioni e dei mercati finanziari, la tradizionale stabilità finanziaria, intesa però nella rinnovata e più ampia prospettiva di “stabilità sistemica”. Il quadro regolamentare per il settore finanziario europeo risulta inoltre ad oggi fortemente composito. La disciplina nazionale è infatti affiancata da norme prodotte a livello europeo secondo gli obiettivi di libera circolazione e integrazione dei mercati previsti dal Trattato sul Funzionamento dell'Unione Europea.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG14",
+            "RAWDOMText": [
+                " CRISI FINANZIARIA INTERNAZIONALE",
+                " Necessità di regolare e monitorare i rischi finanziari a livello macro",
+                " NUOVO APPROCCIO NORMATIVO",
+                " Tradizionale stabilità finanziaria intesa come stabilità sistemica",
+                " Quadro regolamentare composito",
+                " Disciplina nazionale",
+                " Norme europee",
+                " LIBERA CIRCOLAZIONE",
+                " INTEGRAZIONE DEI MERCATI",
+                " Trattato sul Funzionamento dell'Unione Europea"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p14.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p14_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p14_c.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Il quadro normativo 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Nel Settore Bancario il pacchetto Capital Requirements Directive IV (la direttiva sui requisiti di capitale) rientra nel recepimento delle norme di Basilea III adeguate al settore bancario europeo, a cui si aggiunge la recente Direttiva sul risanamento e la risoluzione delle Banche (BRRD). Nel Settore Finanziario la MiFID I stabiliva norme uniformi per la negoziazione di valori mobiliari, che hanno portato a una maggiore concorrenza e a una migliore tutela degli investitori. Ma con l’avvento di MiFID II è stato istituito un nuovo quadro giuridico che introduce una serie di disposizioni volte a rafforzare la tutela dei consumatori. Entrambe le norme hanno definito e definiscono processo, soggetti e perimetro della Consulenza finanziaria. Nel Settore Assicurativo la direttiva Solvency II ha armonizzato le norme frammentarie esistenti in materia di attività di assicurazione diversa dall'assicurazione sulla vita, assicurazione sulla vita e riassicurazione. La Direttiva Europea in materia di “Distribuzione Assicurativa” arricchisce la nozione d’intermediazione definendo in maniera più specifica il perimetro e il concetto di consulenza assicurativa.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG15",
+            "RAWDOMText": [
+                " SETTORE BANCARIO",
+                " Pacchetto Capital Requirements Directive IV → Recepisce le norme di Basilea III",
+                " Direttiva sul risanamento e la risoluzione delle Banche (BRRD)",
+                " SETTORE FINANZIARIO",
+                " MiFID I → Norme per la negoziazione di valori mobiliari",
+                "Maggiore concorrenza + Migliore tutela degli investitori",
+                " MiFID II → Rafforza la tutela dei consumatori",
+                " Processo, soggetti, perimetro della Consulenza finanziaria",
+                " SETTORE ASSICURATIVO",
+                " Solvency II → Attività di assicurazione diversa dall'assicurazione sulla vita, assicurazione sulla vita e riassicurazione",
+                " Insurance Distribution Directive (IDD) → Arricchisce la nozione d’intermediazione e definisce perimetro e concetto di consulenza assicurativa",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>La direttiva Solvency II stabilisce le norme in materia di autorizzazione all’esercizio dell’attività, requisiti patrimoniali, gestione del rischio e vigilanza delle società di assicurazione diretta e riassicurazione.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/p15.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p15_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_c.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD01/img/icone/p11_d.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG16",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Il recesso del Regno Unito dall’Unione Europea ha implicazioni per il settore dei servizi finanziari?",
+                " Sì, considerato che il Regno Unito non intende partecipare al mercato unico o all'Unione doganale, si dovranno avviare i lavori per un accordo di libero scambio, che comprenda il commercio di beni in tutti i settori e senza tariffe o restrizioni quantitative, ma anche il commercio di servizi, compresi quelli finanziari.",
+                " In che modo si è trasformata la famiglia tradizionale?",
+                " Prima di tutto si assiste ad un allungamento dei tempi: l’uscita dalla famiglia di origine, la formazione dell’unione, e l’arrivo del primo figlio sono sempre più ritardati. Inoltre tendono ad emergere nuove forme di vita familiare, soprattutto all’insegna delle unioni libere che si fondano sull’indipendenza dei singoli individui.",
+                " In che modo la frattura della famiglia tradizionale ha inciso sulle scelte finanziarie degli individui?",
+                " Facendo ricorso a strategie finalizzate a ridurre l’impatto sul bilancio familiare di eventi negativi inattesi. Le famiglie hanno cominciato a dotarsi di strategie per fare fronte a spese impreviste o inattese riduzioni di reddito.",
+                " A seguito della crisi finanziaria internazionale, su quali obiettivi si fonda il nuovo approccio normativo?",
+                " Il nuovo approccio normativo assume come obiettivo chiave della regolamentazione e della supervisione delle istituzioni e dei mercati finanziari la tradizionale stabilità finanziaria, intesa però nella rinnovata e più ampia prospettiva di “stabilità sistemica”."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD1_LEZ1_PAG17",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Costituisce la normativa di riferimento per la definizione di processo, soggetti e perimetro della Consulenza finanziaria"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD01/audio/0064_18_03_m01ud01p16"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD1_LEZ1"
+}

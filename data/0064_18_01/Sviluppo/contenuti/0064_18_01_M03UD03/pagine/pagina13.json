@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"L'accesso a Internet, e la comunicazione fra i dispositivi a essa connessi.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Solo l'accesso a Internet.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Solo la comunicazione fra i dispositivi a essa connessi.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"L’accesso a una rete VPN.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La rete privata permette l'accesso sia ad internet, che la comunicazione fra tutti i dispositivi ad essa connessi.",
+    "feedbackNeg": "<b>Non è esatto!</b> La rete privata permette l'accesso sia ad internet, che la comunicazione fra tutti i dispositivi ad essa connessi."
+}

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Una crescita dei ricavi superiori al benchmark.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Una crescita annua del margine operativo lordo.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tassi di occupazione negativi.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Un tasso di crescita dei ricavi superiore rispetto al benchmark di aziende simili.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Le aziende gestite da Private Equity e Venture capital evidenziano tassi di occupazione sempre positivi ed in crescita del 5% nell’ultimo decennio.",
+    "feedbackNeg": "<b>Non è esatto!</b> Le aziende gestite da Private Equity e Venture capital evidenziano tassi di occupazione sempre positivi ed in crescita del 5% nell’ultimo decennio."
+}

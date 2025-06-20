@@ -1,0 +1,789 @@
+{
+    "titolo": "I cambiamenti del portafoglio e gli obblighi di comunicazione",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Aggiornamento delle informazioni sui clienti 1/4",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’aggiornamento delle informazioni sui clienti avviene quando<BR>l’intermediario ha un rapporto continuativo con il cliente, dovrebbe adottare procedure adeguate al fine di conservare informazioni aggiornate e adeguate sul cliente. (ESMA, Orientamento generale 6, par. 47)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG1",
+            "RAWDOMText": [
+                " Se l’intermediario ha un rapporto continuativo con il cliente, dovrebbe adottare procedure adeguate al fine di conservare informazioni aggiornate e adeguate sul cliente.",
+                "(ESMA, Orientamento generale 6, par. 47)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p01.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Aggiornamento delle informazioni sui clienti 2/4",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Se presta un servizio continuo di gestione di portafogli, l’intermediario deve conservare informazioni aggiornate e adeguate sul cliente per poter effettuare la necessaria valutazione dell’adeguatezza. <BR>Pertanto, gli intermediari dovranno adottare procedure che definiscono: quali informazioni raccolte dovrebbero essere soggette ad aggiornamento e con quale frequenza; le modalità dell’aggiornamento e le misure da adottare quando si ricevono informazioni aggiuntive o aggiornate o quando il cliente non fornisce le informazioni richieste. (ESMA, Orientamento generale 6, par. 48).",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG2",
+            "RAWDOMText": [
+                " Se presta un servizio continuo di gestione di portafogli, l’intermediario deve conservare informazioni aggiornate e adeguate sul cliente per poter effettuare la necessaria valutazione dell’adeguatezza.",
+                " Pertanto, gli intermediari dovranno adottare procedure che definiscono:",
+                " quali informazioni raccolte dovrebbero essere soggette ad aggiornamento e con quale frequenza;",
+                " le modalità dell’aggiornamento e le misure da adottare quando si ricevono informazioni aggiuntive o aggiornate o quando il cliente non fornisce le informazioni richieste.",
+                " (ESMA, Orientamento generale 6, par. 48)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p02.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Aggiornamento delle informazioni sui clienti 3/4",
+            "percorso": "pagine/pagina3.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La frequenza dell'aggiornamento può variare a seconda dei profili di rischio dei clienti: sulla base delle informazioni raccolte, l’intermediario determina quale tipo di servizi di investimento o di strumenti finanziari può essere adatto al cliente, tenendo conto: delle sue conoscenze, delle sue esperienze, della sua situazione finanziaria, dei suoi obiettivi di investimento. <BR>Un profilo di rischio più elevato può richiedere un aggiornamento più frequente rispetto a un profilo di rischio più basso. Alcuni eventi, inoltre, possono portare a un processo di aggiornamento come succede, ad esempio, nel caso di clienti che raggiungono l’età pensionabile. (ESMA, Orientamento generale 6, par. 49)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG3",
+            "RAWDOMText": [
+                " La frequenza dell'aggiornamento può variare a seconda dei profili di rischio dei clienti: sulla base delle informazioni raccolte, l’intermediario determina quale tipo di servizi di investimento o di strumenti finanziari può essere adatto al cliente, tenendo conto:",
+                " delle sue conoscenze;",
+                " delle sue esperienze;",
+                " della sua situazione finanziaria;",
+                " dei suoi obiettivi di investimento.",
+                " Un profilo di rischio più elevato può richiedere un aggiornamento più frequente rispetto a un profilo di rischio più basso. Alcuni eventi, inoltre, possono portare a un processo di aggiornamento come succede, ad esempio, nel caso di clienti che raggiungono l’età pensionabile.",
+                "(ESMA, Orientamento generale 6, par. 49)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p03.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Aggiornamento delle informazioni sui clienti 4/4",
+            "percorso": "pagine/pagina4.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’aggiornamento, dei dati ad esempio, potrebbe essere effettuato durante incontri periodici con i clienti o inviando loro un apposito questionario. <BR>Le misure pertinenti a tal fine potrebbero comprendere la modifica del profilo del cliente sulla base delle informazioni aggiornate raccolte. (ESMA, Orientamento generale 6, par. 50)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG4",
+            "RAWDOMText": [
+                " L’aggiornamento, ad esempio, potrebbe essere effettuato durante incontri periodici con i clienti o inviando loro un apposito questionario.",
+                " Le misure pertinenti potrebbero comprendere la modifica del profilo del cliente sulla base delle informazioni aggiornate raccolte.",
+                "(ESMA, Orientamento generale 6, par. 50)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p04.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Disposizioni per garantire l’adeguatezza di un investimento 1/3",
+            "percorso": "pagine/pagina5.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quali disposizioni servono per garantire l’adeguatezza di un investimento.<BR>2.5 Al fine di proporre ai clienti gli investimenti adeguati, gli intermediari dovrebbero stabilire politiche interne e procedure allo scopo di garantire la costante considerazione di:<BR>tutte le informazioni disponibili sul cliente che possono essere pertinenti per la valutazione dell’adeguatezza di un investimento, compreso il portafoglio di investimenti attuale del cliente;<BR>tutte le caratteristiche materiali degli investimenti presi in considerazione nella valutazione dell’adeguatezza, compresi tutti i rischi pertinenti ed eventuali costi diretti o indiretti per il cliente. (ESMA, Orientamento generale 8, par. 57)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG5",
+            "RAWDOMText": [
+                " Al fine di proporre ai clienti gli investimenti adeguati, gli intermediari dovrebbero stabilire politiche interne e procedure allo scopo di garantire la costante considerazione di:",
+                " tutte le informazioni disponibili sul cliente che possono essere pertinenti per la valutazione dell’adeguatezza di un investimento, compreso il portafoglio di investimenti attuale del cliente;",
+                " tutte le caratteristiche materiali degli investimenti presi in considerazione nella valutazione dell’adeguatezza, compresi tutti i rischi pertinenti ed eventuali costi diretti o indiretti per il cliente.",
+                " (ESMA, Orientamento generale 8, par. 57)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p05.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Disposizioni per garantire l’adeguatezza di un investimento 2/3",
+            "percorso": "pagine/pagina6.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Gli intermediari che impiegano strumenti durante il processo di valutazione dell’adeguatezza (come portafogli modello, software per l’asset allocation o uno strumento di profilatura per potenziali investitori), dovrebbero avere sistemi e controlli adeguati per garantire che tali strumenti siano adatti allo scopo e producano risultati soddisfacenti. (ESMA, Orientamento generale 8, par. 58).",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG6",
+            "RAWDOMText": [
+                " Gli intermediari che impiegano strumenti durante il processo di valutazione dell’adeguatezza (come portafogli modello, software per l’asset allocation o uno strumento di profilatura per potenziali investitori), dovrebbero avere sistemi e controlli adeguati per garantire che tali strumenti siano adatti allo scopo e producano risultati soddisfacenti.",
+                "(ESMA, Orientamento generale 8, par. 58)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p06.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Disposizioni per garantire l’adeguatezza di un investimento 3/3",
+            "percorso": "pagine/pagina7.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "A tal riguardo, gli strumenti dovrebbero essere studiati in modo da tenere conto di tutte le caratteristiche specifiche pertinenti di ciascun cliente o di ciascuno strumento finanziario. <BR>Ad esempio, gli strumenti che classificano i clienti o gli strumenti finanziari in categorie generali non sarebbero adeguati allo scopo. (ESMA, Orientamento generale 8, par. 59)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG7",
+            "RAWDOMText": [
+                " A tal riguardo, gli strumenti dovrebbero essere studiati in modo da tenere conto di tutte le caratteristiche specifiche pertinenti di ciascun cliente o di ciascuno strumento finanziario.",
+                " Ad esempio, gli strumenti che classificano i clienti o gli strumenti finanziari in categorie generali non sarebbero adeguati allo scopo.",
+                "(ESMA, Orientamento generale 8, par. 59)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p07.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Politiche e procedure interne 1/3",
+            "percorso": "pagine/pagina8.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Esaminiamo adesso le politiche e le procedure interne <BR>2.5. L’intermediario dovrebbe definire politiche interne e procedure che, tra l’altro, gli consentano di garantire che:<BR>i servizi di consulenza e gestione di portafogli prestati al cliente tengano conto di un adeguato livello di diversificazione del rischio;<BR>il cliente abbia una comprensione adeguata del rapporto tra il rischio e il rendimento, ovvero della fisiologica bassa remunerazione degli investimenti privi di rischio, dell’incidenza dell’orizzonte temporale su tale rapporto e dell’impatto dei costi sui propri investimenti;<BR>la situazione finanziaria del cliente possa finanziare gli investimenti e il cliente possa sostenere eventuali perdite derivanti dagli investimenti;",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG8",
+            "RAWDOMText": [
+                " L’intermediario dovrebbe definire politiche interne e procedure che, tra l’altro, gli consentano di garantire che:",
+                " i servizi di consulenza e gestione di portafogli prestati al cliente tengano conto di un adeguato livello di diversificazione del rischio;",
+                " il cliente abbia una comprensione adeguata del rapporto tra il rischio e il rendimento, ovvero della fisiologica bassa remunerazione degli investimenti privi di rischio, dell’incidenza dell’orizzonte temporale su tale rapporto e dell’impatto dei costi sui propri investimenti;",
+                " la situazione finanziaria del cliente possa finanziare gli investimenti e il cliente possa sostenere eventuali perdite derivanti dagli investimenti;"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p08.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Politiche e procedure interne 2/3",
+            "percorso": "pagine/pagina9.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "tutte le raccomandazioni personali o le operazioni effettuate nel corso della prestazione di un servizio di consulenza in materia di investimenti o di gestione di portafogli, in caso di prodotti illiquidi, tengano conto del periodo di tempo per cui il cliente è disposto a conservare l’investimento; <BR>eventuali conflitti di interesse non influiscano negativamente sulla qualità della valutazione dell’adeguatezza. (ESMA, Orientamento generale 8. par. 60)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG9",
+            "RAWDOMText": [
+                " tutte le raccomandazioni personali o le operazioni effettuate nel corso della prestazione di un servizio di consulenza in materia di investimenti o di gestione di portafogli, in caso di prodotti illiquidi, tengano conto del periodo di tempo per cui il cliente è disposto a conservare l’investimento;",
+                " eventuali conflitti di interesse non influiscano negativamente sulla qualità della valutazione dell’adeguatezza.",
+                " (ESMA, Orientamento generale 8. par. 60)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p09.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Politiche e procedure interne 3/3",
+            "percorso": "pagine/pagina10.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come si è visto, in precedenza l'articolo 54, par. 9, del regolamento delegato 565/2017(UE) prevede che gli intermediari dispongano di appropriate politiche e procedure, dimostrabili, per assicurare di essere in grado di comprendere la natura e le caratteristiche, compresi i costi e i rischi, dei servizi di investimento e degli strumenti finanziari selezionati per i clienti e di valutare, tenendo conto dei costi e della complessità, se servizi di investimento o strumenti finanziari equivalenti possano corrispondere al profilo del cliente.",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG10",
+            "RAWDOMText": [
+                " Come si è visto, l'articolo 54, par. 9, del regolamento delegato 565/2017(UE) prevede che gli intermediari dispongano di appropriate politiche e procedure, dimostrabili, per assicurare di essere in grado di comprendere la natura e le caratteristiche, compresi i costi e i rischi, dei servizi di investimento e degli strumenti finanziari selezionati per i clienti e di valutare, tenendo conto dei costi e della complessità, se servizi di investimento o strumenti finanziari equivalenti possano corrispondere al profilo del cliente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p10.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "I cambiamenti nella composizione del portafoglio gestito 1/2",
+            "percorso": "pagine/pagina11.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Vediamo adesso quali sono i cambiamenti nella composizione del portafoglio gestito . Quando prestano il servizio di gestione del portafoglio che comporta dei cambiamenti negli investimenti, mediante la vendita di uno strumento e l'acquisto di un altro o mediante l'esercizio del diritto di apportare una modifica a uno strumento esistente, gli intermediari raccolgono le necessarie informazioni sugli investimenti esistenti del cliente e sui nuovi investimenti raccomandati e effettuano un'analisi dei costi e benefici del cambiamento, in modo tale da essere ragionevolmente in grado di dimostrare che i benefici del cambiamento sono maggiori dei relativi costi (articolo 54, par. 11, del regolamento delegato 565/2017).",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG11",
+            "RAWDOMText": [
+                " Quando prestano il servizio di gestione del portafoglio che comporta dei cambiamenti negli investimenti, mediante la vendita di uno strumento e l'acquisto di un altro o mediante l'esercizio del diritto di apportare una modifica a uno strumento esistente, gli intermediari raccolgono le necessarie informazioni sugli investimenti esistenti del cliente e sui nuovi investimenti raccomandati e effettuano un'analisi dei costi e benefici del cambiamento, in modo tale da essere ragionevolmente in grado di dimostrare che i benefici del cambiamento sono maggiori dei relativi costi (articolo 54, par. 11, del regolamento delegato 565/2017)."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p11.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "I cambiamenti nella composizione del portafoglio gestito 2/2",
+            "percorso": "pagine/pagina12.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nota bene secondo il considerando art.89 del regolamento delegato 565/2017, una raccomandazione o una richiesta fatta, o una consulenza data, da un gestore del portafoglio ad un cliente affinché questi gli dia o modifichi il mandato che definisce i limiti della sua discrezionalità dovrebbe essere considerata una raccomandazione (cioè una consulenza) ai sensi dell'articolo 25, paragrafo 2, della MiFID 2 e, quindi, soggetta alla valutazione di adeguatezza.",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG12",
+            "RAWDOMText": [
+                " NB: Secondo il considerando 89 del regolamento delegato 565/2017, una raccomandazione o una richiesta fatta, o una consulenza data, da un gestore del portafoglio ad un cliente affinché questi gli dia o modifichi il mandato che definisce i limiti della sua discrezionalità dovrebbe essere considerata una raccomandazione (cioè una consulenza) ai sensi dell'articolo 25, paragrafo 2, della MiFID 2 e, quindi, soggetta alla valutazione di adeguatezza."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p12.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 1/6",
+            "percorso": "pagine/pagina13.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "1. Parliamo degli obblighi di comunicazione riguardo alla gestione del portafoglio:<BR>2.3. Riguardo alla valutazione di adeguatezza, l'articolo 25, par. 6, della MiFID 2 prevede che:<BR>se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la relazione periodica sul servizio prestato dovrà contenere una dichiarazione aggiornata che spieghi perché l’investimento corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente.",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG13",
+            "RAWDOMText": [
+                " Riguardo alla valutazione di adeguatezza, l'articolo 25, par. 6, della MiFID 2 prevede che:",
+                " se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la relazione periodica sul servizio prestato dovrà contenere una dichiarazione aggiornata che spieghi perché l’investimento corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p13.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 2/6",
+            "percorso": "pagine/pagina14.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Laddove le imprese di investimento (gli intermediari)  che prestano servizi di gestione del portafoglio siano tenute a fornire ai clienti o ai potenziali clienti informazioni sui tipi di strumenti finanziari che possono essere inclusi nel portafoglio del cliente e sui tipi di operazioni che possono essere eseguite su tali strumenti, dette informazioni dovrebbero indicare separatamente se l'impresa di investimento avrà il mandato per investire in strumenti finanziari non ammessi alla negoziazione in un mercato regolamentato, in derivati o in strumenti illiquidi o ad alta volatilità o per procedere a vendite allo scoperto, acquisti tramite fondi presi a prestito, operazioni di finanziamento tramite titoli o qualsiasi operazione che implichi pagamenti di margini, deposito di garanzie o rischio di cambio. (Regolamento delegato 565/2017 (UE) , considerando 94)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG14",
+            "RAWDOMText": [
+                " Laddove le imprese di investimento (gli intermediari) che prestano servizi di gestione del portafoglio siano tenute a fornire ai clienti o ai potenziali clienti informazioni sui tipi di strumenti finanziari che possono essere inclusi nel portafoglio del cliente e sui tipi di operazioni che possono essere eseguite su tali strumenti, dette informazioni dovrebbero indicare separatamente se l'impresa di investimento avrà il mandato per investire in strumenti finanziari non ammessi alla negoziazione in un mercato regolamentato, in derivati o in strumenti illiquidi o ad alta volatilità o per procedere a vendite allo scoperto, acquisti tramite fondi presi a prestito, operazioni di finanziamento tramite titoli o qualsiasi operazione che implichi pagamenti di margini, deposito di garanzie o rischio di cambio.",
+                "(Regolamento delegato 565/2017 (UE) , considerando 94)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p14.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 3/6",
+            "percorso": "pagine/pagina15.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sempre parlando di obblighi di comunicazione,<BR>i clienti dovrebbero essere informati delle prestazioni del loro portafoglio e dei deprezzamenti degli investimenti iniziali. <BR>Nel caso della gestione del portafoglio, tale automatismo dovrebbe innescarsi a un deprezzamento del 10% e ai successivi multipli del 10% del valore totale del portafoglio complessivo e non dovrebbe essere applicato alle singole partecipazioni.  (Regolamento delegato 565/2017 (UE) , considerando 95)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG15",
+            "RAWDOMText": [
+                " I clienti dovrebbero essere informati delle prestazioni del loro portafoglio e dei deprezzamenti degli investimenti iniziali.",
+                " Nel caso della gestione del portafoglio, tale automatismo dovrebbe innescarsi a un deprezzamento del 10% e ai successivi multipli del 10% del valore totale del portafoglio complessivo e non dovrebbe essere applicato alle singole partecipazioni.",
+                "(Regolamento delegato 565/2017 (UE) , considerando 95)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p15.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 4/6",
+            "percorso": "pagine/pagina16.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ai fini degli obblighi di comunicazione per quanto riguarda la gestione del portafoglio, un'operazione con passività potenziali dovrebbe comprendere qualsiasi passività effettiva o potenziale per il cliente che supera il costo di acquisto dello strumento. (Regolamento delegato 565/2017 (UE) , considerando 96)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG16",
+            "RAWDOMText": [
+                " Ai fini degli obblighi di comunicazione per quanto riguarda la gestione del portafoglio, un'operazione con passività potenziali dovrebbe comprendere qualsiasi passività effettiva o potenziale per il cliente che supera il costo di acquisto dello strumento.",
+                "(Regolamento delegato 565/2017 (UE) , considerando 96)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p16.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 5/6",
+            "percorso": "pagine/pagina17.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Gli intermediari che prestano il servizio di gestione del portafoglio, oltre a fornire ai clienti i rendiconti periodici sulla gestione, devono informare il cliente quando il valore complessivo del portafoglio, valutato all'inizio di qualsiasi periodo oggetto della comunicazione, subisce un deprezzamento del 10% e successivamente di multipli del 10%, non più tardi della fine del giorno lavorativo nel quale la soglia è superata o, qualora essa sia superata in un giorno non lavorativo, non più tardi della fine del giorno lavorativo successivo. (Regolamento delegato 565/2017 (UE) , art. 62)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG17",
+            "RAWDOMText": [
+                " Gli intermediari che prestano il servizio di gestione del portafoglio, oltre a fornire ai clienti i rendiconti periodici sulla gestione, devono informare il cliente quando il valore complessivo del portafoglio, valutato all'inizio di qualsiasi periodo oggetto della comunicazione, subisce un deprezzamento del 10% e successivamente di multipli del 10%, non più tardi della fine del giorno lavorativo nel quale la soglia è superata o, qualora essa sia superata in un giorno non lavorativo, non più tardi della fine del giorno lavorativo successivo.",
+                "(Regolamento delegato 565/2017 (UE) , art. 62)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p17.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Obblighi di comunicazione riguardo alla gestione del portafoglio 6/6",
+            "percorso": "pagine/pagina18.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quando gli intermediari<BR>detengono un conto di un cliente al dettaglio che include posizioni in strumenti finanziari caratterizzati dall'effetto leva o in operazioni con passività potenziali, gli stessi devono informare il cliente quando il valore iniziale di ciascuno strumento subisce un deprezzamento del 10% e successivamente di multipli del 10%. <BR>Tale comunicazione dovrebbe essere effettuata strumento per strumento, se non diversamente concordato con il cliente, e non più tardi della fine del giorno lavorativo nel quale la soglia è superata o, qualora essa sia superata in un giorno non lavorativo, non più tardi della fine del giorno lavorativo successivo (Regolamento delegato 565/2017 (UE), art. 62)",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG18",
+            "RAWDOMText": [
+                " Se detengono un conto di un cliente al dettaglio che include posizioni in strumenti finanziari caratterizzati dall'effetto leva o in operazioni con passività potenziali, gli intermediari devono informare il cliente quando il valore iniziale di ciascuno strumento subisce un deprezzamento del 10% e successivamente di multipli del 10%.",
+                " Tale comunicazione dovrebbe essere effettuata strumento per strumento, se non diversamente concordato con il cliente, e non più tardi della fine del giorno lavorativo nel quale la soglia è superata o, qualora essa sia superata in un giorno non lavorativo, non più tardi della fine del giorno lavorativo successivo.",
+                "(Regolamento delegato 565/2017 (UE), art. 62)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p18.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "Gli obblighi di rendicontazione 1/2",
+            "percorso": "pagine/pagina19.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Esaminiamo adesso gli obblighi di rendicontazione,<BR>2.4.L’art, 60. comma 2,  del regolamento intermediari della Consob (delibera n. 20307 del 15.2.2018) prevede che:<BR>gli intermediari che prestano il servizio di gestione di portafogli o che hanno informato che effettueranno la valutazione periodica dell’adeguatezza degli strumenti finanziari forniscono ai clienti al dettaglio rendiconti periodici contenenti una dichiarazione aggiornata che indichi i motivi secondo cui l’investimento corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente. <BR>Essi applicano, altresì, l’articolo 54, paragrafi 12, comma 3, e 13, del regolamento delegato (UE) 2017/565.",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG19",
+            "RAWDOMText": [
+                " L’art, 60. comma 2, del regolamento intermediari della Consob (delibera n. 20307 del 15.2.2018) prevede che:",
+                " gli intermediari che prestano il servizio di gestione di portafogli o che hanno informato che effettueranno la valutazione periodica dell’adeguatezza degli strumenti finanziari forniscono ai clienti al dettaglio rendiconti periodici contenenti una dichiarazione aggiornata che indichi i motivi secondo cui l’investimento corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente. ",
+                " Essi applicano, altresì, l’articolo 54, paragrafi 12, comma 3, e 13, del regolamento delegato (UE) 2017/565."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p19.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "Gli obblighi di rendicontazione 2/2",
+            "percorso": "pagine/pagina20.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo il disposto dell’articolo 54, paragrafi 12, comma 3, e 13, del regolamento delegato (UE) 2017/565:<BR>quando un intermediario presta un servizio che comporta valutazioni e relazioni periodiche sull'idoneità, le relazioni successive alla definizione iniziale del servizio possono interessare solo le modifiche intervenute nei servizi o strumenti in questione e/o nelle circostanze del cliente e non necessariamente devono ripetere tutti i dettagli della prima relazione;<BR>gli intermediari che forniscono una valutazione periodica dell'idoneità riesaminano almeno una volta all'anno, al fine di migliorare il servizio, l'idoneità delle raccomandazioni fornite. La frequenza di tale valutazione è incrementata sulla base del profilo di rischio del cliente e del tipo di strumenti finanziari raccomandati.",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG20",
+            "RAWDOMText": [
+                " Secondo l’articolo 54, paragrafi 12, comma 3, e 13, del regolamento delegato (UE) 2017/565:",
+                " quando un intermediario presta un servizio che comporta valutazioni e relazioni periodiche sull'idoneità, le relazioni successive alla definizione iniziale del servizio possono interessare solo le modifiche intervenute nei servizi o strumenti in questione e/o nelle circostanze del cliente e non necessariamente devono ripetere tutti i dettagli della prima relazione;",
+                " gli intermediari che forniscono una valutazione periodica dell'idoneità riesaminano almeno una volta all'anno, al fine di migliorare il servizio, l'idoneità delle raccomandazioni fornite. La frequenza di tale valutazione è incrementata sulla base del profilo di rischio del cliente e del tipo di strumenti finanziari raccomandati."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD06/img/p20.jpg"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p20"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina21.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "E ora fermati un secondo per rispondere a questa domanda!",
+            "idkey": "0019_20_01_MOD1_LEZ6_PAG21",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Prova a rispondere!",
+                "Gli intermediari che prestano il servizio di gestione del portafoglio:"
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD06/audio/m01ud06p21"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0019_20_01_MOD1_LEZ6"
+}

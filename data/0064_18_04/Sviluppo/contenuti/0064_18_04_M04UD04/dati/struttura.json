@@ -1,0 +1,786 @@
+{
+    "titolo": "Il mercato assicurativo",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Esiste una parte di mercato formata da polizze «dormienti», che possono essere riattivate. Un sguardo alle innovazioni tecnologiche permette di individuare nuovi spazi assicurativi. Nascono nuovi servizi e polizze con caratteristiche prima irrealizzabili, anche le coperture si trasformano. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG1",
+            "RAWDOMText": [
+                " Quanto è esteso il fenomeno delle polizze \"dormienti\"?",
+                " Quali nuovi spazi si aprono per il mercato assicurativo?",
+                " Come possono innovazione e tecnologia essere di ausilio a nuove tipologie di polizza?",
+                " L’assistenza: solo servizi o tecnologia applicata a nuove modalità di copertura?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Le polizze vita dormienti",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel febbraio 2017 IVASS rilascia un’indagine che fa emergere un vasto fenomeno di polizze vita potenzialmente dormienti, per le quali mancavano gli elementi per riscontrare o meno l’avvenuto decesso dell’assicurato nel corso della durata del contratto e quindi se, anche in assenza di una richiesta dei beneficiari, si fossero realizzate le condizioni per il pagamento della prestazione assicurata.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG2",
+            "RAWDOMText": [
+                " Febbraio 2017",
+                " IVASS",
+                " Polizze vita potenzialmente dormienti",
+                " Mancano elementi per accertare le condizioni di pagamento della prestazione",
+                " Fonte: Indagine su polizze vita dormienti - Le polizze “risvegliate”, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p02-06.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Le polizze «risvegliate» 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel maggio 2018, esaminando la situazione aggiornata del portafoglio oggetto dell’indagine, grazie all’attività svolta dalle imprese e da IVASS, che hanno incrociato i propri dati con quelli dell’Agenzia delle Entrate, si sono risvegliate 187.493 polizze, per un totale di 3,5 miliardi di euro, già pagate o in corso di pagamento ai beneficiari.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG3",
+            "RAWDOMText": [
+                " maggio 2018",
+                " Imprese",
+                " IVASS",
+                " Agenzia delle Entrate",
+                " risvegliate 187.493 polizze",
+                " 3,5 miliardi di Euro",
+                " Fonte: Indagine su polizze vita dormienti - Le polizze “risvegliate”, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p03.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/023-contract.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/debt.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Le polizze «risvegliate» 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Di questi contratti, 116.056 (62%) sono relativi a polizze di risparmio giunte a scadenza, per un importo complessivo di 1,5 miliardi di euro, che gli stessi contraenti hanno trascurato di riscuotere e che le imprese, impropriamente, hanno lasciato in stato di dormienza. 71.437 polizze (38%) invece sono relative ad assicurati deceduti, per un ammontare di circa 2 miliardi di euro, mai reclamate dai legittimi beneficiari. Tra queste ultime ben 30.857 polizze, per circa 1,7 miliardi di euro, sono relative a contratti a vita intera, polizze che non hanno una scadenza definita e si concludono con il riscatto o con la liquidazione della prestazione per il decesso dell’assicurato.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG4",
+            "RAWDOMText": [
+                " 116.056 polizze a scadenza",
+                " 62%",
+                " Non riscosse e lasciate in dormienza dalle imprese",
+                " 71.437 polizze assicurati deceduti",
+                " 38%",
+                " mai reclamate dai legittimi beneficiari",
+                " Tra queste ultime polizze",
+                " 30.857",
+                " relative a contratti a vita intera, polizze che non hanno una scadenza definita e si concludono con il riscatto o con la liquidazione della prestazione per il decesso dell’assicurato",
+                " Fonte: Indagine su polizze vita dormienti - Le polizze “risvegliate”, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Le polizze «risvegliate» 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Rimangono circa 900.000 polizze per le quali, a maggio 2018, le imprese non erano ancora in grado di accertare lo status; ciò è dipeso principalmente dal mancato invio all’IVASS dei codici fiscali degli assicurati per alcune tipologie di polizze e/o per parte del portafoglio da incrociare con i decessi dell’Anagrafe Tributaria.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG5",
+            "RAWDOMText": [
+                " 900.000",
+                " maggio 2018",
+                " STATUS non accertato",
+                " mancato invio all’IVASS dei codici fiscali degli assicurati per alcune tipologie di polizze",
+                " Fonte: Indagine su polizze vita dormienti - Le polizze “risvegliate”, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/023-contract.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/005-research.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "L'investimento nelle assicurazioni",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l’ultima Indagine sul Risparmio e sulle scelte finanziarie degli italiani del Centro Einaudi, l’investimento nelle assicurazioni in Italia è superiore a quello della Penisola Iberica (1.400 euro per abitante), è comparabile a quello della Germania (2.450 euro per abitante) ed è inferiore a quello della Francia (3.100 euro per abitante). Nonostante questi valori, è opinione diffusa che le assicurazioni abbiano spazio per crescere anche nei mercati maturi per effetto dell’invecchiamento della popolazione, della rilevanza di nuovi rischi sia nel campo della vita umana (come il rischio di invalidità totale a causa della vecchiaia), sia nel campo delle attività economiche (si pensi ai rischi nati con la digitalizzazione dei processi e alle numerose forme che sta assumendo il cyber-risk).",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG6",
+            "RAWDOMText": [
+                " ITALIA",
+                " 2450 euro per abitante",
+                " GERMANIA",
+                " Penisola Iberica",
+                " 1400 euro per abitante",
+                " FRANCIA",
+                " 3100 euro per abitante",
+                " le assicurazioni hanno spazio per crescere anche nei mercati maturi per effetto dell’invecchiamento della popolazione, della rilevanza di nuovi rischi sia nel campo della vita umana sia nel campo delle attività economiche",
+                " Fonte: Indagine sul Risparmio e sulle scelte finanziarie degli italiani del Centro Einaudi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p02-06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/002-france.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Le soluzioni assicurative di recente implementazione 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Tra le soluzioni assicurative di recente implementazione si annoverano: piattaforme insurtech che utilizzano algoritmi, big data e machine learning, dotate di customer care integrata e multi-canale. Utilizzano chat di assistenza web, chatbot e assistenti virtuali che rispondono a domande, curiosità e dubbi dei visitatori del sito e dei clienti. Inoltre è spesso prevista assistenza telefonica con numero verde dedicato e social customer care nei profili Facebook e Twitter; servizi innovativi che, combinano le informazioni sugli eventi atmosferici e catastrofali, permettendo di conoscere l'indice di rischio di una determinata area del territorio italiano. Offrono informazioni dettagliate su ogni zona geografica, attraverso un’interfaccia intuitiva, disponibile anche come applicazione mobile, in grado di fornire alert sugli eventi catastrofici previsti con ben 72 ore di preavviso per ridurre il valore di un eventuale sinistro e mitigare i rischi futuri.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG7",
+            "RAWDOMText": [
+                " Piattaforme insurtech",
+                " algoritmi, big data e machine learning",
+                " chat di assistenza web, chatbot e assistenti virtuali ",
+                " Servizi innovativi",
+                " informazioni sugli eventi atmosferici e catastrofali"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p07_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Le soluzioni assicurative di recente implementazione 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Grazie alle informazioni raccolte in tempo reale e integrate con le osservazioni del passato e con le proiezioni future, le aziende possono adottare piani di Loss Prevention e Disaster Recovery personalizzati, riuscendo così a migliorare l’efficienza operativa e la Business Continuity e a stipulare polizze assicurative con maggiore consapevolezza dei rischi e dei conseguenti costi. Inoltre, condividendo tali piani con assicurazioni e broker potranno instaurare un rapporto trasparente che agevola la diminuzione dei premi assicurativi e del contenzioso in caso di sinistro. Gli intermediari che offrono soluzioni assicurative potranno sfruttare il servizio integrando i suoi dati con le altre informazioni in loro possesso per una migliore gestione e valutazione del rischio, quotando i premi assicurativi online in tempo reale, con l’obiettivo di fornire servizi sempre più innovativi e competitivi.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG8",
+            "RAWDOMText": [
+                " Servizi innovativi",
+                " Loss Prevention",
+                " Disaster Recovery",
+                " informazioni raccolte in tempo reale e integrate con le osservazioni del passato e con le proiezioni future",
+                " Business Continuity",
+                " polizze assicurative con maggiore consapevolezza dei rischi e dei conseguenti costi",
+                " assicurazioni e broker potranno instaurare un rapporto trasparente",
+                " Quotazione dei premi assicurativi online in tempo reale"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "L'Instant insurance 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Tra i fenomeni emergenti citiamo  inoltre la cosiddetta “instant insurance” basata sulla vendita di micro assicurazioni per brevi periodi e low cost, da attivare all’istante in cui sorge l’esigenza, ad esempio per tutelarsi da eventi avversi che potrebbero verificarsi durante una sciata sulla neve oppure mentre si viaggia. Il cliente impiega pochi istanti per ottenere una copertura assicurativa al momento del bisogno, calibrata sulle sue esigenze e sul servizio cercato; con pochi clic effettua tale operazione direttamente dal proprio smartphone o dai portali web. La proliferazione di partnership tra start-up e compagnie assicurative inoltre, sfruttando i progressi dell’intelligenza artificiale e gli accordi stipulati con aggregatori di app dedicate a community, consente l’identificazione dei potenziali clienti (consumatori digital oriented) a cui inviare le notifiche di proposte.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG9",
+            "RAWDOMText": [
+                " Instant insurance",
+                " vendita di micro assicurazioni per brevi periodi e low cost, da attivare all’istante in cui sorge l’esigenza",
+                " copertura assicurativa al momento del bisogno, calibrata sulle sue esigenze e sul servizio cercato",
+                " sfruttando i progressi dell’intelligenza artificiale e gli accordi stipulati con aggregatori di app dedicate a community",
+                " consumatori digital oriented a cui inviare le notifiche",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p09.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "L'Instant insurance 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I casi rilevati sul mercato italiano si riferiscono generalmente a: pacchetti da 1, 3 o massimo 7 giorni, di importo contenuto (in genere inferiore ai 10€); un esempio tipico di instant insurance è costituito da coperture che riguardano gli infortuni, subìti o provocati, durante la pratica amatoriale di sport invernali (tipico il caso dello sci); coperture assicurative per incidenti che possono avvenire durante i tragitti su mezzi di trasporto pubblici, nelle fasi di salita/discesa, prevedendo altresì la responsabilità civile per danni a terzi. Tra i mezzi di trasporto rientrano anche quelli utilizzati in car-sharing e le autovetture a noleggio con conducente.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG10",
+            "RAWDOMText": [
+                " pacchetti da 1, 3 o massimo 7 giorni, di importo contenuto (in genere inferiore ai 10€)",
+                " coperture assicurative per incidenti che possono avvenire durante i tragitti su mezzi di trasporto pubblici",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p10.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "L'offerta assicurativa smart 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Un’altra tendenza di mercato, che conferma l’orientamento già in atto, si riferisce all’evoluzione dei servizi (assicurativi e accessori) e alla digitalizzazione. L’offerta assicurativa è sempre più basata  su prodotti innovativi , con servizi di alto valore aggiunto alle polizze, integrati con la componente smart device,  che assume un valore essenziale sia in fase ex ante per la prevenzione (ad es. di malattie, di incidenti stradali, di allagamenti o furti in casa) sia in fase ex-post a seguito del sinistro (tipicamente riconducibili a servizi di assistenza e consulenza). L’uso dei dispositivi elettronici e delle app, e di nuovi canali di comunicazione con le compagnie, consentono ai clienti di beneficiare in maniera più efficiente e veloce dei servizi assicurativi associati ai prodotti. In ambito di  tutela della persona, e in particolare nel settore medicale, l’obiettivo perseguito dalle compagnie appare finalizzato a spostare il baricentro dell’assistenza verso il domicilio e il self care.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG11",
+            "RAWDOMText": [
+                " Evoluzione dei servizi (assicurativi e accessori) e digitalizzazione",
+                " Servizi di alto valore aggiunto, integrati con la componente smart device",
+                " Uso dei dispositivi elettronici e delle app, e di nuovi canali di comunicazione con le compagnie",
+                " Tutela della persona, l’obiettivo delle compagnie è spostare il baricentro dell’assistenza verso il domicilio e il self care.",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p11_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p11_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "L'offerta assicurativa smart 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La sinergia tra start-up ed imprese assicurative si concentra su dispositivi associabili a smartphone e tablet, i cosiddetti, wearable device, come i braccialetti elettronici indossabili, che permettono la raccolta e la condivisione di informazioni mediche sull’utente. L’assistenza domiciliare può essere offerta anche in mancanza di dispositivi digitali, ad esempio come: servizi di concierge per migliorare lo stile di vita degli anziani (es. assistenza informatica, prenotazione ristoranti, invio auto con conducente, chef a domicilio, ricerca di medici ecc.); organizzazione a casa dei trattamenti medici/infermieristici riabilitativi, prestazioni socio-assistenziali (es. preparazione e assunzione del pasto, cura e governo della casa, pagamento delle utenze domestiche, alzata della persona e messa a letto) la fornitura in comodato d’uso di stampelle, sedia a rotelle, letto ortopedico e/o materasso antidecubito; case manager, un infermiere specializzato che organizza l'assistenza sanitaria in contatto con il medico di base, fornisce un piano assistenziale personalizzato e supporto nella gestione delle pratiche burocratiche necessarie.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG12",
+            "RAWDOMText": [
+                " dispositivi associabili a smartphone e tablet, i cosiddetti, wearable device",
+                " servizi di concierge",
+                " case manager",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p12_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p12_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/003-walk.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/001-doctor.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "La tutela della casa",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per la tutela della casa, oltre ai dispositivi di domotica, venduti in abbinamento alle polizze, per controllare ad esempio perdite di gas, d’acqua, corto circuiti, fughe di gas, si rilevano sul mercato nuovi servizi, che effettuano degli auto-check-up, permettendo di conoscere la qualità ambientale tra le mura domestiche. In questi casi l’assicurato riceve un kit con il dispositivo e le istruzioni per i test e via e-mail un report dettagliato con risultati e suggerimenti per migliorare lo stato di inquinamento. Per le r.c. auto, le compagnie investono per attivare nuovi servizi. Ad esempio sono stati sviluppati occhiali che monitorano il comportamento delle persone, il livello di affaticamento ed il rischio di sonnolenza alla guida.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG13",
+            "RAWDOMText": [
+                " Dispositivi di domotica, abbinati a polizze, e nuovi servizi, che effettuano degli auto-check-up",
+                " un kit con il dispositivo e le istruzioni per i test",
+                " le compagnie investono per attivare nuovi servizi nel settore r.c. auto",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p13.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/004-domotics.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/007-document.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/005-car.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "L'offerta r.c auto",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le continue implementazioni  aggiunte  dalle case automobilistiche sui vari modelli di auto, sia in termini di sicurezza stradale che di digital connection, sono state sfruttate, ad esempio, con la scelta di premiare gli assicurati in base al livello dei sistemi incorporati nel veicolo (di sistemi anticollisione pedone, cofano attivo che si deforma attenuando l’impatto, oppure sistemi che riportano in traiettoria il veicolo in caso di fuori uscita dalla carreggiata, etc..), applicando sconti rispetto ai premi delle polizze standard.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG14",
+            "RAWDOMText": [
+                " Sicurezza stradale",
+                " Digital connection",
+                " premiare gli assicurati in base al livello dei sistemi incorporati nel veicolo, applicando sconti rispetto ai premi delle polizze standard.",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p14_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Forme sanitarie integrative e di welfare 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Polizze incentrate prevalentemente sull’offerta di prestazioni, come visite mediche ed esami diagnostici, e da forme di integrazione tra sistema sanitario pubblico e privato. In passato le coperture sanitarie private in Italia erano riservate a settori di nicchia e ritenute nel contempo onerose; ultimamente si assiste a un cambiamento grazie alla loro diffusione nell’ambito dei contratti collettivi di lavoro e al convenzionamento di molti provider di servizi sanitari. Le polizze collettive, strutturate in moduli opzionali personalizzabili, rispondono alle differenti esigenze di protezione richieste dalle imprese. Sono previsti servizi di interazione con l’utente che consentono (dal sito internet, tramite app, centrale operativa etc.) di prenotare direttamente le prestazioni presso le strutture sanitarie convenzionate, ricevere consulenza sulle coperture sulle caratteristiche del piano e consulenza di tipo medico mediante consigli che riguardano sia la salute sia il benessere.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG15",
+            "RAWDOMText": [
+                " offerta di prestazioni, come visite mediche ed esami diagnostici, e da forme di integrazione tra sistema sanitario pubblico e privato",
+                " diffusione nell’ambito dei contratti collettivi di lavoro e convenzionamento di molti provider di servizi sanitari",
+                " servizi di interazione con l’utente.",
+                " Internet",
+                " APP",
+                " Centrale operativa",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p15_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p15_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Forme sanitarie integrative e di welfare 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In questo settore si sta inoltre diffondendo la preventive insurance, che fa leva soprattutto su un approccio di tutela degli eventi connessi allo stato di salute del cliente, incentrato sulla prevenzione, e l’assistenza, mediante una interazione dinamica. Con l’intenzione di colmare quei gap di cure sanitarie che il Servizio Sanitario Nazionale non riesce più a sostenere, le imprese assicurative hanno sviluppato una gamma di prodotti, individuali e open group, contro il rischio da tumori. Queste nuove soluzioni, oltre alle coperture per eventi oncologici, riguardano patologie cardiovascolari come ictus e ipertensione. Le compagnie contribuiscono alle spese per i controlli sanitari e per la prevenzione, premiando chi controlla la propria salute. La permanenza in copertura garantisce all’assistito uno sconto sul premio purché abbia effettuato appositi programmi di prevenzione in maniera continuativa attraverso l’attivazione delle prestazioni in regime di assistenza diretta.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG16",
+            "RAWDOMText": [
+                " preventive insurance",
+                " prevenzione e assistenza",
+                " Prodotti contro il rischio tumori",
+                " Coperture per patologie cardiovascolari",
+                " Contributi alle spese per i controlli sanitari e per la prevenzione",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p16_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p16_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Forme sanitarie integrative e di welfare 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Diversi intermediari propongono soluzioni assicurative dedicate alla salute tenendo conto sia dell’importante tema della prevenzione quanto dell’assistenza, del supporto e dei servizi la cui erogazione diventa fondamentale con l’insorgere della malattia. L’assistenza prevede un’ampia gamma di servizi, tra cui: visite specialistiche ed accertamenti diagnostici; prestazioni di alta specializzazione; trattamenti fisioterapici riabilitativi; cure odontoiatriche, terapie conservative, protesi odontoiatriche; rimborso spese/erogazione servizi per stati di non autosufficienza temporanea; prevenzione specificamente dedicata ai bambini; garanzia di assistenza per gli animali domestici (prevalentemente cani o gatti) dell’assicurato.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG17",
+            "RAWDOMText": [
+                " Soluzioni assicurative dedicate alla salute",
+                " visite specialistiche ed accertamenti diagnostici",
+                " prestazioni di alta specializzazione",
+                " trattamenti fisioterapici riabilitativi",
+                " cure odontoiatriche, terapie conservative, protesi odontoiatriche",
+                " rimborso spese/erogazione servizi per stati di non autosufficienza temporanea",
+                " prevenzione specificamente dedicata ai bambini",
+                " garanzia di assistenza per gli animali domestici",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p17.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/icone/001-doctor.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Le coperture LTC e Dread Desease",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sempre tra i fenomeni emergenti si rilevano proposte (su varie tipologie di prodotto, come vita, danni o modulare), sia nella forma stand alone che in forma di garanzia complementare o accessoria. La Legge di Bilancio 2018 stabilendo che le cifre destinate a coprire il rischio di non autosufficienza all’interno del contratto collettivo di lavoro dipendente non concorrono a formare reddito, potrebbe incentivare una maggiore diffusione dei piani di welfare aziendale, specificamente riguardo alla copertura LTC. In abbinamento alla garanzia LTC vengono offerte anche coperture per malattie particolarmente gravi (Dread Disease). Le citate coperture sono incluse anche in prodotti collettivi, generalmente costituite da polizze sottoscritte da Casse o Fondi sanitari in favore dei propri aderenti.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG18",
+            "RAWDOMText": [
+                " Proposte in forma",
+                " Stand alone e in forma",
+                " Garanzia complementare o accessoria",
+                " Legge di bilancio 2018",
+                " potrebbe incentivare una maggiore diffusione dei piani di welfare aziendale, specificamente riguardo alla copertura LTC",
+                " In abbinamento alla garanzia LTC vengono offerte anche coperture per malattie particolarmente gravi (Dread Disease).",
+                " Fonte: Report, Analisi trend offerta prodotti assicurativi, IVASS"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p18_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M04UD04/img/p18_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina19.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG19",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quali sono i passi fatti dagli operatori di mercato per risvegliare il mercato delle polizze dormienti?",
+                " Grazie all’attività svolta in autonomia dalle imprese e a quella posta in essere dall’IVASS di incrocio dei dati con l’Agenzia delle Entrate, sono state “risvegliate” 187.493 polizze per un totale di 3,5 miliardi di euro, già pagate o in corso di pagamento ai legittimi beneficiari.",
+                " La preventive insurance tutela degli eventi connessi allo stato di salute del cliente solo in presenza di patologie oncologiche?",
+                " Con l’intenzione di colmare il gap di cure sanitarie che il Servizio Sanitario Nazionale non riesce più a sostenere, le imprese assicurative hanno sviluppato una gamma di prodotti, individuali e open group, contro il rischio da tumori. Queste nuove soluzioni, oltre alle coperture per eventi oncologici, riguardano patologie cardiovascolari come ictus e ipertensione.",
+                " Come l’evoluzione dei servizi (assicurativi e accessori) e la digitalizzazione, hanno influito nella creazione di un nuovo mercato?",
+                " L’offerta assicurativa innovativa è basata su servizi di alto valore aggiunto alle polizze, integrati con la parte smart device, essenziale sia in fase ex ante per la prevenzione che in fase ex post a seguito del sinistro. L’uso dei dispositivi elettronici, delle app e di nuovi canali di comunicazione, consentono ai clienti di beneficiare in modo veloce ed efficiente dei servizi assicurativi.",
+                " Che influenza ha avuto questo trend di innovazione sulle polizze r.c. auto?",
+                " Per le r.c. auto, le compagnie investono per attivare nuovi servizi. Alcune compagnie hanno scelto di premiare gli assicurati in base al livello dei sistemi incorporati nel veicolo, applicando sconti rispetto ai premi delle polizze standard. Trattasi, per citarne alcuni, di sistemi anticollisione pedone, cofano attivo che si deforma attenuando l’impatto, oppure sistemi che riportano in traiettoria il veicolo in caso di fuori uscita dalla carreggiata, etc.."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina20.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD2_LEZ12_PAG20",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " La instant insurance si realizza solo su piattaforma insurtech?"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M04UD04/audio/0064_18_04_m04ud04p20"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD2_LEZ12"
+}

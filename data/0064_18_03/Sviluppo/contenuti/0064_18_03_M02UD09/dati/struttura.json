@@ -1,0 +1,568 @@
+{
+    "titolo": "L’impatto economico del Private Equity e del Venture Capital in Italia",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "I dati sull’impatto economico del Private Equity e del Venture Capital in Italia sono positivi. Le aziende partecipate hanno confermato performance migliori rispetto sia al PIL nazionale sia ad altre aziende italiane di dimensioni simili, ma anche una crescita dell’occupazione superiore alla media italiana. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG1",
+            "RAWDOMText": [
+                " Qual è il trend dei ricavi delle aziende partecipate rispetto al PIL nazionale?",
+                " Come si posiziona il benchmark rispetto all’andamento occupazionale?",
+                " L’impatto economico di Private Equity e Venture Capital da quali fattori viene influenzato?",
+                " Quali sono le società che non rientrano nel campione dei disinvestimenti?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Risultati dello studio 1/3",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le aziende partecipate da Private Equity hanno confermato nel 2016 performance migliori rispetto sia al PIL nazionale sia ad altre aziende italiane di dimensioni simili. La crescita dei ricavi delle aziende in portafoglio a Private Equity rimane pressochè in linea con gli anni precedenti, confermando un trend significativamente più alto del tasso di crescita del PIL italiano. Il tasso di crescita dei ricavi delle aziende in portafoglio a Private Equity e Venture Capital è superiore di 4 punti percentuali rispetto al benchmark di aziende italiane di dimensioni simili.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG2",
+            "RAWDOMText": [
+                " Performance migliori delle Aziende partecipate da Private Equity:",
+                " 2016",
+                " rispetto sia al PIL nazionale;",
+                " rispetto alle aziende italiane di dimensioni simili.",
+                " PIL italiano vs Società partecipate da PE",
+                " Crescita dei ricavi 2006 - 2016"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap02_b.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Risultati dello studio 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le società gestite da Private Equity registrano una crescita dell’occupazione superiore sia alla media italiana che a società simili. Nonostante negli ultimi 10 anni il trend di crescita del tasso di occupazione in Italia  si mantenga costantemente su valori prossimi allo zero (-0,2% nel decennio 2006 – 2016), le aziende gestite da Private Equity e Venture capital evidenziano tassi di occupazione sempre positivi ed in crescita del 5% nell’ultimo decennio. Il benchmark si posiziona in linea con l’andamento occupazionale Italiano. Anche in questo caso le società partecipate da Private Equity registrano tassi di crescita nettamente superiori. Negli ultimi 5 anni il campione delle società analizzate ha generato circa 26.000 posti di lavoro.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG3",
+            "RAWDOMText": [
+                " Le società gestite da Private Equity registrano una crescita dell’occupazione superiore:",
+                " alla media italiana;",
+                " a società simili.",
+                " Andamento del tasso di occupazione in Italia vs crescita occupazionale del Private Equity",
+                " Crescita dell’occupazione 2006 - 2016"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap03_b.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Risultati dello studio 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le aziende partecipate da Venture Capital, nel periodo 2006-2016, registrano una crescita dei ricavi superiori al benchmark e una marginalità superiore del 4,6%, mentre, nello stesso periodo, le aziende oggetto di buy-out registrano un EBITDA superiore del 5,7% a fronte di ricavi superiori solo del 2,2%.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG4",
+            "RAWDOMText": [
+                " Venture Capital",
+                " Buy-out"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p04.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap04_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/schemap04_d.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Overview del campione 2016",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Il campione di aziende analizzato evidenzia che la concentrazione di operazioni da parte di operatori di private equity si concentra su aziende del nord Italia, in prevalenza in Lombardia. La gestione dei Private Equity è inoltre caratterizzata da una forte crescita occupazionale della componente manageriale, che negli ultimi 4 anni è sempre superiore al 10%. Anche gli investimenti risultano in crescita: le aziende gestite da Venture Capital si confermano con un livello superiore a quello oggetto dei Buy-out, ma in generale il settore industriale «Retail» risulta essere quello con la maggior crescita in investimenti.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG5",
+            "RAWDOMText": [
+                " DISTRIBUZIONE GEOGRAFICA PRIVATE EQUITY",
+                " 75-80% Nord Italia",
+                " 41% Lombardia",
+                " LIVELLO DI MANAGERIALIZZAZIONE IN FORTE CRESCITA",
+                " Superiore al 10% negli ultimi 4 anni",
+                " CRESCITA DEGLI INVESTIMENTI",
+                " Maggiore per Venture Capital rispetto a Buy-out.",
+                " Maggiore crescita assoluta nel settore Retail.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p><i>La leva finanziaria</i><br>Nel 2016 è stata analizzata la generazione di cassa nell’holding period come rapporto Posizione Finanziaria Netta/EBITDA. Anche quest’anno la generazione di cassa è stata positiva, registrando all’exit un rapporto di leva inferiore rispetto a quello dell’anno di investimento dei Private Equity, rispettivamente 5,3 vs 2,9 all’exit. Il campione analizzato mostra un migliore rapporto PFN/EBITDA anche rispetto al benchmark (3,6 all’anno del disinvestimento).<br><br><i>Profittabilità per dipendente</i><br>La crescita della produttività in relazione alle risorse è uno dei parametri oggetto della nostra analisi. Il parametro è misurato come EBITDA/Dipendente nell’holding period e comparato con il benchmark. Dall’analisi del campione di imprese nel 2016 è emerso che tale indice è pressoché in linea con il benchmark (CAGR dell’1,9% vs 1,5% del benchmark). Considerando però che la crescita dell’occupazione registrata nelle aziende in portafoglio a fondi di private equity è significativamente superiore rispetto al benchmark, tale indice evidenzia come queste aziende incrementino posti di lavori senza penalizzare la redditività aziendale.<br><br><i>La performace dei “Secondary buy-outs”</i><br>Nel corso degli ultimi tre anni, oltre un terzo dei disinvestimenti analizzati fa riferimento ad una vendita ad altro operatore di Private Equity (Secondary Buy-out). Dall’analisi della performance di questi secondary investments si evidenzia che il CAGR di ricavi, EBITDA e dipendenti continua ad avere un trend molto positivo (ricavi +8,7%, EBITDA +5,2% e forza lavoro +10%) anche nel corso della seconda gestione da parte di un operatore di Private Equity. Approfondendo l’analisi sulle aziende oggetto di secondary buy-out è emerso che una parte di queste al momento stanno iniziando la terza gestione (Tertiary buy-out) da parte di un fondo, vedremo quindi nei prossimi anni se il trend di crescita sarà ancora confermato.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p05_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p05_c.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "La metodologia 1/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Questo studio è stato preparato sulla base di un campione di 492 disinvestimenti (di cui 225 Venture Capital e 267 Buy-out) effettuati in Italia da operatori di Private Equity nel periodo 2006-2016. Il periodo di possesso considerato va dall’anno successivo all’acquisizione all’anno del disinvestimento, tenendo conto che il periodo medio di detenzione da parte di un operatore finanziario si è esteso nell’ultimo periodo a circa 5-6 anni. Il tasso di crescita presentato in questo studio per ogni indicatore di performance (quindi ricavi, EBITDA, e crescita del tasso di occupazione) rappresenta la media dei tassi registrati da ogni azienda inclusa nel campione.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG6",
+            "RAWDOMText": [
+                " Campione di analisi",
+                " 492 DISINVESTIMENTI",
+                " 225",
+                "Venture Capital",
+                " 267",
+                "Buy-out",
+                " 2006",
+                "2016",
+                " Periodo di possesso",
+                " Dall’anno successivo all’acquisizione all’anno del disinvestimento.",
+                " Periodo medio di detenzione: circa 5-6 anni.",
+                " Tasso di crescita (CAGR)",
+                " INDICATORI DI PERFORMANCE",
+                " Ricavi",
+                " EBITDA",
+                " Tasso di occupazione",
+                " Rappresenta la media dei CAGR registrati da ogni azienda inclusa nel campione."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p06_a.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "La metodologia 2/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Per studiare l’impatto economico generato dagli operatori di Private Equity e Venture Capital sulle aziende target, sono state valutate le variazioni fatte registrare da alcuni parametri economici nel periodo di riferimento calcolate sulla base di dati finanziari consolidati, ove disponibili, o sui bilanci della società controllante, nei casi in cui non era disponibile un bilancio consolidato. Le misure di performance analizzate sono: I ricavi: rappresentati dagli ammontari inclusi nella voce A1 “Ricavi delle vendite e delle prestazioni” del bilancio civilistico. L’EBITDA (ovvero il margine operativo lordo): che consiste nel risultato netto calcolato escludendo: proventi e oneri finanziari; imposte sul risultato di esercizio; ammortamenti di immobilizzazioni immateriali e materiali e costi e proventi straordinari, non ricorrenti/non operativi; E l’occupazione: che si riferisce al numero medio di dipendenti per anno; o, se non disponibile, al numero di dipendenti registrati alla fine di ciascun anno compreso nel periodo di analisi.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG7",
+            "RAWDOMText": [
+                " Impatto economico generato dagli operatori di Private Equity e Venture Capital sulle aziende target",
+                " Variazioni registrate da parametri economici calcolate su:",
+                " dati finanziari consolidati;",
+                " bilanci della società controllante (operative).",
+                " Misure di performance analizzate",
+                " RICAVI",
+                " Ammontari inclusi nella voce A1 del bilancio civilistico “Ricavi delle vendite e delle prestazioni”.",
+                " EBITDA",
+                " Risultato netto escludendo:",
+                " proventi e oneri finanziari;",
+                " imposte sul risultato di esercizio;",
+                " ammortamenti di immobilizzazioni;",
+                " impostecosti e proventi straordinari.",
+                " OCCUPAZIONE",
+                " Numero medio di dipendenti per anno.",
+                " Numero di dipendenti registrati alla fine di ciascun anno compreso nel periodo di analisi.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Per le istituzioni finanziarie i ricavi sono stati calcolati come somma di interessi e commissioni derivanti da operazioni di carattere finanziario.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p07.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "La metodologia 3/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il campione è stato determinato escludendo dall’universo dei disinvestimenti totali avvenuti nel periodo 2006-2016 quelle società: di cui non fossero disponibili o rintracciabili il nome e i dettagli anagrafici significativi; che non fossero operative, che fossero partecipate da operatori di natura pubblica o che fossero oggetto di operazioni di turnaround; di cui non fossero disponibili i dati economico-finanziari del periodo; e che non fossero state oggetto di un reale disinvestimento.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG8",
+            "RAWDOMText": [
+                " SOCIETÀ ESCLUSE DAL CAMPIONE DEI DISINVESTIMENTI",
+                " Indisponibilità di nome e dettagli anagrafici",
+                " Non operative",
+                " Partecipate da operatori pubblici",
+                " Oggetto di operazioni di turnaround",
+                " Indisponibilità dei dati economico-finanziari",
+                " Non oggetto di un reale investimento"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "La metodologia 4/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Al fine di misurare se le performance registrate dal campione analizzato fossero superiori o inferiori a quelle del mercato, i risultati della ricerca sono stati confrontati con quelli registrati dalle aziende italiane. Il benchmark selezionato è stato estrapolato dalle informazioni incluse nella ricerca “Dati cumulativi di 2065 società italiane”, una ricerca svolta dall’Ufficio Studi di Mediobanca. Per migliorare la comparabilità dei dati è opportuno sottolineare che: le aziende pubbliche sono state escluse dal benchmark e il benchmark è basato sullo stesso periodo di possesso delle aziende incluse nel campione analizzato e quindi può variare tra Buy-out e Venture Capital.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG9",
+            "RAWDOMText": [
+                " Le performance del campione sono superiori o inferiori a quelle del mercato?",
+                " Confronto dei risultati con quelli registrati dalle aziende italiane.",
+                " Benchmark",
+                " «Dati cumulativi di 2065 società italiane» (Ufficio Studi di Mediobanca)",
+                " La comparazione dei dati:",
+                " esclude le aziende pubbliche;",
+                " considera il benchmark nel periodo di possesso delle aziende del campione.",
+                " Benchmark variabile tra Buy-out e Venture Capital"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p09.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p09_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/icone/p09_b.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Glossario 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Vediamo adesso il significato dei principali termini e abbreviazioni utilizzati nello studio di settore, a cominciare dalle società partecipate, che sono quelle società incluse nel portafoglio degli operatori Private Equity. Quando si parla di Buy-out ci si riferisce all’acquisto di una società mediante l’utilizzo di capitale proprio o preso a prestito. Il debito è garantito dall’attivo della società acquisita e il rimborso dello stesso avviene mediante il cash-flow generato. Il tasso annuo di crescita composto, più comunemente noto come CAGR dall’acronimo anglosassone Compounded Average Growth Rate, è il tasso di crescita annuale di una grandezza in un dato periodo di tempo. Si tratta di una formula matematica che fornisce un tasso “omogeneo”, ovvero a che tasso di crescita una data grandezza sarebbe cresciuta sul periodo se fosse cresciuta ad un tasso costante. Il CAGR è calcolato prendendo la n-esima radice del tasso di crescita % totale, dove “n” è il numero di anni del periodo considerato. EBITDA, invece, è il termine anglosassone per indicare il Margine Operativo Lordo, inteso come il risultato della gestione ordinaria caratteristica e definito dalla differenza tra i ricavi e i costi operativi, esclusi gli ammortamenti, gli interessi passivi netti e le imposte.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG10",
+            "RAWDOMText": [
+                " Il significato della terminologia",
+                " SOCIETÀ PARTECIPATE",
+                " Società incluse nel portafoglio di operatori Private Equity.",
+                " BUY-OUT (BO)",
+                " Acquisto di una società mediante l’utilizzo di capitale proprio o preso a prestito.",
+                " Debito: garantito dall’attivo della società acquisita.",
+                " Rimborso: cash-flow generato.",
+                " CAGR",
+                " Tasso di crescita annuale di una grandezza in un dato periodo di tempo.",
+                " Fornisce un tasso omogeneo.",
+                " È calcolato prendendo la n-esima radice del tasso di crescita % totale.",
+                " EBITDA",
+                " Margine Operativo Lordo.",
+                " Differenza tra i ricavi e i costi operativi, esclusi gli ammortamenti, gli interessi passivi netti e le imposte."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p10.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Glossario 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il Prodotto Interno Lordo è una misura dell’attività economica di un Paese. È dato dalla somma del valore totale della produzione di beni e servizi di un Paese. È di norma valutato a prezzi di mercato, escludendo la tassazione indiretta e aggiungendo tutti i sussidi statali. Questa misura può comunque essere valutata al costo dei fattori della produzione. L’inflazione è l’aumento dei prezzi ed erode il potere di acquisto di una moneta. Si riferisce di solito ai prezzi al dettaglio, ma può essere anche applicata ai prezzi dei prodotti all’ingrosso, degli stipendi, o degli investimenti. È di norma espressa da una percentuale che indica la variazione annuale dei prezzi di un paniere di riferimento. Private Equity, è il termine utilizzato per indicare, in modo generale, il “mestiere” dell’investitore nel capitale di rischio. Fa riferimento sia alle operazioni di investimento nella fase iniziale di vita dell’azienda, che a quelle realizzate in fasi successive del ciclo di vita. Gli operatori di Private Equity si aspettano alti rendimenti in ragione anche della bassa liquidità degli investimenti realizzati. Il Venture Capital è l’attività di Private Equity finalizzata all’avvio dell’impresa o al suo sviluppo nella fase embrionale, e rappresenta una valida fonte alternativa di finanziamento per gli imprenditori.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG11",
+            "RAWDOMText": [
+                " Il significato della terminologia",
+                " PRODOTTO INTERNO LORDO (PIL)",
+                " Misura l’attività economica di un paese.",
+                "PIL = consumo privato + investimenti + spesa pubblica + variazione delle rimanenze + (esportazioni – importazioni).",
+                " Valutato a prezzi di mercato o al costo dei fattori della produzione.",
+                " INFLAZIONE",
+                " Aumento dei prezzi.",
+                " Espressa da una percentuale che indica la variazione annuale dei prezzi.",
+                " PRIVATE EQUITY (PE)",
+                " Il mestiere dell’investitore nel capitale di rischio in tutte le fasi del ciclo di vita dell’azienda.",
+                " Alti rendimenti per bassa liquidità degli investimenti.",
+                " VENTURE CAPITAL (VC)",
+                " Private Equity nella fase di avvio dell’impresa.",
+                " Fonte di finanziamento alternativa per gli imprenditori."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M02UD09/img/p10.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG12",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Cosa si intende letteralmente per Private Equity?",
+                " Fare Private Equity significa «effettuare investimenti nel capitale di rischio, generalmente in società non quotate», quindi, l’acquisizione temporanea delle quote di partecipazione al capitale di società, da parte di un intermediario specializzato, finalizzata alla dismissione in un arco temporale medio/lungo al fine di realizzare un guadagno in conto capitale.",
+                " Qual è la differenza tra Venture Capital e Private Equity?",
+                " Rispetto al Private Equity, che orienta i propri interventi a buy out o a replacement capital di società già consolidate, il venture capital finanzia le fasi di sviluppo delle imprese.",
+                " Qual è l’obiettivo del Private Equity?",
+                " L’obiettivo di qualunque fondo di private equity è quello di realizzare nel medio termine un guadagno di capitale attraverso la valorizzazione e la successiva cessione della partecipazione acquisita. Il fondo di private equity deve quindi sostenere la creazione di valore nell’impresa partecipata.",
+                " Perché si dovrebbe preferire un investimento in Private Equity rispetto ad altri strumenti?",
+                " Il motivo principale di un investimento in private equity è l’attesa di un rendimento superiore a quello di altri strumenti finanziari più tradizionali. Il maggiore rendimento è giustificato non tanto dal maggiore profilo di rischio, quanto in relazione alla minore liquidità rispetto ad altre tipologie di investimenti azionari che, di norma, si riferiscono a società quotate."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD2_LEZ3_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quale delle seguenti opzioni è ERRATA?",
+                "Le aziende partecipate da Venture Capital, nel periodo 2006-2016, registrano:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M02UD09/audio/0064_18_03_m02ud09p13"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ3"
+}

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Scelta del provider.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Verifica delle condizioni contrattuali e dei livelli di servizio.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Gestione della fine contratto.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutte le precedenti.",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Nell’affidarsi a soluzioni basate su Cloud Computing, occorre porre attenzione alla  scelta del provider, che deve essere un soggetto noto con requisiti di maturità e affidabilità; alla verifica delle condizioni contrattuali, in quanto è bene esaminare sempre tutte le clausole per negoziarle; alla verifica dei livelli di servizio e infine alla gestione della fine contratto, per garantirsi un eventuale passaggio ad un altro provider senza interruzioni di servizio e senza perdita di dati.",
+    "feedbackNeg": "<b>Non è esatto!</b> Nell’affidarsi a soluzioni basate su Cloud Computing, occorre porre attenzione alla  scelta del provider, che deve essere un soggetto noto con requisiti di maturità e affidabilità; alla verifica delle condizioni contrattuali, in quanto è bene esaminare sempre tutte le clausole per negoziarle; alla verifica dei livelli di servizio e infine alla gestione della fine contratto, per garantirsi un eventuale passaggio ad un altro provider senza interruzioni di servizio e senza perdita di dati."
+}

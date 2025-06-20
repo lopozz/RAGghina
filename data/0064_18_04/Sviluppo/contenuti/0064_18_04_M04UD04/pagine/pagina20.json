@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"No, non è una tipologia di copertura solo tecnologica.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sì, è basata sulle app.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sì, nasce proprio per utenti attratti dalle tecnologie wearable.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"No, ma è attivabile una sola volta.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La cosiddetta “<i>instant insurance</i>” è  basata sulla vendita di micro assicurazioni per brevi periodi e <i>low cost</i>, da attivare all’istante in cui sorge l’esigenza.",
+    "feedbackNeg": "<b>Non è esatto!</b> La cosiddetta “<i>instant insurance</i>” è  basata sulla vendita di micro assicurazioni per brevi periodi e <i>low cost</i>, da attivare all’istante in cui sorge l’esigenza."
+}

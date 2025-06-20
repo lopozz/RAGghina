@@ -1,0 +1,661 @@
+{
+    "titolo": "Polizze assicurative",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "L’analisi dei dati ufficiali rilevati dalle indagini sui campioni di famiglie italiane, consente di fare una stima dell’andamento delle polizze, sia per settore assicurativo, che per canale di acquisizione, valutando anche entità e volume della raccolta dei premi.<br>Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG1",
+            "RAWDOMText": [
+                " Qual è l’andamento delle polizze assicurative negli ultimi anni?",
+                " Quali sono i rami che hanno contabilizzato il maggior numero di premi?",
+                " La raccolta netta dei premi in che modo è distribuita tra le tipologie di polizze?",
+                " In quale settore è maggiore il volume intermediato dai consulenti finanziari?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "L'andamento delle polizze assicurative 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo le rilevazioni Ania, la riduzione della raccolta premi delle polizze tradizionali di ramo I e V è attutita, in parte, dal significativo incremento delle polizze di ramo III, le cui prestazioni principali sono direttamente collegate al valore di quote di organismi di investimento collettivo del risparmio o di fondi interni ovvero a indici o ad altri valori di riferimento.<br>La crescita di queste ultime è dovuta alla necessità di cercare, in un contesto di bassi tassi di interesse dei titoli di Stato, forme di investimento da offrire ai propri clienti, che consentano, nel medio periodo, rendimenti al netto dei costi positivi accettando una quota maggiore di rischio.<br>Nel 2017, inoltre, è stato ancora più incisivo il forte sviluppo dei cosiddetti prodotti multiramo, i cui premi sono in parte investiti in gestioni separate e in parte in unit linked, caratterizzati dunque da asset allocation diversificati.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG2",
+            "RAWDOMText": [
+                " Rilevazioni ANIA",
+                " Titoli di Stato",
+                " a basso tasso",
+                " Ramo I: assicurazioni sulla durata della vita umana.",
+                " Ramo V: operazioni di capitalizzazione.",
+                " Ramo III: prestazioni collegate a quote di organismi di investimento collettivo, a fondi interni, a indici o altri valori.",
+                " RAMO III",
+                " Offerta di forme di investimento con:",
+                " rendimenti al netto dei costi positivi;",
+                " una quota maggiore di rischio.",
+                " Sviluppo dei prodotti multiramo nel 2017",
+                " Investimento dei premi",
+                " Asset allocation diversificati",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>L’incidenza di tali prodotti sul totale mercato vita ha raggiunto nel 2017 il 27,6% (era circa il 20% nel biennio 2014-2015), a fronte di un volume premi pari a 27 miliardi (+30,0% rispetto al 2016), equamente distribuito, tra premi di ramo I e premi di ramo III (nel biennio precedente la quota di ramo III si attestava al 45%).</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/bilancia_giu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/bilancia_su.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/bilancia_su.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p02_doppiafreccia.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "L'andamento delle polizze assicurative 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sempre con l’obiettivo di ottimizzare il risparmio finanziario delle famiglie italiane in questo particolare scenario economico, l’introduzione dei Piani Individuali di Risparmio a lungo termine, principalmente nella seconda metà del 2017, ha consentito alle imprese di assicurazione di collocare sul mercato una nuova tipologia di prodotti che permette una detassazione dei rendimenti ottenuti, a fronte di determinate condizioni di investimento nell’economia reale.<br>La forma contrattuale prevalente è risultata quella di tipo unit linked (per il 75% dei PIR), mentre la restante quota è stata sottoscritta tramite prodotti multiramo, a fronte di una raccolta premi complessiva pari a 1,7 miliardi di premi (l’1,7% dei premi vita complessivi nel 2017).",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG3",
+            "RAWDOMText": [
+                " PIR - Piani Individuali di Risparmio a lungo termine",
+                " Nuova tipologia di prodotti:",
+                " i rendimenti sono detassati a fronte di determinate condizioni di investimento.",
+                " Ottimizzazione del risparmio",
+                " Forma contrattuale prevalente:",
+                " 75% di PIR",
+                " UNIT LINKED",
+                " 1,7% di premi nel 2017",
+                " PRODOTTI MULTIRAMO"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/etichetta.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/stella_1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/stella_2.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "L'andamento dei premi nei singoli rami 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Analizzando gli andamenti dei premi contabilizzati dei singoli rami, nel 2017, si registra un calo annuo del 14,5% per quelli dei rami I e V, contrazione più che raddoppiata rispetto a quella osservata nel biennio precedente, a fronte di una raccolta pari a 65.326 milioni, in progressivo calo dal 2015.<br>Si evidenzia, inoltre, come il calo delle polizze tradizionali sia imputabile in massima parte agli sportelli bancari e postali che hanno raccolto oltre il 64% di tali polizze ma facendo registrare una diminuzione del 17% rispetto all’anno precedente.<br>I premi delle polizze tradizionali rappresentavano il 66% dell’intero portafoglio vita, in forte calo rispetto al 75% registrato nel 2016, di cui il 96% relativi a polizze di ramo I e il restante 4% attinenti a polizze di ramo V.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG4",
+            "RAWDOMText": [
+                " Il calo delle polizze tradizionali è imputabile agli sportelli bancari e postali:",
+                " 64% di polizze",
+                " 17% rispetto al 2016",
+                " Vita umana e Capitalizzazione (ramo I e ramo V)",
+                " Premi polizze tradizionali",
+                " 2017: 66%",
+                " 2016: 75%",
+                " 96%",
+                " RAMO I",
+                " 4%",
+                " RAMO V",
+                " Valori in milioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p04.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p04_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/meno.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/wallet.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "L'andamento dei premi nei singoli rami 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Positivo è stato invece l’andamento dei premi di ramo III che nel 2017 raccolgono un ammontare pari a 31.254 milioni, in deciso aumento rispetto all’anno precedente, quando la variazione annua era invece negativa.<br>La crescita media dell’ultimo quinquennio è stata pari al 19,1%, in ulteriore sviluppo rispetto al 14,9% del quinquennio precedente.<br>Il risultato positivo del 2017 è dovuto principalmente all’attività degli sportelli bancari e postali che hanno raggiunto una quota di mercato pari al 57% dell’intera raccolta del ramo, registrando, in termini di volume premi, un incremento del 36,0% rispetto al 2016.<br>Tali prodotti costituivano il 32% dell’intero portafoglio vita, ben 8 punti percentuali in più rispetto al 2016.<br>La quasi totalità della restante parte di polizze linked (il 33%) è stata intermediata dai consulenti finanziari abilitati che hanno registrato una crescita dei premi raccolti del 15,2%.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG5",
+            "RAWDOMText": [
+                " Il risultato positivo è imputabile agli sportelli bancari e postali:",
+                " 57% di polizze",
+                " 36% rispetto al 2016",
+                " Fondi di investimento o indici (ramo III)",
+                " 2017: 32%",
+                " 2016: 24%",
+                " Il 33% di polizze Linked è stata intermediata dai consulenti finanziari con una crescita dei premi del 15,2%.",
+                " Valori in milioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p05_grafico.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p05_grafico2.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/wallet.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "L'andamento dei premi nei singoli rami 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Di andamento antitetico è invece la raccolta premi relativi a polizze degli altri rami vita (ramo IV e ramo VI) che nel 2017, per il quarto anno consecutivo, registrano una variazione positiva, a fronte di un volume premi in progressivo aumento e pari a 2.029 milioni, il 2% dell’intera raccolta vita.<br>La variazione media annua dell’ultimo quinquennio esaminato è risultata pari a +10,8%, da -0,9% nel quinquennio 2012-2016.<br>Nel dettaglio, 90 milioni sono relativi a polizze di ramo IV, Long Term Care e malattia di lunga durata, in aumento del 13,2% rispetto al 2016, con premi commercializzati soprattutto dai broker e dagli agenti con mandato, mentre i restanti 1.940 milioni fanno riferimento al ramo VI, quindi alla gestione di fondi pensione, con un incremento del 9,8% rispetto all’anno precedente, Principalmente con vendita diretta e sportelli bancari.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG6",
+            "RAWDOMText": [
+                " Altri rami",
+                " (ramo IV e ramo VI)",
+                " 90 mln",
+                " Ramo IV",
+                " LTC + malattia",
+                " + 13,2%",
+                " 1.940 mln",
+                " Ramo VI",
+                " Fondi pensione",
+                " + 9,8%",
+                " Vendita diretta",
+                " Sportelli bancari",
+                " Broker",
+                " Agenti con mandato",
+                " Valori in milioni"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p06_grafico2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p06_grafico.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p06_bilancia.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "La raccolta dei premi 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per quanto riguarda la raccolta dei premi, nei rami I e V il flusso netto ha raggiunto 15.638 milioni, importo pressoché dimezzato rispetto al 2016, ma ancor più rispetto al 2014, quando il saldo superava i 40 miliardi.<br>Relativamente al ramo III, grazie al significativo aumento dei premi già analizzato, la raccolta netta ha registrato un valore positivo e pari a 11.442 milioni, in aumento del 32,2% rispetto al 2016, ma in calo rispetto al 2015, anno in cui si era raggiunto l’importo più elevato mai registrato.<br>Con volumi ancora molto contenuti, la raccolta netta realizzata negli altri rami vita è ammontata a 376 milioni, da 820 milioni nel 2016.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG7",
+            "RAWDOMText": [
+                " Fonte: L'assicurazione italiana, Ania",
+                " Raccolta netta dei premi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p07.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p07_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "La raccolta dei premi 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Anche dalla Relazione Ivass emerge che i prodotti di ramo I (le assicurazioni sulla durata della vita umana) sono in calo del -14,7%, più accentuato rispetto a quello dell’anno precedente, mentre quelli di ramo III (unit o index linked), sono aumentati del 30,1%, in contrapposizione all’andamento negativo dell’anno precedente.<br>Nel complesso, la raccolta nei rami I e III ammonta per il 2017 a 94.032 milioni (cioè il 95,4% della raccolta complessiva del ramo vita).<br>Per quanto riguarda gli altri rami, è in riduzione, per il terzo anno consecutivo, il ramo V, mentre è cresciuto il ramo VI che, comunque, rappresenta ancora una quota di mercato ridotta (il 2% della raccolta vita).",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG8",
+            "RAWDOMText": [
+                " Fonte: Relazione annuale IVASS, giugno 2018",
+                " Raccolta totale rami I e III",
+                " 94.032 milioni",
+                " Raccolta totale ramo V",
+                " (polizze a capitalizzazione)",
+                " Raccolta totale ramo VI",
+                " (fondi pensione)",
+                " Raccolta premi vita nei rami I e III"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p08_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaCorta.png"
+                },
+                {
+                    "src": "contenuti/img/meno.png"
+                },
+                {
+                    "src": "contenuti/img/piu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu_blu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu_blu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "La raccolta dei premi 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel 2017 la raccolta premi per le polizze individuali rappresenta il 94,2% della raccolta complessiva vita.<br>È continuata nell’anno la riallocazione dei prodotti vita tra prodotti tradizionali di ramo I e prodotti di ramo III.<br>A causa del calo delle polizze rivalutabili, le polizze linked tradizionali alla fine del 2017 incidono per il 33,6%.<br>A partire dal 2013, le polizze linked, sono costituite quasi esclusivamente da prodotti di tipo unit (che raggiungono il 98,3% del totale polizze linked nel 2017).",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG9",
+            "RAWDOMText": [
+                " Riallocazione prodotti vita 2017",
+                " Ramo I",
+                " (assicurazioni sulla durata della vita umana)",
+                " Ramo III",
+                " (polizze linked)",
+                " Polizze",
+                " rivalutabili",
+                " Polizze linked tradizionali",
+                " Prodotti di tipo Unit",
+                " (98,3% del totale linked)",
+                " 33,6%",
+                " Fonte: Relazione annuale IVASS, giugno 2018",
+                " <div style=\"color:#FFF;\"> <p>Il quesito al quale si riferisce il grafico è il seguente:<br><br>Negli ultimi 12 mesi Lei/ la Sua famiglia è riuscito/a risparmiare parte del reddito guadagnato?<br>Tra le risposte possibili:<ul><li>Sì, sono riuscito a risparmiare;</li><li>No, ho consumato tutto il reddito;</li><li>No, ho dovuto ricorrere a risparmi accumulati;</li><li>No, ho dovuto ricorrere a prestiti;</li><li>Non fornisce un’indicazione.</li></ul></p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p09_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/lstop_boxattiva.png"
+                },
+                {
+                    "src": "contenuti/img/lstop_boxattiva.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/frecciagiu2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/frecciasu2.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Il volume intermediato dai consulenti finanziari 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Dall’analisi dei canali distributivi per i Rami vita, dopo il brusco arresto registrato nella raccolta premi del 2016, è risultato in aumento nel 2017 il volume intermediato dai consulenti finanziari abilitati che recuperano così punti in termini di quota di mercato e tornano a essere il secondo canale di vendita delle polizze vita.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG10",
+            "RAWDOMText": [
+                " Analisi dei canali distributivi - Rami vita",
+                " Fonte: L'assicurazione italiana, Ania",
+                " <div style=\"color:#FFF;\"> <p>Il quesito al quale si riferisce il grafico è il seguente:<br><br>Negli ultimi 12 mesi Lei/ la Sua famiglia è riuscito/a risparmiare parte del reddito guadagnato?<br>Tra le risposte possibili:<ul><li>Sì, sono riuscito a risparmiare;</li><li>No, ho consumato tutto il reddito;</li><li>No, ho dovuto ricorrere a risparmi accumulati;</li><li>No, ho dovuto ricorrere a prestiti;</li><li>Non fornisce un’indicazione.</li></ul></p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p10_grafico.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Il volume intermediato dai consulenti finanziari 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’analisi dei Rami danni, invece, evidenzia come il volume intermediato dai consulenti finanziari abilitati rimane contenuto.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG11",
+            "RAWDOMText": [
+                " Analisi dei canali distributivi - Rami vita",
+                " Fonte: L'assicurazione italiana, Ania"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p11_grafico.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "La diffusione delle principali forme assicurative",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Rimaniamo, sempre con riferimento a dati Assogestioni,  sui fondi comuni italiani.<br>Il numero di sottoscrittori correla positivamente con la raccolta netta cumulata.<br>Tra il 2002 e il 2005 esso si è mantenuto sopra i 9 milioni, per poi ridursi fino al 2012 in parallelo con l’andamento negativo della raccolta.<br>Dal 2013 vi è stato un incremento dei sottoscrittori , che raggiungono i 7,2 milioni nel 2017.<br>A questo incremento hanno contribuito i fondi PIR compliant, cui hanno aderito più di 690 mila risparmiatori, per metà, circa, nuovi investitori.<br>Il tasso di partecipazione complessivo al mercato dei fondi italiani è passato dal 17% del 2002-2003 al minimo del 9% del 2012.<br>Successivamente la ripresa delle sottoscrizioni ne ha riportato il valore al 12%.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG12",
+            "RAWDOMText": [
+                " Fonte: Relazione annuale IVASS, giugno 2018",
+                " INDAGINE BANCA D’ITALIA",
+                " Diffusione delle principali forme assicurative.",
+                " Canali di acquisizione utilizzati.",
+                " INTERNET E TELEFONO:",
+                " canale poco utilizzato;",
+                " prevalente per prodotti assicurativi danni."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD05/img/p12_grafico.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD05/audio/0064_18_04_m01ud05p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Da cosa è motivata la crescita delle polizze di ramo III?",
+                " È dovuta alla necessità di cercare, in un contesto di bassi tassi di interesse dei titoli di Stato, forme di investimento da offrire ai propri clienti, che consentano, nel medio periodo, rendimenti al netto dei costi positivi accettando una quota maggiore di rischio.",
+                " Qual è stata l’offerta delle imprese di assicurazione volta all’ottimizzazione del risparmio delle famiglie italiane?",
+                " L’introduzione dei Piani Individuali di Risparmio a lungo termine, principalmente nella seconda metà del 2017, ha consentito alle imprese di assicurazione di collocare sul mercato una nuova tipologia di prodotti che permette una detassazione dei rendimenti ottenuti, a fronte di determinate condizioni di investimento nell’economia reale, soprattutto mediante contratti unit linked.",
+                " Qual è l’andamento dei premi nei singoli rami?",
+                " Si registra un calo annuo del 14,5% per quelli dei rami I e V, mentre positivo è stato l’andamento dei premi di ramo III. La raccolta premi relativi a polizze degli altri rami vita (ramo IV e ramo VI) nel 2017, registra una variazione positiva, a fronte di un volume premi in progressivo aumento.",
+                " Vengono utilizzati Internet e telefono come canali di acquisizione?",
+                " Le indagini confermano il modesto utilizzo di questi canali diretti: solo l’1,4% delle famiglie; la percentuale aumenta per le polizze sanitarie e per le coperture danni diverse dalla r.c. auto. In generale, l’utilizzo di internet o telefono cresce con l’aumento del livello di istruzione del capo-famiglia, ma diminuisce con l’aumento della sua età."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD02/audio/0064_18_04_m01ud02p26"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD1_LEZ5_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " La forma contrattuale prevalente dei Piani Individuali di Risparmio è:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD02/audio/0064_18_04_m01ud02p27"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD1_LEZ5"
+}

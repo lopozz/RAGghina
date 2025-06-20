@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"L’intermediario deve adottare misure ragionevoli per assicurare che le informazioni raccolte sui clienti o potenziali clienti siano attendibili.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Una serie di operazioni è idonea anche quando la raccomandazione o le decisioni di negoziazione seguono una frequenza che non è nel migliore interesse del cliente.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"L'intermediario non deve creare ambiguità o confusione riguardo alle loro responsabilità nel processo di valutazione dell'idoneità di servizi di investimento o strumenti finanziari.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Quando presta un servizio di gestione del portafoglio, un intermediario non deve decidere di negoziare se nessuno dei servizi o degli strumenti è idoneo per il cliente.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "Esatto! Una serie di operazioni, ciascuna delle quali idonea se considerata singolarmente, può risultare inidonea se la raccomandazione o le decisioni di negoziazione seguono una frequenza che non è nel migliore interesse del cliente.",
+    "feedbackNeg": "Non è esatto! Una serie di operazioni, ciascuna delle quali idonea se considerata singolarmente, può risultare inidonea se la raccomandazione o le decisioni di negoziazione seguono una frequenza che non è nel migliore interesse del cliente."
+}

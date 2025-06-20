@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Giuridico",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Organizzativo",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tecnologico",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutte le precedenti.",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La sicurezza informatica può essere messa in atto e sviluppata secondo tre ambiti di competenza ben specifici: giuridico, organizzativo e tecnologico.",
+    "feedbackNeg": "<b>Non è esatto!</b> La sicurezza informatica può essere messa in atto e sviluppata secondo tre ambiti di competenza ben specifici: giuridico, organizzativo e tecnologico."
+}

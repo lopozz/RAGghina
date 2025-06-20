@@ -1,0 +1,62 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 40px; left: 0px;">
+			<img src="contenuti/img/gialloverticale.png" style="">
+		</div>
+		<div id="img1" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 20px; left: 0px;">
+			<img src="contenuti/img/bluverticale.png" style="">
+		</div>
+		<div id="img3" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img3')" style="position: absolute; top: 25px; left: 0px;">
+			<img src="contenuti/0019_20_01_M01UD02/img/p07.png">
+		</div>
+		<div id="img2" class="pullDown" animated="" datastart="1" ng-show="getIsVisible('img2')" style="position: absolute;top: 40px;left: -30px;">
+			<img src="contenuti/img/boxTitolo.png" style="height: 60px;width: 350px;">
+			<div style="position: absolute;top: 12px;left: 40px;font-size: 18px;width: 300px;">
+				<div id="blocco5" animated="" datastart="1" ng-show="getIsVisible('blocco5')" class="slideRight" style=""><b>Rischio specifico e sistematico</b></div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="3" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 10px; left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="3" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 50px;left: 40px;font-size: 15px;width:600px;">
+			<div id="cont2_txt1" animated="" datastart="3" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Il <b>rischio specifico</b> dipende dalle <b>caratteristiche peculiari dell'emittente</b> e può essere diminuito sostanzialmente attraverso la suddivisione del proprio investimento tra titoli emessi da emittenti diversi (diversificazione del portafoglio), mentre il <b>rischio sistematico</b> rappresenta quella parte di variabilità del prezzo di ciascun titolo che dipende dalle <b>fluttuazioni del mercato</b> e non può essere eliminato per il tramite della diversificazione.</div>
+		</div>
+	</div>
+
+	<div id="contenitore3" class="pullDown" animated="" datastart="33" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 180px;left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="33" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 50px;left: 40px;font-size: 15px;width:600px;">
+			<div id="cont3_txt1" animated="" datastart="33" ng-show="getIsVisible('cont3_txt1')" class="slideRight" style="">Il <b>rischio sistematico per i titoli di capitale</b> trattati su un mercato organizzato si origina dalle variazioni del mercato in generale, che possono essere identificate nei movimenti dell'indice del mercato.</div>
+		</div>
+	</div>
+	
+	<div id="contenitore4" class="pullDown" animated="" datastart="47" dataend="1000" ng-show="getIsVisible('contenitore4')" style="position: absolute;top: 290px;left: 330px;">
+		<div id="img5" class="pullDown" animated="" datastart="47" ng-show="getIsVisible('img5')" style="position: absolute; top: 24px; left: 0px;">
+			<img src="contenuti/img/violaangolo.png" style="">
+		</div>
+		<div style="position: absolute;top: 50px;left: 40px;font-size: 15px;width:600px;">
+			<div id="cont4_txt1" animated="" datastart="47" ng-show="getIsVisible('cont4_txt1')" class="slideRight" style="">Il <b>rischio sistematico dei titoli di debito</b> si origina dalle fluttuazioni dei tassi d'interesse di mercato che si ripercuotono sui prezzi (e quindi sui rendimenti) dei titoli in modo tanto più accentuato quanto più lunga è la loro <b>vita residua</b>.</div>
+		</div>
+		<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;font-size: 40px;left: 380px;top: 130px;z-index: 2;">
+			<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0019_20_01_M01UD02P07','Vita residua del titolo',1,15)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/occhiali_visitato.png':'contenuti/img/occhiali.png'}}" style="width:90px;"></a>
+		</div>
+	</div>
+		
+	<div class="istruzionePopup">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="">Fai clic sugli occhiali e leggi l’approfondimento</div>
+    </div>
+</div>
+<aside>
+     <audio audiosource="contenuti/0019_20_01_M01UD02/audio/m01ud02p7" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0019_20_01_M01UD02P07">
+  <div style="color:#FFF;">
+    <p>La vita residua di un titolo ad una certa data è rappresentata dal periodo di tempo che deve trascorrere da tale data al momento del suo rimborso.</p>
+  </div>
+</script>

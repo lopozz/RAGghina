@@ -1,0 +1,677 @@
+{
+    "titolo": "PIR finanziari, assicurativi e previdenza integrativa",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "La normativa ha introdotto i PIR anche nel mercato assicurativo.<br>Intanto, nello scenario complessivo, le forme pensionistiche di secondo e terzo pilastro stentano a decollare.<br>L’analisi delle propensioni, dei dubbi e dei timori del risparmiatore medio italiano possono chiarirne le cause e le possibili soluzioni.<br>Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG1",
+            "RAWDOMText": [
+                " In che modo i PIR sono entrati nel mercato assicurativo?",
+                " Qual è la forma contrattuale prevalente per i PIR?",
+                " Dall’analisi dei dati, qual è l’andamento dei PIR assicurativi rispetto a quelli finanziari?",
+                " Quali sono i fattori che influenzano l’adesione a forme pensionistiche integrative?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "I PIR assicurativi 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La norma ha previsto che i PIR possano essere attuati anche mediante contratti assicurativi.<br>Dopo alcuni mesi in cui l’offerta di PIR da parte del settore è rimasta limitata a pochi prodotti, anche a causa di alcuni dubbi interpretativi sull’applicazione della normativa, nella seconda parte del 2017, a seguito di chiarimenti da parte dell’amministrazione finanziaria, i PIR sono entrati a far parte della gamma di prodotti di un numero significativo di imprese di assicurazione e, al termine dell’anno, risultavano in vendita poco più di una ventina di prodotti assicurativi per oltre novanta opzioni d’investimento.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG2",
+            "RAWDOMText": [
+                " I PIR possono essere attuati anche tramite contratti assicurativi",
+                " Inizialmente l’offerta è stata limitata a pochi prodotti.",
+                " Dalla seconda metà del 2017 i PIR sono entrati nella gamma di prodotti di molte imprese di assicurazione.",
+                " Alla fine dell’anno…",
+                " Più di 20 prodotti assicurativi in vendita",
+                " Oltre 90 opzioni di investimento"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/p02_icona1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/p02_icona2.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "I PIR assicurativi 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "In particolare, la forma contrattuale prevalente, com’era prevedibile a seguito dei vincoli previsti dalla legge, è risultata quella di tipo unit linked, che caratterizza circa tre quarti dei PIR assicurativi, mentre i prodotti ibridi (multiramo), risultanti cioè dalla combinazione di una componente unit inked e di una componente tradizionale a rendimento minimo garantito, coprono il restante quarto.<br>La tipologia di prodotto offerta sul mercato è costituita principalmente da prodotti a vita intera, pari a circa due terzi del totale, e più della metà dei prodotti prevede più opzioni di investimento.<br>I PIR sono rivolti per definizione a clienti al dettaglio, e si concretizzano quindi in polizze individuali, sottoscritte da una persona fisica.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG3",
+            "RAWDOMText": [
+                " Multiramo",
+                " Unit Linked",
+                " Forma contrattuale prevalente",
+                " Componente ramo III",
+                " +",
+                "Componente ramo I",
+                " Prodotti a vita intera;",
+                " Prodotti con più opzioni di investimento.",
+                " Clienti al dettaglio:",
+                " polizze individuali sottoscritte da persona fisica.",
+                " Prodotto prevalente",
+                " Target",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>I nuovi contratti assicurativi di questo tipo nel 2017 sono stati oltre 118mila, per 1,7 miliardi di nuovi premi, il 2,1% dei 79,6 miliardi relativi alla nuova produzione vita afferente a polizze individuali.<br>La modalità di versamento del premio è praticamente sempre a premio unico, per un importo medio pari a circa 14 mila euro.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p03_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaCorta.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {
+                    "src": "contenuti/img/true.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "I PIR assicurativi 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In particolare, concentrando l’analisi sulla tipologia di prodotti assicurativi venduti nel 2017, risulta che oltre il 75% dei premi è stato raccolto da PIR di tipo unit linked mentre il restante 25% da PIR ibridi o multiramo. Questi ultimi presentano mediamente circa l’11% dei premi investiti nella componente di ramo I e il restante 89% nella componente di ramo III.<br>Riguardo alla raccolta premi dei PIR per canale distributivo, nel 2017 risulta che gli sportelli bancari e postali hanno collocato quasi 1,5 miliardi, pari all’88,4% della raccolta di PIR assicurativi complessiva, percentuale sensibilmente superiore all’analoga quota intermediata dallo stesso canale per l’intera raccolta vita.<br>Ai consulenti finanziari, invece, ha fatto riferimento il 7,6% della raccolta di prodotti PIR assicurativi, a fronte del 16,0% riscontrato sulla raccolta assicurativa sulla vita complessiva.<br>Le reti agenziali e gli altri canali hanno collocato una quota di PIR assicurativi pari al 4,0%, inferiore a quella registrata rispetto alla totalità dei prodotti assicurativi sulla vita.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG4",
+            "RAWDOMText": [
+                " Unit linked",
+                " Ibridi o multiramo",
+                " 11%",
+                " RAMO I",
+                " 89%",
+                " RAMO III",
+                " La raccolta dei premi per tipologia di prodotto nel 2017",
+                " 75%",
+                " 25%",
+                " Fonte: L'assicurazione italiana, Ania",
+                " La raccolta dei premi per canale distributivo nel 2017",
+                " Agenti, agenzie in economia e altri canali",
+                " Sportelli bancari e postali",
+                " 1.477",
+                " 88,4%",
+                " 127",
+                " 7,6%",
+                " 67",
+                " 4,0%",
+                " Consulenti finanziari abilitati",
+                " <div style=\"color:#FFF;\"> <p>I nuovi contratti assicurativi di questo tipo nel 2017 sono stati oltre 118mila, per 1,7 miliardi di nuovi premi, il 2,1% dei 79,6 miliardi relativi alla nuova produzione vita afferente a polizze individuali.<br>La modalità di versamento del premio è praticamente sempre a premio unico, per un importo medio pari a circa 14 mila euro.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p04.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p04_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "I PIR finanziari e assicurativi",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nel primo trimestre del 2018 la nuova raccolta di PIR finanziari e assicurativi ha raggiunto circa 2,7 miliardi, confermando l’interesse dei risparmiatori verso questo prodotto.<br>Il 72% della raccolta è stata effettuata mediante prodotti finanziari, il restante 28% tramite prodotti assicurativi. L’importo medio versato nei PIR assicurativi è risultato pari a quasi 17mila euro, in aumento rispetto all’importo medio versato nel corso del 2017 (pari a 14mila euro).<br>Rispetto alla raccolta complessiva, nel 2018 la quota di PIR assicurativi sul totale della raccolta vita cresce leggermente rispetto al 2017, raggiungendo il 3,4%, pur rimanendo significativamente inferiore all’incidenza dei PIR finanziari pari al 20,9% rispetto alla raccolta complessiva del settore finanziario.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG5",
+            "RAWDOMText": [
+                " 72%",
+                " Prodotti finanziari",
+                " 28%",
+                " Prodotti assicurativi",
+                " I TRIMESTRE 2018 – Raccolta PIR finanziari e assicurativi",
+                " € 17mila",
+                " 2,7 miliardi",
+                " Fonte: L'assicurazione italiana, Ania",
+                " PIR",
+                " Altri prodotti",
+                " Quota di raccolta PIR rispetto alla raccolta complessiva nel settore assicurativo e in quello finanziario",
+                " <div style=\"color:#FFF;\"> <p>I nuovi contratti assicurativi di questo tipo nel 2017 sono stati oltre 118mila, per 1,7 miliardi di nuovi premi, il 2,1% dei 79,6 miliardi relativi alla nuova produzione vita afferente a polizze individuali.<br>La modalità di versamento del premio è praticamente sempre a premio unico, per un importo medio pari a circa 14 mila euro.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p05_grafico.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "La previdenza integrativa 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La preoccupazione della riforma del 2011 di garantire pensioni adeguate si inserisce in un contesto nel quale stentano a decollare le forme pensionistiche di secondo e terzo pilastro (ovvero i fondi e le soluzioni assicurative).<br>La figura mostra che solo il 15% degli intervistati ha sottoscritto tali forme pensionistiche, più di un quarto dei quali attraverso la destinazione del proprio TFR; il 14% di coloro che non giudicano interessanti i vantaggi fiscali della previdenza integrativa preferisce fare da sé gli investimenti utili alla vecchiaia.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG6",
+            "RAWDOMText": [
+                " Fonte: Indagine sul Risparmio e sulle scelte finanziarie degli italiani, Centro Einaudi",
+                " Il contesto della riforma del 2011",
+                " Le forme pensionistiche di II e III pilastro stentano a decollare:",
+                " fondi;",
+                " soluzioni assicurative."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p06_grafico.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "La previdenza integrativa 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Dall’esame del grafico sembra di poter affermare che la ragione del mancato decollo delle forme integrative sia triplice: in primo luogo, la struttura per età della popolazione, che vede un progressivo invecchiamento, si coniuga con un accesso molto più basso alla previdenza integrativa per le classi di età più anziane.<br>In secondo luogo, l’utilizzo del TFR a fini previdenziali non si è sufficientemente diffuso.<br>Nella percezione dei lavoratori la destinazione previdenziale del TFR ne riduce la sua funzione originaria di ammortizzatore e li espone ad un rischio finanziario di rendimento che deve essere comparato con quello di tenere il TFR all’interno dell’impresa.<br>Infine, e questa è in assoluto la ragione prevalente, la mancanza di liquidità: oltre un terzo degli intervistati, tra coloro che dichiarano di non essere interessati ai vantaggi fiscali della previdenza integrativa, non hanno la liquidità sufficiente per accedervi; tale quota sale a quasi il 40 per cento fra i 35 e i 44 anni di età.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG7",
+            "RAWDOMText": [
+                " Le ragioni del mancato decollo",
+                " La struttura per età della popolazione:",
+                " progressivo invecchiamento;",
+                " accesso basso alla previdenza integrativa da parte degli anziani.",
+                " Scarso utilizzo del TFR a fini previdenziali",
+                " La destinazione previdenziale:",
+                " ne riduce la funzione di ammortizzatore;",
+                " espone ad un rischio di rendimento.",
+                " Mancanza di liquidità",
+                " 33,8%",
+                " 39,9%",
+                " Non hanno liquidità sufficiente per accedere alla previdenza integrativa.",
+                " Fascia di età 35>44 anni."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/stella_1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/stella_2.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/stella_3.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "I vincoli di liquidità",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l’indagine del Centro Einaudi, la difficoltà di accesso determinata da vincoli di liquidità può essere dovuta, tra l’altro, alle aliquote elevate della previdenza pubblica che spiazzano l’accesso a quella privata, e si tratta di un effetto che va ben oltre i vantaggi fiscali di una tale forma di risparmio.<br>Tuttavia, il fatto che le famiglie italiane abbiano vincoli di liquidità non significa necessariamente che siano povere.<br>In effetti, una parte tutt'altro che trascurabile del loro patrimonio è costituita dalla casa.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG8",
+            "RAWDOMText": [
+                " PREVIDENZA PUBBLICA",
+                " PREVIDENZA PRIVATA",
+                " Il patrimonio delle famiglie è la casa.",
+                " Vincoli di liquidità",
+                " Il vincolo di liquidità non è sinonimo di povertà",
+                " INDAGINE CENTRO EINAUDI",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>In sintesi, il campione ritrova la fiducia nel reddito dell’età anziana, fiducia che è sicuramente in parte determinata dalla ripresa ma anche, probabilmente, da una progressiva comprensione del funzionamento del sistema previdenziale e della riforma del 2011.<br>D’altra parte, non tutto il proprio reddito può essere rinviato al futuro per una vecchiaia serena, e il forte peso della previdenza pubblica non può essere considerato estraneo al difficile decollo di quella integrativa.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/frecciaSoldi_giu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/frecciaSoldi_su.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/mano_e_casa.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "I principali dati relativi alla previdenza complementare 1/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Alla fine di settembre del 2018, il numero complessivo di posizioni in essere nelle forme pensionistiche complementari è di 8,609 milioni; al netto delle uscite, la crescita dall’inizio dell’anno è stata di 310.000 unità.<br>Nei fondi negoziali il totale degli iscritti è di 2,960 milioni, con una crescita di 155.000 iscrizioni.<br>L’apporto maggiore alla crescita delle posizioni si è registrato nei fondi pensione con attivi meccanismi di adesione contrattuale; alle iniziative già esistenti, a partire da gennaio 2018 si è aggiunto anche il fondo rivolto ai lavoratori del settore dell’igiene ambientale.<br>Nelle forme pensionistiche di mercato offerte da intermediari finanziari, i fondi aperti totalizzano 1,431 milioni di posizioni, crescendo di 56.000 unità rispetto a dicembre del 2017.<br>Nei PIP “nuovi”, il totale degli iscritti è di 3,210 milioni, con una crescita di 106.000 unità.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG9",
+            "RAWDOMText": [
+                " FORMA PENSIONISTICA",
+                " TOTALE ISCRITTI",
+                " CRESCITA",
+                " * Dal 2018 si è aggiunto il fondo Previambiente.",
+                " Settembre 2018",
+                " POSIZIONI IN ESSERE",
+                " Pensioni complementari",
+                " 8,609 milioni",
+                " +3,7%",
+                " Fondi negoziali *",
+                " 2,960 milioni *",
+                " +5,5%",
+                " Pensioni offerte da intermediari finanziari",
+                " 1,431 milioni",
+                " +4,1%",
+                " PIP nuovi",
+                " 3,210 milioni",
+                " +3,4%",
+                " * 130.000 iscritti a fondi con adesione contrattuale."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p09.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/calendario.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/foglio_penna.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "I principali dati relativi alla previdenza complementare 2/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "A fine settembre 2018, le risorse complessivamente destinate alle prestazioni dalle forme pensionistiche complementari ammontano a 167,2 miliardi di euro; il dato non tiene conto delle variazioni nel periodo dei fondi pensione preesistenti e dei PIP “vecchi”.<br>Il patrimonio dei fondi negoziali, 51,2 miliardi di euro, risulta in crescita del 3,5%.<br>Le risorse accumulate presso i fondi aperti corrispondono a 20 miliardi di euro mentre i PIP “nuovi” totalizzano 30 miliardi; rispetto alla fine dell’anno precedente, l’aumento è stato, rispettivamente, del 4,2 e dell’8,7%.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG10",
+            "RAWDOMText": [
+                " FORMA PENSIONISTICA",
+                " TOTALE ISCRITTI",
+                " CRESCITA",
+                " Settembre 2018",
+                " RISORSE IN GESTIONE",
+                " Pensioni complementari",
+                " 167,2 miliardi *",
+                " Fondi negoziali",
+                " 51,2 miliardi",
+                " +3,5%",
+                " Fondi aperti",
+                " 20 miliardi",
+                " +4,2%",
+                " PIP nuovi",
+                " 30 miliardi",
+                " +8,7%",
+                " * Escluse le variazioni nel periodo dei fondi pensione preesistenti e dei PIP “vecchi."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p10.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/calendario.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/euro.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "I principali dati relativi alla previdenza complementare 3/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Nei nove mesi del 2018 i rendimenti delle obbligazioni governative sono risaliti in misura significativa negli Stati Uniti e minore in Europa, riflettendo il diverso orientamento delle politiche monetarie; per i titoli italiani, i premi per il rischio sovrano si sono allargati in modo consistente a partire dalla seconda metà dell’anno.<br>Per i listini azionari, l’andamento è stato contrastato: positivo negli Stati Uniti e negativo nella maggior parte dei mercati europei; la volatilità è aumentata.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG11",
+            "RAWDOMText": [
+                " Obbligazioni governative",
+                " 2018",
+                " RENDIMENTI",
+                " POLITICHE MONETARIE DIVERSE",
+                " I premi dei titoli italiani si sono allargati a causa del rischio.",
+                " L’andamento dei listini azionari è stato:",
+                " - positivo negli US;",
+                " - negativo in EU.",
+                " La volatilità è aumentata."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p11.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/calendario.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/foglio_penna.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/iconaMoneteDollaro.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/iconaMoneteEuro.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/box_freccia.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "I principali dati relativi alla previdenza complementare 4/4",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Le tendenze osservate si sono riflesse sui risultati delle forme pensionistiche complementari, penalizzati dalle perdite in conto capitale scaturite dal rialzo dei rendimenti obbligazionari.<br>Nei nove mesi del 2018 i rendimenti aggregati, al netto dei costi di gestione e della fiscalità, sono stati in media marginalmente negativi per tutte le tipologie di forma pensionistica:<br>-0,1 e<br>-0,2 per cento, rispettivamente, per i fondi negoziali e i fondi aperti;<br>-0,1 per i PIP “nuovi” di ramo III.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG12",
+            "RAWDOMText": [
+                " Le tendenze hanno avuto conseguenze sulle forme pensionistiche complementari. ",
+                " 2018",
+                " Il rialzo dei rendimenti obbligazionari ha causato perdite in conto capitale.",
+                " I rendimenti aggregati, al netto dei costi di gestione e della fiscalità, sono stati in media negativi per tutte le tipologie di forma pensionistica. ",
+                " - 0,1%",
+                " Fondi negoziali",
+                " - 0,2%",
+                " Fondi aperti",
+                " - 0,1%",
+                " PIP nuovi",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>I recenti andamenti dei mercati finanziari incidono tuttavia in misura limitata su un periodo di osservazione più ampio. Rispetto a quanto registrato nel decennio trascorso da fine 2007, l’andamento fino a settembre 2018 ha inciso infatti solo per 0,2 punti percentuali sui rendimenti medi annui composti di tutte le forme complementari, che si mantengono largamente positivi.<br>Nel periodo da fine 2007 a fine settembre 2018, i rendimenti sono risultati pari al 3,1% nei fondi negoziali, al 2,8% per i fondi aperti, al 2% per i PIP di ramo III. Nello stesso periodo, la rivalutazione media annua composta del TFR è stata pari al 2,1%.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/p12.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/calendario.png"
+                },
+                {
+                    "src": "contenuti/0064_18_04_M01UD06/img/icone/box_freccia.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " La natura assicurativa dei PIR ha destato interesse?",
+                " Nei primi sette mesi del 2018 i piani di risparmio venduti da compagnie assicurative, secondo i dati Ania, hanno incassato nuovi premi per 1,624 miliardi (+212,3% rispetto all’analogo periodo 2017), arrivando quasi a eguagliare il bilancio di tutto il 2017 (1,7 miliardi di euro).",
+                " La forma assicurativa dei PIR, ha vincoli diversi?",
+                " I PIR possono essere costituiti anche attraverso la stipula di contratti assicurativi dei rami I, III, V, così come con soluzioni multiramo, ma anche nel caso dello strumento-polizza, dovranno essere rispettati i medesimi vincoli all’investimento.",
+                " Quali sono le principali cause della scarsa adesione alle forme pensionistiche integrative?",
+                " In primo luogo il progressivo invecchiamento della popolazione, che ne riduce la convenienza per le classi più anziane, ma è anche vero che nelle fasce più giovani non vi è sufficiente liquidità per accedervi, e la possibilità di utilizzare il TFR viene percepita come un rischio.",
+                " Che differenza c’è tra fondi aperti e fondi chiusi?",
+                " L’adesione ai Fondi aperti è aperta a tutti coloro che intendono costruirsi una pensione integrativa rispetto a quella di base e sono istituiti da banche, assicurazioni e SIM. I fondi chiusi (o negoziali) sono invece riservati a specifiche categorie di lavoratori e sono istituiti sulla base di accordi tra le organizzazioni sindacali e imprenditoriali."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_04_MOD1_LEZ6_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Dall’indagine del Centro Einaudi emerge che la maggioranza degli intervistati che non credono nei vantaggi fiscali delle forme pensionistiche integrative:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_04_M01UD06/audio/0064_18_04_m01ud06p14"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD1_LEZ6"
+}

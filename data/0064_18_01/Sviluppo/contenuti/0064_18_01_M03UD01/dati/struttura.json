@@ -1,0 +1,631 @@
+{
+    "titolo": "Come proteggersi dai principali pericoli - Parte 1",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Quando si presenta la necessità di utilizzare un software di cui non disponiamo, spesso ricorriamo alle risorse gratuite che internet ci offre.<BR>Questo comportamento ci espone a minacce di cui spesso non siamo consapevoli.<BR>La stessa cosa vale quando riponiamo una fiducia eccessiva nella sicurezza dei vari servizi online.<BR>Fortunatamente è possibile attuare delle strategie per rendere la nostra navigazione molto più sicura.<BR>Fai clic sulle foto per scoprire gli argomenti che andremo a trattare nelle prossime pagine!",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG1",
+            "RAWDOMText": [
+                " In quali pericoli incorriamo quando scarichiamo un software gratuito?",
+                " Che cosa sono i malware e come arrivano a minacciare i nostri dispositivi?",
+                " Possiamo sempre fidarci dei vari servizi online?",
+                " Quali strategie possiamo attuare per proteggere la nostra navigazione da occhi indiscreti?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "I software «gratuiti» 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sicuramente sarà capitato a tutti noi di avere la necessità di utilizzare un software per aprire un documento, guardare un video o convertire dei file.<BR>In questi casi, la cosa immediata che siamo portati a fare è cercare online e scaricare uno dei tanti prodotti gratuiti disponibili in rete.<BR>Durante la loro installazione sul nostro computer, molti di questi prodotti freeware sono dotati di programmi extra o plug-in, detti adware, che si installano automaticamente nel nostro computer o nel nostro browser, in concomitanza con l'installazione del software principale, senza che ce ne rendiamo troppo conto.<BR>Questi programmi aggiuntivi portano a una riduzione delle prestazioni e della sicurezza per il nostro computer, con il rischio di dover talvolta riportare il nostro dispositivo al suo stato iniziale, riformattandolo, per rimuoverli completamente.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG2",
+            "RAWDOMText": [
+                " Utilizzare un software gratuito",
+                " Freeware:",
+                " contengono adware che si installano automaticamente;",
+                " riducono prestazioni e sicurezza del computer."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p02.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/02_website.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/02_download.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "I software «gratuiti» 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Sempre più frequentemente utilizziamo sistemi di condivisione file per collaborare a distanza con colleghi o clienti. I sistemi di condivisione file peer-to-peer rappresentano un protocollo utile allo scopo, offrendo un modo efficace per condividere file direttamente da un computer a un altro, senza passare attraverso un server intermedio.<BR>Ciò riduce la complessità del sistema, abbatte i tempi di trasferimento e aumenta da ultimo la produttività del professionista.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG3",
+            "RAWDOMText": [
+                " I sistemi P2P:",
+                " permettono di condividere file da un computer a un altro;",
+                " riducono la complessità del sistema;",
+                " riducono i tempi di trasferimento;",
+                " aumentano la produttività.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Sebbene i sistemi P2P siano dei protocolli di rete legittimi, questi sono diventati famosi verso la fine degli anni ‘90 per offrire metodi di condivisione illegale di file. L’esempio più famoso è certamente quello di Napster, in quanto permetteva la condivisione di file musicali digitali fra tutti i vari utenti che utilizzavano il suo software. Sebbene il focus originario di questi servizi fosse lo scambio di musica, con l’aumentare della velocità di internet, anche file video e applicazioni software vengono regolarmente scambiati fra gli utenti, senza pagare alcuna licenza ai rispettivi creatori. Le società danneggiate hanno cercato vari metodi di protezione per impedire la pirateria diffusa dei loro prodotti, ma lo scambio di programmi piratati è ancora molto attivo fra gli utenti della rete.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p03.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/03_share.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/03_settings.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/03_stopwatch.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/03_tools.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "I malware 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Occorre tuttavia evidenziare che scaricare e condividere programmi piratati tramite i sistemi peer-to-peer è illegale. <BR>Ogni violazioni della licenza può avere una serie di conseguenze negative sul piano personale, finanziario e perfino legale.<BR>Il maggiore pericolo associato ai così detti warez, ossia ai programmi piratati, è che questi sono diventati un veicolo molto comune per la diffusione di virus e malware, con conseguenze potenzialmente devastanti sui dispositivi in nostro possesso e sui file in essi contenuti.<BR>I malware, infatti, sono programmi nascosti che si installano all'insaputa dell'utente e sono progettati per rubare le credenziali dell'utente, nonché altri dati di tipo finanziario o personale, che vengono utilizzati poi dagli hacker con finalità illecite.<BR>Più recentemente, i malware sono soliti assumere la forma di ransomware, ossia di programmi che bloccano o criptano l'accesso dell'utente ai file contenuti nell'intero dispositivo, con l'obiettivo per l'hacker di estorcere al malcapitato un riscatto, che così spera di ritornare in possesso dei documenti bloccati ricevendo in cambio la chiave di sblocco. Il malware può anche essere progettato per controllare il computer di un utente, in modo da poterlo usare per diffondere ulteriormente il software maligno ad altri utenti o per eseguire altre attività dannose per conto di chi aggredisce. In altre situazioni, invece, viene semplicemente progettato per essere distruttivo per il dispositivo, senza alcun vantaggio per l'aggressore, oltre alla soddisfazione personale.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG4",
+            "RAWDOMText": [
+                " P2P e software piratati",
+                " Violare la licenza dei software può avere conseguenze negative sul piano:",
+                " personale;",
+                " finanziario;",
+                " legale.",
+                " I warez, veicoli di virus e malware",
+                " Rappresentano una minaccia per i dispositivi e i file in essi contenuti.",
+                " I malware",
+                " Programmi nascosti che si installano all'insaputa dell'utente per rubare credenziali e dati personali.",
+                " Ransomware",
+                " Programmi che bloccano l'accesso ai file contenuti nel dispositivo.",
+                " Per ritornare in possesso dei documenti bisogna pagare un riscatto ricevendo in cambio la chiave di sblocco.",
+                " Gli utilizzi dei malware:",
+                " controllare il computer di un utente per diffondere il software maligno;",
+                " essere distruttivo per il dispositivo.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>I malware sono presenti in rete più di quanto possiamo immaginare. Tutte le volte che decidiamo di scaricare un programma gratuito, le probabilità di imbatterci in un software a rischio sono molto elevate. Ad esempio, un link per il download chiamato «MS Office 2016.exe», apparentemente utilizzabile per scaricare il pacchetto Office 2016 di Microsoft, potrebbe in realtà essere qualcosa di completamente diverso. I siti di programmi piratati spesso conducono gli utenti a una serie di pagine contenenti link familiari del tipo «Clicca qui per scaricare», oppure «Accetta il nostro accordo», oppure ancora «Scarica il nostro file manager». Alla fine, gli utenti finiscono con scaricare il file suggerito, senza che questo sia tuttavia il software che stavano cercando in origine.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/04_diploma.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaGiu.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "I malware 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I siti pirata utilizzano alcune tecniche per ingannare gli utenti e poi infettarne i dispositivi, ancora una volta basate sull'ingegneria sociale.<BR>Con un processo in due passaggi, gli utenti scaricano un file che sembra essere una versione trial / gratuita / a tempo limitato dell'applicazione e una volta installato il programma, il malware produce i suoi impatti negativi.<BR>In altri casi, i siti pirata sono progettati specificamente allo scopo di acquisire le informazioni personali degli utenti finali, ai navigatori viene infatti richiesto di inserire un nome utente e un indirizzo e-mail, eventualmente anche un numero di carta di credito, con l'assicurazione che non sarà addebitato alcun costo.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG5",
+            "RAWDOMText": [
+                " I siti pirata:",
+                " Utilizzano tecniche per ingannare gli utenti basate sull'ingegneria sociale.",
+                " Un processo in due passaggi:",
+                " Oppure...",
+                " ... i siti pirata acquisiscono informazioni personali degli utenti."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p05.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/02_download.png"
+                },
+                {
+                    "src": "contenuti/img/frecciadx.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/05_malware.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/05_pass.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/p05_at.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/bank.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "I malware 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Alcune volte è lo stesso utente che per distrazione accetta l'installazione dei bloatware, e cioè i programmi accessori non correlati al software principale.<BR>Quando si installa infatti un nuovo programma, la maggior parte degli utenti è solita cliccare in maniera immediata nelle istruzioni di installazione sul pulsante Avanti, senza prestare attenzione ai contenuti delle schermate e alle possibili opzioni di scelta.<BR>Sono proprio in queste schermate intermedie che l'utente accetta implicitamente l’installazione di uno o più programmi accessori, oltre a quello principale. Ogni volta che si installa qualsiasi nuovo software su uno dei nostri dispositivi, è essenziale leggere attentamente ogni schermata, per ridurre la probabilità che si installino inconsapevolmente programmi aggiuntivi diversi da quello desiderato. Questo tipo di pratica ingannevole ha colpito anche il mercato delle applicazioni per dispositivi mobili.<BR>Poiché è molto facile scaricare accidentalmente un programma mimetizzato, ogni volta che si scarica qualsiasi app, è sempre consigliabile farlo direttamente dal marketplace originale onde evitare spiacevoli sorprese.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG6",
+            "RAWDOMText": [
+                " I bloatware",
+                " Programmi accessori non correlati al software principale",
+                " Quando si installa un nuovo software: ",
+                " leggere attentamente ogni schermata;",
+                " prestare attenzione anche alle applicazioni per dispositivi mobili;",
+                " scaricare sempre dal marketplace originale."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p06.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/06_cursor.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/06_check.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Non esistono i «pasti gratis»",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Così come in finanza non esistono pasti gratis, anche nell'informatica vale la stessa regola. Il miglior modo per proteggersi dalle varie tipologie di malware è semplicemente quello di evitare di visitare siti a rischio e di installare software gratuiti da reti P2P. Se per motivi professionali o personali abbiamo bisogno di un software particolare, la soluzione a tutela della nostra privacy e dei nostri dati è comprare il programma direttamente dal sito del fornitore. Nel corso del processo di installazione, è bene ricordarsi di deselezionare le caselle relative ai vari componenti aggiuntivi e software extra che non sono necessari. È sempre bene non cercare scorciatoie per ottenere gratuitamente altri file musicali, video o app per dispositivi mobili. Non solo tale pratica è di solito illegale, ma espone al rischio di possibili intrusioni e/o furto dei dati.<BR>Un buon antivirus e un buon antimalware, sia per computer che per dispositivi mobili, almeno nella loro versione free, è la base per proteggere i propri dispositivi contro le principali tipologie di malware. Se sei stato colpito da uno di questi attacchi, consulta immediatamente un esperto, prima di pagare qualsiasi riscatto richiesto. Pagare il riscatto causa solo un'ulteriore perdita di denaro, in quanto non vi è alcuna garanzia che i malintenzionati restituiscano i codici di sblocco dei dati.<BR>Ricordiamoci inoltre di rimuovere tutti i programmi che non sono più utili e che occupano solo spazio sull'hard disk, oltreché rendono il computer più lento ed esposto agli attacchi.<BR>Infine è opportuno utilizzare sempre le versioni più aggiornate di browser, programmi antivirus e software antimalware, che oggigiorno offrono agli utenti avvisi su potenziali software dannosi o siti a rischio.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG7",
+            "RAWDOMText": [
+                " Come in finanza, così anche nell'informatica:",
+                " evitare di visitare siti a rischio e di installare software gratuiti;",
+                " comprare i programmi direttamente dal sito del fornitore;",
+                " deselezionare le caselle relative a componenti aggiuntivi e software extra;",
+                " ottenere gratuitamente file per dispositivi mobili è una pratica illegale e pericolosa;",
+                " proteggere i propri dispositivi con antivirus e antimalware;",
+                " consultare un esperto in caso di attacco informatico;",
+                " rimuovere i programmi non più utili e che occupano spazio;",
+                " utilizzare le versioni più aggiornate di browser, programmi antivirus e antimalware."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo4.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p07.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Mantenere i dati...personali",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Tutto noi sappiamo chi è Edward Snowden o lo abbiamo sentito nominare almeno una volta. Ex-tecnico della CIA ed ex- consulente della NSA, Snowden è noto per aver rivelato pubblicamente dettagli di diversi programmi di sorveglianza di massa del governo statunitense e britannico, fino ad allora tenuti segreti. Tutti noi siamo quindi spiati. Non dovremmo tuttavia preoccuparci tanto dei governi, quanto delle società che hanno un interesse a raccogliere il maggior numero possibile di dati sulle nostre attività in rete. Se stiamo ad esempio navigando su un sito di una certa società, alcune aziende vogliono saperlo, in modo da mostrarci in futuro annunci pubblicitari pertinenti ai nostri interessi online, che possono catturare maggiormente la nostra attenzione. Fin dalla fine degli anni Novanta, ogni volta che visitiamo un sito web, questo rilascia un piccolo file nel nostro computer, i così dett cookie in modo che alla prossima visita, il sito sia in grado di riconoscere cosa abbiamo visto o fatto.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG8",
+            "RAWDOMText": [
+                " Edward Snowden, noto per aver rivelato dettagli di diversi programmi di sorveglianza di massa del governo statunitense e britannico.",
+                " Siamo tutti spiati",
+                " Le aziende monitorano le nostre attività in rete, per mostrarci annunci pubblicitari personalizzati.",
+                " Attraverso il rilascio di cookie, un sito è in grado di riconoscere se lo abbiamo già visitato e che cosa abbiamo visto.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Facebook ha annunciato di aver iniziato a monitorare le abitudini di navigazione dei propri utenti al di fuori del proprio social. Come? Ogni volta che un utente effettua l’accesso a Facebook mentre naviga su altri siti, Facebook utilizza tali dati per guidare la visualizzazione degli annunci in modo che coincidano con il contenuto dell’attività online svolta degli utenti.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/snowden.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Proteggere le email",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "È importante dunque essere in grado di tenere riservati i nostri dati personali.<BR>Se per esempio stiamo trasmettendo dei dati a colleghi o amici, possiamo usufruire di servizi per firmare digitalmente le email; in questo caso i messaggi possono essere letti solo se il destinatario ha la chiave per decifrarli.<BR>Purtroppo la complessità di questi servizi, non ha reso molto diffuse tali pratiche, sebbene alcuni programmi di crittografia, come miniLock, rivolti al grande pubblico, stiano iniziando a comparire sul mercato.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG9",
+            "RAWDOMText": [
+                " Nascondere i propri dati personali",
+                " Utilizzare servizi per firmare digitalmente le email.",
+                " I messaggi possono essere letti solo dal destinatario che possiede la chiave per decifrarli.",
+                " I servizi di crittografia non sono molto diffusi.",
+                " Nonostante esistano programmi sul mercato (http://minilock.io), rivolti al grande pubblico."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p09_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p09_b.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/database.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Proteggersi nel cloud",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Oltre alla posta elettronica, sempre più professionisti utilizzano i servizi cloud per gestire i propri dati.<BR>Mentre la maggior parte di questi servizi offre un buon livello di protezione dei dati sui server remoti contro possibili intrusioni, alcuni fornitori si riservano la facoltà di ispezionare i dati degli utenti o di fornire accesso a tali dati alle autorità governative, se richiesto.<BR>Alcuni servizi di cloud storage, come ad esempio SpiderOak, richiedono invece agli utenti di crittografare tutti i loro file, prima di caricare qualsiasi dato nei loro spazi online.<BR>Poiché la crittografia dei dati viene eseguita direttamente sui dispositivi fisici degli utenti, questi provider non possono esaminare i dati dei loro clienti, anche se lo volessero o se fosse loro richiesto. Nel tempo il problema della privacy è diventato un tema sempre più sentito da parte degli utenti. La Electronic Frontier Foundation ha effettuato un sondaggio per valutare le protezioni offerte ai clienti da parte dei principali fornitori di servizi cloud. La figura, che rappresenta un estratto di una tabella più estesa, riporta le forme di protezione che nel 2017 i vari fornitori di servizi online offrivano ai propri utenti, nel caso in cui il governo degli Stati Uniti avesse avanzato una richiesta di visione di dati in loro possesso.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG10",
+            "RAWDOMText": [
+                " Cloud, gestione dati e sicurezza",
+                " I servizi cloud offrono un buon livello di protezione contro le intrusioni, ma alcuni fornitori si riservano la facoltà di ispezionare i dati o di fornire l’accesso alle autorità governative.",
+                " Il caso SpiderOak",
+                " Richiede agli utenti di crittografare i dati prima di caricarli nel suo spazio online.",
+                " Il provider non può esaminare i dati dei clienti.",
+                " Privacy, un tema sempre più sentito",
+                " Sondaggio della EFF per valutare le protezioni offerte da parte dei principali fornitori di servizi cloud.",
+                " Fonte: https://www.eff.org/who-has-your-back-2017"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p10.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/spideroak.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p10_tab.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "La navigazione privata",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Una forma di protezione della privacy, spesso sottovalutata dagli utenti, è la così detta navigazione privata, che è stata per la prima volta incorporata nel browser Safari da Apple a metà degli anni Duemila. Questa modalità operativa è progettata specificamente per non memorizzare cookie o altri file nella cache del browser, non lasciando quindi tracce sul computer locale. Negli anni seguenti tutti gli altri browser sul mercato hanno aggiunto questa funzionalità. Ma nella pratica, le varie funzioni di camuffamento offerte dai browser non sono completamente efficaci. Un modo più sicuro per proteggere ulteriormente la nostra privacy è l'uso di un browser proxy, che maschera l’identità e la posizione geografica dell'utente. Ciò non significa ancora che gli utenti diventano completamente invisibili online; piuttosto, questo impedisce alle varie società che utilizzano i nostri dati di navigazione di risalire ai vari siti che abbiamo visitato.<BR>Quando si utilizza un browser proxy, infatti, il traffico dell'utente viene rimbalzato attraverso diversi server in giro per il globo prima di arrivare alla destinazione finale.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG11",
+            "RAWDOMText": [
+                " Navigare in incognito...",
+                " Navigare su internet senza memorizzare cookie né lasciare tracce sul computer.",
+                " ... meglio un browser proxy",
+                " permette di mascherare identità e posizione geografica;",
+                " impedisce alle società di risalire ai vari siti che abbiamo visitato;",
+                " il traffico viene rimbalzato attraverso server in giro per il mondo.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Il browser proxy più conosciuto è Tor, scaricabile gratuitamente dalla rete (<a href=\"https://www.torproject.org/\" target=\"_blank\" style=\"color: white !important;\">https://www.torproject.org/</a>)</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p11.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/ask.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/apple.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Proteggere i dati «locali»",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Se il nostro interesse è invece proteggere i dati locali salvati sui nostri dispositivi, diverse sono invece le alternative a nostra disposizione. Un primo passo di protezione in loco è la crittografia dell'intero disco, di una o più cartelle, mantenendo comunque visibile a tutti gli utenti i file salvati in altre destinazioni, oppure utilizzare dei dispositivi di archiviazione esterna.<BR>I moderni sistemi operativi proposti da Microsoft e Apple includono opzioni che offrono agli utenti la possibilità di crittografare l'intero disco rigido in pochi passaggi; software dalle stesse funzionalità si trovano anche in commercio, sia a pagamento che in modalità open-source, come ad esempio VeraCrypt.<BR>Una volta crittato il disco, o parte di questo, senza la password corretta o un altro metodo di autenticazione accettato, i dati memorizzati sul dispositivo non sono accessibili e diventano quindi inutilizzabili per i terzi.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG12",
+            "RAWDOMText": [
+                " Per proteggere i dati sui nostri dispositivi:",
+                " crittografare l’hard disk;",
+                " utilizzare dispositivi di archiviazione esterna.",
+                " Una volta crittato il disco, senza la password corretta, i dati memorizzati sul dispositivo non sono accessibili."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/p12_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/window.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/apple.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/database.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD01/img/png/veracrypt.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, andiamo a fare il punto con il nostro esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Quali sono i rischi legati all’utilizzo di un software gratuito?",
+                " Il rischio dipende dal fatto che in molti di questi prodotti sono inseriti adware che si installano automaticamente nel computer, riducendo prestazioni e sicurezza. Inoltre possono contenere malware potenzialmente distruttivi per i dispositivi.",
+                " Che cosa sono i malware?",
+                " Sono programmi che si installano all'insaputa dell'utente, progettati per rubare id e password, oltre ad altri dati di tipo finanziario o personale.",
+                " In quali modi possiamo proteggere i dati contenuti nelle email?",
+                " Il metodo più efficace è usufruire di servizi per firmare digitalmente le email; in questo modo i messaggi possono essere letti solo se il destinatario ha la chiave per decifrarle.",
+                " I servizi cloud proteggono sempre i nostri dati?",
+                " La Electronic Frontier Foundation, con i suoi sondaggi, ha dimostrato che questi servizi non sempre garantiscono la nostra privacy. Criptare i dati prima di caricarli in uno spazio online offre maggiori garanzie di sicurezza."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere!",
+            "idkey": "0064_18_01_MOD2_LEZ1_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Il modo migliore per navigare in modalità «privata» è utilizzare:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD01/audio/0064_18_01_m03ud01p14"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD2_LEZ1"
+}

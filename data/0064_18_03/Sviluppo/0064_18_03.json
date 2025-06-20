@@ -1,0 +1,204 @@
+{
+    "idkey": "0064_18_03",
+    "titolo": "L'importanza della diversificazione di portafoglio nell'ottica della protezione del cliente",
+    "moduli": [
+        {
+            "children": [
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ1",
+                    "idlaunch": "0064_18_03_M01UD01",
+                    "href": "contenuti/0064_18_03_M01UD01",
+                    "struttura": "0064_18_03_M01UD01/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ2",
+                    "idlaunch": "0064_18_03_M01UD02",
+                    "href": "contenuti/0064_18_03_M01UD02",
+                    "struttura": "0064_18_03_M01UD02/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ3",
+                    "idlaunch": "0064_18_03_M01UD03",
+                    "href": "contenuti/0064_18_03_M01UD03",
+                    "struttura": "0064_18_03_M01UD03/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ4",
+                    "idlaunch": "0064_18_03_M01UD04",
+                    "href": "contenuti/0064_18_03_M01UD04",
+                    "struttura": "0064_18_03_M01UD04/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ5",
+                    "idlaunch": "0064_18_03_M01UD05",
+                    "href": "contenuti/0064_18_03_M01UD05",
+                    "struttura": "0064_18_03_M01UD05/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ6",
+                    "idlaunch": "0064_18_03_M01UD06",
+                    "href": "contenuti/0064_18_03_M01UD06",
+                    "struttura": "0064_18_03_M01UD06/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ7",
+                    "idlaunch": "0064_18_03_M02UD01",
+                    "href": "contenuti/0064_18_03_M02UD01",
+                    "struttura": "0064_18_03_M02UD01/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ8",
+                    "idlaunch": "0064_18_03_M02UD02",
+                    "href": "contenuti/0064_18_03_M02UD02",
+                    "struttura": "0064_18_03_M02UD02/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ9",
+                    "idlaunch": "0064_18_03_M02UD03",
+                    "href": "contenuti/0064_18_03_M02UD03",
+                    "struttura": "0064_18_03_M02UD03/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ10",
+                    "idlaunch": "0064_18_03_M02UD04",
+                    "href": "contenuti/0064_18_03_M02UD04",
+                    "struttura": "0064_18_03_M02UD04/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ11",
+                    "idlaunch": "0064_18_03_M02UD05",
+                    "href": "contenuti/0064_18_03_M02UD05",
+                    "struttura": "0064_18_03_M02UD05/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ12",
+                    "idlaunch": "0064_18_03_M02UD06",
+                    "href": "contenuti/0064_18_03_M02UD06",
+                    "struttura": "0064_18_03_M02UD06/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ13",
+                    "idlaunch": "0064_18_03_M02UD10",
+                    "href": "contenuti/0064_18_03_M02UD10",
+                    "struttura": "0064_18_03_M02UD10/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ14",
+                    "idlaunch": "0064_18_03_M02UD11",
+                    "href": "contenuti/0064_18_03_M02UD11",
+                    "struttura": "0064_18_03_M02UD11/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD1_LEZ15",
+                    "idlaunch": "TestF",
+                    "testobjectives": "1.1.1|1.2.1|1.3.1|2.1.1|2.1.2|2.2.1|3.1.1|3.1.2|3.2.1|4.1.1|4.1.2|4.2.1",
+                    "masteryscore": "60",
+                    "href": "contenuti/TestF",
+                    "struttura": "TestF/dati/struttura"
+                }
+            ],
+            "idkey": "0064_18_03_MOD1",
+            "titolo": "L'importanza della diversificazione di portafoglio nell'ottica della protezione del cliente - Parte 1 (3 ore)"
+        },
+        {
+            "children": [
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ1",
+                    "idlaunch": "0064_18_03_M02UD07",
+                    "href": "contenuti/0064_18_03_M02UD07",
+                    "struttura": "0064_18_03_M02UD07/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ2",
+                    "idlaunch": "0064_18_03_M02UD08",
+                    "href": "contenuti/0064_18_03_M02UD08",
+                    "struttura": "0064_18_03_M02UD08/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ3",
+                    "idlaunch": "0064_18_03_M02UD09",
+                    "href": "contenuti/0064_18_03_M02UD09",
+                    "struttura": "0064_18_03_M02UD09/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ4",
+                    "idlaunch": "0064_18_03_M02UD12",
+                    "href": "contenuti/0064_18_03_M02UD12",
+                    "struttura": "0064_18_03_M02UD12/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ5",
+                    "idlaunch": "0064_18_03_M02UD13",
+                    "href": "contenuti/0064_18_03_M02UD13",
+                    "struttura": "0064_18_03_M02UD13/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ6",
+                    "idlaunch": "0064_18_03_M03UD01",
+                    "href": "contenuti/0064_18_03_M03UD01",
+                    "struttura": "0064_18_03_M03UD01/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ7",
+                    "idlaunch": "0064_18_03_M03UD02",
+                    "href": "contenuti/0064_18_03_M03UD02",
+                    "struttura": "0064_18_03_M03UD02/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ8",
+                    "idlaunch": "0064_18_03_M03UD03",
+                    "href": "contenuti/0064_18_03_M03UD03",
+                    "struttura": "0064_18_03_M03UD03/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ9",
+                    "idlaunch": "0064_18_03_M03UD04",
+                    "href": "contenuti/0064_18_03_M03UD04",
+                    "struttura": "0064_18_03_M03UD04/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ10",
+                    "idlaunch": "0064_18_03_M03UD05",
+                    "href": "contenuti/0064_18_03_M03UD05",
+                    "struttura": "0064_18_03_M03UD05/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ11",
+                    "idlaunch": "0064_18_03_M03UD06",
+                    "href": "contenuti/0064_18_03_M03UD06",
+                    "struttura": "0064_18_03_M03UD06/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ12",
+                    "idlaunch": "0064_18_03_M03UD07",
+                    "href": "contenuti/0064_18_03_M03UD07",
+                    "struttura": "0064_18_03_M03UD07/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ13",
+                    "idlaunch": "0064_18_03_M03UD08",
+                    "href": "contenuti/0064_18_03_M03UD08",
+                    "struttura": "0064_18_03_M03UD08/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ14",
+                    "idlaunch": "TestF",
+                    "testobjectives": "5.1.1|5.1.2|5.2.1|6.1.1|6.2.1|6.3.1|7.1.1|7.1.2|7.2.1",
+                    "masteryscore": "60",
+                    "href": "contenuti/TestF",
+                    "struttura": "TestF/dati/struttura"
+                },
+                {
+                    "idkey": "0064_18_03_MOD2_LEZ15",
+                    "idlaunch": "TestF",
+                    "testobjectives": "1.1.1|1.2.1|1.3.1|2.1.1|2.1.2|2.2.1|3.1.1|3.1.2|3.2.1|4.1.1|4.1.2|4.2.1|5.1.1|5.1.2|5.2.1|6.1.1|6.2.1|6.3.1|7.1.1|7.1.2|7.2.1",
+                    "masteryscore": "60",
+                    "href": "contenuti/TestF",
+                    "struttura": "TestF/dati/struttura"
+                }
+            ],
+            "idkey": "0064_18_03_MOD2",
+            "titolo": "L'importanza della diversificazione di portafoglio nell'ottica della protezione del cliente - Parte 2 (3 ore)"
+        }
+    ]
+}

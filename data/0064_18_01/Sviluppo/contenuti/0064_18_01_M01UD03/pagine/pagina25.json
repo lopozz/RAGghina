@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Hanno molti punti di accesso, ciascuno dei quali è  potenzialmente attaccabile da hacker.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"I dispositivi che ne fanno parte sono di tipologie troppo diverse fra loro.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Hanno bisogno di manutenzione continua e costosa.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutte le precedenti.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Poiché ogni rete connette un numero sempre maggiore di devices, parallelamente aumenta il numero di potenziali punti di accesso per gli hacker. Inoltre, non tutti i dispositivi vengono protetti allo stesso modo: le stampanti di rete sono molto meno controllate dalle aziende rispetto a desktop e laptop.",
+    "feedbackNeg": "<b>Non è esatto!</b> Poiché ogni rete connette un numero sempre maggiore di devices, parallelamente aumenta il numero di potenziali punti di accesso per gli hacker. Inoltre, non tutti i dispositivi vengono protetti allo stesso modo: le stampanti di rete sono molto meno controllate dalle aziende rispetto a desktop e laptop."
+}

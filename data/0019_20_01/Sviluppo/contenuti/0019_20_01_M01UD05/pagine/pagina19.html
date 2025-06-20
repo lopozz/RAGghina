@@ -1,0 +1,105 @@
+<div style="width:100%; height: 100%;">
+  <div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000"
+       ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+    <div id="img1" style="position: absolute; top: 40px; left: 0px;">
+      <img src="contenuti/img/gialloverticale.png" style="">
+    </div>
+    <div class="pullDown" style="position: absolute; top: 20px; left: 0px;">
+      <img src="contenuti/img/bluverticale.png" style="">
+    </div>
+    <div id="img3" class="bigEntrance" style="position: absolute; top: 25px; left: 0px;">
+      <img src="contenuti/0019_20_01_M01UD05/img/p19.png">
+    </div>
+    <div id="img2" class="pullDown" animated="" datastart="0" ng-show="getIsVisible('img2')"
+         style="position: absolute;top: 37px;left: -30px;">
+      <img src="contenuti/img/boxTitolo.png" style="width: 353px; height: 90px;">
+      <div style="position: absolute;top: 7px;left: 40px;font-size: 16px;width: 305px;">
+        <div class="slideRight"
+             style="margin-top: 20px;">
+          <strong>Orientamento generale 11</strong>
+        </div>
+      </div>
+    </div>
+    <div id="img4" class="pullDown" animated="" datastart="12" ng-show="getIsVisible('img4')"
+         style="position: absolute;top: 155px;left: -30px;">
+      <img src="contenuti/img/boxTitolo.png" style="width: 353px; height: 90px;">
+      <div style="position: absolute;top: 7px;left: 40px;font-size: 16px;width: 565px;">
+        <div class="slideRight"
+             style="margin-top: 20px;">
+          <strong>Orientamento di supporto 97</strong>
+        </div>
+      </div>
+    </div>
+    <div id="img8" class="pullDown" animated="" datastart="31" ng-show="getIsVisible('img8')"
+         style="position: absolute;top: 309px;left: -30px;">
+      <img src="contenuti/img/boxTitolo.png" style="width: 353px; height: 90px;">
+      <div style="position: absolute;top: 7px;left: 40px;font-size: 16px;width: 565px;">
+        <div class="slideRight"
+             style="margin-top: 20px;">
+          <strong>Orientamento di supporto 98</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contenitore2" class="pullDown" animated="" datastart="1" dataend="1000"
+       ng-show="getIsVisible('contenitore2')" style="position: absolute;top: 14px;left: 330px;">
+    <div id="img5" class="pullDown" style="position: absolute; top: 24px; left: 0px;">
+      <img src="contenuti/img/violaangolo.png" style="">
+    </div>
+    <div style="position: absolute;top: 50px;left: 40px;font-size: 16px;width:600px;">
+      <div id="blocco3" class="slideRight" style="">
+        Le imprese devono garantire che il personale coinvolto in aspetti rilevanti del processo di adeguatezza possieda un livello adeguato di conoscenze e competenze.
+      </div>
+    </div>
+  </div>
+
+  <div id="contenitore3" class="pullDown" animated="" datastart="12" dataend="1000"
+       ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 131px;left: 330px;">
+    <div class="pullDown" style="position: absolute; top: 24px; left: 0px;">
+      <img src="contenuti/img/violaangolo.png" style="">
+    </div>
+    <div style="position: absolute;top: 50px;left: 40px;font-size: 16px;width:600px;">
+      <div class="slideRight" style="">
+        Il personale  dell’intermediario deve comprendere il suo ruolo nel processo di valutazione dell’adeguatezza e possedere le qualifiche, le conoscenze e le competenze necessarie, compresa una sufficiente conoscenza delle norme e delle procedure pertinenti per l’esercizio delle responsabilità attribuitegli.
+      </div>
+    </div>
+  </div>
+
+
+  <div id="contenitore4" class="pullDown" animated="" datastart="31" dataend="1000"
+       ng-show="getIsVisible('contenitore4')" style="position: absolute;top: 285px;left: 330px;">
+    <div class="pullDown" style="position: absolute; top: 24px; left: 0px;">
+      <img src="contenuti/img/violaangolo.png" style="">
+    </div>
+    <div style="position: absolute;top: 50px;left: 40px;font-size: 16px;width:600px;">
+      <div class="slideRight" style="">
+        Il personale che fornisce consulenza in materia di investimenti o informazioni sugli strumenti finanziari, i depositi strutturati, i servizi di investimento o i servizi accessori per conto dell’impresa, deve avere le conoscenze e le competenze necessarie a norma della MiFID, anche per quanto riguarda la valutazione dell’adeguatezza.
+      </div>
+    </div>
+  </div>
+  <div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded"
+       style="position: absolute; font-size: 40px; left: 835px; top: 119px; z-index: 2;">
+    <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href=""
+       ng-click="openBoxAppro(800,400,'0019_20_01_M01UD05P19','Orientamento di supporto 99',1,35)"
+       a-disabled="approfondimentiObbligatori.length === 0"><img
+      ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/occhiali_visitato.png':'contenuti/img/occhiali.png'}}"
+      style="width:90px;"></a>
+  </div>
+  <div class="istruzionePopup">
+    <div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="">Fai clic sugli occhiali
+      e leggi l’approfondimento
+    </div>
+  </div>
+</div>
+<aside>
+  <audio audiosource="contenuti/0019_20_01_M01UD05/audio/m01ud05p19" condiviso="true">
+  </audio>
+</aside>
+<script type="text/ng-template" id="0019_20_01_M01UD05P19">
+  <div style="color:#FFF;">
+    <p>
+      Gli altri membri del personale che non interagiscono direttamente con i clienti, ma che sono coinvolti nella valutazione dell’adeguatezza in altro modo, devono comunque possedere le capacità, le conoscenze e le competenze necessarie a seconda del ruolo specifico che svolgono nel processo di determinazione dell’adeguatezza. Possono, ad esempio, elaborare i questionari, definire gli algoritmi alla base della valutazione dell’adeguatezza o altri aspetti necessari a condurre la valutazione dell’adeguatezza e controllare la conformità ai requisiti di adeguatezza.
+    </p>
+  </div>
+</script>

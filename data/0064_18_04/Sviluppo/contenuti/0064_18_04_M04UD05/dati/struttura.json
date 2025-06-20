@@ -1,0 +1,566 @@
+{
+    "titolo": "Riepilogando 1",
+    "contenuti": [
+        {
+            "ordine": 1,
+            "titolo": "",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG1",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Parliamo adesso di investimenti sostenibili.",
+                " Gli investimenti sostenibili prevedono un approccio in cui le decisioni di investimento comprendono considerazioni di natura sociale, valori personali o una missione istituzionale."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag1.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG2",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " La scelta di investire in modo sostenibile varia notevolmente da un Paese all’altro. L’allocazione media in tutti i Paesi è del 36%."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag2.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "",
+            "percorso": "pagine/pagina3.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG3",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " In Italia la percentuale di chi investe in modo sostenibile si attesta al 51% mentre l’allocazione media degli investimenti sostenibili è pari al 31%.",
+                " La Cina e il Brasile registrano rispettivamente il 60% e il 53% come percentuale di chi investe in modo sostenibile e il 46% e il 44% come allocazione media degli investimenti sostenibili.",
+                " Gli Stati Uniti segnano rispettivamente il 12% e il 49%."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/fonte_1.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "",
+            "percorso": "pagine/pagina4.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG4",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Il 57% di persone indicano che la mancanza di informazioni impedisce loro di investire o investire di più in investimenti sostenibili."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag4.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "",
+            "percorso": "pagine/pagina5.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG5",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Nel dettaglio:",
+                " per il 26% degli intervistati, vi è una mancanza di informazioni disponibili su come i gestori di fondi sostenibili si impegnano con le società in cui investono;",
+                " per un altro 26%, vi è una mancanza di consulenza più ampiamente disponibile sugli investimenti sostenibili;",
+                " il 22% degli intervistati non è sicuro di quali investimenti adottino un approccio sostenibile;",
+                " il 9% non comprende cosa siano gli investimenti sostenibili."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/fonte_4.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "",
+            "percorso": "pagine/pagina6.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG6",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Si prevede che l’adozione di investimenti sostenibili crescerà in modo significativo, passando dall’attuale 39% al 48% nei prossimi cinque anni. Inoltre, molti investitori prevedono di aumentare l’allocazione agli investimenti sostenibili nei loro portafogli.",
+                " Infatti, il 58% degli investitori si aspetta che gli investimenti sostenibili diventino l’approccio standard agli investimenti da qui a 10 anni."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag6.png"
+                },
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag6a.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "",
+            "percorso": "pagine/pagina7.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG7",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Tra gli investitori che attualmente non investono in modo sostenibile, quattro su dieci sono molto interessati a farlo.",
+                " I consulenti sono fondamentali per promuovere un maggiore coinvolgimento tra coloro che non hanno investimenti sostenibili. Ad esempio, nove investitori sostenibili su dieci citano l’influenza di un consulente sulla loro decisione di investire in modo sostenibile, seguita da familiari e amici."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag7.png"
+                },
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag7a.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "",
+            "percorso": "pagine/pagina8.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG8",
+            "RAWDOMText": [
+                " INVESTIMENTI SOSTENIBILI",
+                " Gli investitori italiani sono di gran lunga tra i più interessati in Europa riguardo agli investimenti sostenibili, con il 90% che si considera interessato. ",
+                " Suddividendo i dati per regioni e fasce d’età, gli investitori del Centro Italia sono i più interessati agli investimenti sostenibili, così come quelli di età inferiore ai 35 anni."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag8.png"
+                },
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag8a.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "",
+            "percorso": "pagine/pagina9.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG9",
+            "RAWDOMText": [
+                " RISCHI EMERGENTI",
+                " La decima Emerging Risk Survey realizzata da AXA ha individuato i principali rischi emergenti per i prossimi 5-10 anni. ",
+                " Nel dettaglio riguardano:",
+                " Cambiamento climatico. I rischi ambientali sono al primo posto nella classifica dei rischi emergenti. Dato che questo trend climatico non sembra destinato a interrompersi, possiamo aspettarci che la probabilità di intense ondate di calore aumenti entro i prossimi dieci anni. Lo stesso vale per i picchi di pioggia e la possibilità di inondazioni sulle coste.",
+                " Cyber risk. Per le compagnie di assicurazione e gli intermediari assicurativi il ridotto numero delle informazioni storiche disponibili rende complessa la definizione dei prezzi con i metodi di pricing assicurativi tradizionali."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "",
+            "percorso": "pagine/pagina10.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG10",
+            "RAWDOMText": [
+                " RISCHI EMERGENTI",
+                " \"Internet of things, intelligenza artificiale e robotizzazione. Alcuni progressi tecnologici negli ultimi anni hanno aperto le lacune di sicurezza che sono difficili da colmare. ",
+                " Questa sfaccettata categoria di rischi tocca diversi ambiti, dai progressi nell’intelligenza artificiale (con lo sviluppo del deep learning) allo sviluppo della robotica e al crescente numero di oggetti collegati (Internet of Things, IoT). L’IoT presenta due rischi principali: “cybersecurity dei dati e cybersecurity dei device”."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "",
+            "percorso": "pagine/pagina11.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG11",
+            "RAWDOMText": [
+                " RISCHI EMERGENTI",
+                " Rischio finanziario. Dopo oltre un decennio dalla Grande Recessione, la crescita è ancora in modalità di ripresa. Se la crescita dovesse rallentare prima che gli squilibri finanziari sussistenti diminuiscano completamente, gli squilibri potrebbero creare rischi che devono essere attentamente monitorati nei prossimi 5-10 anni. E’ altamente probabile che, poiché l’economia globale subirà un rallentamento ciclico nel medio termine, si concretizzeranno alcuni dei rischi legati alla volatilità del mercato. Le vulnerabilità nel sistema finanziario verranno messe alla prova quando i mercati verranno ulteriomente \"stressati\". Gli economisti attribuiscono questa fragilità alla combinazione di bassa produttività e politiche fiscali e monetarie eccezionali che sono state messe in campo per sollevare le economie dalla più grande crisi economica degli ultimi decenni: “i tassi di interesse ultra-bassi hanno sostenuto la valutazione per la maggior parte delle attività finanziarie e degli asset reali, mentre le politiche non sono riuscite a sollevare la crescita esponenziale. ",
+                " Un ritiro delle politiche di allentamento della Banca centrale, senza adeguate politiche fiscali e strutturali, potrebbe portare ad un crollo dei mercati finanziari”. Inoltre “i tassi di interesse storicamente bassi combinati con le politiche di bilancio che non sono state invertite nei recenti periodi economici migliori, hanno portato ad un forte aumento della leva finanziaria, in particolare per i governi e le società non finanziarie”."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "",
+            "percorso": "pagine/pagina12.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG12",
+            "RAWDOMText": [
+                " RISCHI EMERGENTI",
+                " Gestione delle risorse naturali. La popolazione globale continuerà a crescere, determinando una crescente domanda di cibo e fibre, acqua ed energia; l’attività economica dovrà espandersi per garantire il sostentamento di questa crescente popolazione."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "",
+            "percorso": "pagine/pagina13.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG13",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Proprio con riferimento a questi rischi emergenti, il nostro Paese ha già putroppo sperimentato alcune delle fattispecie individuate nell’indagine.",
+                " Negli ultimi anni, infatti, l’Italia è stata colpita da diversi eventi atmosferici e idrogeologici.",
+                " Per questo motivo, la Legge di bilancio 2018 (commi 768-770) ha introdotto delle importanti novità in tema di incentivi fiscali per quanto riguarda le assicurazioni contro il rischio di eventi calamitosi a copertura delle abitazioni.",
+                " La misura introdotta potrà rivelarsi un primo passo per contrastare la scarsa propensione dei cittadini italiani ad assicurare la propria casa contro i rischi legati a eventi catastrofali."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/fonte_13.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "",
+            "percorso": "pagine/pagina14.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG14",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Secondo i dati Ania, il numero complessivo di polizze attive (per il totale del mercato) al 31 marzo 2018 era pari a 9,1 milioni, in aumento del 4,6% rispetto a quanto rilevato a settembre 2016. A fronte di queste polizze risultavano somme assicurate pari a 3.374,4 miliardi, valore sostanzialmente stabile rispetto al 2016."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag14.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "",
+            "percorso": "pagine/pagina15.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG15",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Di queste polizze oltre il 55% è relativo a polizze multirischio (erano circa il 52% nel 2016), il 31% a polizze che assicurano il solo rischio incendio (monorischio), meno del 13% a polizze globale fabbricati, mentre lo 0,7% (era lo 0,5%) è relativo a polizze che coprono unicamente il rischio terremoto (senza la copertura del rischio incendio). ",
+                " La distribuzione percentuale delle somme assicurate evidenzia, invece, che circa la metà del patrimonio abitativo assicurato è relativo a polizze globale fabbricati (essendo evidentemente le più rilevanti in termini di valore), il 33% a polizze multirischio e oltre il 16% a polizze solo incendio (monorischio)."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/fonte_13.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "",
+            "percorso": "pagine/pagina16.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG16",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Emerge che l’84,2% delle polizze incendio riguarda le unità abitative (l’82,5% a settembre 2016), il 13,8% i fabbricati (in riduzione rispetto alla rilevazione precedente) e solo il 2,0% è relativa a unità commerciali ancillari, ovvero a quelle unità destinate ad attività commerciali e situate a pian terreno negli edifici adibiti prevalentemente a residenza.",
+                " Chiaramente, se si considerano le somme assicurate, le distribuzioni percentuali cambiano significativamente in quanto i fabbricati, avendo un valore maggiore delle singole unità abitative, rappresentano quasi la metà di tutte le somme assicurate (51,2%). Oltre il 46% dei valori assicurati è relativo alle unità abitative e solo il 2,4% è riferibile alle unità commerciali ancillari."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag16.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "",
+            "percorso": "pagine/pagina17.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG17",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Il nostro Paese si distingue per una gestione dei danni relativi a calamità naturali che tradizionalmente si basa sull’intervento ex-post da parte dello Stato. ",
+                " Questa modalità di gestione dei danni, attuata ripetutamente nel tempo, ha accresciuto la convinzione che esista un garante di ultima istanza disposto a farsi carico della ricostruzione. Per tale ragione le coperture assicurative per gli eventi catastrofali sono scarsamente diffuse: il 93,2% delle polizze non presenta alcuna estensione assicurativa."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag17.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "",
+            "percorso": "pagine/pagina18.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG18",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Gli italiani sembrano convinti di aver assicurato la propria casa contro i rischi catastrofali, in misura superiore all’effettiva diffusione. A spiegare almeno in parte questa non consapevolezza vi è il fatto che i contratti assicurativi sono spesso sottoscritti dagli amministratori dei condomini (le cosiddette globali fabbricati) e i singoli condomini non ne conoscono con precisione le clausole. ",
+                " Non corretta appare anche la percezione",
+                " del pericolo: soltanto il 17% ritiene ",
+                " che la propria abitazione sia esposta ",
+                " al rischio di terremoti."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag18.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "",
+            "percorso": "pagine/pagina19.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG19",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Quasi una famiglia su due (il 46%) ritiene che lo Stato abbia una sorta di obbligo a intervenire, completamente o parzialmente, per rimborsare i danni subiti dalle abitazioni private in seguito a una catastrofe naturale, percentuale che sale poi al 54% per quelle persone che credono di vivere in zone a elevato rischio catastrofale."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag19.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 20,
+            "titolo": "",
+            "percorso": "pagine/pagina20.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 30000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG20",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " Al tempo stesso, quasi la metà delle famiglie intervistate (46%) dichiara di essere favorevole all’acquisto di una polizza assicurativa contro le catastrofi naturali, ma questa percentuale sale addirittura al 76% quando ricorrano le seguenti condizioni:"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_04_M04UD05/img/tab_pag20.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 21,
+            "titolo": "",
+            "percorso": "pagine/pagina21.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 500,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_04_MOD2_LEZ13_PAG21",
+            "RAWDOMText": [
+                " CATASTROFI NATURALI E ASSICURAZIONI",
+                " vi sia la garanzia di risarcimenti certi, immediati e corrispondenti al valore di ricostruzione della casa; ",
+                " il prezzo della copertura assicurativa sia contenuto; ",
+                " la valutazione del danno venga effettuata da un perito di fiducia. Sembrerebbe dunque che una maggiore divulgazione della conoscenza dei rischi e dell’efficacia delle coperture assicurative possa essere la strada giusta per incentivare le famiglie italiane ad assicurare la propria abitazione contro i rischi catastrofali."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_04_MOD2_LEZ13"
+}

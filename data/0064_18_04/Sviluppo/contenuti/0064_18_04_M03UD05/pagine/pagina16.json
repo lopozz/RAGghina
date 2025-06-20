@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"No, il social trading è un’estensione del copy trading.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"No, il copy trading riguarda esclusivamente le criptovalute.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sì, alcuni siti di comparazione li chiamano in un modo, alcuni nell’altro.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sì, cambiano le strategie di trading possibili.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Può essere inteso, da un lato, come un’<b>estensione “Social” del Mirror Trading e del Copy Trading</b>, ovvero come la possibilità di interagire con altri utenti e con gli stessi trader in un contesto sociale.",
+    "feedbackNeg": "<b>Non è esatto!</b> Può essere inteso, da un lato, come un’<b>estensione “Social” del Mirror Trading e del Copy Trading</b>, ovvero come la possibilità di interagire con altri utenti e con gli stessi trader in un contesto sociale."
+}

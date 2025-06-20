@@ -1,0 +1,775 @@
+{
+    "titolo": "Vademecum per la sicurezza dei dati aziendali - Parte 5",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Organizzare la sicurezza dei sistemi IT e dei dati aziendali … Perché farsi carico di uno sforzo tecnico-organizzativo di questa portata? Organizzare la sicurezza, come vedremo, costa meno ed è più efficace che improvvisarla. È un elemento che attesta la qualità dell’azienda, da non trascurare quindi in sede di marketing. E poi, ovviamente, si tratta di un obbligo di legge...spetta all’azienda l’onere della prova! Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG1",
+            "RAWDOMText": [
+                " Quanto è complesso organizzare la sicurezza ICT in azienda?",
+                " Quali i principali strumenti a disposizione?",
+                " Che cosa significa assicurare sicurezza a sé e ai propri clienti?",
+                " Quali misure si devono prendere in pratica?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Premesse fondamentali",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come si può concretamente perseguire l’obiettivo sicurezza? I due principali strumenti sono le “Politiche” (o Policy) e le “Procedure”, da formulare dettagliatamente in specifici documenti. Questi devono riportare gli obiettivi concreti, gli strumenti per raggiungerli, le specifiche responsabilità, sia operative che di verifica e controllo (chi-fa-cosa). Per progettare e formulare politiche e procedure adeguate è importante affidarsi a chi abbia effettive competenze in materia e le impieghi in primo luogo per comprendere concretamente la realtà aziendale di riferimento.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG2",
+            "RAWDOMText": [
+                " Come realizzare la sicurezza?",
+                " POLITICHE E PROCEDURE",
+                " Obiettivi e strumenti",
+                " Responsabilità sia operative, che di verifica e controllo",
+                " Importante affidarsi a chi abbia specifiche competenze in materia…",
+                " … e le impieghi per conoscere approfonditamente la realtà aziendale!",
+                " I contenuti di questa lezione sono tratti e sintetizzati da: ”Metti al sicuro il tuo business - Vademecum per la sicurezza dei dati aziendali” Assintel 2017"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/002-contract.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/001-loupe.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Requisiti necessari",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Occorre qui fare una premessa fondamentale. I “documenti” su cui sono scritte le politiche e le procedure sono destinati a rimanere lettera morta, in assenza di  alcuni requisiti organizzativi fondamentali. Esse infatti: devono essere rese note a tutti, sia in fase di prima stesura che di revisione; devono essere applicabili, e applicate; devono avere a sostegno un adeguato budget l’impegno del top management; devono esserne monitorati i risultati, apportando modifiche ove necessario.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG3",
+            "RAWDOMText": [
+                " Una premessa importante",
+                " Politiche e procedure rimangono lettera morta se mancano…",
+                " Tempestiva e capillare condivisione",
+                " Applicabilità e impegno ad applicarle",
+                " Budget mirato, commitment della direzione",
+                " Monitoraggio dei risultati e attività di revisione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p03.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Politiche e procedure: nozioni fondamentali",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come distinguere politiche e procedure? In generale, si può dire che le politiche fissano gli obiettivi e finalità dell'azienda, mentre le procedure, sia tecniche che organizzative, specificano dettagliatamente come realizzarli. Un buon criterio per distinguerle è la loro durata: le politiche, se ben formulate, possono durare anche anni, essendo legate a mission dell’azienda, evoluzioni normative, ecc. Mentre le procedure devono essere aggiornate più frequentemente, per seguire in primo luogo le evoluzioni tecnologiche. Ma quali politiche e procedure servono? La risposta dipende molto dalla natura della singola azienda. Orientativamente, si possono prevedere: politiche generali, che enunciano obiettivi strategici, budget e norme di riferimento; politiche specifiche per la privacy, la gestione accessi, l'uso corretto degli strumenti aziendali, la continuità operativa, la gestione incidenti; procedure per il monitoraggio dei dispositivi, il salvataggio e ripristino, il ripristino da disastro, i rapporti con i mezzi di comunicazione, le autorità, i clienti e i fornitori. Se l'azienda si occupa di software o  servizi ICT bisognerebbe avere anche politiche e procedure per la sicurezza della progettazione.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG4",
+            "RAWDOMText": [
+                " Come distinguere politiche e procedure?",
+                " Contengono obiettivi e finalità generali",
+                " Restano valide anche anni",
+                " Descrivono come realizzare obiettivi e finalità",
+                " Aggiornamento frequente",
+                " Quali sono necessarie?",
+                " Politiche generali",
+                " Obiettivi strategici – budget – norme di riferimento",
+                " Politiche specifiche",
+                " Privacy – gestione accessi – uso strumenti aziendali – continuità operativa, gestione incidenti",
+                " Procedure specifiche",
+                " Monitoraggio dispositivi - salvataggio e ripristino - disaster recovery - rapporti con l’esterno",
+                " Politiche e procedure di security by design",
+                " Interessa aziende di servizi ICT e SW"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/003-factory.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Relazioni fra politiche e procedure (esempio)",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La politica generale per la sicurezza è di livello strategico e riguarda tutta l'azienda. Stabilisce, per esempio, le regole per l'uso delle apparecchiature, quali sono le responsabilità individuali, il budget per la sicurezza, i criteri di scelta dei fornitori e le norme di riferimento. Da essa derivano le politiche specifiche quali, la politica sulla continuità operativa e la politica per la gestione degli accessi. La prima esplicita gli obiettivi di budget dell'area, i vincoli normativi, le modalità con cui s'intende ottenere la continuità operativa, gli obiettivi di recupero della operatività in caso di incidente bloccante. Da essa dipendono la politica/procedura di recupero dal disastro e la procedura di salvataggio e ripristino. La politica sulla gestione degli accessi fissa, per esempio, ai criteri generali con cui si gestiscono gli accessi dei collaboratori ai sistemi, stabilisce come gli accessi sono (eventualmente) controllati, e da chi. Da questa politica dipendono la procedura di controllo accessi e la procedura di monitoraggio.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG5",
+            "RAWDOMText": [
+                " Politica generale per la sicurezza",
+                " Di livello strategico. Riguarda tutta l'azienda.",
+                " Regole per l'uso delle apparecchiature, responsabilita individuali, budget per la sicurezza, criteri di scelta dei fornitori, norme di riferimento.",
+                " Politica per la continuita operativa",
+                " Obiettivi di budget dell'area",
+                " Vincoli normativi",
+                " Come ottenere la continuita operativa",
+                " Obiettivi di recupero dell'operativita in caso di incidente bloccante",
+                " Politica sulla gestione degli accessi",
+                " Criteri generali con cui si gestiscono gli accessi dei collaboratori ai sistemi",
+                " Modalita e frequenza di controllo degli accessi",
+                " Politica/procedura di disaster recovery",
+                " Procedura di backup and restore",
+                " Procedura di controllo accessi e procedura di monitoraggio"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Quattro importanti procedure",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Esaminiamo adesso cosa significano le procedure appena ricordate. Quella di disaster recovery è un prerequisito per la continuità operativa, collegata alla relativa procedura. Quella di backup and restore ha aspetti molto tecnici e serve anch’essa ad assicurare la continuità operativa. Le procedure di controllo accessi e monitoraggio sono prerequisiti per il controllo accessi e subordinate alla politica di monitoraggio. Coinvolgono altre funzioni oltre all’ICT. Per esempio, se bisogna chiudere tempestivamente un account, ci dovrà essere coordinamento con la funzione del Personale.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG6",
+            "RAWDOMText": [
+                " Politica/procedura di disaster recovery",
+                " Prerequisito per la continuità operativa",
+                "Deve essere in sintonia con la politica sulla continuità operativa, dalla quale dipende",
+                " Procedura di backup and restore",
+                " Prerequisito per il recupero del disastro",
+                "Procedure molto tecnica",
+                " Procedura di controllo accessi",
+                " Prerequisito per la gestione accessi",
+                "Riguarda diverse Funzioni, oltre all’ICT",
+                " Procedura di monitoraggio",
+                " Prerequisito per la gestione accessi e incidenti",
+                "Ha aspetti legali"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p06.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/004-tools.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Contratti e accordi sui livelli di servizio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Nei rapporti con clienti, fornitori e partner in generale, per stabilire “chi fa cosa” è importantissimo stilare contratti e/o “Accordi sui Livelli di Servizio” (Service Level Agreement) ben formulati. Questi possono essere contenuti nello stesso documento o in due documenti separati, in base alle valutazioni del caso. Compiti, doveri e responsabilità delle parti devono essere ben definiti, per prevenire o aiutare a gestire qualsiasi tipo di incidente materiale o conflitto fra i contraenti. Compiti, doveri e responsabilità devono essere resi ben chiari a tutti gli interessati, ed essere stabiliti in modo equilibrato, non distorto, per esempio, dai rapporti di forza esistenti. Dunque, saranno concordati e scritti: gli obiettivi, che devono essere raggiungibili e alla portata di entrambi; gli strumenti (organizzativi e tecnologici) con cui il fornitore raggiungerà gli obiettivi; le modalità di verifica del raggiungimento degli obiettivi, da parte del cliente. Questa verifica periodica degli obiettivi di contratti e/o accordi va prevista a livello di Politica, sia quella generale o quelle specifiche, a seconda del tipo di azienda.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG7",
+            "RAWDOMText": [
+                " Rapporti con clienti e fornitori: chi-fa-cosa!",
+                " Essenziali contratti e Service Level Agreement ben formulati",
+                " Compiti, doveri e responsabilità",
+                " Vanno definiti nel dettaglio",
+                " Facilitano la prevenzione e la risoluzione di incidenti e conflitti",
+                " Devono essere ben chiari a tutte le parti in gioco",
+                " Quali obiettivi?",
+                " Con quali strumenti?",
+                " Quali modalità di verifica? → Definite nella Politica generale/Politiche specifiche",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Occorre tener presente che contratti e accordi non sollevano dalla responsabilità del trattamento dati. Il titolare di un trattamento di dati rimane tale davanti alla legge, anche se si appoggia a fornitori esterni per svolgere determinate funzioni.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p07.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/002-contract.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Esempio di Service Level Agreement",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ipotizziamo che un'azienda voglia affidare a un fornitore la raccolta dei log degli Amministratori di Sistema. Per le ragioni appena esposte, lo farà attraverso un contratto e un Service Level Agreement. In questo documento, verrà dettagliatamente definito, in particolare per il fornitore: oggetto della fornitura e output atteso, tempistica, in quali sedi e con quali autorizzazioni il fornitore assicurererà il suo servizio obblighi e garanzie circa il Trattamento Dati. Dal lato del cliente, si specificherà come supporterà e abiliterà il fornitore allo svolgimento delle attività previste, cosa rimane di sua  responsabilità. Infine, per entrambi, è importantissimo specificare le norme di riferimento, quindi non solo le rispettive Procedure implicate dallo specifico servizio ma anche il Provvedimento del Garante della Privacy sugli Amministratori di  Sistema, le norme di Pubblica Sicurezza, l'attuale Testo Unico sulla Privacy e il Regolamento Europeo sulla Protezione dei Dati (GDPR).",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG8",
+            "RAWDOMText": [
+                " Outsourcing: raccolta log Amministratori di Sistema",
+                " Service Level Agreement",
+                " Cosa definire?",
+                " Fornitore",
+                " Oggetto della fornitura e output atteso",
+                " Tempistica",
+                " Sedi di svolgimento del servizio",
+                " Autorizzazioni",
+                " Obblighi e garanzie circa il Trattamento Dati",
+                " Cliente",
+                " Quale supporto/abilitazioni per il fornitore",
+                " Cosa rimane di sua responsabilita",
+                " Entrambi",
+                " Norme di riferimento:",
+                " Procedure",
+                " Provvedimento del Garante della Privacy sugli Amministratori di Sistema",
+                " Norme di Pubblica Sicurezza, TU sulla Privacy e GDPR"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p08_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Sicurezza ICT e impianti primari 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "La sicurezza e il buon funzionamento delle apparecchiature e dei dati, dipendono anche molto, anzi in primo luogo, dall'erogazione di energia elettrica. Dare per scontata la continuità dell'erogazione è un errore frequente, ma l’energia può subire momentanei sbalzi di tensione di un certo livello: anche le microinterruzioni per pochi millisecondi o secondi possono causare corruzione o perdita di dati. Questi guasti, per non parlare dei blackout di minuti o di ore, causano anche costose interruzioni dell'attività lavorativa e tutto un lavoro aggiuntivo di recupero. La principale soluzione in questo caso sono gli UPS o Gruppi di Continuità, che servono sia a eliminare le micro interruzioni e sbalzi di tensione, sia, in caso di blackout, a  fornire energia elettrica per un certo tempo. Tutti gli apparecchi della Rete vanno quindi messi sotto continuità elettrica: infatti, se uno solo non funziona, poi tutti gli altri diventano inutili.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG9",
+            "RAWDOMText": [
+                " Erogazione energia elettrica",
+                " Essenziale per integrità dati e apparecchi",
+                " Non va data per scontata",
+                " Anche brevi interruzioni causano corruzione/perdita dati",
+                " UPS- Gruppi di continuità",
+                " Ripuliscono l'energia dalle microinterruzioni e sbalzi di tensione",
+                " Forniscono energia se c’è blackout",
+                " Tutta la Rete va messa sotto continuità!",
+                " Fai clic sull'info point per approfondire l'argomento",
+                " <div style=\"color:#FFF;\"> <p>Se le interruzioni di erogazione della corrente elettrica sono frequenti e importanti, allora invece di un UPS si rende necessario un gruppo elettrogeno. La scelta va fatta calcolando costi-benefici nella concreta situazione aziendale e l’effettiva frequenza di interruzioni importanti. Il parere e l'intervento dell'elettricista di fiducia sono essenziali in questo caso.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p09_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p09_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/004-tools.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Sicurezza ICT e impianti primari 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Esaminiamo ora altri aspetti pratici estremamente importanti, in primo luogo la temperatura alla quale lavorano le macchine. Infatti, tutte le apparecchiature elettroniche funzionano solo entro un determinato intervallo termico,  oltre il quale possono anche rompersi. Occorre assicurarsi che i sistemi di ventilazione degli apparecchi funzionino bene, e che questi si trovino in luoghi ben arieggiati, asciutti e climatizzati. A maggior ragione nel caso dei server o dei NAS, che non vengono mai spenti, e laddove siano presenti dati sensibili, che comportino una particolare responsabilità, occorre avere spazi dedicati e ad accesso controllato, con sensori di calore, e anche sistemi di rilevamento delle fiamme. Infine, non va dimenticata l’importanza della manutenzione preventiva: verifiche su apparecchiature, dischi, schede e sistemi di backup, ricorrendo a tecnici specializzati, e adeguata attenzione per gli eventuali “alert” che i sistemi inviano.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG10",
+            "RAWDOMText": [
+                " Temperatura",
+                " Gli apparecchi funzionano solo entro un certo range termico",
+                " Assicurarsi che le ventole funzionino, che le griglie siano pulite",
+                " Locali adeguati",
+                " Controllare climatizzazione, aerazione, umidità…",
+                " Server e NAS",
+                " Macchine con dati sensibili importanti → spazi dedicati, accessi controllati, rilevamento fiamma",
+                " Manutenzione preventiva!",
+                " Test tecnici e attenzione agli alert!"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p10.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Gestire gli incidenti 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ai fini della sicurezza, inoltre, saper gestire gli incidenti è fondamentale. Per incidente intendiamo qualunque evento anomalo che possa compromettere la riservatezza integrità e accessibilità di dati o sistemi, propri, o altrui ma sotto la propria responsabilità. Ovviamente, è auspicabile che l'azienda sia in grado di rilevare gli incidenti tempestivamente e fermarli molto prima che provochino danni! Ma non sempre ciò è possibile… Molto spesso le anomalie sono silenziose e difficili da rilevare. Occorre anche, naturalmente, saper gestire gli eventuali danni. A tal fine, è molto importante riuscire a fare un monitoraggio a 360°. Prima ci si accorge di un'anomalia, prima si riescono a prendere provvedimenti. Per prevenire i danni, servono misure tecniche basilari, quali: sistemi di monitoraggio, di backup, sistemi duplicati (mirror) e procedure di recupero affidabili. Bisogna  anche verificare il sistema di backup in anticipo, per esempio, che non vi siano incompatibilità dei file system. Ma soprattutto, da un punto di vista organizzativo, è necessaria una politica e relative procedure ad hoc. Essenziali saranno i criteri per classificare gli incidenti per importanza e per urgenza, la definizione dei ruoli in caso di incidente, e prevedere una simulazione di incidente almeno una volta l’anno, anche per poter migliorare le misure adottate.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG11",
+            "RAWDOMText": [
+                " Come si gestiscono gli incidenti?",
+                " Incidente",
+                " Qualunque anomalia che possa compromettere dati o sistemi, propri o altrui sotto la propria responsabilità.",
+                " Rilevare tempestivamente le anomalie!",
+                " Spesso silenziose e “nascoste”",
+                " Organizzarsi per gestire/contenere eventuali danni",
+                " Monitoraggio a 360° la prima difesa",
+                " Misure tecniche",
+                " Sistemi di monitoraggio, di backup, sistemi mirror e procedure di recupero.",
+                " Misure organizzative",
+                " Politica e procedure ad hoc",
+                " Classificazione incidenti (urgenza e importanza)",
+                " Ruoli definiti",
+                " Simulazione di incidente (1/anno)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p11_12.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Gestire gli incidenti 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Soffermiamoci ora su alcuni aspetti fondamentali della gestione degli incidenti. L’azienda ha, anche per legge, una serie di responsabilità verso se stessa e verso terzi. Non essere capaci di prevenire e gestire gli incidenti può solo aumentarla. Responsabilità è la prima parola-chiave. Inoltre, il GDPR prevede che si rendano pubbliche informazioni quali l’incidente subito e i dati coinvolti. Oltre alle misure già elencate, è essenziale saper documentare tutto (eventi, attività), anche perché l’onere della prova è a proprio carico. Altra parola-chiave, come detto, è il monitoraggio, in particolare della Rete, data la numerosità e complessità delle minacce alle quali si è esposti. Può essere svolto con competenze interne o in outsourcing, ma deve essere continuo. Infine, occorre saper minimizzare le conseguenze, con procedure di backup e ripristino realmente efficaci e anche attraverso una adeguata comunicazione esterna (collaborazione con le autorità se del caso, aspetti legali, immagine aziendale …).",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG12",
+            "RAWDOMText": [
+                " Quali fattori-chiave?",
+                " Responsabilità",
+                " Non saper gestire/prevenire incidenti può solo aumentarla",
+                " Previsioni del GDPR",
+                " Saper documentare tutto",
+                " Onere della prova",
+                " Monitoraggio",
+                " Rete sotto controllo",
+                " Da svolgere eventualmente anche in outsourcing",
+                " Ripristino allo stato pre-incidente",
+                " Procedure di backup e ripristino efficaci",
+                " Adeguata comunicazione esterna (autorità, interlocutori …)",
+                " Fai clic sull'info point per approfondire l'argomento",
+                " <div style=\"color:#FFF;\"> <p>Tali procedure devono comprendere/assicurare:<ul><li>La configurazione dei sistemi;</li><li>L’effettiva efficacia (verifiche preliminari, anche della qualità dei dati salvati);</li><li>L’automatizzazione;</li><li>Uno storico di almeno tre/sei mesi;</li><li>Un punto di ripristino prossimo rispetto al momento dell’incidente.</li></ul><br>Inoltre, si tenga presente che le attuali soluzioni di backup sono \"in casa\" o in cloud. La soluzione in \"casa“ è più veloce, anche per il nel ripristino dei sistemi. Le copie in cloud, danno maggiori garanzia dal punto di vista di mantenimento del dato, in quanto ci si appoggia a Web Farm specialistiche, con particolari misure di protezione. Ovviamente bisogna disporre ,per poter beneficiare di questa soluzione, di un ottimo collegamento internet.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p11_12.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Come fare per …?",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "A questo punto, facciamo una sintesi dei principali accorgimenti che consentono di tornare velocemente alla normalità, in primo luogo operativa, dopo un  incidente più o meno grave che abbia  coinvolto dati e sistemi. Un fermo aziendale è infatti estremamente costoso! Ci saranno sicuramente molto utili: assistenza, o competenza interna, informatica, di buon livello; dotazioni essenziali quali antivirus, anti-malware, sistemi di controllo degli accessi e firewall (se non già presenti) un sistema di copie di backup che permetta di recuperare la copia più recente formazione e informazione circa il corretto uso dei sistemi e della postazione di lavoro.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG13",
+            "RAWDOMText": [
+                " SOLUZIONI-CHIAVE",
+                " VELOCE RITORNO ALLA NORMALITÀ POST INCIDENTE",
+                " IL “FERMO” AZIENDALE HA DEI COSTI!",
+                " Assistenza/competenza interna, informatica, di buon livello",
+                " Antivirus, anti-malware, sistemi di controllo degli accessi e firewall",
+                " Un sistema di backup che permetta di recuperare la copia più recente",
+                " Formazione e informazione dei lavoratori"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p13.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/008-tools-and-utensils.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Formazione e sensibilizzazione",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Infine, non va dimenticato che formazione e sensibilizzazione sono un passo necessario per garantire la sicurezza informatica. Spesso sono gli utenti stessi che, con comportamenti incauti o del tutto sbagliati, causano incidenti. Gli utenti devono quindi essere informati e sensibilizzati circa questa tematica, diventando parte attiva  e responsabile. Tra l’altro sono previsti obblighi formativi veri e propri, come quelli del D.L. 193/03. In base ad esso, argomenti formativi importanti sono: sicurezza, riservatezza, disponibilità e integrità dei dati, responsabilità per danni derivanti dall’accesso abusivo ai sistemi, furto di informazioni. Un riferimento in materia è il decreto del Presidente del Consiglio dei Ministri del 24 gennaio 2013, con gli indirizzi operativi e le linee d’azione per la sicurezza informatica nazionale.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG14",
+            "RAWDOMText": [
+                " Un passo necessario per la sicurezza",
+                " Spesso sono gli utenti stessi a causare incidenti",
+                " Necessarie consapevolezza e responsabilità",
+                " Quale formazione?",
+                " Obblighi formativi (D.L.193/03)",
+                " Argomenti essenziali: sicurezza, riservatezza, disponibilità e integrità dei dati, responsabilità per danni (accesso abusivo ai sistemi) furto di informazioni",
+                " Riferimento generale: Decreto 24/01/2013, sulla Sicurezza Informatica Nazionale"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p14_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p14_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "La responsabilità dei dati 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Come più volte ricordato, l’azienda è responsabile dei dati sensibili dei propri clienti, anche in termini di legge. Questo è particolarmente importante in caso di istituti bancari e finanziari, per i quali tali dati costituiscono gran parte della “materia prima” del proprio business. Occorre quindi, da parte di queste organizzazioni, uno sforzo in più nella strategia di tutela e salvaguardia. A partire, per esempio, dalla ridefinizione dei confini aziendali: se il proprio servizio si sostanzia in transazioni che i clienti effettuano su siti e applicazioni della propria azienda, questi confini finiscono col comprendere anche i clienti come parte attiva della sicurezza.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG15",
+            "RAWDOMText": [
+                " Dati dei clienti",
+                " RESPONSABILITÀ",
+                " OBBLIGHI DI LEGGE",
+                " TOP PRIORITY PER BANCHE E ISTITUTI FINANZIARI",
+                " I confini aziendali includono anche i clienti"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p15.png"
+                },
+                {
+                    "src": "contenuti/img/box1.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/010-handshake.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "La responsabilità dei dati 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina16.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Si devono preferire modalità operative e di accesso ipercontrollate, come chiamate di conferma al cliente  prima di autorizzare un trasferimento. Infatti, si sono ormai moltiplicati i trasferimenti non autorizzati da conti bancari di aziende, in particolare grazie al furto di credenziali tramite software malevoli. In altri casi, pervengono via mail richieste di pagamento provenienti apparentemente dai fornitori, ma che in realtà sono gestite da un’organizzazione criminale. Purtroppo, in tali casi di la normativa sulla protezione dei consumatori, non tutela le aziende! Ulteriori modalità di truffa vanno da pagamenti con assegni a vuoto, a carte di credito o debito fasulle a false restituzioni di merci. Per l’azienda è bene ricorrere a un’assicurazione contro questi rischi.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG16",
+            "RAWDOMText": [
+                " Conti aziendali… sotto osservazione",
+                " Controllare il conto e le transazioni regolarmente",
+                " Preferire modalità ipercontrollate di accesso e di operatività",
+                " Molto frequenti i trasferimenti non autorizzati, grazie a furto di identità on line!",
+                " Attenzione a mail con finte richieste di pagamento da parte di propri fornitori",
+                " Molto frequenti: pagamenti con assegni a vuoto, carte di debito/credito fasulla, false restituzioni di merci",
+                " Importante assicurazione ad hoc",
+                " La normativa a tutela del consumatore non protegge le aziende in caso di trasferimenti non autorizzati!"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/p16.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/008-tools-and-utensils.png"
+                },
+                {
+                    "src": "contenuti/0064_18_01_M03UD08/img/png/011-id-card.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina17.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG17",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Perché sono importanti politiche e procedure e cosa le differenzia?",
+                " Politiche e procedure sono requisiti fondamentali del funzionamento aziendale; formalizzano obiettivi generali e orientamenti e dell’azienda (politiche) e modalità operative per raggiungerli (procedure). Le seconde “discendono” quindi dalle prime.",
+                " Che cos’è un Service Level Agreement?",
+                " Si tratta di un documento che completa contratti e accordi commerciali e serve a chiarire in modo condiviso e univoco reciproche responsabilità e impegni di cliente e fornitore. Esso va formulato anche con l’apporto del personale tecnico e riporta sempre anche la normativa alla quale debbono riferirsi le parti.",
+                " Che cosa caratterizza un approccio strategico alla gestione incidenti?",
+                " Innanzitutto la prevenzione, grazie a un monitoraggio a 360°. Essa consente di rilevare anomalie sul nascere prima che provochino danni gravi. In secondo luogo, la capacità di reazione e ripristino della normalità quando il danno comunque si verifica.",
+                " Che cosa rende realmente efficaci politiche e procedure?",
+                " Politiche e procedure devono essere rese note a tutti, in azienda, devono essere applicabili, poggiare su un adeguato budget e sull’impegno del top management, devono essere aggiornate sulla base del monitoraggio dei risultati."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_01_MOD2_LEZ8_PAG18",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " La politica generale per la sicurezza stabilisce"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_01_M03UD08/audio/0064_18_01_m03ud08p18"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_01_MOD2_LEZ8"
+}

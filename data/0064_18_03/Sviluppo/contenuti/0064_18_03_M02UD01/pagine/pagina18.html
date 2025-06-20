@@ -1,0 +1,45 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 258px; left: 0px;">
+			<img src="contenuti/img/sfondo2.png" style="width: 1000px; height: 344px;">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 486px;">
+			<img src="contenuti/0064_18_03_M02UD01/img/p18_b.png">
+		</div>
+		<div id="img2" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img2')" style="position: absolute; top: 256px; left: 0px;">
+			<img src="contenuti/0064_18_03_M02UD01/img/p10_a.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute;top: 20px;left: 20px;width: 440px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;">
+			<div id="cont2_tit1" animated="" datastart="0" ng-show="getIsVisible('cont2_tit1')" class="slideRight" style="">Per il funzionamento del meccanismo assicurativo devono sussistere alcune <b>condizioni</b></div>
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="7" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 340px;left: 510px;width: 470px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 18px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont3_pe1" animated="" datastart="7" dataend="1000" ng-show="getIsVisible('cont3_pe1')" style="">La <b>massa</b> dei rischi gestiti deve essere omogenea</li>
+				<li class="slideLeft" id="cont3_pe2" animated="" datastart="12" dataend="1000" ng-show="getIsVisible('cont3_pe2')" style="margin-top: 10px;">I rischi devono essere sufficientemente numerosi e valutabili (probabilità/quantificazione del danno)</li>
+				<li class="slideLeft" id="cont3_pe3" animated="" datastart="19" dataend="1000" ng-show="getIsVisible('cont3_pe3')" style="margin-top: 10px;">I rischi devono essere tra loro <b>indipendenti</b> (<b>compensazione</b> delle perdite)</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 150px;top: 90px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_03_m02ud01p18','Il principio della diversificazione',1,26)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:170px;"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 486px;width: 514px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_03_M02UD01/audio/0064_18_03_m02ud01p18" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_03_m02ud01p18">
+  <div style="color:#FFF;">
+    <p>Uno dei principi base della gestione dei rischi è infatti la diversificazione. Questo spiega perché in caso di rischio parzialmente diversificabile (calamità naturali, catastrofi man-made…) in molti casi le polizze assicurative prevedono l’esclusione o comunque la limitazione della copertura per tali rischi.</p>
+  </div>
+</script>

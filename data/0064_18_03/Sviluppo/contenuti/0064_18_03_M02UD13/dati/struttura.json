@@ -1,0 +1,420 @@
+{
+    "titolo": "Riepilogando 4",
+    "contenuti": [
+        {
+            "ordine": 1,
+            "titolo": "",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG1",
+            "RAWDOMText": [
+                " Gli strumenti alternativi di investimento",
+                " Questa unità intende dare una panoramica dei principali strumenti alternativi di investimento, ossia di quegli strumenti che presentando una bassa correlazione con gli asset tradizionali, possono aiutare l’investitore a costruire un portafoglio caratterizzato da una maggiore diversificazione del rischio.",
+                " Saranno presi in considerazione gli strumenti principali, oggi più diffusi sul mercato: i fondi speculativi (hedge fund), i fondi immobiliari, le commodities e i fondi di private equity."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag1.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG2",
+            "RAWDOMText": [
+                " Gli hedge fund",
+                " Gli hedge fund (in italiano fondi speculativi) sono patrimoni che investono in titoli, in quote di altri fondi, valute e beni.",
+                " Rispetto ai fondi comuni tradizionali gli hedge funds presentano tre sostanziali differenze:"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag2.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "",
+            "percorso": "pagine/pagina3.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG3",
+            "RAWDOMText": [
+                " Scheda – Sintesi della normativa TUF Testo Unico Finanza- D. Lgs. 24/02/1998 n.58 e successive modifiche",
+                " Gli hedge fund:",
+                " non possono avere più di 200 partecipanti;",
+                " devono prevedere una sottoscrizione minima iniziale di 500.000 Euro;",
+                " devono menzionare nel regolamento la rischiosità dell’investimento e la circostanza in cui esso avviene, in tutto o in parte, in deroga ai divieti ed alle norme prudenziali di contenimento e frazionamento del rischio;",
+                " possono essere istituiti e gestiti solo da SGR che abbiano come oggetto esclusivo l’istituzione o la gestione di fondi speculativi;",
+                " non possono essere oggetto di sollecitazione del pubblico risparmio. ",
+                " La legge si è preoccupata di contenere la diffusione degli hedge fund tra i soggetti che, tradizionalmente, sono interessati a questa tipologia di prodotti: investitori istituzionali e i privati, che costituiscono la fascia più facoltosa della clientela. Il che prevede vantaggi e svantaggi.",
+                " Vantaggi: perché impedisce al mondo del risparmio gestito di collocare alla clientela retail prodotti più costosi sotto le mentite spoglie di soluzioni innovative;",
+                " Svantaggi: perché si confinano sempre gli strumenti finanziari più sofisticati al di fuori della portata dei comuni investitori, che si devono accontentare del “succedaneo” dei fondi flessibili."
+            ],
+            "immagini": [],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "",
+            "percorso": "pagine/pagina4.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG4",
+            "RAWDOMText": [
+                " Gli hedge fund",
+                " Gli hedge fund puntano ad ottenere rendimenti stabili nel tempo e indipendenti dalle performance del mercato.",
+                " Questo avviene attraverso l’implementazione di strategie tese ad ottenere rendimenti positivi slegati dall’andamento dei mercati di riferimento (absolute return).",
+                " Le tecniche degli hedge funds sono tali da assicurare guadagni indipendentemente dagli alti e bassi dei mercati, ma, come tutte le speculazioni sui margini, hanno il difetto che quando si perde si può perdere anche in maniera significativa."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag4.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "",
+            "percorso": "pagine/pagina5.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG5",
+            "RAWDOMText": [
+                " Gli hedge fund",
+                " Eseguono un monitoraggio costante della volatilità finalizzato al controllo del rischio.",
+                " Il risk manager ha un ruolo importante nel gestire i rischi che questi patrimoni si assumono: se non ben monitorati, i rischi connessi agli hedge fund potrebbero tradursi in perdite molto elevate",
+                " Infine, implementano strategie spesso aggressive (come ad esempio la vendita allo scoperto oppure l’utilizzo di strumenti derivati per generare l’effetto leva attraverso l’indebitamento), ma poco correlate con le classi di investimento tradizionali, in modo da diversificare ulteriormente il portafoglio."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag5.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "",
+            "percorso": "pagine/pagina6.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG6",
+            "RAWDOMText": [
+                " Scheda – Possibili strategie di gestione degli hedge fund"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag6.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "",
+            "percorso": "pagine/pagina7.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG7",
+            "RAWDOMText": [
+                " Strategie di gestione degli hedge fund: il rischio alpha",
+                " Le strategie di gestione rappresentano il vero rischio degli investimenti in hedge fund. Per strategie di gestione degli hedge fund si intendono le scelte delle macrocategorie di asset su cui investire. ",
+                " Il rischio determinato dalla strategia, dallo stile di gestione e dalle scelte di investimento operate dal singolo gestore di hedge fund è definito rischio alpha."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag7.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "",
+            "percorso": "pagine/pagina8.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG8",
+            "RAWDOMText": [
+                " Altri fattori di rischio:"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag8.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "",
+            "percorso": "pagine/pagina9.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG9",
+            "RAWDOMText": [
+                " I fondi immobiliari",
+                " I fondi immobiliari sono patrimoni suddivisi in quote di partecipazione di eguale valore unitario. Le quote di partecipazione vengono investite interamente o prevalentemente in beni immobiliari. Non si è proprietari di immobili ma di quote di un fondo che detiene immobili in proprietà e, a complemento, anche di società immobiliari. Il fondo è legato alla redditività degli immobili e quindi, per la natura degli stessi, generalmente l’investimento non consente proventi di rilievo nel breve periodo."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag9.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "",
+            "percorso": "pagine/pagina10.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG10",
+            "RAWDOMText": [
+                " I fattori di rischio dei fondi immobiliari",
+                " Investendo in fondi immobiliari si può incorrere nel rischio legato al settore: i fattori di rischio dei fondi immobiliari sono molto simili a quelli di un investimento diretto in immobili. Tuttavia, rispetto a questi, i fondi immobiliari presentano una maggiore diversificazione geografica, di destinazione d’uso (residenziale, grande distribuzione, commerciale) e una maggiore trasparenza. Inoltre si può incorrere nel rischio liquidità: i fondi immobiliari sono prodotti molto recenti nel nostro mercato, i volumi di scambi nei mercati finanziari sono molto esigui."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag10.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "",
+            "percorso": "pagine/pagina11.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG11",
+            "RAWDOMText": [
+                " Le commodities",
+                " Le commodities sono un'asset class che si riferisce ad investimenti in materie prime e in beni di consumo e il cui valore dipende, oltre che dalla domanda e dall’offerta del mercato, anche dalle riserve disponibili.",
+                " Inoltre si può incorrere nel rischio liquidità: i fondi immobiliari sono prodotti molto recenti nel nostro mercato, i volumi di scambi nei mercati finanziari sono molto esigui.",
+                " Infine sussiste il rischio tasso d’interesse: il rischio di rialzo dei tassi d’interesse ha una ricaduta sulla richiesta di mutui per l’acquisto di immobili e, indirettamente, sui valori dei fondi immobiliari."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag11.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "",
+            "percorso": "pagine/pagina12.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG12",
+            "RAWDOMText": [
+                " Le commodities: la legge della domanda e dell’offerta",
+                " I rischi dell’investimento in strumenti finanziari rappresentativi di commodities dipendono da fattori che muovono la domanda e l’offerta delle commodities stesse.",
+                " Per il risparmiatore questo si traduce nel rischio di sbagliare le previsioni relative all’andamento del prezzo, realizzando una perdita.",
+                " Altri fattori di rischio delle commodities sono:",
+                " le crescenti richieste di approvvigionamento di petrolio sia nei paesi industrializzati che in quelli in via di sviluppo; gli eventi meteorologici di grande portata; i conflitti bellici che coinvolgono i paesi produttori."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag12.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "",
+            "percorso": "pagine/pagina13.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG13",
+            "RAWDOMText": [
+                " I fondi di private equity",
+                " Un'ulteriore tipologia di investimento alternativo ",
+                " è costitutita dai fondi di private equity.",
+                " Il Private Equity è un investimento di natura ",
+                " finanziaria/industriale ed è caratterizzato da ",
+                " investimenti nel capitale azionario di imprese ",
+                " generalmente non quotate, con l’acquisizione di ",
+                " partecipazioni di controllo.",
+                " L’obiettivo di questo investimento è la valorizzazione dell’impresa e la sua successiva dismissione in un’ottica di medio/lungo termine."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag13.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "",
+            "percorso": "pagine/pagina14.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 60000,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG14",
+            "RAWDOMText": [
+                " I fondi di private equity",
+                " I Fondi private equity si distinguono in tre diverse tipologie principali:",
+                " Venture Capital: investimenti in società nuove",
+                " Buyout: acquisto da parte del management di quote di investimenti in imprese medio/grandi ",
+                " Distressed Debt: investimenti in imprese al limite del fallimento"
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag14.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "",
+            "percorso": "pagine/pagina15.html",
+            "tipologia": "monomediale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 500,
+            "impostaVista": "fine",
+            "testo": "",
+            "idkey": "0064_18_03_MOD2_LEZ5_PAG15",
+            "RAWDOMText": [
+                " I rischi dell’investimento in fondi di private equity",
+                " Un fondo specializzato in venture capital presenta il rischio che il progetto imprenditoriale sponsorizzato dall’operazione di venture capital non si traduca in un’attività produttiva vera e propria;",
+                " Un fondo buyout presenta il rischio che il nuovo management non sia all’altezza di quello precedente; in un fondo distressed debt il rischio è ancora più concreto poiché difficilmente le imprese attraversano indenni situazioni di difficoltà finanziaria."
+            ],
+            "immagini": [
+                {
+                    "alt": "tabella",
+                    "src": "contenuti/0064_18_03_M02UD13/img/pag15.png"
+                }
+            ],
+            "video": [],
+            "audio": [],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ5"
+}

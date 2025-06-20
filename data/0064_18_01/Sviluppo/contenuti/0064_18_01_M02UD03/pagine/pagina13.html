@@ -1,0 +1,57 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 15px;">
+			<img src="contenuti/img/sfondo4.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 0px;">
+			<img src="contenuti/0064_18_01_M02UD03/img/p13.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute;top: 20px;left: 370px;width: 800px;">
+		<div style="position: absolute;top: 0px;left: 0px;width: 610px;text-align: center;font-size: 22px;color: #006699;font-weight: bold;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Gli standard 802.1X definita dall’IEEE:</div>
+		</div>
+		<div id="cont2_img1" class="bigEntrance" animated="" datastart="15" ng-show="getIsVisible('cont2_img1')" style="position: absolute;top: 50px;left: 0px;">
+			<img src="contenuti/img/box2.png" style="width: 610px; height: 40px;">
+			<div style="position: absolute;width: 592px;top: 8px;left: 20px;font-size: 16px;font-weight: bold;">
+				<div id="cont2_img1" animated="" datastart="15" ng-show="getIsVisible('cont2_img1')" class="slideRight" style="">WEP</div>
+			</div>
+		</div>
+		<div id="cont2_img2" class="bigEntrance" animated="" datastart="32" ng-show="getIsVisible('cont2_img2')" style="position: absolute;top: 110px;left: 0px;">
+			<img src="contenuti/img/box2.png" style="width: 610px; height: 40px;">
+			<div style="position: absolute;width: 590px;top: 8px;left: 20px;font-size: 16px;font-weight: bold;">
+				<div id="cont2_img2" animated="" datastart="32" ng-show="getIsVisible('cont2_img2')" class="slideRight" style="">WPA</div>
+			</div>
+		</div>
+		<div id="cont2_img3" class="bigEntrance" animated="" datastart="55" ng-show="getIsVisible('cont2_img3')" style="position: absolute;top: 170px;left: 0px;">
+			<img src="contenuti/img/box2.png" style="width: 610px; height: 40px;">
+			<div style="position: absolute;width: 592px;top: 8px;left: 20px;font-size: 16px;font-weight: bold;">
+				<div id="cont2_img3" animated="" datastart="55" ng-show="getIsVisible('cont2_img3')" class="slideRight" style="">WPA2</div>
+			</div>
+		</div>
+		<div id="cont2_img4" class="bigEntrance" animated="" datastart="66.5" ng-show="getIsVisible('cont2_img4')" style="position: absolute;top: 230px;left: 0px;">
+			<img src="contenuti/img/box2.png" style="width: 610px; height: 40px;">
+			<div style="position: absolute;width: 592px;top: 8px;left: 20px;font-size: 16px;font-weight: bold;">
+				<div id="cont2_img4" animated="" datastart="66.5" ng-show="getIsVisible('cont2_img4')" class="slideRight" style="">Wi-Fi con accesso a due fattori</div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 560px;top: 325px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_01_M02UD03p13','Il passaggio dal WEP al WPA',1,49)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}"></a>
+	</div>
+	<div class="istruzionePopup" style="left: 350px; width: 650px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_01_M02UD03/audio/0064_18_01_m02ud03p13" condiviso="true">
+    </audio>
+</aside>
+
+<script type="text/ng-template" id="0064_18_01_M02UD03p13">
+  <div style="color:#FFF;">
+    <p>I router WEP e i punti di accesso meno recenti non erano purtroppo aggiornabili alla nuova tecnologia WPA, quindi le aziende dovevano investire fondi e risorse importanti per passare al nuovo protocollo. Per questo motivo, molte società, comprese anche importanti società finanziarie e gestori di circuiti di carte di credito, decisero di ritardare il passaggio al nuovo standard, continuando a usare il protocollo WEP anche negli anni seguenti. Il ritardo non passò ovviamente inosservato ai criminali.</p>
+  </div>
+</script>

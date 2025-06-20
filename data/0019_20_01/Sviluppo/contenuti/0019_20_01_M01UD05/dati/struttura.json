@@ -1,0 +1,1013 @@
+{
+    "titolo": "Gli orientamenti dell’ESMA - Parte 2",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Orientamento generale 5",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Continuiamo a esaminare gli orientamenti ESMA. Secondo l'<em>Orientamento generale 5</em>, se l’impresa ha un rapporto continuativo con il cliente (ad esempio se presta servizi di consulenza o di servizi di gestione del portafoglio su base continuativa), per poter eseguire la valutazione dell’adeguatezza dovrebbe adottare procedure che definiscono:<UL><LI>quali informazioni acquisite sul cliente dovrebbero essere soggette ad aggiornamento e con quale frequenza e</LI><LI>le modalità dell’aggiornamento e le misure che l’impresa dovrebbe adottare quando si ricevono informazioni aggiuntive o aggiornate o quando il cliente non fornisce le informazioni richieste.</LI></UL>Prosegui nel corso per approfondire gli orientamenti di supporto a riguardo!",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG1",
+            "RAWDOMText": [
+                " Orientamento generale 5",
+                " Se l’impresa ha un rapporto continuativo con il cliente, per poter eseguire la valutazione dell’adeguatezza dovrebbe adottare procedure che definiscono:",
+                " quali informazioni acquisite sul cliente dovrebbero essere soggette ad aggiornamento e con quale frequenza;",
+                " le modalità dell’aggiornamento e le misure che l’impresa dovrebbe adottare quando si ricevono informazioni aggiuntive o aggiornate o quando il cliente non fornisce le informazioni richieste."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p01.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p1"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Orientamenti di supporto 53 e 54",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Le imprese dovrebbero riesaminare periodicamente le informazioni sui clienti per assicurarsi che non diventino obsolete, imprecise o incomplete.<BR>A tal fine, dovrebbero attuare procedure che incoraggino i clienti ad aggiornare le informazioni inizialmente comunicate qualora intervengano cambiamenti significativi.<BR>Alcuni eventi possono portare a un processo di aggiornamento, come succede, ad esempio, nel caso di clienti che raggiungono l’età pensionabile.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG2",
+            "RAWDOMText": [
+                " Orientamento di supporto 53",
+                " Orientamento di supporto 54",
+                " Le imprese dovrebbero:",
+                " riesaminare periodicamente le informazioni sui clienti per assicurarsi che non diventino obsolete, imprecise o incomplete;",
+                " attuare procedure che incoraggino i clienti ad aggiornare le informazioni.",
+                " Le imprese dovrebbero inoltre tener conto della natura del cliente, raccogliere informazioni più approfondite per i clienti potenzialmente vulnerabili o senza esperienza.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> La frequenza degli aggiornamenti può variare, ad esempio, a seconda dei profili di rischio dei clienti e tenendo conto del tipo di strumento finanziario raccomandato. Sulla scorta delle informazioni raccolte su un cliente nell’ambito dei requisiti di adeguatezza, un’impresa determinerà il profilo di rischio degli investimenti del cliente, vale a dire il tipo di servizi di investimento o di strumenti finanziari che, in generale, possono essere adatti a tale cliente, tenendo conto delle sue conoscenze ed esperienze, della sua situazione finanziaria (ivi compresa la sua capacità di sostenere perdite) e dei suoi obiettivi di investimento (compresa la sua tolleranza al rischio). Ad esempio, un profilo di rischio che dà al cliente accesso a una gamma più ampia di prodotti più rischiosi è un elemento che può richiedere un aggiornamento più frequente </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p02.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p2"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Orientamenti di supporto 56 e 57",
+            "percorso": "pagine/pagina3.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "È importante che le imprese adottino misure volte ad attenuare il rischio di indurre il cliente ad aggiornare il proprio profilo al fine di renderlo idoneo a un determinato prodotto di investimento che altrimenti sarebbe inadatto a lui, senza che vi sia una vera e propria modifica della situazione del cliente. Come esempio di buona prassi per affrontare questo tipo di rischi, le imprese potrebbero adottare procedure volte a verificare, prima o dopo le operazioni, se un profilo del cliente sia stato aggiornato troppo spesso o solo dopo un breve periodo di tempo dall’ultima modifica (soprattutto se tale modifica si è verificata nei giorni immediatamente precedenti l’investimento raccomandato). Tali situazioni sarebbero quindi inoltrate o segnalate alla funzione di controllo competente.<BR>Queste politiche e procedure sono particolarmente importanti quando sussiste maggiormente il rischio che l’interesse dell’impresa possa entrare in conflitto con i migliori interessi dei suoi clienti, ad esempio nelle situazioni di collocamento di strumenti propri o quando l’impresa riceve incentivi per la distribuzione di un prodotto. Un altro fattore di rilievo da prendere in considerazione in questo contesto è anche il tipo di interazione che si verifica con il cliente (ad esempio <em>de visu</em> o attraverso un sistema automatizzato).<BR>Le imprese dovrebbero altresì informare il cliente quando le informazioni supplementari fornite danno luogo a una modifica del suo profilo: se diventa più rischioso (e quindi, potenzialmente, una più ampia gamma di prodotti più rischiosi e più complessi potrebbe risultare idonea per il cliente, con il conseguente rischio di incorrere in maggiori perdite) o, viceversa, più prudenziale (e quindi potrebbe risultare idonea al suo profilo una gamma più ristretta di prodotti).",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG3",
+            "RAWDOMText": [
+                " Orientamento di supporto 56",
+                " Orientamento di supporto 57",
+                " È importante che le imprese adottino misure volte ad attenuare il rischio di indurre il cliente ad aggiornare il proprio profilo, al fine di renderlo idoneo a un determinato prodotto di investimento.",
+                " Le imprese potrebbero adottare procedure volte a verificare se un profilo del cliente sia stato aggiornato troppo spesso o solo dopo un breve periodo di tempo dall’ultima modifica.",
+                " Queste procedure sono particolarmente importanti quando sussiste maggiormente il rischio che l’interesse dell’impresa possa entrare in conflitto con i migliori interessi dei suoi clienti.",
+                " Le imprese dovrebbero informare il cliente quando le informazioni supplementari fornite danno luogo a una modifica del suo profilo: se diventa più rischioso o, viceversa, più prudenziale."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p03.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p3"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Situazioni in cui è previsto un rappresentante",
+            "percorso": "pagine/pagina4.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il regolamento delegato MiFID 2 definisce le modalità secondo cui dovrebbe essere effettuata la valutazione dell’adeguatezza nelle situazioni in cui il cliente è una persona fisica rappresentata da un’altra persona fisica o è una persona giuridica che ha richiesto il trattamento come cliente professionale.<BR>In tal caso la situazione finanziaria e gli obiettivi di investimento sono quelli della persona giuridica o, in relazione alla persona fisica, del cliente sottostante piuttosto che quelli del rappresentante.<BR>Le conoscenze ed esperienze sono quelle del rappresentante della persona fisica o della persona autorizzata a effettuare operazioni per conto del cliente sottostante. Sembra ragionevole che possa applicarsi lo stesso approccio a tutte le persone giuridiche, indipendentemente dal fatto che esse possano aver chiesto o meno di essere trattate come clienti professionali.<BR>Le imprese dovrebbero garantire che le loro procedure integrino adeguatamente questo articolo all’interno della loro organizzazione, il che significherebbe tra l’altro verificare che il rappresentante sia effettivamente – secondo il diritto nazionale pertinente – autorizzato a effettuare operazioni per conto del cliente sottostante.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG4",
+            "RAWDOMText": [
+                " Cliente persona fisica rappresentata da altra persona fisica o persona giuridica che ha chiesto trattamento da cliente professionale",
+                " Orientamento di supporto 62",
+                " La situazione finanziaria e gli obiettivi di investimento sono quelli della persona giuridica o, in relazione alla persona fisica, del cliente sottostante piuttosto che quelli del rappresentante.",
+                " Le conoscenze ed esperienze sono quelle del rappresentante della persona fisica o della persona autorizzata a effettuare operazioni per conto del cliente sottostante.",
+                " Art. 54, par. 6, c. 2, Regolamento delegato MiFID 2",
+                " Le imprese dovrebbero garantire che le loro procedure integrino adeguatamente questo articolo all’interno della loro organizzazione, il che significherebbe anche verificare che il rappresentante sia autorizzato a effettuare operazioni per conto del cliente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p04.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p4"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Situazioni in cui non è previsto alcun rappresentante",
+            "percorso": "pagine/pagina5.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Se il cliente è un gruppo di due o più persone fisiche e non è previsto un rappresentante ai sensi della legislazione nazionale applicabile, la politica dell’impresa dovrebbe individuare da chi saranno raccolte le informazioni necessarie e come sarà effettuata la valutazione dell’adeguatezza.<BR>I clienti dovrebbero essere adeguatamente informati in merito all’approccio dell’impresa e all’impatto di tale approccio sul modo in cui la valutazione dell’adeguatezza viene svolta nella pratica.<BR>Le imprese potrebbero prendere in considerazione uno dei seguenti approcci:<UL><LI>potrebbero scegliere di invitare il gruppo di due o più persone fisiche a designare un rappresentante; oppure</LI><LI>potrebbero valutare la possibilità di raccogliere informazioni su ogni singolo cliente e valutare l’adeguatezza per ogni singolo cliente.</LI></UL>",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG5",
+            "RAWDOMText": [
+                " Cliente gruppo di due o più persone fisiche e non è previsto un rappresentante",
+                " Orientamento di supporto 63",
+                " Orientamento di supporto 64",
+                " La politica dell’impresa dovrebbe individuare da chi saranno raccolte le informazioni necessarie e come sarà effettuata la valutazione dell’adeguatezza.",
+                " I clienti dovrebbero essere adeguatamente informati in merito all’approccio dell’impresa e all’impatto di tale approccio sul modo in cui la valutazione dell’adeguatezza viene svolta nella pratica",
+                " Le imprese potrebbero:",
+                " invitare il gruppo di due o più persone fisiche a designare un rappresentante;",
+                " valutare la possibilità di raccogliere informazioni su ogni singolo cliente e valutare l’adeguatezza per ogni singolo cliente.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Se il gruppo di due o più persone fisiche accetta di designare un rappresentante, si potrebbe seguire lo stesso approccio di cui all’articolo 54, paragrafo 6, secondo comma, del regolamento delegato MiFID 2: le conoscenze ed esperienze sono quelle del rappresentante della persona fisica, mentre la situazione finanziaria e gli obiettivi di investimento sarebbero quelli del(i) cliente(i) sottostante(i). La designazione dovrebbe essere effettuata per iscritto, nel rispetto della legislazione nazionale applicabile, e registrata dall’impresa interessata. I clienti – facenti parte del gruppo – dovrebbero essere chiaramente informati, per iscritto, in merito all’impatto che un accordo tra clienti potrebbe avere sulla tutela dei loro rispettivi interessi (<em>Orientamento di supporto 65</em>) </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p05.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p5"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Raccogliere informazioni e valutare adeguatezza su ogni singolo cliente",
+            "percorso": "pagine/pagina6.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Quando un’impresa decide di raccogliere informazioni e valutare l’adeguatezza per ogni singolo cliente del gruppo, se sussistono differenze significative in termini di caratteristiche dei singoli clienti in questione (ad esempio se l’impresa li classificherebbe in diversi profili di investimento), come garantire la coerenza dei servizi di consulenza in materia di investimenti o di gestione del portafoglio erogati per quanto riguarda le attività o il portafoglio di quel gruppo di clienti? In questa situazione, uno strumento finanziario può essere adatto a un cliente appartenente al gruppo ma non a un altro.<BR>La politica dell’impresa dovrebbe specificare chiaramente come gestirà questo tipo di situazioni.<BR>Anche in questo caso, l’impresa dovrebbe adottare l’approccio più prudente, tenendo conto delle informazioni sul cliente che, all’interno del gruppo, ha le conoscenze e l’esperienza minori, la situazione finanziaria più debole o gli obiettivi di investimento più prudenziali. In alternativa, la politica dell’impresa può anche precisare che non sarà in grado di fornire consulenza in materia di investimenti o servizi di gestione del portafoglio in una situazione simile. In tale contesto, va osservato che raccogliere informazioni su tutti i clienti del gruppo e considerare, ai fini della valutazione, un profilo medio del livello di conoscenze e competenze di tutti, probabilmente non sarebbe conforme al principio generale di agire nel migliore interesse dei clienti.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG6",
+            "RAWDOMText": [
+                " Raccolta info e valutazione adeguatezza su singolo cliente",
+                " Orientamento di supporto 68",
+                " Come garantire la coerenza dei servizi di consulenza in materia di investimenti o di gestione del portafoglio erogati per quel gruppo di clienti?",
+                " La politica dell’impresa dovrebbe specificare chiaramente come gestirà questo tipo di situazioni.",
+                " L’impresa dovrebbe adottare l’approccio più prudente tenendo conto delle informazioni sul cliente che, all’interno del gruppo, ha le conoscenze e l’esperienza minori, la situazione finanziaria più debole o gli obiettivi di investimento più prudenziali.",
+                " Raccogliere informazioni su tutti i clienti del gruppo e considerare, ai fini della valutazione, un profilo medio non sarebbe conforme al principio generale di agire nel migliore interesse dei clienti."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p06.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p6"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "Disposizioni necessarie per comprendere i prodotti: orientamento generale",
+            "percorso": "pagine/pagina7.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l'<em>Orientamento generale 7</em>, le imprese dovrebbero far sì che le politiche e le procedure attuate per comprendere le caratteristiche, la natura e gli elementi dei prodotti di investimento (compresi i costi e i rischi) consentano loro di raccomandare investimenti adeguati o di investire in prodotti adeguati per conto dei loro clienti.<BR>Le imprese dovrebbero adottare procedure, metodi e strumenti solidi e obiettivi che consentano loro di valutare adeguatamente le diverse caratteristiche e i fattori di rischio pertinenti (quali il rischio di credito, il rischio di mercato, il rischio di liquidità, ecc.) di ciascun prodotto di investimento che possono raccomandare o nel quale possono investire per conto dei clienti.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG7",
+            "RAWDOMText": [
+                " Orientamento generale 7",
+                " Le imprese dovrebbero far sì che le politiche e le procedure attuate per comprendere le caratteristiche, la natura e gli elementi dei prodotti di investimento consentano loro di raccomandare investimenti adeguati o di investire in prodotti adeguati per conto dei loro clienti.",
+                " Le imprese dovrebbero adottare procedure, metodi e strumenti solidi e obiettivi che consentano loro di valutare adeguatamente le diverse caratteristiche e i fattori di rischio pertinenti di ciascun prodotto di investimento che possono raccomandare o nel quale possono investire per conto dei clienti.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Dovrebbe essere prevista anche l’analisi svolta dall’impresa ai fini degli obblighi di <em>governance</em> dei prodotti. In questo contesto, le imprese dovrebbero valutare attentamente in che modo determinati prodotti potrebbero comportarsi in date circostanze (ad esempio obbligazioni convertibili o altri strumenti di debito, soggetti alla direttiva sul risanamento e la risoluzione delle banche, che possono, ad esempio, convertirsi in azioni. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p07.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p7"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Orientamenti di supporto 71 e 72",
+            "percorso": "pagine/pagina8.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "È particolarmente importante valutare il livello di «complessità» dei prodotti, che dovrebbe corrispondere alle informazioni del cliente (in particolare per quanto riguarda la relativa conoscenza ed esperienza). Sebbene «complessità» sia un termine relativo, che dipende da diversi fattori, le imprese dovrebbero anche tenere conto dei criteri e dei principi individuati nella direttiva MiFID 2 nel definire e misurare adeguatamente il livello di complessità da attribuire ai prodotti ai fini della valutazione dell’adeguatezza.<BR>Si richiede altresì alle imprese di adottare procedure intese a garantire che le informazioni utilizzate per comprendere e classificare correttamente i prodotti di investimento inclusi nella loro offerta siano affidabili, accurate, coerenti e aggiornate. Nell’adottare tali procedure, le imprese dovrebbero tener conto delle diverse caratteristiche e della natura dei prodotti considerati (ad esempio, prodotti più complessi con caratteristiche particolari possono richiedere processi più dettagliati e le imprese non dovrebbero basarsi esclusivamente su un fornitore di dati per comprendere e classificare i prodotti di investimento, ma dovrebbero verificare e contestare tali dati o confrontare i dati forniti da varie fonti di informazioni).",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG8",
+            "RAWDOMText": [
+                " Orientamento di supporto 71",
+                " Orientamento di supporto 72",
+                " È particolarmente importante valutare il livello di «complessità» dei prodotti, che dovrebbe corrispondere alle informazioni del cliente",
+                " Le imprese dovrebbero tenere conto dei criteri e dei principi individuati nella direttiva MiFID 2 nel definire e misurare adeguatamente il livello di complessità da attribuire ai prodotti ai fini della valutazione dell’adeguatezza.",
+                " Le imprese dovrebbero:",
+                " adottare procedure per garantire che le informazioni utilizzate per comprendere e classificare correttamente i prodotti di siano affidabili, accurate, coerenti e aggiornate;",
+                " tener conto delle diverse caratteristiche e della natura dei prodotti considerati."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p08.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p8"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Abbinare il cliente al prodotto adeguato: orientamento generale 8",
+            "percorso": "pagine/pagina9.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l'<em>Orientamento generale 8</em>, al fine di proporre ai clienti investimenti adeguati, le imprese dovrebbero stabilire politiche e procedure allo scopo di garantire la costante considerazione di:<UL><LI>tutte le informazioni disponibili sul cliente, necessarie per valutare l’adeguatezza di un investimento, compreso il portafoglio di investimenti corrente del cliente (e la ripartizione delle attività all’interno di tale portafoglio) e</LI><LI>tutte le caratteristiche materiali degli investimenti presi in considerazione nella valutazione dell’adeguatezza, inclusi tutti i rischi pertinenti ed eventuali costi diretti o indiretti per il cliente.</LI></UL>L'<em>Orientamento di supporto 75</em> ricorda a riguardo alle imprese che la valutazione dell’adeguatezza non si limita alle raccomandazioni di acquistare uno strumento finanziario. Ogni raccomandazione dev’essere adeguata, che si tratti, ad esempio, di una raccomandazione di acquistare, tenere o vendere uno strumento o di non farlo.<BR>Secondo l'<em>Orientamento di supporto 76</em>, le imprese di investimento che impiegano strumenti durante il processo di valutazione dell’adeguatezza (come modelli di portafoglio, software per la ripartizione delle attività o strumenti che creano profili per potenziali investitori), dovrebbero avere sistemi e controlli adeguati a garantire che tali strumenti siano adatti allo scopo e producano risultati soddisfacenti.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG9",
+            "RAWDOMText": [
+                " Orientamento generale 8",
+                " Orientamento di supporto 75",
+                " Orientamento di supporto 76",
+                " Le imprese dovrebbero stabilire politiche e procedure per garantire la costante considerazione di:",
+                " tutte le informazioni disponibili sul cliente, necessarie per valutare l’adeguatezza di un investimento;",
+                " tutte le caratteristiche materiali degli investimenti presi in considerazione nella valutazione dell’adeguatezza.",
+                " La valutazione dell’adeguatezza non si limita alle raccomandazioni di acquistare uno strumento finanziario.",
+                " Le imprese che impiegano strumenti durante il processo di valutazione dell’adeguatezza, dovrebbero avere sistemi e controlli adeguati per garantire che tali strumenti siano adatti allo scopo e producano risultati soddisfacenti."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p09.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p9"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Orientamento di supporto 78",
+            "percorso": "pagine/pagina10.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Conseguentemente a quanto detto, l'<em>Orientamento di supporto 78</em> richiede che gli strumenti dovrebbero essere concepiti in modo da tenere conto di tutte le caratteristiche specifiche di ciascun cliente o di ciascun prodotto di investimento. Gli strumenti che classificano i clienti o i prodotti di investimento in termini generali, ad esempio, non sarebbero adatti allo scopo.<BR>L’impresa dovrebbe stabilire politiche e procedure che, tra l’altro, le consentano di garantire che:<UL><LI>i servizi di consulenza e gestione di portafogli prestati al cliente tengano conto di un adeguato livello di diversificazione del rischio;</LI><LI>il cliente abbia una comprensione adeguata del rapporto esistente tra il rischio e il rendimento, ovvero della fisiologica bassa remunerazione degli investimenti privi di rischio, dell’incidenza dell’orizzonte temporale su tale rapporto e dell’impatto dei costi sui propri investimenti;</LI><LI>la situazione finanziaria del cliente possa finanziare gli investimenti e il cliente possa sostenere eventuali perdite derivanti dagli investimenti;</LI><LI>tutte le raccomandazioni personali o le operazioni effettuate nel corso della prestazione di un servizio di consulenza in materia di investimenti o di gestione di portafogli, in caso di prodotti illiquidi, tengano conto del periodo di tempo per cui il cliente è disposto a detenere l’investimento;</LI><LI>e che eventuali conflitti di interesse non influiscano negativamente sulla qualità della valutazione dell’adeguatezza.</LI></UL>",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG10",
+            "RAWDOMText": [
+                " Orientamento di supporto 78",
+                " Gli strumenti dovrebbero essere concepiti in modo da tenere conto di tutte le caratteristiche specifiche di ciascun cliente o prodotto di investimento.",
+                " L’impresa dovrebbe stabilire politiche e procedure per garantire che:",
+                " i servizi di consulenza e gestione di portafogli prestati al cliente tengano conto di un adeguato livello di diversificazione del rischio;",
+                " il cliente abbia una comprensione adeguata del rapporto esistente tra il rischio e il rendimento;",
+                " la situazione finanziaria del cliente possa finanziare gli investimenti e il cliente possa sostenere eventuali perdite derivanti dagli investimenti;",
+                " le raccomandazioni o le operazioni effettuate nel corso della prestazione tengano conto del periodo di tempo per cui il cliente è disposto a detenere l’investimento e che eventuali conflitti di interesse non influiscano negativamente sulla qualità della valutazione dell’adeguatezza."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p10.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Orientamenti  di supporto 79 e 80",
+            "percorso": "pagine/pagina11.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Nel prendere una decisione sulla metodologia da adottare per condurre la valutazione dell’adeguatezza, l’impresa dovrebbe anche tenere conto del tipo e delle caratteristiche dei servizi erogati e, più in generale, del suo modello di business. Ad esempio, se un’impresa gestisce un portafoglio o fornisce consulenza a un cliente in merito al suo portafoglio, dovrebbe adottare una metodologia che le consenta di effettuare una valutazione dell’adeguatezza sulla base dell’esame del portafoglio del cliente nel suo insieme.<BR>Inoltre, nel condurre una valutazione dell’adeguatezza, un’impresa che fornisce il servizio di gestione del portafoglio dovrebbe valutare le conoscenze e l’esperienza del cliente in merito a ciascun tipo di strumento finanziario che potrebbe essere incluso nel suo portafoglio, nonché i tipi di rischi connessi alla gestione del suo portafoglio.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG11",
+            "RAWDOMText": [
+                " Orientamento di supporto 79",
+                " Orientamento di supporto 80",
+                " Quale metodologia adottare per valutare l’adeguatezza?",
+                " L’impresa dovrebbe tenere conto del tipo e delle caratteristiche dei servizi erogati e, più in generale, del suo modello di business",
+                " Nel condurre una valutazione dell’adeguatezza, l’impresa dovrebbe:",
+                " valutare le conoscenze e l’esperienza del cliente in merito a ciascun tipo di strumento finanziario che potrebbe essere incluso nel suo portafoglio;",
+                " i tipi di rischi connessi alla gestione del suo portafoglio.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> A seconda del livello di complessità degli strumenti finanziari in essere, l’impresa dovrebbe valutare le conoscenze e l’esperienza del cliente in modo più specifico e non soltanto sulla base della categoria alla quale appartiene lo strumento (ad esempio debito subordinato anziché obbligazioni in generale). Dall’altra parte, per quanto riguarda la situazione finanziaria e gli obiettivi finanziari del cliente, la valutazione dell’adeguatezza riguardo all’impatto dello strumento e dell’operazione – o degli strumenti e delle operazioni – può essere effettuata al livello del portafoglio del cliente nel suo insieme. In pratica, se il contratto sulla gestione del portafoglio definisce in modo sufficientemente dettagliato la strategia di investimento adeguata al cliente in relazione ai criteri di adeguatezza definiti dalla direttiva MiFID 2 – che sarà seguita dall’impresa – la valutazione dell’adeguatezza delle decisioni di investimento potrebbe essere effettuata a fronte della strategia di investimento definita nel contratto di gestione del portafoglio, e il portafoglio del cliente nel suo complesso dovrebbe rispecchiare tale strategia di investimento concordata. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p11.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Orientamento  di supporto 81",
+            "percorso": "pagine/pagina12.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Secondo l'<em>Orientamento di supporto 81</em>, quando effettua una valutazione dell’adeguatezza sulla base dell’esame del portafoglio complessivo del cliente, un’impresa dovrebbe assicurare un adeguato livello di diversificazione all’interno dello stesso, tenendo conto dell’esposizione del portafoglio del cliente ai diversi rischi finanziari (esposizione geografica, esposizione in valuta, esposizione alla classe di attività, ecc.).<BR>Nei casi in cui, ad esempio, dal punto di vista dell’impresa, le dimensioni del portafoglio di un cliente siano troppo esigue per consentire un’efficace diversificazione in termini di rischio di credito, l’impresa potrebbe valutare la possibilità di indirizzare tali clienti verso tipi di investimenti «garantiti» o di per sé diversificati (ad esempio, un fondo di investimento diversificato).<BR>Le imprese dovrebbero essere particolarmente prudenti per quanto riguarda il rischio di credito: sarebbe opportuno valutare in particolare l’esposizione del portafoglio del cliente un unico emittente o a emittenti appartenenti allo stesso gruppo. valutare in particolare l’esposizione del portafoglio del cliente un unico emittente o a emittenti appartenenti allo stesso gruppo.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG12",
+            "RAWDOMText": [
+                " Orientamento di supporto 81",
+                " L’impresa nell’effettuare la valutazione dell’adeguatezza sulla base dell’esame del portafoglio complessivo del cliente, dovrebbe assicurare un adeguato livello di diversificazione.",
+                " Se le dimensioni del portafoglio sono esigue, l’impresa potrebbe indirizzare il cliente verso tipi di investimenti «garantiti» o di per sé diversificati.",
+                " Le imprese dovrebbero essere particolarmente prudenti sul rischio di credito, valutando l’esposizione del portafoglio del cliente a un unico emittente o a emittenti appartenenti allo stesso gruppo.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Nell’operare attraverso i cosiddetti modelli di collocamento di strumenti propri, le imprese dovrebbero tenere presente la dichiarazione dell’ESMA del 2016 sulla direttiva n. 2014/59/UE (cd <em>Banking Recovery and Resolution Directive</em>, BRRD) (cfr. <em>MiFID practices for firms selling financial instruments subject to the BRRD resolution regime</em> (ESMA/2016/902)), secondo cui dovrebbero evitare un’eccessiva concentrazione di investimenti in strumenti finanziari soggetti al regime di risoluzione emanato dall’impresa stessa o da entità dello stesso gruppo.<BR> Di conseguenza, oltre alle metodologie da applicare per la valutazione del rischio di credito dei prodotti (cfr. l’orientamento 7), le imprese dovrebbero adottare anche misure e procedure <em>ad hoc</em> volte a garantire che la concentrazione relativa al rischio di credito sia individuata, controllata e mitigata efficacemente (si potrebbe ad esempio prevedere l’individuazione di soglie <em>ex ante</em>).<BR> A tal fine, in linea con la summenzionata dichiarazione dell’ESMA, le imprese dovrebbero tenere conto anche delle caratteristiche specifiche dei titoli offerti (comprese le caratteristiche di rischio e le circostanze dell’emittente) nonché della situazione finanziaria dei clienti – compresa la loro capacità di sostenere perdite – e i loro obiettivi di investimento, compreso il loro profilo di rischio. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p12.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Orientamento  di supporto 82",
+            "percorso": "pagine/pagina13.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Al fine di garantire la coerenza della valutazione dell’adeguatezza effettuata con strumenti automatizzati (anche se l’interazione con i clienti non avviene attraverso sistemi automatizzati), l'<em>Orientamento di supporto 82</em> richiede che le imprese dovrebbero monitorare e verificare periodicamente gli algoritmi che contribuiscono a determinare l’adeguatezza delle operazioni raccomandate o intraprese per conto dei clienti.<BR>Nel definire tali algoritmi, le imprese dovrebbero:<UL><LI>tenere conto della natura e delle caratteristiche dei prodotti inclusi nella loro offerta ai clienti;</LI><LI>creare un’adeguata documentazione della struttura del sistema che esponga chiaramente la finalità, la portata e la struttura degli algoritmi; ove opportuno, i diagrammi decisionali o le norme per l’adozione delle decisioni dovrebbero far parte di tale documentazione;</LI><LI>predisporre una strategia di verifica documentata che illustri la portata della verifica degli algoritmi e che dovrebbe comprendere piani di verifica, casi da verificare, risultati delle verifiche, risoluzione dei difetti (se pertinente) e i risultati finali delle verifiche;</LI><LI>disporre di politiche e procedure adeguate per gestire eventuali modifiche apportate a un algoritmo, fra cui il monitoraggio e la tenuta di registri di tali modifiche (ciò comprende l’esistenza di dispositivi di sicurezza per monitorare e impedire l’accesso non autorizzato all’algoritmo);</LI><LI>rivedere e aggiornare gli algoritmi per assicurare che rispecchino eventuali modifiche di rilievo (ad esempio le evoluzioni del mercato e le modifiche della legge applicabile) che possano incidere sulla loro efficacia;</LI><LI>disporre di politiche e procedure che consentano di individuare eventuali errori nell’algoritmo e di gestirli adeguatamente, tra cui, ad esempio, la sospensione della prestazione dei servizi di consulenza qualora tali errori possano comportare una consulenza inadeguata e/o una violazione delle pertinenti disposizioni legislative o normative;</LI><LI>disporre di risorse adeguate – comprese risorse umane e tecnologiche – finalizzate al monitoraggio e alla supervisione dei risultati degli algoritmi mediante un esame adeguato e tempestivo della consulenza fornita;</LI><LI>e disporre di un adeguato processo di convalida interno per garantire che siano state seguite le misure fin qui indicate.</LI></UL>",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG13",
+            "RAWDOMText": [
+                " Orientamento di supporto 78",
+                " Le imprese dovrebbero monitorare e verificare periodicamente gli algoritmi che contribuiscono a determinare l’adeguatezza delle operazioni raccomandate o intraprese per conto dei clienti.",
+                " Nel definire tali algoritmi, le imprese dovrebbero:",
+                " tenere conto della natura e delle caratteristiche dei prodotti inclusi nella loro offerta ai clienti;",
+                " creare un’adeguata documentazione della struttura del sistema;",
+                " predisporre una strategia di verifica documentata;",
+                " disporre di politiche e procedure per gestire eventuali modifiche apportate a un algoritmo;",
+                " rivedere e aggiornare gli algoritmi;",
+                " disporre di politiche e procedure che consentano di individuare e gestire eventuali errori nell’algoritmo;",
+                " disporre di risorse adeguate per il monitoraggio e la supervisione dei risultati degli algoritmi;",
+                " disporre di un adeguato processo di convalida interno."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p13.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Costi e complessità di prodotti equivalenti: orientamento generale 9",
+            "percorso": "pagine/pagina14.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "L'Orientamento generale 9 prevede che le politiche e le procedure per la determinazione dell’adeguatezza dovrebbero far sì che, prima che un’impresa prenda una decisione sui prodotti di investimento da raccomandare o su cui investire nel portafoglio gestito per conto del cliente, venga effettuata una valutazione approfondita delle possibili alternative di investimento, tenendo conto dei costi e della complessità dei prodotti.<BR>In pratica, le imprese dovrebbero attuare una procedura che tenga conto della natura del servizio, del modello di business e del tipo di prodotti forniti, per valutare i prodotti disponibili «equivalenti» tra loro in termini di capacità di soddisfare le esigenze e le circostanze del cliente, come ad esempio gli strumenti finanziari con mercati di riferimento simili e un analogo profilo di rischio/rendimento.<BR>Nel caso di gamma ristretta di prodotti o di imprese che raccomandano un tipo di prodotto, quando la valutazione di prodotti «equivalenti» potrebbe essere limitata, è importante che i clienti siano pienamente consapevoli di tali circostanze.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG14",
+            "RAWDOMText": [
+                " Orientamento generale 9",
+                " Orientamento di supporto 84",
+                " Orientamento di supporto 85",
+                " Prima di prendere una decisione sui prodotti di investimento da raccomandare o su cui investire l’impresa dovrebbe effettuare una valutazione approfondita delle possibili alternative di investimento, tenendo conto dei costi e della complessità dei prodotti.",
+                " Le imprese dovrebbero porre in essere una procedura che tenga conto della natura del servizio, del modello di business e del tipo di prodotti forniti, per valutare prodotti disponibili «equivalenti».",
+                " Imprese con una gamma ristretta di prodotti o che raccomandano un solo tipo di prodotto dovrebbero rendere i clienti pienamente consapevoli di tali circostanze.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Le imprese dovrebbero inoltre essere in grado di giustificare le situazioni in cui un prodotto più costoso o complesso viene scelto o raccomandato al posto di un prodotto equivalente, tenendo conto del fatto che per la procedura di selezione dei prodotti nell’ambito della consulenza in materia di investimenti o della gestione del portafoglio possono essere presi in considerazione anche altri criteri (ad esempio la diversificazione del portafoglio, la liquidità o il livello di rischio). Le imprese dovrebbero documentare e tenere registri di tali decisioni; queste ultime, infatti, dovrebbero essere oggetto di specifica attenzione da parte delle funzioni di controllo all’interno dell’impresa. La relativa documentazione dovrebbe essere soggetta a revisioni interne. Nel fornire consulenza in materia di investimenti, le imprese potrebbero anche decidere – per specifici motivi ben definiti – di informare il cliente circa la decisione di scegliere lo strumento finanziario più costoso e complesso (Orientamento di supporto 87). </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p14.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Costi e benefici derivanti da altri investimenti: orientamento generale 10",
+            "percorso": "pagine/pagina15.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ai sensi dell'Orientamento generale 10, le imprese dovrebbero disporre di politiche e procedure adeguate per garantire che venga effettuata un’analisi dei costi e dei benefici di un passaggio affinché le imprese possano ragionevolmente dimostrare che i benefici attesi di tale cambiamento sono superiori ai costi. Le imprese dovrebbero inoltre istituire controlli adeguati a evitare l’elusione delle prescrizioni in materia della direttiva MiFID 2. Le decisioni in materia di investimenti quali il riequilibrio di un portafoglio in gestione, nel caso in cui una «strategia passiva» riproduca un indice (come concordato con il cliente), in genere non sarebbero considerate un cambiamento.<BR>Per fugare eventuali dubbi, qualsiasi operazione senza tali soglie sarebbe considerata come un cambiamento di investimento.<BR>Per i clienti di per sé professionali l’analisi costi benefici può essere effettuata a livello della strategia di investimento.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG15",
+            "RAWDOMText": [
+                " Orientamento generale 10",
+                " Orientamento di supporto 89",
+                " Le imprese dovrebbero disporre di politiche e procedure adeguate per garantire un’analisi dei costi e dei benefici di un passaggio, affinché possano ragionevolmente dimostrare che i benefici attesi di tale cambiamento sono superiori ai costi.",
+                " Qualsiasi operazione senza tali soglie sarebbe considerata come un cambiamento di investimento.",
+                " Per i clienti professionali l’analisi costi benefici può essere effettuata a livello della strategia di investimento."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloorizzontale.png"
+                },
+                {
+                    "src": "contenuti/img/bluorizzontale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p15.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p15"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 15,
+            "titolo": "Orientamento di supporto 90",
+            "percorso": "pagine/pagina16.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "D'altra parte, le imprese dovrebbero tener conto di tutte le informazioni necessarie per poter effettuare un’analisi costi/benefici del cambiamento, vale a dire una valutazione dei vantaggi e degli svantaggi del nuovo o dei nuovi investimenti presi in considerazione.<BR>In tale contesto, potrebbero essere rilevanti i fattori di costo e beneficio sia monetari che non monetari. Essi potrebbero, ad esempio, includere:<UL><LI>il rendimento netto atteso dell’operazione alternativa proposta (che tiene conto anche di eventuali costi a carico del cliente da sostenere in anticipo) rispetto al rendimento netto atteso dell’investimento esistente (che dovrebbe prendere in considerazione anche eventuali costi associati all’uscita in cui il cliente potrebbe incorrere per cedere il prodotto già nel suo/loro portafoglio);</LI><LI>un cambiamento delle circostanze e delle esigenze del cliente, che può essere la ragione per prendere in considerazione la possibilità di cambiare investimento, ad esempio la necessità di liquidità a breve termine a seguito di un evento familiare inatteso e non pianificato;</LI><LI>un cambiamento delle caratteristiche dei prodotti o delle circostanze del mercato, che può essere un motivo per prendere in considerazione la possibilità di un cambiamento nel portafoglio del cliente, ad esempio se un prodotto diventa illiquido a causa dell’andamento del mercato;</LI><LI>e benefici al portafoglio del cliente derivanti dal passaggio ad altri investimenti, come ad esempio una maggiore diversificazione del portafoglio, un maggiore allineamento del profilo di rischio del portafoglio agli obiettivi di rischio del cliente, un aumento della liquidità del portafoglio, oppure una riduzione del rischio di credito complessivo del portafoglio.</LI></UL>",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG16",
+            "RAWDOMText": [
+                " Orientamento di supporto 90",
+                " Le imprese dovrebbero tener conto di tutte le informazioni necessarie per poter effettuare un’analisi costi/benefici del cambiamento",
+                " I fattori di costo e beneficio sia monetari che non monetar, potrebbero includere:",
+                " il rendimento netto atteso dell’operazione alternativa rispetto al rendimento netto atteso dell’investimento esistente;",
+                " un cambiamento delle circostanze e delle esigenze del cliente;",
+                " un cambiamento delle caratteristiche dei prodotti o delle circostanze del mercato;",
+                " benefici al portafoglio del cliente derivanti dal passaggio ad altri investimenti.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Le imprese dovrebbero inoltre adottare sistemi e controlli atti a monitorare il rischio di elusione dell’obbligo di valutare i costi e i benefici del cambiamento raccomandato, ad esempio nei casi in cui il consiglio di vendere un prodotto è seguito dal consiglio di acquistarne un altro in un secondo momento (ad esempio qualche giorno dopo), ma le due operazioni erano, in realtà, strettamente collegate fin dall’inizio. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p16.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p16"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 16,
+            "titolo": "Orientamento di supporto 93",
+            "percorso": "pagine/pagina17.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ai sensi dell'Orientamento di supporto 93, se un’impresa utilizza strategie di portafoglio comuni o proposte di investimento tipo che si applicano a diversi clienti con lo stesso profilo di investimento (secondo quanto determinato dall’impresa), l’analisi costi/benefici di un passaggio ad altri investimenti potrebbe essere effettuata a un livello superiore rispetto a quello di ogni singolo cliente o di ogni singola operazione.<BR>Più in particolare, quando un passaggio a un altro investimento è deciso a livello centrale, ad esempio nell’ambito di un comitato per gli investimenti o di un altro comitato che definisce strategie di portafoglio comuni o proposte di investimenti tipo, l’analisi costi/benefici potrebbe essere effettuata a livello di tale comitato.<BR>In una situazione di questo tipo, l’impresa potrebbe anche stabilire, a livello del comitato competente, il motivo per cui per alcuni clienti non sarà portato a termine un cambiamento già deciso. Sebbene l’analisi costi/benefici possa essere effettuata a un livello superiore in tali situazioni, l’impresa dovrebbe comunque disporre di adeguati controlli per verificare che non esistano caratteristiche particolari di determinati clienti che possano richiedere un livello di analisi più discreto.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG17",
+            "RAWDOMText": [
+                " Orientamento di supporto 93",
+                " Se un’impresa utilizza strategie di portafoglio comuni o proposte di investimento tipo che si applicano a diversi clienti con lo stesso profilo di investimento, l’analisi costi/benefici di un passaggio ad altri investimenti potrebbe essere effettuata a un livello superiore.",
+                " L’analisi costi/benefici potrebbe essere effettuata a livello di tale comitato.",
+                " L’impresa dovrebbe comunque disporre di adeguati controlli per verificare che non esistano caratteristiche particolari di determinati clienti che possano richiedere un livello di analisi più discreto."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p17.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p17"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 17,
+            "titolo": "Orientamenti di supporto 94 e 95",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina18.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Qualora un gestore di portafoglio abbia concordato con un cliente un mandato e una strategia di investimento più personalizzati per soddisfare le specifiche esigenze di investimento del cliente, sarebbe più opportuna un’analisi costi/benefici del cambiamento a livello del cliente, contrariamente all’esempio appena descritto. Per i clienti di per sé professionali l’analisi costi/benefici può essere effettuata a livello della strategia di investimento.<BR>Fatto salvo quanto detto, se un gestore di portafoglio ritiene che la composizione o i parametri di un portafoglio debbano essere modificati in modo non autorizzato rispetto al mandato convenuto con il cliente (ad esempio da una strategia orientata ai titoli azionari a una strategia incentrata sul reddito fisso), il gestore di portafoglio dovrebbe discuterne con il cliente e riesaminare o rivalutare l’adeguatezza per concordare un nuovo mandato.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG18",
+            "RAWDOMText": [
+                " Orientamento di supporto 94",
+                " Orientamento di supporto 95",
+                " Se un gestore di portafoglio ha concordato con un cliente un mandato e una strategia di investimento più personalizzati, è più opportuna un’analisi costi/benefici del cambiamento a livello del cliente.",
+                " Se un gestore di portafoglio ritiene che la composizione o i parametri di un portafoglio debbano essere modificati in modo non autorizzato rispetto al mandato convenuto con il cliente, può discuterne con il cliente e riesaminare o rivalutare l’adeguatezza per concordare un nuovo mandato."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p18.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p18"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 18,
+            "titolo": "Altri requisiti correlati: orientamento generale 9",
+            "percorso": "pagine/pagina19.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "approfondimenti": 1,
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "L’<em>Orientamento generale 11</em> richiede alle imprese  di garantire che il personale coinvolto in aspetti rilevanti del processo di adeguatezza possieda un livello adeguato di conoscenze e competenze.<BR>Secondo l'<em>Orientamento di supporto 97</em>, il personale dell’intermediario deve comprendere il suo ruolo nel processo di valutazione dell’adeguatezza e possedere le qualifiche, le conoscenze e le competenze necessarie, compresa una sufficiente conoscenza delle norme e delle procedure pertinenti per l’esercizio delle responsabilità attribuitegli.<BR>Inoltre, l'<em>Orientamento di supporto 98</em> prevede che il personale che fornisce ai clienti consulenza in materia di investimenti o informazioni sugli strumenti finanziari, i depositi strutturati, i servizi di investimento o i servizi accessori per conto dell’impresa (anche quando fornisce servizi di gestione del portafoglio) deve avere le conoscenze e le competenze necessarie, anche per quanto riguarda la valutazione dell’adeguatezza.",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG19",
+            "RAWDOMText": [
+                " Orientamento generale 11",
+                " Orientamento di supporto 97",
+                " Orientamento di supporto 98",
+                " Le imprese devono garantire che il personale coinvolto in aspetti rilevanti del processo di adeguatezza possieda un livello adeguato di conoscenze e competenze.",
+                " Il personale dell’intermediario deve comprendere il suo ruolo nel processo di valutazione dell’adeguatezza e possedere le qualifiche, le conoscenze e le competenze necessarie, compresa una sufficiente conoscenza delle norme e delle procedure pertinenti per l’esercizio delle responsabilità attribuitegli.",
+                " Il personale che fornisce consulenza in materia di investimenti o informazioni sugli strumenti finanziari, i depositi strutturati, i servizi di investimento o i servizi accessori per conto dell’impresa, deve avere le conoscenze e le competenze necessarie a norma della MiFID, anche per quanto riguarda la valutazione dell’adeguatezza.",
+                " Fai clic sugli occhiali e leggi l’approfondimento",
+                " <div style=\"color:#FFF;\"> <p> Gli altri membri del personale che non interagiscono direttamente con i clienti, ma che sono coinvolti nella valutazione dell’adeguatezza in altro modo, devono comunque possedere le capacità, le conoscenze e le competenze necessarie a seconda del ruolo specifico che svolgono nel processo di determinazione dell’adeguatezza. Possono, ad esempio, elaborare i questionari, definire gli algoritmi alla base della valutazione dell’adeguatezza o altri aspetti necessari a condurre la valutazione dell’adeguatezza e controllare la conformità ai requisiti di adeguatezza. </p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p19.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p19"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 19,
+            "titolo": "Conservazione della documentaione: orientamento generale 12",
+            "percorso": "pagine/pagina20.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Prima di concludere, facciamo un breve cenno all'Orientamento generale 12, secondo cui le imprese dovrebbero per lo meno:<UL><LI>implementare procedure adeguate all’acquisizione e conservazione della documentazione, ordinate e trasparenti con riferimento alla valutazione dell’adeguatezza, compresa la raccolta di informazioni presso il cliente, eventuali consulenze in materia di investimenti fornite e tutti gli investimenti (e disinvestimenti) effettuati in seguito alla valutazione dell’adeguatezza e le relative relazioni fornite al cliente;</LI><LI>garantire che le procedure in materia di acquisizione della documentazione siano studiate per consentire la rilevazione di errori riguardanti la valutazione dell’adeguatezza (quali, ad esempio, il mis-selling o la vendita di prodotti inadeguati);</LI><LI>garantire che la documentazione conservata, comprese le relazioni sull’adeguatezza fornite ai clienti, sia accessibile alle persone interessate nell’impresa e alle autorità competenti;</LI><LI>e disporre di adeguati processi per l’attenuazione di eventuali lacune o limiti delle procedure in materia di conservazione della documentazione.</LI></UL>",
+            "idkey": "0019_20_01_MOD1_LEZ5_PAG20",
+            "RAWDOMText": [
+                " Orientamento generale 12",
+                " Le imprese dovrebbero:",
+                " implementare procedure adeguate per l’acquisizione e conservazione della documentazione, ordinate e trasparenti con riferimento alla valutazione dell’adeguatezza",
+                " garantire che le procedure in materia di acquisizione della documentazione siano studiate per consentire la rilevazione di errori riguardanti la valutazione dell’adeguatezza;",
+                " garantire che la documentazione conservata, comprese le relazioni sull’adeguatezza fornite ai clienti, sia accessibile alle persone interessate nell’impresa e alle autorità competenti;",
+                " disporre di adeguati processi per l’attenuazione di eventuali lacune o limiti delle procedure in materia di conservazione della documentazione."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/gialloverticale.png"
+                },
+                {
+                    "src": "contenuti/img/bluverticale.png"
+                },
+                {
+                    "src": "contenuti/0019_20_01_M01UD05/img/p20.png"
+                },
+                {
+                    "src": "contenuti/img/boxTitolo.png"
+                },
+                {
+                    "src": "contenuti/img/violaangolo.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0019_20_01_M01UD05/audio/m01ud05p20"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0019_20_01_MOD1_LEZ5"
+}

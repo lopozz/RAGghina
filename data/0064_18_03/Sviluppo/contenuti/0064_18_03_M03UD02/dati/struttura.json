@@ -1,0 +1,683 @@
+{
+    "titolo": "Digital banking: la survey - Parte 1",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Le nuove frontiere dell’investimento vedono la necessità di diversificare il portafoglio per settore e modelli di business, soprattutto nell’ottica del nuovo panorama economico mondiale delineato dai forti cambiamenti demografici, climatici, tecnologici e di globalizzazione. Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG1",
+            "RAWDOMText": [
+                " Perché dovrebbe essere più sicuro investire in settori merceologici differenti?",
+                " Quali sono i maggiori contesti di cambiamento che definiscono il panorama economico mondiale?",
+                " Il trend demografico porterà nuove esigenze e fabbisogni da soddisfare? Quali?",
+                " Nella diversificazione del portafoglio, ha un peso anche la dimensione dell’azienda nella quale si investe?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Diversificazione settoriale: nuove frontiere di investimento 1/2",
+            "percorso": "pagine/pagina2.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La diversificazione per settore e per modelli di business consiste nel suddividere il capitale da investire in attività finanziarie (ad esempio fondi di investimento o azioni) che fanno riferimento ad aziende che appartengono a settori merceologici differenti o, all’interno dello stesso settore, per esempio le telecomunicazioni, forniscono modi innovati e più divertenti, tutti da scoprire. La logica di fondo risiede nel fatto che, difficilmente, tutti i settori possano essere contemporaneamente in crisi. Pertanto, le eventuali perdite derivanti da un andamento negativo di un settore vengono compensate, ed anche superate, dai guadagni conseguiti da altri settori che, nello stesso orizzonte temporale, realizzano un andamento positivo e rendimenti remunerativi.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG2",
+            "RAWDOMText": [
+                " Diversificazione per settore e per modelli di business",
+                " Suddivisione del capitale da investire in settori merceologici differenti.",
+                " È difficile che tutti i settori siano contemporaneamente in crisi!",
+                " ANDAMENTO POSITIVO",
+                " Perdite settore B",
+                " Guadagni settore A"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p02_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p02_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/002-pie-chart.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/001-idea-1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/003-balance.png"
+                },
+                {
+                    "src": "contenuti/img/frecciaLunga.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Diversificazione settoriale: nuove frontiere di investimento 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I paradigmi che caratterizzano il nuovo contesto economico sono quattro, si tratta di trend tra loro interconnessi, la cui evoluzione disegnerà un nuovo panorama. Le dinamiche demografiche rappresentano il principale «influencer». L’insieme di nuove tecnologie, globalizzazione e cambiamenti climatici plasmeranno i nuovi equilibri mondiali.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG3",
+            "RAWDOMText": [
+                " PARADIGMI DEL NUOVO CONTESTO ECONOMICO",
+                " Trend interconnessi che disegneranno un nuovo panorama.",
+                " CAMBIAMENTI DEMOGRAFICI",
+                " INNOVAZIONI TECNOLOGICHE",
+                " GLOBALIZZAZIONE",
+                " CAMBIAMENTI CLIMATICI"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p03_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p03_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p03_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p03_d.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "I cambiamenti demografici 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I cambiamenti demografici riguardano 3 differenti aspetti: l’incremento demografico mondiale e il relativo ridisegno della popolosità mondiale, i processi di invecchiamento della popolazione e i nuovi business dedicati alle cure a al benessere della fascia più anziana della popolazione, e la redistribuzione del reddito e le nuove classi sociali. Il dato forse più interessante riguarda l'invecchiamento della popolazione non attiva, a scapito delle fasce più giovani. Occorrerà inoltre capire quali cambiamenti porterà la nascente Generazione Alpha (i cosiddetti Google kids), i veri nativi digitali.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG4",
+            "RAWDOMText": [
+                " Aspetti del cambiamento demografico",
+                " INCREMENTO DEMOGRAFICO",
+                " INVECCHIAMENTO",
+                " CRESCITA DELLE CLASSI MEDIE",
+                " Età della popolazione",
+                " Età della popolazione"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p04_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p04_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p04_d.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p04_e.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "I cambiamenti demografici 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Tra il 1999 e il 2004, 135 milioni di persone sono sfuggite alla povertà. Nei prossimi decenni la classe media mondiale aumenterà più del doppio (da 430 milioni a 1,2 miliardi). Entro il 2030 il 93% della classe media mondiale sarà composto da persone provenienti da paesi emergenti. Il trend vede inoltre una sempre maggior concentrazione della popolazione mondiale verso i grandi agglomerati urbani. I millenials saranno i nuovi risparmiatori e crescerà la spesa per prodotti di aziende socialmente responsabili.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG5",
+            "RAWDOMText": [
+                " 135 milioni di persone sono sfuggite alla povertà.",
+                " La classe media globale aumenterà più del doppio nei prossimi 10 anni.",
+                " Il 93% della classe media mondiale sarà composto da persone provenienti da paesi emergenti.",
+                " SPESA CRESCENTE SU PRODOTTI DI AZIENDE SOCIALMENTE RESPONSABILI"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/004-business-and-finance.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/005-mother.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/006-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p05_c.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "I cambiamenti demografici 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Con una popolazione di 8,3 mld di abitanti nel 2030, aumenta il fabbisogno di cibo, acqua ed energia e cresce la necessità di utilizzare le risorse in maniera più efficace. Con l’invecchiamento della popolazione a livello globale nel 2030 aumenta il fabbisogno di ospedali, farmaci, assicurazioni sanitarie, e ricerca. E le spese per singola patologia cresceranno notevolmente.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG6",
+            "RAWDOMText": [
+                " → 8,3 mld di abitanti",
+                " 2030",
+                " + 35%",
+                " + 40%",
+                " + 50%",
+                " Cresce la necessità di utilizzare le risorse in maniera più efficace.",
+                " Invecchiamento della popolazione",
+                " + 40%",
+                " + 35%",
+                " + 50%",
+                " + 25%",
+                " Le spese per singola patologia cresceranno notevolmente."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p06_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p06_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/007-diet.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/008-water.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/009-idea.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/010-hospital.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/011-medicine.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/012-insurance.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/013-flasks.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p06"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 6,
+            "titolo": "L'utilizzo delle risorse 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’acqua sarà un bene sempre più prezioso. Le aziende dovranno sviluppare processi produttivi capaci di razionalizzare il consumo dell’acqua che diventerà un costo fisso con cui fare i conti. È bene ricordare che solo lo 0,25 % dell’acqua del pianeta è utilizzabile. Il resto è inquinato oppure «chiuso» nelle calotte polari, nei ghiacciai e nel permafrost. Produrre un chilogrammo di carne richiede 15.000 litri di acqua, sei volte in più di quanto non serva per produrre la stessa quantità di riso. L’industria dell’acqua dovrebbe valere 1 miliardo di dollari entro il 2025, con un tasso di crescita dal 4% al 6% annuo.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG7",
+            "RAWDOMText": [
+                " Popolazione VS utilizzo idrico",
+                " Popolazione mondiale",
+                " Consumo mondiale di acqua",
+                " 0,25% di acqua utilizzabile.",
+                " 15.000 L di acqua per produrre 1Kg di carne.",
+                " Entro il 2025 il valore dell’industria dell’acqua arriverà a 1 mld di dollari."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p07_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p07_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/006-worldwide.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/014-meat.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/015-bills.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "L'utilizzo delle risorse 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Le sfide ambientali impongono soluzioni a livello globale: molte attività hanno superato il limite di sicurezza ed è pertanto necessario concentrarsi su attività economiche sostenibili. In quest’era tecnologica porremo sempre maggior attenzione all’ambiente e all’utilizzo intelligente delle sue risorse. Questo in molti campi, dall’edilizia, all’agricoltura, al settore energetico ed industriale, fino alla mobilità e ai trasporti.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG8",
+            "RAWDOMText": [
+                " Spazio operativo sicuro",
+                " Attività oltre il limite di sicurezza",
+                " Utilizzo intelligente delle risorse dell’ambiente",
+                " EDILIZIA",
+                " AGRICOLTURA",
+                " ENERGIA",
+                " INDUSTRIA",
+                " ECO MOBILITÀ"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p08.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p08_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p08_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p08_c.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/016-green-home.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/017-wheat.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/018-turbine.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/019-factory.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/020-electric-car.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p08"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 8,
+            "titolo": "Il processo del cambiamento 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I processi di produzione di molte aziende sono all’inizio di un cambiamento massivo ancora non facilmente valutabile nella portata finale, caratterizzato: dalla Digitalizzazione (cioè la de-materializzazione di prodotti fisici e servizi); dalla Sharing Economy (basata su strumenti online che facilitano la transizione come il car sharing); e da una Coscienza sociale e ambientale, che porta ad un uso responsabile delle risorse.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG9",
+            "RAWDOMText": [
+                " La distruption in ogni fase di vita dei prodotti",
+                " DIGITALIZZAZIONE",
+                " SHARING ECONOMY",
+                " COSCIENZA SOCIALE E AMBIENTALE"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p09.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p09_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/021-eye.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/022-money.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/023-planet-earth.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p09"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 9,
+            "titolo": "Il processo del cambiamento 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "La velocità del cambiamento è un altro aspetto che caratterizza le abitudini dei cittadini, le decisioni di consumo, i modelli di business delle aziende e, di riflesso, le opportunità di investimento in un mondo sempre più globalizzato e tecnologico. I padroni del petrolio a livello mondiale sono stati soppiantati, in termini di capitalizzazione e redditività, dalle nuove aziende legate al settore tecnologico e delle comunicazioni.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG10",
+            "RAWDOMText": [
+                " La velocità del cambiamento caratterizza:",
+                " abitudini;",
+                " decisioni di consumo;",
+                " modelli di business;",
+                " opportunità di investimento.",
+                " Tecnologia e comunicazione capitalizzano e rendono più del petrolio.",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p><img src=\"contenuti/0064_18_03_M03UD02/img/p04_e.png\" style=\"width: 100%;\"></p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p10_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p10_a.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/png/024-offer.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p10"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 10,
+            "titolo": "Il processo del cambiamento 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "I business vincenti risultano sempre quelli che anticipano, o in alcune casi, creano, nuovi prodotti e rispondono a nuove esigenze di cui nemmeno si immaginava la possibilità o utilità. Nel 1900 a New York ci si spostava a piedi o in carrozza; già nel 1913 le strade principali erano congestionate dalle autovetture. Mai più vera e lungimirante è la famosa frase attribuita a Henry Ford, l’inventore dell’auto: «Se avessi chiesto alla gente cosa voleva, avrebbero risposto cavalli più veloci.»",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG11",
+            "RAWDOMText": [
+                " Il livello di multibancarizzazione cresce all’aumentare della ricchezza finanziaria",
+                " New York, 1900",
+                " New York, 1913",
+                " Se avessi chiesto alla gente cosa voleva, avrebbero risposto cavalli più veloci.",
+                "(Henry Ford)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p11.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p11_a.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p11_b.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Diversificazione per capitalizzazione",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "La diversificazione per capitalizzazione consiste nel suddividere il capitale da investire in attività finanziarie (ad esempio fondi di investimento o azioni) che facciano riferimento ad aziende che vanno dalle piccole/medie dimensioni, sino ai grandi gruppi industriali e finanziari. Le diverse dimensioni delle aziende sono soggette a variabili qualitative e quantitative di rischio diverse e, pertanto, a differenti trade-off tra rischio e rendimento.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG12",
+            "RAWDOMText": [
+                " Suddivisione del capitale da investire in:",
+                " attività finanziarie diverse;",
+                " riferite ad aziende di piccole, medie e grandi dimensioni.",
+                " In base alle dimensioni delle aziende variano:",
+                " le variabili qualitative e quantitative di rischio;",
+                " i trade-off tra rischio e rendimento."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p12_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p12_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "Diversificazione per valuta",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "L’esposizione valutaria di un portafoglio è data innanzitutto da due componenti: l’esposizione alle valute in cui sono denominati gli strumenti finanziari compresi nel portafoglio del fondo; l’eventuale utilizzo di derivati da parte del gestore per finalità di copertura su tali valute o per prendere posizioni sulle stesse. Nella figura possiamo osservare le correlazioni fra le principali coppie di valute calcolate a fine ottobre 2017.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG13",
+            "RAWDOMText": [
+                " Un portafoglio è esposto:",
+                " alle valute degli strumenti finanziari del fondo;",
+                " all’eventuale utilizzo di derivati da parte del gestore.",
+                " Correlazioni fra le principali coppie di valute (ottobre 2017)"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p13.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M03UD02/img/p13_a.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Non è sufficiente definire l’asset allocation del portafoglio?",
+                " La diversificazione deve operare anche all'interno dell’asset allocation e dei mercati in cui è collocata: è importante detenere nel proprio portafoglio di investimento una combinazione di azioni, obbligazioni e liquidità, diversiﬁcati trasversalmente su stili e capitalizzazioni di mercato diverse tra di loro, in modo da ridurre drasticamente la volatilità (il rischio) dei rendimenti di un portafoglio.",
+                " Quali sono i megatrend destinati a cambiare la struttura della nostra società nei prossimi decenni?",
+                " Sono numerosi i trend di lungo periodo che impatteranno in maniera profonda sull’economia globale e sulle opportunità di investimento. In particolare la demografia, con trend sottostanti quali l’aumento e l’invecchiamento della popolazione, insieme alla crescita della classe media nei Paesi emergenti.",
+                " Quali sono i vantaggi che l’investimento nei megatrend può offrire al portafoglio di un investitore?",
+                " Questi trend possono offrire un supporto ai rendimenti, perchè influenzano nel lungo periodo l’andamento delle aziende posizionate per beneficiarne, meno soggette alla volatilità del breve periodo. Le strategie di investimento focalizzate su di essi consentono quindi di mantenere un’ampia diversificazione all’interno dei portafogli.",
+                " L’esposizione valutaria è un rischio da evitare?",
+                " Nel lungo termine, l’effetto del tasso di cambio tra le valute dei paesi sviluppati tende a bilanciarsi o comunque a essere piuttosto limitato. La diversificazione valutaria con gli opportuni correttivi per limitare la volatilità, resta, insieme alla diversificazione geografica, un’opzione efficiente per l’investitore."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p14"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 14,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina15.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD2_LEZ7_PAG15",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Una delle seguenti opzioni NON è corretta.",
+                "I processi di produzione delle aziende vanno nella direzione:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M03UD02/audio/0064_18_03_m03ud02p15"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD2_LEZ7"
+}

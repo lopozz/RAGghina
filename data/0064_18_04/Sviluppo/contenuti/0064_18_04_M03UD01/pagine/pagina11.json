@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Finanziamento bancario.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Finanziamento e prestito.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Finanziamento, pagamento, investimento e consulenza.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Nessuna delle precedenti.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Infatti le imprese Fintech sono in grado di offrire una vasta gamma di servizi di finanziamento, pagamento, investimento e consulenza ad alto contenuto tecnologico e a prezzi competitivi.",
+    "feedbackNeg": "<b>Non è esatto!</b> Infatti le imprese Fintech sono in grado di offrire una vasta gamma di servizi di finanziamento, pagamento, investimento e consulenza ad alto contenuto tecnologico e a prezzi competitivi."
+}

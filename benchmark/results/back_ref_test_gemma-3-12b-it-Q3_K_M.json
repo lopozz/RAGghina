@@ -1,0 +1,33 @@
+[
+  {
+    "H": [
+      {
+        "question": "Qual è la principale finalità degli hedge fund nel portafoglio di un investitore?",
+        "context": [
+          "Come appena ricordato, gli hedge fund puntano a rendimenti stabili nel tempo, indipendenti dalle performance del mercato. Adottano quindi strategie e tecniche tese ad ottenere rendimenti positivi che sono slegati dall’andamento dei mercati di riferimento. Ovviamente, come avviene in tutte le speculazioni sui margini, quando si perde, si può perdere anche in maniera significativa. Negli hedge fund viene svolto un monitoraggio costante della volatilità, proprio per controllare i rischi elevati. Il risk manager ha dunque un ruolo importante nel gestire questi patrimoni! Infine, questi fondi implementano strategie spesso aggressive, ma poco correlate con le classi di investimento tradizionali, per esempio, la vendita allo scoperto di titoli che si ritengono sopravvalutati, oppure, investono metà del patrimonio in titoli e l’altra metà allo scoperto.",
+          "Hedge fund  1. Obiettivo rendimenti stabili  Si slegano i rendimenti dall’andamento dei mercati (absolute return)  Speculazione sui margini = rischio di perdite elevate!  2. Esigenza di monitoraggio costante  Ruolo essenziale del risk manager nella gestione dei rischi ai quali è esposto il patrimonio  3. Ricorso a strategie aggressive  Vendita allo scoperto di titoli sopravvalutati  Metà patrimonio investito in titoli, metà investito allo scoperto"
+        ],
+        "G": "La principale finalità degli hedge fund è ottenere rendimenti stabili nel tempo, indipendenti dalle performance del mercato di riferimento."
+      },
+      {
+        "question": "Quali sono tre principali asset class di commodities menzionate nel testo?",
+        "context": [
+          "Vediamo ora le commodities, un'asset class che si riferisce a investimenti in materie prime, come petrolio, gas naturale, metalli e beni di consumo quali mais, grano, soia cacao ... Il loro valore dipende, oltre che dalla domanda e dall’offerta del mercato, anche dalle riserve disponibili di tali beni. Poiché queste asset class hanno un’elevata standardizzazione, è possibile negoziarle sui mercati internazionali.",
+          "Investimenti in materie prime e beni di consumo  Petrolio, gas, oro, alluminio, rame, grano, mais, cacao…  Valore legato a:  Domanda/offerta  Riserve disponibili  L’elevata standardizzazione delle commodities consente la negoziazione sui mercati internazionali."
+        ],
+        "G": "Tre principali asset class di commodities menzionate nel testo sono: petrolio, gas naturale e metalli (come oro, alluminio, rame)."
+      },
+      {
+        "question": "Come diversificare gli investimenti?",
+        "context": [
+          "Classi di investimento…ma non solo!  Diversificazione geografica   Diversificazione settoriale e disruptive   Diversificazione valutaria   Diversificazione per capitalizzazione  Il mondo sta cambiato molto rapidamente; forse dovrebbero cambiare anche i portafogli degli investitori.  Oltre ad investire su classi di investimento diverse, solitamente poco correlate tra di loro, occorre diversificare il portafoglio: per aree geografiche, per settori, per valute e per capitalizzazione, puntando sia sulle grandi aziende (dette large cap), - ma anche su quelle di dimensioni più ridotte (chiamate mid e small cap)."
+        ],
+        "G": "La diversificazione degli investimenti si realizza tramite: diversificazione geografica, settoriale (inclusi settori disruptive), valutaria e per capitalizzazione (large, mid e small cap)."
+      }
+    ],
+    "question": "Non ricordo quale era la principale finalità degli hedge fund, puoi ripetere?",
+    "context": [],
+    "G": "La diversificazione degli investimenti si realizza tramite: diversificazione geografica, settoriale (inclusi settori disruptive), valutaria e per capitalizzazione (large, mid e small cap).",
+    "answer": "La principale finalità degli hedge fund è ottenere rendimenti stabili nel tempo, indipendenti dalle performance del mercato di riferimento."
+  }
+]

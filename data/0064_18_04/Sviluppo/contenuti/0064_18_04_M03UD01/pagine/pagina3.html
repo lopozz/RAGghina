@@ -1,0 +1,62 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 654px;">
+			<img src="contenuti/img/sfondo3.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_04_M03UD01/img/p03.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 600px;">
+		<div id="ico1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('ico1')" style="position: absolute; top: 20px; left: 630px;">
+			<img src="contenuti/0064_18_04_M03UD01/img/icone/innovation.png" style="height: 100px;">
+		</div>
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;color:#006699;font-weight:bold;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Innovazioni in Fintech</div>
+		</div>
+		<div style="position: absolute;top: 50px;left: 0px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="2.5" dataend="1000" ng-show="getIsVisible('cont2_pe1')" style="">servizi finanziari</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="5" dataend="1000" ng-show="getIsVisible('cont2_pe2')" style="">tecnologie informatiche</li>
+				<li class="slideLeft" id="cont2_pe3" animated="" datastart="7" dataend="1000" ng-show="getIsVisible('cont2_pe3')" style="">settori dell’intermediazione bancaria e finanziaria</li>
+			</ul>
+		</div>
+		<div style="position: absolute;top: 130px;left: 40px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont2_pe4" animated="" datastart="12" dataend="1000" ng-show="getIsVisible('cont2_pe4')" style="">credito (<i>crowd-funding</i> e <i>peer-to-peer lending</i>)</li>
+				<li class="slideLeft" id="cont2_pe5" animated="" datastart="16" dataend="1000" ng-show="getIsVisible('cont2_pe5')" style="">servizi di pagamento (<i>instant payment</i>)</li>
+				<li class="slideLeft" id="cont2_pe6" animated="" datastart="19" dataend="1000" ng-show="getIsVisible('cont2_pe6')" style="">valute virtuali (<i>Bitcoin</i>)</li>
+				<li class="slideLeft" id="cont2_pe7" animated="" datastart="21" dataend="1000" ng-show="getIsVisible('cont2_pe7')" style="">servizi di consulenza (<i>robo-advisor</i>)</li>
+				<li class="slideLeft" id="cont2_pe8" animated="" datastart="24.5" dataend="1000" ng-show="getIsVisible('cont2_pe8')" style="">tecnologie di validazione decentrata</li>
+			</ul>
+		</div>
+		<div style="position: absolute;top: 260px;left: 80px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco2.png);">
+				<li class="slideLeft" id="cont2_spe1" animated="" datastart="28" dataend="1000" ng-show="getIsVisible('cont2_spe1')" style="">transazioni (<i>blockchain</i> o DLT - <i>distributed ledger technology</i>)</li>
+				<li class="slideLeft" id="cont2_spe2" animated="" datastart="33.5" dataend="1000" ng-show="getIsVisible('cont2_spe2')" style="">identificazione biometrica (impronta digitale, retina o riconoscimento facciale)</li>
+				<li class="slideLeft" id="cont2_spe3" animated="" datastart="39.5" dataend="1000" ng-show="getIsVisible('cont2_spe3')" style="">supporto all’erogazione di servizi (<i>cloud computing e Big data</i>)</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div style="position: absolute;width: 600px;top: 535px;left: 20px;font-size: 12px;font-style:italic;">
+		<div id="fonte" animated="" datastart="0" ng-show="getIsVisible('fonte')" class="slideRight" style="">Fonte: Fintech in Italia, Banca d’Italia</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 570px;top: 390px;">
+		<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_04_m03ud01p03','Investimenti di Fintech',1,27)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:180px;"></a>
+	</div>
+	<div class="istruzionePopup" style="width: 655px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_04_M03UD01/audio/0064_18_04_m03ud01p03" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_04_m03ud01p03">
+  <div style="color:#FFF;">
+    <p>Il Fintech investe dunque ogni segmento dei mercati dei servizi bancari e finanziari; ne modifica la struttura attraverso l’ingresso di <i>start-up</i> tecnologiche, dei giganti della tecnologia informatica e dei <i>social media</i> (Google, Apple, Facebook, Amazon, Alibaba); comporta inoltre una risposta strategica delle imprese già presenti.</p>
+  </div>
+</script>

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Il WPA2.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il WPA.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il WEP.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il WAP.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Il primo standard, rilasciato nel 1999, si chiamava Wired Equivalent Privacy (WEP).",
+    "feedbackNeg": "<b>Non è esatto!</b> Il primo standard, rilasciato nel 1999, si chiamava Wired Equivalent Privacy (WEP)."
+}

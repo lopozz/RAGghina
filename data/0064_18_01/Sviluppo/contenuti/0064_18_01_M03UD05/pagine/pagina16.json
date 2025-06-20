@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Integrità, economicità, funzionalità.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Integrità, riservatezza, aggiornamento.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Integrità, disponibilità, riservatezza.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Riservatezza, affidabilità, consistenza.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Per un’azienda è vitale proteggere l'integrità, la disponibilità e la riservatezza di dati e informazioni. In altre parole, far sì che essi non siano danneggiati, e rimangano sempre disponibili, ma solo per chi ha legittimo titolo ad accedervi.",
+    "feedbackNeg": "<b>Non è esatto!</b> Per un’azienda è vitale proteggere l'integrità, la disponibilità e la riservatezza di dati e informazioni. In altre parole, far sì che essi non siano danneggiati, e rimangano sempre disponibili, ma solo per chi ha legittimo titolo ad accedervi."
+}

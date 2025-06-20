@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Il lending e l’equity crowdfunding.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"L’equity crowdfunding.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il lending crowdfunding.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il reward crowdfunding.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> I modelli principali sono il lending crowdfunding e l'equity crowdfunding. Alcuni esempi di realtà operative in Italia sono Walliance e Housers, attraverso le quali è possibile investire da casa su un progetto immobiliare senza disporre di ingenti capitali.",
+    "feedbackNeg": "<b>Non è esatto!</b> I modelli principali sono il lending crowdfunding e l'equity crowdfunding. Alcuni esempi di realtà operative in Italia sono Walliance e Housers, attraverso le quali è possibile investire da casa su un progetto immobiliare senza disporre di ingenti capitali."
+}

@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Sono  valutati  allo stesso livello di rischiosità e gravità tanto dagli esperti  quanto dalle persone comuni.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sono  valutati  allo stesso livello di rischiosità e gravità solo dagli esperti.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sono  valutati  allo stesso livello di rischiosità e gravità  dalle persone comuni, non dagli esperti.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Sono  valutati  a diversi livelli di rischiosità e gravità, tanto dagli esperti  quanto dalle persone comuni, a seconda che si verifichino nel proprio Paese o in  luoghi lontani.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Nella valutazione dell’esperto, un evento catastrofico che fa migliaia di vittime nello stesso istante ed eventi che provocano poche vittime ma accadono un po’ alla volta (es.: incidenti sul lavoro) sono considerati ugualmente pericolosi e gravi; al contrario, l’evento catastrofico viene percepito come rischio molto maggiore dalla persona comune.",
+    "feedbackNeg": "<b>Non è esatto!</b> Nella valutazione dell’esperto, un evento catastrofico che fa migliaia di vittime nello stesso istante ed eventi che provocano poche vittime ma accadono un po’ alla volta (es.: incidenti sul lavoro) sono considerati ugualmente pericolosi e gravi; al contrario, l’evento catastrofico viene percepito come rischio molto maggiore dalla persona comune."
+}

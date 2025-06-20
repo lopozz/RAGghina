@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Individua il momento migliore per entrare e uscire dagli investimenti, basandosi tipicamente sulla gestione del Beta.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Individua il momento migliore per entrare e uscire dagli investimenti, basandosi tipicamente sulla gestione dell’ Alpha.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Individua il momento migliore per entrare e uscire dagli investimenti, basandosi sulla gestione dell’Alpha o del Beta a seconda dei trend macroeconomici del periodo.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Individua il momento migliore per entrare e uscire dagli investimenti, basandosi sulla gestione dell’Alpha o del Beta a seconda del mercato in cui opera.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Nel market timing, il gestore individua il momento migliore per entrare e uscire dagli investimenti. Per farlo, tipicamente si basa sulla gestione del Beta.",
+    "feedbackNeg": "<b>Non è esatto!</b> Nel market timing, il gestore individua il momento migliore per entrare e uscire dagli investimenti. Per farlo, tipicamente si basa sulla gestione del Beta."
+}

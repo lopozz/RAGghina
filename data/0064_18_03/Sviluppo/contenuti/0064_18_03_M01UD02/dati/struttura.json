@@ -1,0 +1,622 @@
+{
+    "titolo": "Rischio e incertezza",
+    "contenuti": [
+        {
+            "ordine": 0,
+            "titolo": "Scenario",
+            "percorso": "pagine/pagina1.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Ogni giorno siamo costretti a prendere delle decisioni e cercare di prevedere le conseguenze delle nostre scelte, esponendoci così al rischio. Non solo, recenti teorie sociali identificano nella produzione e gestione del rischio il tratto caratterizzante delle società contemporanee, introducendo il concetto di  “società del rischio”. Come impattano queste considerazioni sulla gestione dei patrimoni, investimenti, risparmio? Fai clic sulle immagini e scopri di che cosa parleremo nelle prossime pagine!",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG1",
+            "RAWDOMText": [
+                " Che cos’è il rischio? Come viene valutato e affrontato dalle persone?",
+                " Quali relazioni ci sono fra i concetti di rischio, pericolo, probabilità?",
+                " Ci sono dei fattori-chiave che determinano la percezione del rischio?",
+                " Come si articola il risk management?",
+                " Fai clic sulle immagini per scoprire i testi"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/1.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/2.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/3.jpg"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/4.jpg"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p01"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 1,
+            "titolo": "Il concetto di rischio",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina2.html",
+            "visto": 0,
+            "approfondimenti": 1,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Soffermiamoci, per iniziare, sul concetto di rischio. Tecnicamente, esso si riferisce a situazioni nelle quali si prende una decisione le cui conseguenze dipendono da eventi futuri incerti. Non conoscendo dunque la probabilità di tali eventi, ogni volta che una persona, una famiglia o un’impresa fanno una scelta, operano in condizioni di incertezza. Tutte le fonti di rischio, siano esse naturali o prodotte dall’uomo, sono percepite e valutate in maniera differente dalle persone. Queste valutazioni sono uno degli elementi fondamentali dei  “calcoli decisionali” che le persone fanno prima di agire.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG2",
+            "RAWDOMText": [
+                " Rischio:",
+                " si prende una decisione le cui conseguenze dipendono da eventi futuri incerti",
+                " Non si conoscono le probabilità degli eventi",
+                " Si sceglie in condizioni di incertezza",
+                " I rischi sono diversamente percepiti e valutati dalle persone",
+                " Calcoli decisionali",
+                " Fai clic sull'info point per approfondire l’argomento",
+                " <div style=\"color:#FFF;\"> <p>Il termine “società del rischio” è stato usato per la prima volta dal sociologo tedesco Ulrich Beck:<br>“Quello di rischio è – quindi - un concetto moderno che presuppone delle scelte e cerca di rendere prevedibili e controllabili le conseguenze imprevedibili delle decisioni umane nelle società avanzate”.<br>Beck ha cercato di porre in rilievo gli interessi mediatici, politici e scientifici gravitanti attorno alla produzione sociale del rischio.</p> </div>"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p02.png"
+                },
+                {
+                    "src": "contenuti/img/puntoInter.png"
+                },
+                {
+                    "src": "contenuti/img/box.png"
+                },
+                {}
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p02"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 2,
+            "titolo": "Valutazione intuitiva del rischo 1/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina3.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In linea generale, [secondo Beck], quando le persone devono effettuare delle valutazioni e non hanno conoscenze adeguate o semplicemente il tempo sufficiente, adottano delle scorciatoie di ragionamento, più semplici di un’analisi sistematica. Tali valutazioni intuitive si basano su indizi, anche forniti dal proprio sistema cognitivo,  per trarre delle conclusioni generali. Per esempio: il rischio è controllabile personalmente o no? Se mi viene facilmente in mente un esempio di incidente aereo, allora vuol dire che gli incidenti aerei sono frequenti. Se quella attività mi piace allora vuol dire che non è rischiosa...",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG3",
+            "RAWDOMText": [
+                " MANCANZA DI CONOSCENZE",
+                " MANCANZA DI TEMPO",
+                " Ragionamenti “scorciatoia” per valutare i rischi",
+                " Indizi",
+                " Il rischio è controllabile personalmente?",
+                " Se mi vengono facilmente in mente gli incidenti aerei, allora questi sono frequenti",
+                " Se quell’attività mi piace, significa che non è rischiosa…"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo1.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p03.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu_blu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p03"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 3,
+            "titolo": "Valutazione intuitiva del rischo 2/2",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina4.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "È importante considerare che la multidimensionalità è una caratteristica essenziale del rapporto dell’essere umano con il rischio, e induce comportamenti anche contrastanti, quando uno stesso individuo affronta rischi diversi. Per esempio, una persona può amare sport estremi, ma essere molto prudente negli investimenti finanziari. Oppure, essere uno scommettitore d’azzardo e guidare l’automobile in modo scrupoloso.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG4",
+            "RAWDOMText": [
+                " Multidimensionalità",
+                " del rapporto col rischio",
+                " Molteplicità",
+                " dei comportamenti, anche di uno stesso individuo in situazioni diverse",
+                " Esempi",
+                " Una persona può amare sport estremi, ma essere prudente negli investimenti finanziari...",
+                " giocare d’azzardo e guidare l’automobile in modo scrupoloso"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p04_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p04_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p04"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 4,
+            "titolo": "Rischio e incertezza",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina5.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Per comprendere meglio l’argomento,occorre innanzitutto distinguere fra rischio incertezza: secondo l'economista Frank Knight, il rischio è “una condizione in cui è possibile derivare una distribuzione di probabilità dei risultati tale da riuscire ad assicurarsi contro tale condizione. L’incertezza rappresenta invece una condizione nella quale non esiste tale distribuzione di probabilità”. In entrambi i casi, vi è un legame con la probabilità del manifestarsi di determinati eventi. Il rischio viene associato a eventi dei quali può essere misurata la frequenza, dunque con una probabilità oggettiva. Al contrario, l’incertezza riguarda una probabilità soggettiva, ciò che l’individuo reputa possibile in base a una sua convinzione personale, non osservabile né misurabile. Alcuni studi dimostrano che il confine tra rischio e incertezza è molto sottile: anche nei casi in cui la probabilità di un evento può essere misurata, la relativa  interpretazione soggettiva si lega invece a condizionamenti mentali, emotivi e sociali. La componente cognitiva è quindi solo una parte del processo decisionale.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG5",
+            "RAWDOMText": [
+                " Rischio",
+                " Incertezza",
+                " Si può calcolare una distribuzione di probabilità dei risultati",
+                " Non si può calcolare una distribuzione di probabilità dei risultati",
+                " Qual è la probabilità che si manifestino determinati eventi?",
+                " Rischio: probabilità oggettiva",
+                " Incertezza: probabilità soggettiva",
+                " Anche quando la probabilità può essere misurata, l’interpretazione soggettiva dipende molto da fattori non razionali"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p05_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p05_a.png"
+                },
+                {
+                    "src": "contenuti/img/diverso.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p05"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 5,
+            "titolo": "Rischio e pericolo",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina6.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Infine, va considerata la distinzione tra rischio e pericolo, termini comunemente usati per designare eventi con conseguenze negative. Tecnicamente però, un evento o una sostanza possono essere definiti rischiosi, se le conseguenze negative attese sono solo probabili, pericolosi, se invece le conseguenze negative sono certe. Quando si parla di pericolo, ci si focalizza quindi sulla certezza degli effetti, mentre quando si parla di rischio si pone l’accento sulla loro incertezza. Pensiamo per esempio alla differenza fra le conseguenze negative dell’uso del cellulare, e quelle di un’esplosione in una centrale nucleare. Nel configurare il rischio gioca un ruolo importante anche la valutazione soggettiva.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG6",
+            "RAWDOMText": [
+                " “Rischio” e “pericolo” sono termini quasi interscambiabili nel linguaggio comune",
+                " Tecnicamente invece sono ben diversi",
+                " Rischio",
+                " Conseguenze negative probabili",
+                " Es. Uso del cellulare",
+                " Pericolo",
+                " Conseguenze negative certe",
+                " Es. Esplosione centrale nucleare",
+                " Nel definire un rischio è molto importante anche la valutazione soggettiva"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p06.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p06"
+            ],
+            "tabelle": [
+                [
+                    " Rischio",
+                    " Conseguenze negative probabili",
+                    " Es. Uso del cellulare"
+                ],
+                [
+                    " Pericolo",
+                    " Conseguenze negative certe",
+                    " Es. Esplosione centrale nucleare"
+                ]
+            ]
+        },
+        {
+            "ordine": 6,
+            "titolo": "Il rischio percepito",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina7.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Il rischio, come detto, riguarda la probabilità oggettiva che una minaccia futura possa manifestarsi. Se invece si parla di rischio sotto il profilo soggettivo, si fa rifermento al “rischio percepito”. La percezione del rischio entra in gioco in diverse attività quotidiane e orienta le decisioni e i comportamenti delle persone. Essa riguarda, per esempio, le conseguenze sia immediate sia future, con le loro implicazioni razionali, oggettive, emozionali, soggettive. La ricerca ha sottolineato che spesso c’è una discrepanza tra la percezione soggettiva e la valutazione oggettiva del rischio. Le persone, quando devono valutare un rischio, generalmente non si affidano a un’analisi sistematica: Adottano piuttosto dei “ragionamenti scorciatoia”, o euristiche, che permettono di superare la scarsità di conoscenze o anche solo di tempo.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG7",
+            "RAWDOMText": [
+                " Rischio percepito",
+                " Orienta decisioni e comportamenti",
+                " Quali conseguenze immediate e future?",
+                " Implicazioni: razionali, oggettive, emozionali, soggettive",
+                " Percezione soggettiva",
+                " Valutazione oggettiva",
+                " L’individuo non fa un’analisi sistematica",
+                " Adotta invece “ragionamenti scorciatoia” (euristiche)",
+                " Aggira il gap di tempo e conoscenze da dedicare al problema"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p07_a.png"
+                },
+                {
+                    "src": "contenuti/img/diverso.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p07"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 7,
+            "titolo": "Fattori che influenzano la percezione del rischio 1/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina8.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Ma da cosa dipende la percezione soggettiva del rischio? Diversi studi hanno individuato alcuni fattori che la influenzano in modo particolare. Se ne evidenziano principalmente due: l’aspetto “terrificante”, cioè il grado di paura che l’evento provoca nei soggetti, e la conoscenza del rischio, cioè le informazioni relative ad un determinato evento rischioso. Anche la possibilità di controllare l’evento rischioso, nonché la volontarietà dell’esposizione al rischio, hanno una loro significativa influenza.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG8",
+            "RAWDOMText": [
+                " Da cosa dipende la percezione soggettiva del rischio?",
+                " Fattore",
+                " Aspetto terrificante dell’evento",
+                " Grado di conoscenza",
+                " Possibilità di controllare l’evento",
+                " Volontarietà di assunzione del rischio",
+                " Spiegazione",
+                " Più il potenziale pericolo provoca paura nell’individuo, perché considerato terrificante e poco usuale, più viene ritenuto rischioso.",
+                " La relazione fra conoscenza e percezione del rischio è a volte positiva (più conosco l’elemento/evento, più lo giudico rischioso), altre, al contrario, negativa.",
+                "Ad esempio, chi conosce bene i rischi legati ai pesticidi e fertilizzanti li percepisce come maggiori rispetto a chi li ignora. Al contrario, chi non conosce i rischi legati alle manipolazioni genetiche di frutta e verdura le ritiene più rischiose di chi è ben informato.",
+                " Una situazione giudicata controllabile, viene percepita meno rischiosa. Quindi, bere bevande alcoliche viene ritenuto scarsamente rischioso, al contrario dell’ingerire involontariamente fertilizzanti chimici consumando frutta e verdura.",
+                " Un rischio imposto dall’esterno è considerato maggiore di uno assunto volontariamente (esempio: lanciarsi col paracadute)."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p08"
+            ],
+            "tabelle": [
+                [
+                    " Fattore",
+                    " Aspetto terrificante dell’evento",
+                    " Grado di conoscenza",
+                    " Possibilità di controllare l’evento",
+                    " Volontarietà di assunzione del rischio"
+                ],
+                [
+                    " Spiegazione",
+                    " Più il potenziale pericolo provoca paura nell’individuo, perché considerato terrificante e poco usuale, più viene ritenuto rischioso.",
+                    " La relazione fra conoscenza e percezione del rischio è a volte positiva (più conosco l’elemento/evento, più lo giudico rischioso), altre, al contrario, negativa.",
+                    "Ad esempio, chi conosce bene i rischi legati ai pesticidi e fertilizzanti li percepisce come maggiori rispetto a chi li ignora. Al contrario, chi non conosce i rischi legati alle manipolazioni genetiche di frutta e verdura le ritiene più rischiose di chi è ben informato.",
+                    " Una situazione giudicata controllabile, viene percepita meno rischiosa. Quindi, bere bevande alcoliche viene ritenuto scarsamente rischioso, al contrario dell’ingerire involontariamente fertilizzanti chimici consumando frutta e verdura.",
+                    " Un rischio imposto dall’esterno è considerato maggiore di uno assunto volontariamente (esempio: lanciarsi col paracadute)."
+                ]
+            ]
+        },
+        {
+            "ordine": 8,
+            "titolo": "Fattori che influenzano la percezione del rischio 2/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina9.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Influenzano la percezione del rischio ulteriori fattori, che qui andiamo a esaminare. Il fatto che un evento dannoso si presenti come “catastrofe” piuttosto che sotto forma cronica, la gravità delle sue conseguenze, la loro immediatezza, e il fatto che si possano osservare direttamente, sono tutti elementi che creano una percezione di maggiore rischiosità.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG9",
+            "RAWDOMText": [
+                " Da cosa dipende la percezione soggettiva del rischio?",
+                " Fattore",
+                " Cronicità/catastroficità",
+                " Gravità delle conseguenze",
+                " Immediatezza delle conseguenze",
+                " Osservabilità dei danni",
+                " Spiegazione",
+                " Le persone percepiscono come più rischiosi gli eventi “catastrofici”, come terremoti e inondazioni, piuttosto che quelli di tipo cronico, come gli incidenti stradali, che hanno un impatto su singoli individui in tempi e luoghi separati.",
+                " Più gravi sono le conseguenze di un’attività, maggiormente rischiosa viene percepita tale attività. Quindi, gli incidenti stradali sono tipicamente considerati meno rischiosi di quelli nucleari.",
+                " Le persone percepiscono maggiori rischi per attività o eventi che presentano effetti negativi immediati.",
+                " Non siamo filogeneticamente preparati a tutelarci da rischi non osservabili ed intuitivamente non ne percepiamo il pericolo come nel caso dell’ingestione di pesticidi mangiando frutta e verdura. Se invece i danni di un evento sono osservabili, lo riteniamo rischioso."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p09"
+            ],
+            "tabelle": [
+                [
+                    " Fattore",
+                    " Cronicità/catastroficità",
+                    " Gravità delle conseguenze",
+                    " Immediatezza delle conseguenze",
+                    " Osservabilità dei danni"
+                ],
+                [
+                    " Spiegazione",
+                    " Le persone percepiscono come più rischiosi gli eventi “catastrofici”, come terremoti e inondazioni, piuttosto che quelli di tipo cronico, come gli incidenti stradali, che hanno un impatto su singoli individui in tempi e luoghi separati.",
+                    " Più gravi sono le conseguenze di un’attività, maggiormente rischiosa viene percepita tale attività. Quindi, gli incidenti stradali sono tipicamente considerati meno rischiosi di quelli nucleari.",
+                    " Le persone percepiscono maggiori rischi per attività o eventi che presentano effetti negativi immediati.",
+                    " Non siamo filogeneticamente preparati a tutelarci da rischi non osservabili ed intuitivamente non ne percepiamo il pericolo come nel caso dell’ingestione di pesticidi mangiando frutta e verdura. Se invece i danni di un evento sono osservabili, lo riteniamo rischioso."
+                ]
+            ]
+        },
+        {
+            "ordine": 9,
+            "titolo": "Fattori che influenzano la percezione del rischio 3/3",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina10.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Infine, mentre se vi sono un maggior livello di conoscenza scientifica e di competenze specialistiche da mettere in campo, la percezione del rischio si abbassa, la novità e la scarsa familiarità di un determinato evento od oggetto potenzialmente dannoso, nonché il grado di esposizione delle persone, sia individuale che collettiva, aumentano la percezione di rischiosità.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG10",
+            "RAWDOMText": [
+                " Da cosa dipende la percezione soggettiva del rischio?",
+                " Fattore",
+                " Conoscenze da parte della scienza",
+                " Novità/familiarità",
+                " Grado di esposizione",
+                " Spiegazione",
+                " Le persone ritengono che maggiore è la conoscenza scientifica esistente circa un determinato evento o attività, maggiore è la possibilità per la scienza di riuscire a prevedere e gestire possibili incidenti, minore è la sua gravità.",
+                " Generalmente se un’attività, una sostanza o una tecnologia sono nuove, dunque ancora relativamente ignote, incutono più timore. Questo si mostra per esempio rispetto al consumo di psicofarmaci.",
+                " Maggiore è l’esposizione personale a un rischio, maggiore è la gravità percepita, e questa aumenta se la gente pensa che molte altre persone siano esposte a quello stesso rischio."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo3.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p08.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p10"
+            ],
+            "tabelle": [
+                [
+                    " Fattore",
+                    " Conoscenze da parte della scienza",
+                    " Novità/familiarità",
+                    " Grado di esposizione"
+                ],
+                [
+                    " Spiegazione",
+                    " Le persone ritengono che maggiore è la conoscenza scientifica esistente circa un determinato evento o attività, maggiore è la possibilità per la scienza di riuscire a prevedere e gestire possibili incidenti, minore è la sua gravità.",
+                    " Generalmente se un’attività, una sostanza o una tecnologia sono nuove, dunque ancora relativamente ignote, incutono più timore. Questo si mostra per esempio rispetto al consumo di psicofarmaci.",
+                    " Maggiore è l’esposizione personale a un rischio, maggiore è la gravità percepita, e questa aumenta se la gente pensa che molte altre persone siano esposte a quello stesso rischio."
+                ]
+            ]
+        },
+        {
+            "ordine": 10,
+            "titolo": "Gestione del rischio: le strategie",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina11.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "In sintesi, il rischio implica l’esistenza di un pericolo e la possibilità che esso si concretizzi, trasformandosi in danno. La capacità di gestire il rischio diventa sempre più essenziale per il professionista dei servizi finanziari. A questo proposito, ricordiamo che vi sono tre principali strategie per fronteggiare il rischio: La prevenzione, volta a ridurre la probabilità che si concretizzi il pericolo; La protezione, volta a diminuire il danno o trasferirlo su altro soggetto; La diversificazione, volta a distribuire/ripartire la probabilità che si concretizzi il pericolo. La gestione del rischio presuppone quindi una cultura specifica, e che si instauri con il cliente un chiaro processo di Risk Management.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG11",
+            "RAWDOMText": [
+                " Rischio: possibilità che un pericolo si concretizzi",
+                " Essenziale che il consulente sappia gestire il rischio",
+                " Strategie applicabili",
+                " Prevenzione: per ridurre le probabilità che si concretizzi il pericolo",
+                " Protezione: per diminuire il danno o trasferirlo su altro soggetto",
+                " Diversificazione: per distribuire/ripartire la probabilità che si concretizzi il pericolo",
+                " Cultura specifica e Risk Management"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p11_a.png"
+                },
+                {
+                    "src": "contenuti/img/frecciagiu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p11"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 11,
+            "titolo": "Gestione del rischio: le fasi del processo",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina12.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "mediaEnd",
+            "impostaVista": "fine",
+            "testo": "Sinteticamente, possiamo dire che il processo di Risk Management si basa su alcune fasi essenziali: innanzitutto, occorre identificare i rischi che minacciano gli obiettivi del cliente effettuandone una chiara mappatura, per aumentare la consapevolezza del cliente stesso, la condivisione e la capacità di reazione efficace. Si passa poi all’identificazione delle priorità e degli ambiti di intervento, nonché alla definizione del livello di rischio sostenibile (in linea con il “Profilo” del Cliente, ma anche in una prospettiva futura), e allo sviluppo di strategie di controllo e di monitoraggio dei rischi stessi.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG12",
+            "RAWDOMText": [
+                " Risk management",
+                " Identificare i rischi che minacciano gli obiettivi del cliente",
+                " Mappare e condividere i rischi con il cliente",
+                " Identificare priorità e ambiti di intervento",
+                " Definire il livello di rischio sostenibile",
+                " Sviluppare strategie di monitoraggio e controllo del rischio"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfondo2.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p12_b.png"
+                },
+                {
+                    "src": "contenuti/0064_18_03_M01UD02/img/p12_a.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p12"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 12,
+            "titolo": "L’esperto risponde",
+            "tipologia": "tutoriale",
+            "percorso": "pagine/pagina13.html",
+            "visto": 0,
+            "approfondimenti": 4,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "audioeffects": "false",
+            "testo": "Bene, vai a fare il punto con l’esperto. Clicca sulle domande e scopri le risposte.",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG13",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " Che differenza c’è fra rischio e pericolo?",
+                " I due termini, per quanto spesso usati in maniera intercambiabile, si riferiscono il primo a un evento con conseguenze negative probabili, il secondo, a un evento con conseguenze negative certe.",
+                " Che cos’è la valutazione del rischio?",
+                " Si tratta del processo con cui si stima la probabilità che, data una certa situazione, si verifichino in futuro conseguenze indesiderate. Questo processo riguarda tanto la vita quotidiana delle persone quanto ambiti specialistici come la gestione di investimenti e risparmio.",
+                " Quali fattori influenzano la valutazione intuitiva del rischio?",
+                " Il fatto che vi possano essere effetti molto gravi innalza la percezione di rischio. Il grado di conoscenze di cui dispone l’individuo può sia innalzare che abbassare la percezione del rischio. Vi sono poi numerosi altri fattori, fra i quali, per esempio, il grado di controllo percepito.",
+                " Che cos’è il risk management?",
+                " Sinteticamente, si tratta del processo attuato in sede di consulenza su risparmio e investimenti, volto ad identificare e mappare i rischi, condividerli con il cliente e definire le strategie di contenimento e controllo."
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdEspRisp.jpg"
+                },
+                {
+                    "src": "contenuti/img/sfondocopertina.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                },
+                {
+                    "src": "contenuti/img/espertorispombrablu.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p13"
+            ],
+            "tabelle": []
+        },
+        {
+            "ordine": 13,
+            "titolo": "Learning Stop",
+            "tipologia": "test",
+            "percorso": "pagine/pagina14.html",
+            "visto": 0,
+            "media": "audio",
+            "navigazione": "bloccata",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "testo": "Ora fermati un secondo e prova a rispondere a questa domanda!",
+            "idkey": "0064_18_03_MOD1_LEZ2_PAG14",
+            "RAWDOMText": [
+                " image/svg+xml",
+                " I ragionamenti (euristiche) utilizzati dagli individui nella valutazione dei rischi sono:"
+            ],
+            "immagini": [
+                {
+                    "src": "contenuti/img/sfdLearningStop.jpg"
+                },
+                {
+                    "src": "contenuti/img/lstop_palline.png"
+                },
+                {
+                    "src": "contenuti/img/question.png"
+                }
+            ],
+            "video": [],
+            "audio": [
+                "contenuti/0064_18_03_M01UD02/audio/0064_18_03_m01ud02p14"
+            ],
+            "tabelle": []
+        }
+    ],
+    "idkey": "0064_18_03_MOD1_LEZ2"
+}

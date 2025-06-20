@@ -1,0 +1,933 @@
+{
+    "titolo": "Investimenti e investitori: l’analisi negli anni",
+    "contenutiIntroduzioneFormativo": [
+        {
+            "ordine": 0,
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG1"
+        }
+    ],
+    "contenutiFinaliFormativo": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG2"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG3"
+        }
+    ],
+    "contenutiIntroduzioneFinale": [
+        {
+            "ordine": 0,
+            "id": "introTest",
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG4"
+        }
+    ],
+    "contenutiFinaliFinale": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG5"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": " ",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG6"
+        }
+    ],
+    "contenuti": [
+        {
+            "ordine": "1",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Tenore di vita e tendenza al risparmio in Italia",
+            "impostaVista": "fine",
+            "testo": "Da una recente indagine Acri-Ipsos, con riferimento ai “soggetti che ritengono che sia relativamente facile mantenere il tenore di vita della famiglia” - sulla base delle risposte fornite dagli intervistati - nell’ultimo quinquennio analizzato, si evidenzia:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "un progressivo incremento degli stessi.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "una progessiva diminuzione dei soggetti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "una drastica riduzione dei soggetti.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "un valore immutato degli stessi.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG7"
+        },
+        {
+            "ordine": "2",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Investimenti sostenibili",
+            "impostaVista": "fine",
+            "testo": "Con riferimento agli investimenti sostenibili, gli italiani sono in Europa:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "coloro che, forse in futuro, riusciranno a mostrare un certo interesse.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "tra i più interessati.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "tra i meno interessati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "coloro che non manifestano alcun interesse.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.1.0",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG8"
+        },
+        {
+            "ordine": "3",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Tenore di vita e tendenza al risparmio in Italia",
+            "impostaVista": "fine",
+            "testo": "Il numero di italiani propensi al risparmio:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "è decisamente ridotto.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "si attesta sotto la soglia del 20%.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "si attesta sotto la soglia del 34%.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è estremamente elevato.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.3",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG9"
+        },
+        {
+            "ordine": "4",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Tenore di vita e tendenza al risparmio in Italia",
+            "impostaVista": "fine",
+            "testo": "Le famiglie italiane giudicano il risparmio come:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "poco inutile.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "molto utile.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "inutile.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "pleonastico.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.4",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG10"
+        },
+        {
+            "ordine": "5",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Tenore di vita e tendenza al risparmio in Italia",
+            "impostaVista": "fine",
+            "testo": "Dall'indagine condotta dal Centro Einaudi  sul “Risparmio e sulle scelte finanziarie degli italiani”, cosa spinge principalmente gli italiani a risparmiare?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "L'acquisto di un'automobile.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Il motivo previdenziale.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Il motivo precauzionale.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La possibilità di fare viaggi e vacanze.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.2.5",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG11"
+        },
+        {
+            "ordine": "6",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Il risparmio gestito",
+            "impostaVista": "fine",
+            "testo": "L'indagine condotta dal Centro Einaudi  sul “Risparmio e sulle scelte finanziarie degli italiani”, rileva che la conoscenza che i risparmiatori hanno delle caratteristiche del risparmio gestito:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "è ampia.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "sembra essere ancora limitata.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è la migliore tra i Paesi dell'UE.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è la migliore tra i Paesi dell'OCSE.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.3.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG12"
+        },
+        {
+            "ordine": "7",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Il risparmio gestito",
+            "impostaVista": "fine",
+            "testo": "Completa la frase. I PIR devono essere investiti per almeno il ..... in strumenti finanziari emessi da imprese residenti nel territorio dello Stato italiano, di cui il 30% – quindi il 21% del valore originario – da imprese non quotate nel FTSE MIB o in indici equivalenti di altri mercati.",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "70%",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "40%",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "50%",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "60%",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.3.2",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG13"
+        },
+        {
+            "ordine": "8",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Gli italiani e gli investimenti",
+            "impostaVista": "fine",
+            "testo": "Una tipologia di investimento particolarmente prediletta dagli italiani è l'investimento:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "immobiliare.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "azionario.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "in strumenti derivati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "in metalli preziosi.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.4.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG14"
+        },
+        {
+            "ordine": "9",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Gli italiani e gli investimenti",
+            "impostaVista": "fine",
+            "testo": "L'indagine condotta dal Centro Einaudi  sul “Risparmio e sulle scelte finanziarie degli italiani” mostra come l’interesse per le obbligazioni si sia contratto negli ultimi anni. I motivi che hanno condotto a tale scenario sono essenzialmente connessi:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "al permanere dei tassi di interesse prossimi a zero e all’emergere di un rischio di credito più concreto.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "all'aumento dei tassi di interesse.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "all'incremento dei tassi di interesse e alla diminuzione del rischio di insolvenza.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "alla contrazione del rischio di credito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "1.4.2",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG15"
+        },
+        {
+            "ordine": "10",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Tenore di vita e tendenza al risparmio in Italia",
+            "impostaVista": "fine",
+            "testo": "Da una recente indagine Acri-Ipsos - sulla base delle risposte fornite dagli intervistati - negli ultimi dodici mesi analizzati, si evidenzia:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "la diminuzione di coloro che consumano tutto il reddito.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "l'aumento di coloro che consumano tutto il reddito.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "un valore stabile di coloro che consumano tutto il reddito.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "l'incremento di coloro che consumano tutto il reddito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.1.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG16"
+        },
+        {
+            "ordine": "11",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Le conoscenze finanziarie",
+            "impostaVista": "fine",
+            "testo": "Secondo l’ultimo Rapporto della Consob sulle scelte di investimento delle famiglie italiane, con riferimento alla familiarità e alla capacità di valutarne il rischio relativo, quali tra i seguenti strumenti sono più “conosciuti” tra gli intervistati:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "le criptovalute",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "i titoli di stato.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "le obbligazioni non bancarie.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "i derivati.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.2.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG17"
+        },
+        {
+            "ordine": "12",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Le conoscenze finanziarie",
+            "impostaVista": "fine",
+            "testo": "Completa la frase. Secondo l’ultimo Rapporto della Consob sulle scelte di investimento delle famiglie italiane, più del …… degli intervistati non è in grado di definire in cosa consista il servizio di consulenza in materia di investimenti.",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "50%",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "60%",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "70%",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "75%",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.2.2",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG18"
+        },
+        {
+            "ordine": "13",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "L'assistenza sanitaria integrativa",
+            "impostaVista": "fine",
+            "testo": "Secondo l'OCSE, l'Italia è uno dei Paesi:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "con la minor spesa privata pro capite per la salute.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "in cui la spesa sanitaria privata è leggermente diminuita.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "in cui la spesa sanitaria privata si è drasticamente contratta.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "con la maggiore spesa privata pro capite per la salute.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.3.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG19"
+        },
+        {
+            "ordine": "14",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "L'assistenza sanitaria integrativa",
+            "impostaVista": "fine",
+            "testo": "Secondo l'indagine condotta dal Centro Einaudi sul “Risparmio e sulle scelte finanziarie degli italiani”, gli intervistati sopravvalutano consistentemente la probabilità:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "di subire una truffa informatica su Internet.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "di contrarre la malattia di Alzheimer.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "di subire un infortunio sul lavoro.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "una rapina in casa.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.3.2",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG20"
+        },
+        {
+            "ordine": "15",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "L'assistenza sanitaria integrativa",
+            "impostaVista": "fine",
+            "testo": "Quale tra i Paesi dell'OCSE è al primo posto per longevità?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Il Giappone.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La Francia.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La Germania.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'Italia.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "2.3.3",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG21"
+        },
+        {
+            "ordine": "16",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Fintech",
+            "impostaVista": "fine",
+            "testo": "In Italia gli investimenti in Fintech:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "sono ancora contenuti rispetto ad altri Paesi.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "superano quelli posti in essere dalla Francia.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "eguagliano quelli della Germania.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "eguagliano quelli del Regno Unito.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "3.1.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG22"
+        },
+        {
+            "ordine": "17",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Robo Advisor",
+            "impostaVista": "fine",
+            "testo": "In quale tra le seguenti macrocategorie è possibile collocare i robo advisor?",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Tra i Servizi di pagamento.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nel Crowdfunding.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Tra i Servizi Automatizzati per il cliente.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Nello SPID.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "3.2.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG23"
+        },
+        {
+            "ordine": "18",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "Investimenti sostenibili",
+            "impostaVista": "fine",
+            "testo": "La scelta di investire in modo sostenibile varia notevolmente da un Paese all’altro. L’allocazione media in tutti i Paesi è:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "36%.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "20%.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "inferiore al 10%.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "inferiore al 5%.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.1.1",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG24"
+        },
+        {
+            "ordine": "19",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "La ricerca di sicurezza",
+            "impostaVista": "fine",
+            "testo": "Secondo l'indagine condotta dal Centro Einaudi  sul “Risparmio e sulle scelte finanziarie degli italiani” nell’ambito degli investimenti finanziari un aspetto molto sentito dall’investitore è:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "la sicurezza.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "il rendimento di breve periodo.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "la liquidità.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "il rendimento di lungo periodo.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.1.2",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG25"
+        },
+        {
+            "ordine": "20",
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "titoloUD": "La ricerca di sicurezza",
+            "impostaVista": "fine",
+            "testo": "Secondo l’ultimo Rapporto della Consob sulle scelte di investimento delle famiglie italiane, la cultura finanziaria delle stesse:",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "ha raggiunto, nell'ultimo biennio, livelli più elevati rispetto al valore medio registrato nell'Unione europea",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "ha registrato, nell'ultimo anno, livelli analoghi al valore medio registrato nell'Unione europea",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "rimane contenuta",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "ha registrato, nell'ultimo quinquennio, livelli analoghi al valore medio registrato nell'Unione europea",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "obiettivo": "4.1.3",
+            "idkey": "0064_18_04_MOD3_LEZ1_PAG26"
+        }
+    ],
+    "idkey": "0064_18_04_MOD3_LEZ1"
+}

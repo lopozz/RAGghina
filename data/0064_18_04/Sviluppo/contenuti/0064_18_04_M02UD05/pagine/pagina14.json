@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Gli anziani non più autosufficienti.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Gli anziani autosufficienti in  attività non essenziali.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Le aziende sanitarie.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tutti gli anziani over 65.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La polizza Long term Care infatti prevede l’erogazione di una rendita mensile a vita o il versamento di un capitale unico anticipato per il sostentamento dell’anziano, nel caso di perdita di autosufficienza intesa come capacità di svolgere le attività essenziali della vita quotidiana come la mobilità e la cura personale, a causa di una malattia o di un infortunio.",
+    "feedbackNeg": "<b>Non è esatto!</b> La polizza Long term Care infatti prevede l’erogazione di una rendita mensile a vita o il versamento di un capitale unico anticipato per il sostentamento dell’anziano, nel caso di perdita di autosufficienza intesa come capacità di svolgere le attività essenziali della vita quotidiana come la mobilità e la cura personale, a causa di una malattia o di un infortunio."
+}

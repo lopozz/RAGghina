@@ -1,0 +1,67 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute;top: 0px;left: 0px;">
+			<img src="contenuti/img/sfondo1.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_04_M03UD04/img/p05-06.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 600px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;font-weight: bold;color:#006699;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Lending crowdfunding</div>
+		</div>
+		<div id="cont2_img1" class="bigEntrance" animated="" datastart="2.5" ng-show="getIsVisible('cont2_img1')" style="position: absolute;top: 50px;left: 0px;font-size: 16px;">
+			<img src="contenuti/0064_18_04_M03UD04/img/icone/008-businessman.png" style="width: 100px;">
+			<div id="cont2_img1" animated="" datastart="2.5" ng-show="getIsVisible('cont2_img1')" class="slideRight" style="margin-top: 10px;">investitore</div>
+		</div>
+		<div id="freccia1" class="bigEntrance" animated="" datastart="5" ng-show="getIsVisible('freccia1')" style="position: absolute;top: 80px;left: 130px;">
+			<img src="contenuti/img/frecciadx.png" style="height: 50px;">
+		</div>
+		<div style="position: absolute;top: 90px;left: 250px;font-size: 18px;font-weight: bold;">
+			<div id="cont2_txt2" animated="" datastart="5" ng-show="getIsVisible('cont2_txt2')" class="slideRight" style="">Diritto di credito</div>
+		</div>
+		<div style="position: absolute;top: 130px;left: 250px;font-size: 16px;">
+			<ul style="list-style-image: url(images/pelenco.png);">
+				<li class="slideLeft" id="cont2_pe1" animated="" datastart="8.5" dataend="1000" ng-show="getIsVisible('cont2_pe1')" style="">liquido</li>
+				<li class="slideLeft" id="cont2_pe2" animated="" datastart="11.5" dataend="1000" ng-show="getIsVisible('cont2_pe2')" style="">ottiene il pagamento entro una data scadenza</li>
+				<li class="slideLeft" id="cont2_pe3" animated="" datastart="16" dataend="1000" ng-show="getIsVisible('cont2_pe3')" style="">con una remunerazione</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="contenitore3" class="pullDown" animated="" datastart="22.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute;top: 310px;left: 20px;width: 600px;">
+		<div style="position: absolute;top: 0px;left: 0px;font-size: 20px;font-weight: bold;">
+			<div id="cont3_txt1" animated="" datastart="22.5" ng-show="getIsVisible('cont3_txt1')" class="slideRight" style="">Rendimento</div>
+		</div>
+		<div id="box1" class="bigEntrance" animated="" datastart="23.5" ng-show="getIsVisible('box1')" style="position: absolute;top: 50px;left: 0px;font-size: 18px;">
+			<div id="box1" animated="" datastart="23.5" ng-show="getIsVisible('box1')" class="slideRight boxBlu" style="position: inherit;top: 3px;left: 3px;width: 500px;height: 70px;"></div>
+			<div id="box1" animated="" datastart="23.5" ng-show="getIsVisible('box1')" class="slideRight boxGialla" style="position: inherit;width: 500px;height: 70px;"></div>
+			<div id="box1" animated="" datastart="23.5" ng-show="getIsVisible('box1')" class="slideRight" style="position: inherit;width: 480px;top: 10px;left: 10px;"><b>Tasso di interesse</b> pattuito con il soggetto che raccoglie i fondi per mezzo della piattaforma</div>
+		</div>
+		<div id="cont3_img1" class="bigEntrance" animated="" datastart="23.5" ng-show="getIsVisible('cont3_img1')" style="position: absolute;top: 35px;left: 525px;">
+			<img src="contenuti/0064_18_04_M03UD04/img/icone/pay-per-click.png" style="width: 100px;">
+		</div>
+	</div>
+	
+	<div style="position: absolute;width: 490px;top: 500px;left: 20px;font-size: 12px;font-style:italic;">
+		<div id="fonte" animated="" datastart="0" ng-show="getIsVisible('fonte')" class="slideRight" style="">Fonte: Il Sole 24 ORE</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 620px;top: 10px;">
+		<a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_04_m03ud04p05','Tassazione del crowdfunding lending-based',1,30.6)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}" style="width:180px;"></a>
+	</div>
+	<div class="istruzionePopup" style="width: 665px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_04_M03UD04/audio/0064_18_04_m03ud04p05" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_04_m03ud04p05">
+  <div style="color:#FFF;">
+    <p>La tassazione del crowdfunding lending-based è stata rivista nella metà di dicembre 2017, definendo che i gestori operano una ritenuta alla fonte a titolo di imposta sui redditi di capitale corrisposti a persone fisiche nella misura del 26% sugli interessi percepiti mentre la società finanziata è soggetta alla tassazione ordinaria d’impresa.</p>
+  </div>
+</script>

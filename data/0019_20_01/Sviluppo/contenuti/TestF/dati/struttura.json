@@ -1,0 +1,681 @@
+{
+    "titolo": "Test IVASS",
+    "contenutiIntroduzioneFormativo": [
+        {
+            "ordine": 0,
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG1"
+        }
+    ],
+    "contenutiFinaliFormativo": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG2"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFormativo.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG3"
+        }
+    ],
+    "contenutiIntroduzioneFinale": [
+        {
+            "ordine": 0,
+            "id": "introTest",
+            "titolo": "Introduzione",
+            "percorso": "pagine/introduzioneFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG4"
+        }
+    ],
+    "contenutiFinaliFinale": [
+        {
+            "ordine": 101,
+            "titolo": "Feedback",
+            "percorso": "pagine/feedbackFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "0",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG5"
+        },
+        {
+            "ordine": 102,
+            "titolo": "Report",
+            "percorso": "pagine/reportFinale.html",
+            "tipologia": "tutoriale",
+            "visto": 0,
+            "media": "",
+            "navigazione": "bloccata",
+            "durata": 0,
+            "impostaVista": "fine",
+            "testo": "Template di pagina temporizzata",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG6"
+        }
+    ],
+    "contenuti": [
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "fra i servizi accessori.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "fra i servizi ed attività di investimento.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "fra gli strumenti finanziari derivati.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "fra gli organismi di investimento collettivo del risparmio (OICR).",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "1",
+            "obiettivo": "1.1.1.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "L'art. 1, comma 5, lettera d), del Testo unico della finanza elenca la gestione di portafogli: ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG7"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "il cliente può recedere in ogni momento dal contratto di gestione di portafoglio.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "il cliente può recedere dal contratto di gestione del portafoglio alla scadenza prevista nel contratto stesso.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "il cliente può recedere dal contratto di gestione del portafoglio previo preavviso di almeno trenta giorni.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "il cliente può recedere dal contratto di gestione del portafoglio previo preavviso di non meno di sessanta giorni.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "2",
+            "obiettivo": "1.1.2.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "Ai sensi dell'art. 24, comma 1,lett. b), del Tuf: ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG8"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "è un beneficio non monetario di minore entità ammissibile soltanto se autorizzato dal cliente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è un beneficio non monetario non ammissibile.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è un beneficio non monetario di minore entità ammissibile.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Non è mai ammissibile.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "3",
+            "obiettivo": "1.1.3.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "La partecipazione a convegni, seminari e altri eventi formativi sui vantaggi e sulle caratteristiche di un determinato strumento finanziario o servizio di investimento: ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG9"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "L'avvertenza che il portafoglio del cliente sarà caratterizzato da effetto leva.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'indicazione del  metodo e della frequenza di valutazione degli strumenti finanziari contenuti nel portafoglio del cliente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "L'indicazione degli obiettivi di gestione, del livello del rischio entro il quale il gestore può esercitare la sua discrezionalità e delle eventuali specifiche restrizioni a tale discrezionalità.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "La descrizione del parametro di riferimento (c.d. <em>benchmark</em>), ove significativo, al quale verrà raffrontato il rendimento del portafoglio del cliente.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "4",
+            "obiettivo": "1.1.4.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "Quale, fra le seguenti indicazioni, non è fra quelle che, in aggiunta a quanto stabilito dall’art. 37, l'art. 38 del regolamento intermediari della Consob prevede che siano incluse nel contratto con i clienti al dettaglio relativo alla gestione di portafogli?",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG10"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "rappresenta quella parte di variabilità del prezzo di ciascun titolo che dipende dalle fluttuazioni del mercato e non può essere eliminato per il tramite della diversificazione. ",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "dipende dalle caratteristiche peculiari dell'emittente e può essere diminuito sostanzialmente attraverso la suddivisione del proprio investimento tra titoli emessi da emittenti diversi (diversificazione del portafoglio).",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "rappresenta quella parte di variabilità del prezzo di ciascun titolo che dipende dalle fluttuazioni del mercato e che può essere eliminato per il tramite della diversificazione. ",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "dipende dalle caratteristiche peculiari dell'emittente e non può essere diminuito sostanzialmente attraverso la suddivisione del proprio investimento tra titoli emessi da emittenti diversi (diversificazione del portafoglio).",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "5",
+            "obiettivo": "1.1.5.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "Il rischio specifico: ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG11"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "alle conoscenze ed esperienze del cliente o potenziale cliente in materia di investimenti riguardo al tipo specifico di prodotto o servizio; alla sua situazione finanziaria, tra cui la capacità di tale persona di sostenere perdite e ai suoi obiettivi di investimento, inclusa la sua tolleranza al rischio.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "alle conoscenze ed esperienze del cliente o potenziale cliente in materia di investimenti riguardo al tipo specifico di prodotto o servizio.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "alla situazione finanziaria del cliente o potenziale cliente, tra cui la capacità di tale persona di sostenere perdite.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "agli obiettivi di investimento del cliente o potenziale cliente, inclusa la sua tolleranza al rischio.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "6",
+            "obiettivo": "1.1.7.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "L'art. 25, par. 2, della MiFID 2 prevede che, quando effettua consulenza in materia di investimenti o gestione di portafoglio, l'intermediario debba ottenere le informazioni necessarie in merito:",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG12"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario deve determinare, tenuto conto della natura e della portata del servizio fornito, se la specifica operazione da realizzare nel quadro della prestazione del servizio di gestione del portafoglio è di natura tale per cui il cliente possiede le necessarie esperienze e conoscenze per comprendere i rischi inerenti all'operazione o alla gestione del suo portafoglio.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario pone all'attenzione del cliente la probabilità che gli strumenti inseriti nel portafoglio gestito comportino per il cliente la necessità di chiedere una revisione periodica delle relative disposizioni.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario può legittimamente presumere che, per quanto riguarda i prodotti, le operazioni e i servizi per i quali è classificato nella categoria dei clienti professionali, tale cliente abbia il livello necessario di esperienze e di conoscenze tale per comprendere i rischi inerenti alla gestione del suo portafoglio.</div>",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario deve assicurarsi che gli strumenti per la valutazione delle conoscenze ed esperienze del cliente, impiegati nel processo di valutazione dell'idoneità, rispondano allo scopo prefisso e siano correttamente concepiti per l'utilizzo con i clienti.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "9",
+            "obiettivo": "1.1.6.1",
+            "titoloUD": "Fattori di rischio degli investimenti e diversificazione del portafoglio",
+            "testo": "Secondo l'art. 54 del regolamento (UE) 2017/565, quando presta un servizio di investimento ad un cliente professionale:",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG13"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "dipende dalle caratteristiche peculiari dell'emittente e non può essere diminuito sostanzialmente attraverso la suddivisione del proprio investimento tra titoli emessi da emittenti diversi (diversificazione del portafoglio).",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è il rischio di non riuscire a disinvestire rapidamente il titolo acquistato, qualora se ne presenti la necessità, ovvero di farlo perdendo molto rispetto alla somma investita. ",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è il rischio inerente alle operazioni eseguite fuori da mercati organizzati (over the counter, OTC). ",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "è il rischio di subire perdite a causa delle variazioni dei prezzi o dell'andamento generale del mercato.",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "10",
+            "obiettivo": "1.2.6.1",
+            "titoloUD": "Fattori di rischio degli investimenti  e diversificazione del portafoglio",
+            "testo": "Il rischio di mercato: ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG14"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "Sì, a meno che non sia al corrente, o in condizione di esserlo, che esse sono manifestamente superate, inesatte o incomplete.",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "Sì, in ogni caso.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "No, deve sempre controllare la veridicità delle dichiarazioni del cliente.",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "No, a meno che non sia al corrente, o in condizione di esserlo, che esse sono manifestamente superate, inesatte o incomplete.",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "12",
+            "obiettivo": "1.2.11.1",
+            "titoloUD": "Fattori di rischio degli investimenti  e diversificazione del portafoglio",
+            "testo": "L'intermediario può legittimamente fare affidamento sulle informazioni fornite dai clienti o potenziali clienti? ",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG15"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>Sì, tuttavia, anche in tali situazioni, il cliente dovrebbe almeno comprendere i rischi complessivi del portafoglio e possedere una comprensione generale dei rischi connessi a ogni tipo di strumento finanziario che può essere incluso nel portafoglio. Gli intermediari dovrebbero acquisire una comprensione e una conoscenza molto chiara del profilo di investimento del cliente.</div>",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>Sì.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>No.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>No, poiché, anche in tali situazioni, il cliente dovrebbe comprendere i rischi complessivi del portafoglio e possedere una comprensione generale dei rischi connessi a ogni tipo di strumento finanziario che può essere incluso nel portafoglio. Gli intermediari dovrebbero acquisire una comprensione e una conoscenza molto chiara del profilo di investimento del cliente.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "13",
+            "obiettivo": "1.2.13.1",
+            "titoloUD": "Fattori di rischio degli investimenti  e diversificazione del portafoglio",
+            "testo": "<div class='domanda5'>In base all’Orientamento generale 4, par. 35 dell’ESMA su alcuni aspetti dei requisiti di adeguatezza prescritti dalla MiFID1, nell'ipotesi di servizi di gestione di portafogli, poiché le decisioni in materia di investimenti sono adottate dall’intermediario per conto del cliente, il livello di conoscenza ed esperienza del cliente per quanto riguarda tutti gli strumenti finanziari che possono comporre il portafoglio può essere meno dettagliato del livello che il cliente dovrebbe avere in caso di servizi di consulenza in materia di investimenti?</div>",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG16"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la relazione periodica sul servizio prestato dovrà contenere una dichiarazione aggiornata che spieghi perché l’investimento corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente.</div>",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la relazione periodica sul servizio prestato dovrà contenere un diagramma che illustri l'andamento della gestione stessa.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la relazione periodica sul servizio prestato dovrà contenere una dichiarazione aggiornata che spieghi lo scenario in cui si collocano le scelte di gestione.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>se un’impresa di investimento (un intermediario) offre la gestione di portafoglio, la dichiarazione periodica sul servizio prestato dovrà contenere una relazione aggiornata che spieghi perché l’investimento non corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del cliente.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "14",
+            "obiettivo": "1.2.15.1",
+            "titoloUD": "Fattori di rischio degli investimenti  e diversificazione del portafoglio",
+            "testo": "Riguardo alla valutazione di adeguatezza, l'articolo 25, par. 6, della MiFID 2 prevede che:",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG17"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>L'intermediario presume che le conoscenze ed esperienze siano quelle del rappresentante della persona fisica o della persona autorizzata a effettuare operazioni per conto del cliente sottostante.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario elabora e applica una politica atta a definire quale soggetto debba essere interessato dalla valutazione dell'idoneità e come tale valutazione sia condotta nella pratica.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario elabora e applica una politica atta a definire una politica di valutazione dell'idoneità per tutti i soggetti interessati e come tale valutazione sia condotta nella pratica, specificando tra l'altro presso quale soggetto dovrebbero essere raccolte le informazioni relative a conoscenze ed esperienza, situazione finanziaria e obiettivi di investimento. L'intermediario registra tale politica.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>l'intermediario elabora e applica una politica atta a definire quale soggetto debba essere interessato dalla valutazione dell'idoneità e come tale valutazione sia condotta nella pratica, specificando tra l'altro presso quale soggetto dovrebbero essere raccolte le informazioni relative a conoscenze ed esperienza, situazione finanziaria e obiettivi di investimento. L'intermediario registra tale politica.</div>",
+                        "resatta": true,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "15",
+            "obiettivo": "1.2.16.1",
+            "titoloUD": "Valutazione dell'adeguatezza",
+            "testo": "<div class='domanda5'>Quando un cliente è una persona giuridica o un gruppo composto da due o più persone fisiche oppure quando una o più persone fisiche sono rappresentate da un'altra persona fisica:</div>",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG18"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>I tipi di servizi, operazioni e strumenti finanziari con i quali il cliente ha dimestichezza; la natura, il volume e la frequenza delle operazioni su strumenti finanziari realizzate dal cliente e il periodo durante il quale sono state eseguite.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>Il livello di istruzione e la professione o, se pertinente, l'ex professione del cliente o del potenziale cliente.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>I tipi di servizi, operazioni e strumenti finanziari con i quali il cliente ha dimestichezza;la natura, il volume e la frequenza delle operazioni su strumenti finanziari realizzate dal cliente e il periodo durante il quale sono state eseguite; il livello di istruzione e la professione o, se pertinente, l'ex professione del cliente o del potenziale cliente.</div>",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>I tipi di servizi, operazioni e strumenti finanziari con i quali il cliente ha dimestichezza;  il livello di istruzione e la professione o, se pertinente, l'ex professione del cliente o del potenziale cliente.</div>",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "16",
+            "obiettivo": "1.2.17.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "<div class='domanda5'>Secondo l'art. 55 del regolamento (UE) 2017/565,  quali sono gli elementi che l’intermediario deve assicurare che siano inclusi nelle informazioni riguardanti le conoscenze e le esperienze del cliente o potenziale cliente nel settore degli investimenti, nella misura in cui siano appropriati vista la natura del cliente, la natura e la consistenza del servizio da fornire e il tipo di prodotto od operazione previsti, tra cui la complessità e i rischi connessi?:</div>",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG19"
+        },
+        {
+            "titolo": "",
+            "tipologia": "test",
+            "percorso": "pagine/paginatest.html",
+            "visto": 0,
+            "media": "",
+            "parentWeight": "10",
+            "navigazione": "auto",
+            "durata": "testEnd",
+            "impostaVista": "fine",
+            "domande": {
+                "risposte": [
+                    {
+                        "testo": "<div class='risposta5'>stabilire politiche e procedure allo scopo di garantire la costante considerazione di tutte le informazioni disponibili sul cliente, necessarie per valutare l’adeguatezza di un investimento, compreso il portafoglio di investimenti corrente del cliente (e la ripartizione delle attività all’interno di tale portafoglio).</div>",
+                        "resatta": true,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>tenere in costante considerazione l'investimento del cliente, compreso il portafoglio di investimento corrente del cliente (e la ripartizione delle attività all’interno di tale portafoglio).</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>fornire le informazioni disponibili al cliente, necessarie per valutare l’adeguatezza di un investimento, compreso il portafoglio di investimenti corrente del cliente (e la ripartizione delle attività all’interno di tale portafoglio).</div>",
+                        "resatta": false,
+                        "rdata": false
+                    },
+                    {
+                        "testo": "<div class='risposta5'>analizzare costantemente il portafoglio di investimenti corrente del cliente (e la ripartizione delle attività all’interno di tale portafoglio).</div>",
+                        "resatta": false,
+                        "rdata": false
+                    }
+                ],
+                "feedbackPos": "",
+                "feedbackNeg": ""
+            },
+            "ordine": "17",
+            "obiettivo": "1.2.18.1",
+            "titoloUD": "Principi fondamentali della gestione di portafoglio",
+            "testo": "Secondo l'Orientamento generale 8, al fine di proporre ai clienti investimenti adeguati, le imprese dovrebbero:",
+            "idkey": "0019_20_01_MOD2_LEZ1_PAG20"
+        }
+    ],
+    "idkey": "0019_20_01_MOD2_LEZ1"
+}

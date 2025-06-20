@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"La politica che definisce il prodotto finanziario in riferimento al target.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il potere delle autorità di vigilanza nel vietare o limitare strumenti e depositi.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il monitoraggio dei dati per una maggiore trasparenza nelle negoziazioni.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"La trasparenza dei costi dei prodotti di investimento.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La product intervention è il potere delle autorità di vigilanza del settore finanziario di vietare o limitare la distribuzione di strumenti finanziari e depositi strutturati che potrebbero minare la protezione degli investitori e l’integrità del sistema nel suo complesso.",
+    "feedbackNeg": "<b>Non è esatto!</b> La product intervention è il potere delle autorità di vigilanza del settore finanziario di vietare o limitare la distribuzione di strumenti finanziari e depositi strutturati che potrebbero minare la protezione degli investitori e l’integrità del sistema nel suo complesso."
+}

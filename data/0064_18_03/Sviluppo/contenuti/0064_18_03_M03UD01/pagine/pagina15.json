@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Fase del ciclo economico",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Qualità del management",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tasso di inflazione",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Tassi di interesse e di cambio",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La qualità del management rientra tra i rischi specifici dell’emittente e non è una variabile del rischio sistematico.",
+    "feedbackNeg": "<b>Non è esatto!</b> La qualità del management rientra tra i rischi specifici dell’emittente e non è una variabile del rischio sistematico."
+}

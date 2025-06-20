@@ -1,0 +1,55 @@
+<div style="width:100%; height: 100%;" class="ng-scope">
+	<div id="contenitore1" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore1')" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;">
+		<div id="sfd_img" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('sfd_img')" style="position: absolute; top: 0px; left: 0px;">
+			<img src="contenuti/img/sfondo1.png">
+		</div>
+		<div id="img1" class="bigEntrance" animated="" datastart="0" ng-show="getIsVisible('img1')" style="position: absolute; top: 0px; left: 664px;">
+			<img src="contenuti/0064_18_01_M03UD02/img/p09.png">
+		</div>
+	</div>
+	
+	<div id="contenitore2" class="pullDown" animated="" datastart="0" dataend="1000" ng-show="getIsVisible('contenitore2')" style="position: absolute; top: 20px; left: 20px; width: 610px;">
+		<div style="position: absolute;top: 0px;left: 0px;width: 500px;font-size: 20px;color: #006699;font-weight: bold;">
+			<div id="cont2_txt1" animated="" datastart="0" ng-show="getIsVisible('cont2_txt1')" class="slideRight" style="">Una complicazione...</div>
+		</div>
+		<div id="cont2_img1" class="bigEntrance" animated="" datastart="1.5" ng-show="getIsVisible('cont2_img1')" style="position: absolute;top: 60px;left: 0px;">
+			<img src="contenuti/0064_18_01_M03UD02/img/png/011-settings.png">
+		</div>
+		<div id="cont2_img2" class="bigEntrance" animated="" datastart="6.5" ng-show="getIsVisible('cont2_img2')" style="position: absolute;top: 60px;left: 170px;">
+			<img src="contenuti/0064_18_01_M03UD02/img/png/phoneupdate.png">
+		</div>
+	</div>
+	
+	<div id="contenitore3" class="pullDown" animated="" datastart="16.5" dataend="1000" ng-show="getIsVisible('contenitore3')" style="position: absolute; top: 330px; left: 20px; width: 610px;">
+		<div id="cont3_img1" class="bigEntrance" animated="" datastart="16.5" ng-show="getIsVisible('cont3_img1')" style="position: absolute; top: 0px; left: 0px; text-align: center;">	
+			<img src="contenuti/img/box1.png">
+			<div id="cont3_img1" animated="" datastart="16.5" ng-show="getIsVisible('cont3_img1')" class="slideRight" style="position: inherit;top: 75px;left: 17px;width: 160px;font-size: 16px;font-weight:bold;">Due possibili scelte:</div>
+		</div>
+		<div id="cont3_img2" class="bigEntrance" animated="" datastart="19.5" ng-show="getIsVisible('cont3_img2')" style="position: absolute; top: 35px; left: 280px;">
+			<div id="cont3_boxBlu" animated="" datastart="19.5" ng-show="getIsVisible('cont3_boxBlu')" class="slideRight" style="position: inherit;top: 3px;left: 3px;width: 340px;height: 120px;background-color: rgb(0, 102, 153);"></div>
+			<div id="cont3_boxGiallo" animated="" datastart="19.5" ng-show="getIsVisible('cont3_boxGiallo')" class="slideRight" style="position: inherit;top: 0px;left: 0px;width: 340px;height: 120px;background-color: rgb(255, 222, 57);"></div>
+			<div style="position: absolute;top: 15px;left: 0px;font-size: 16px;width: 330px;" class="">
+				<ul style="list-style-image: url(images/pelenco2.png);">
+					<li class="slideLeft" id="cont3_pe1" animated="" datastart="19.5" dataend="1000" ng-show="getIsVisible('cont3_pe1')" style="">sostituire il vecchio dispositivo con un nuovo device;</li>
+					<li class="slideLeft" id="cont3_pe2" animated="" datastart="27" dataend="1000" ng-show="getIsVisible('cont3_pe2')" style="">utilizzare i vecchi dispositivi senza gli aggiornamenti sulla sicurezza.</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="bloccoImgPopup1" class="pulse" animated="" ng-show="mediaEnded" style="position: absolute;left: 420px;top: 20px;">
+		 <a ng-class="{'visitato': approfondimentiObbligatori[0]}" class="linkPagina" href="" ng-click="openBoxAppro(800,400,'0064_18_01_m03ud02p09','Anche i computer invecchiano',1,36)" a-disabled="approfondimentiObbligatori.length === 0"><img ng-src="{{approfondimentiObbligatori[0]?'contenuti/img/popup_visitato.png':'contenuti/img/popup.png'}}"></a>
+	</div>
+	<div class="istruzionePopup" style="position: absolute;left: 0px;width: 665px;">
+		<div id="bloccoIstruzionePopup" animated="" ng-show="mediaEnded" class="slideDown" style="margin-top: 5px;">Fai clic sull'info point per approfondire l’argomento</div>
+    </div>
+</div>
+<aside>
+    <audio audiosource="contenuti/0064_18_01_M03UD02/audio/0064_18_01_m03ud02p09" condiviso="true">
+    </audio>
+</aside>
+<script type="text/ng-template" id="0064_18_01_m03ud02p09">
+  <div style="color:#FFF;">
+    <p>Per proteggersi in maniera efficace dalla continue minacce presenti in rete è fondamentale che gli utenti aggiornino non solo i sistemi operativi e le app sui propri smartphone, ma facciano lo stesso anche sui loro dispositivi fissi e sui laptop, in modo che questi possano continuare a funzionare in completa sicurezza. Anche i computer, infatti, invecchiano.</p>
+  </div>
+</script>

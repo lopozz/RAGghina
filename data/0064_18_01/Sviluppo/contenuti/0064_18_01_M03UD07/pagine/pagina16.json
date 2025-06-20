@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Portare a casa il pc aziendale.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Verificare che non ci siano accessi contemporanei.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Accertarsi che la rete sia aperta.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Portare il proprio dispositivo.",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La pratica Bring Your Own Device [“porta il tuo dispositivo”], permette di utilizzare in sicurezza i propri dispositivi personali anche per attività lavorative.",
+    "feedbackNeg": "<b>Non è esatto!</b> La pratica Bring Your Own Device [“porta il tuo dispositivo”], permette di utilizzare in sicurezza i propri dispositivi personali anche per attività lavorative."
+}

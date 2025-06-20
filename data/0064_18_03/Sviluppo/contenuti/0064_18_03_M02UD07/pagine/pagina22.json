@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Medio",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Alto",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"Basso",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Nullo",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Il caso di investimenti di breve durata in obbligazioni di emittenti con rating bassi è tipico degli investimenti ad alto rischio, e pertanto il rendimento è alto.",
+    "feedbackNeg": "<b>Non è esatto!</b> Il caso di investimenti di breve durata in obbligazioni di emittenti con rating bassi è tipico degli investimenti ad alto rischio, e pertanto il rendimento è alto."
+}

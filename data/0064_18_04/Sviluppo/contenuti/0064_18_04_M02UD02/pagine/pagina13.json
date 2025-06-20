@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"La comprensione che si ha dei rischi associati a singoli prodotti  di investimento.",
+            "resatta":"true",
+            "rdata":"false"
+        },
+        {
+            "testo":"La spiegazione che il consulente fornisce circa i rischi degli investimenti.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Il set di conoscenze finanziarie di base assicurate nell’ultimo biennio delle scuole dell’obbligo in USA.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Nessuna delle precedenti.",
+            "resatta":"false",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> La cosiddetta risk literacy è definita come familiarità con specifici prodotti finanziari e capacità di valutarne la rischiosità.",
+    "feedbackNeg": "<b>Non è esatto!</b> La cosiddetta risk literacy è definita come familiarità con specifici prodotti finanziari e capacità di valutarne la rischiosità."
+}

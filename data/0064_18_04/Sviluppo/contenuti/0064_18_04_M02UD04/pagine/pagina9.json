@@ -1,0 +1,26 @@
+{
+    "risposte":[
+        {
+            "testo":"Disoccupati.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Lavoratori manuali.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Impiegati.",
+            "resatta":"false",
+            "rdata":"false"
+        },
+        {
+            "testo":"Dirigenti e imprenditori.",
+            "resatta":"true",
+            "rdata":"false"
+        }
+    ],
+    "feedbackPos": "<b>Esatto!</b> Sono proprio quelle meglio retribuite ad aver coperto il rischio di inabilità nella vita anziana (dal 27% degli imprenditori e 34 % dei dirigenti si scende subito allʼ8% degli impiegati, per finire al 3% dei lavoratori manuali).",
+    "feedbackNeg": "<b>Non รจ esatto!</b> Sono proprio quelle meglio retribuite ad aver coperto il rischio di inabilità nella vita anziana (dal 27% degli imprenditori e 34 % dei dirigenti si scende subito allʼ8% degli impiegati, per finire al 3% dei lavoratori manuali)."
+}
