@@ -12,13 +12,13 @@ from src.utils import create_retrieval_context_section
 from src.chat_defaults import HISTORY
 
 MODEL = 'google/gemma-3-1b-it'
-TEST_TYPE = 'simple_q'
+TEST_TYPE = 'noisy_q'
 
 with open(f"benchmark/data/{TEST_TYPE}.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Initialize vLLM
-llm = LLM(model=MODEL, dtype="auto", gpu_memory_utilization=0.6)
+llm = LLM(model=MODEL, dtype="auto", gpu_memory_utilization=0.9)
 
 # Set your generation parameters
 sampling_params = SamplingParams(
@@ -35,10 +35,10 @@ for turn in HISTORY:
     })
     messages.append({
         "role": "assistant",
-        "content": turn["answer"]
+        "content": turn["response"]
     })
 
-for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]), total=len(data["question"]), desc="Generating answers"):
+for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]+data["nonrelevant_contexts"]), total=len(data["question"]), desc="Generating answers"):
 
     messages = [
         {"role": "system", "content": SYS_PROMPT},
@@ -54,7 +54,7 @@ for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]),
     answer = response[0].outputs[0].text.strip()
     generated_answers.append(answer)
 
-data["answer"] = generated_answers
+data["response"] = generated_answers
 
 result_file = MODEL.split("/")[-1]
 with open(f"benchmark/results/{TEST_TYPE}_{result_file}.json", "w", encoding="utf-8") as f:

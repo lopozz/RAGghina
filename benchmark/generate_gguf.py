@@ -30,7 +30,7 @@ messages = [{"role": "system", "content": SYS_PROMPT}]
 for turn in HISTORY:
     messages.append({
         "role": "user",
-        "content": f"{create_retrieval_context_section(turn['context'])}\n\n{turn['user']}"
+        "content": f"{create_retrieval_context_section(turn['retrieved_contexts'])}\n\n{turn['question']}"
     })
     messages.append({
         "role": "assistant",
@@ -38,7 +38,7 @@ for turn in HISTORY:
     })
 
 
-for question, context in tqdm(zip(data["question"], data["context"]), total=len(data["question"]), desc="Generating answers"):
+for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]), total=len(data["question"]), desc="Generating answers"):
     
     messages.append({
         "role": "user",
