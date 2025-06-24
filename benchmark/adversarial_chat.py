@@ -52,4 +52,9 @@ def respond(message, history):
 chat = gr.ChatInterface(fn=respond, examples=["Marconi iniziò prima di Tesla a sperimentare con la radio"])
 
 if __name__ == "__main__":
-    chat.launch()
+    chat.launch(
+        share=True,
+        server_name="0.0.0.0",
+        server_port=7860,
+        auth=("pco","pco"),           # ← add a simple login if you like
+    )
