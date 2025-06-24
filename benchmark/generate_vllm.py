@@ -12,7 +12,7 @@ from src.utils import create_retrieval_context_section
 from src.chat_defaults import HISTORY
 
 MODEL = 'google/gemma-3-1b-it'
-TEST_TYPE = 'noisy_q'
+TEST_TYPE = 'simple_q'
 
 with open(f"benchmark/data/{TEST_TYPE}.json", "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -38,11 +38,11 @@ for turn in HISTORY:
         "content": turn["response"]
     })
 
-for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]+data["nonrelevant_contexts"]), total=len(data["question"]), desc="Generating answers"):
+for question, context in tqdm(zip(data["question"], data["retrieved_contexts"]), total=len(data["question"]), desc="Generating answers"):
 
     messages = [
         {"role": "system", "content": SYS_PROMPT},
-        {"role": "user", "content": f"{create_retrieval_context_section(context)}\n\n{question}"}
+        {"role": "user", "content": f"{create_retrieval_context_section(context)}\n\nGenera una risposta di almeno 8 frasi. {question}"}
     ]
 
     response = llm.chat(
